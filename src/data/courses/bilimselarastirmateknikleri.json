@@ -6087,6 +6087,142 @@
   },
   {
     "id": 180,
+    "questionText": "Bilimsel Araştırma Teknikleri 2024-2025 Final Sınavı Çıkan Sorular 1. Aşağıdakilerden hangisi örnek büyüklüğünü etkileyen faktörler arasında yer almaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sorular arası bağımsızlık oranı",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Hedef kitlenin homojenliği veya değişkenliği",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Araştırmanın türü",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Cevap verme oranları",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Değişken sayısı",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Sorular arası bağımsızlık oranı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 181,
+    "questionText": "Bilimsel Araştırma Teknikleri: İçgörüler ve Uygulamalar Bilimsel araştırmalar, insan bilgisinin sınırlarını genişleten, sürekli bir keşif ve öğrenme sürecidir. Bu makalede, sorularınıza dayanarak bilimsel araştırma teknikleri üzerine bir değerlendirme yapacağım. Bilimsel araştırma, merak edilen bir soruya sistematik ve objektif bir yaklaşımla cevap arama sürecidir. Bu süreç, bir hipotezin oluşturulmasından başlayarak, veri toplama, analiz etme ve sonuçları değerlendirme aşamalarını içerir. Her adım, araştırmanın bütünlüğü ve güvenilirliği için kritik öneme sahiptir. Öncelikle, araştırmanın temel taşı olan yöntem bölümüne bakalım. Yöntem bölümü, araştırmanın nasıl yapıldığını açıklar ve araştırma sorularına nasıl cevap bulunacağını detaylandırır. Etkili bir yöntem bölümü, araştırmanın tekrarlanabilirliği ve geçerliliği için esastır. Bir sonraki konu, araştırma konusunun seçimidir. İyi bir araştırma konusu, alana katkı sağlamalı, araştırmacının ilgi ve yetkinlik alanıyla örtüşmeli, uygulamalı ve kuramsal anlamda önemli olmalıdır. Ancak, her araştırma deneye dayanmak zorunda değildir; bu, araştırmanın doğasına bağlıdır. E-posta anketleri gibi modern veri toplama yöntemleri, bilimsel araştırmalarda giderek daha fazla kullanılmaktadır. Bu yöntemler hızlı, düşük maliyetli ve geniş bir kitleye ulaşma imkanı sunar. Ancak, herkesin e-posta erişimi olmayabileceği gibi, bazı yanıtlar da çevrimiçi ortamın sınırlılıkları nedeniyle eksik veya yanıltıcı olabilir. Ölçeklerin oluşturulması ve kullanılması da önemlidir. Ölçekler, verilerin toplanması ve analiz edilmesi sürecinde kritik bir role sahiptir. Ölçeklerin dengeli, açık ve anlaşılır olması gerekir; ancak, sık sık değişim göstermeleri genellikle önerilmez. Bilimsel araştırmalarda paradigma, bir araştırma alanındaki teorik çerçeveleri ve metodolojileri ifade eder. Paradigmalar, bilim dünyasında yeni bulguların ışığında sürekli gelişim ve değişim gösterir. Bir paradigmanın diğerine üstünlüğü, genellikle subjektif değerlendirmelere dayanır ve objektif kıstaslar sınırlıdır. Anlık (cross-sectional) araştırmalar, belirli bir zamandaki durumu anlamak için kullanılır. Bu tür araştırmalar, uzun süreli trendleri ve değişimleri anlamak için kullanılan dönemsel (longitudinal) çalışmalardan farklıdır. Gözlemsel araştırmalarda katılımlı ve katılımsız gözlem gibi farklı teknikler kullanılır. Katılımlı gözlemde araştırmacı, gözlemlediği grupla etkileşime girerken, katılımsız gözlemde araştırmacı sadece bir gözleyici rolünde bulunur. Kuram oluşturma sürecinde tutarlılık, hipotez içerme ve yasaları içerme önemlidir. Ancak, araştırmacının kendi pratik bilgisini uygulaması, kuram tanımına doğrudan dahil edilmez. Veri analizi, araştırmada elde edilen bulguların anlamlandırılmasında önemli bir adımdır. Tablolar ve grafikler, verileri sınıflandırmak ve anlamlandırmak için yaygın olarak kullanılır. Ölçeklerin gücü, sözde ölçekten oranlı ölçeğe geçişle artar. Ölçekler, araştırma verilerinin doğruluğunu ve güvenilirliğini artırarak daha kesin sonuçlar elde edilmesini sağlar. Kaynak taraması, bir araştırmanın temelini oluşturur. Doğru kaynak taraması, araştırmacının konu hakkındaki mevcut bilgiyi genişletmesine ve araştırmasının kapsamını belirlemesine yardımcı olur. Örnekleme teknikleri, araştırmanın genelizlenebilirliği ve geçerliliği için hayati öneme sahiptir. Örnekleme çerçevesinin belirlenmesi, evrenin tanımlanması ve örnek büyüklüğünün belirlenmesi gibi adımlar, örnekleme sürecinin temel aşamalarıdır. Son olarak, araştırmanın yöntem bölümü, araştırmanın geçerlik ve güvenirlik süreçleri, kısıtlar, veri toplama ve analiz araçları gibi önemli bilgileri içermelidir. Ancak, veri analizleri sonucunda ulaşılan değerler genellikle sonuçlar bölümünde ele alınır. Bilimsel araştırma teknikleri, sürekli evrilen ve gelişen bir alandır. Araştırmacıların, metodoloji ve uygulamalarda güncel kalması, araştırmalarının değerini ve etkisini artırır. Bu süreçte, sürekli öğrenme ve gelişme, her bilim insanının temel görevidir. @lolonolo_com Bilimsel Araştırma Teknikleri 2023-2024 Final Soruları 1. Doğru özet yazımı dikkate alındığında ‘’Araştırma sorularına nasıl cevap bulunacak?’’ sorusuna hangi bölüm karşılık gelmektedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Analiz bölümü",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Değerlendirme ve sonuç bölümleri",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Yöntem bölümü",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Giriş ve kaynak incelemesi bölümleri",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Tarama bölümü",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Yöntem bölümü**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 182,
+    "questionText": "Bilimsel Araştırma Teknikleri 2023 Bütünleme Soruları 1. Aşağıdakilerden hangisi araştırma yönteminin seçiminde yanıt verilmesi gereken sorulardan biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Araştırmanın yapılacağı alan neresidir?",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Stratejiniz nedir?",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Hangi veri elde etme tekniği kullanılacaktır?",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Örneklem nasıl oluşturulmuştur?",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Yöntem gerekli mi?",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Yöntem gerekli mi?**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 183,
+    "questionText": "Auzef Bilimsel Araştırma Teknikleri 2023-2024 Bütünleme Soruları Bilimsel Araştırma Teknikleri üzerine hazırlanan bu makale, İstanbul Üniversitesi Açık ve Uzaktan Eğitim Fakültesi (Auzef) Çocuk Gelişimi Lisans ve Ön Lisans programlarında okuyan öğrencilere yönelik bir kaynak olarak tasarlanmıştır. Amaç, öğrencilerin bilimsel araştırmaları anlama ve uygulama becerilerini geliştirmek, böylelikle onları sınavlarda ve akademik çalışmalarında başarılı olmaya hazırlamaktır. Bilimsel Araştırma ve Örnekleme Bilimsel araştırmada örnekleme, araştırmanın güvenilirliği ve geçerliliği açısından kritik bir öneme sahiptir. Örnek büyüklüğünü etkileyen faktörler arasında alt grupların sayısı, olayın evrende görülme sıklığı, kararın önemi ve mali kaynak kısıtları bulunurken, soru-yanıt ilişkisi bu faktörler arasında yer almaz. Bilimsel Düşüncenin Özellikleri Bilimsel düşüncenin temel özellikleri arasında olaylara dayanma, yanılma olasılığının kabulü ve eleştiriye açık olma yer alır. Bu özellikler, bilimsel sürecin objektif, güvenilir ve tekrarlanabilir olmasını sağlar. Bilimsel Yaklaşımlar Thomas Kuhn’un paradigma teorisi, bilimsel faaliyetlerin nasıl ilerlediğini açıklar. Kuhn’a göre, bilimde paradigma değişiklikleri, bilimsel devrimlerin temelini oluşturur ve bu, normal bilimden radikal bir kopuş anlamına gelir. Araştırma Teknikleri ve Yazım Aşaması Araştırma sürecinin yazım aşamasında, belirlenen süre içinde bitirme, bilgisayar desteği almak ve dikkat dağıtıcı unsurlardan kaçınmak gibi unsurlar önemlidir. Bu aşama, araştırmanın net ve anlaşılır bir şekilde raporlanmasını sağlar. Mülakatlar ve Örnekleme Sorunları Mülakat, bilimsel araştırmalarda sıklıkla kullanılan bir yöntemdir ancak subjektiflik ve ön yargı gibi zayıf yönleri bulunur. Ayrıca, online araştırmalar ve büyük örnek kümeleri, örnekleme sorunlarına yol açabilir. Güvenilirlik ve Geçerlilik Bir araştırmanın güvenilirliği, ölçüm aracının tutarlı ve istikrarlı ölçme kabiliyeti ile ilgilidir. Güvenilirliği değerlendirmek için test-yeniden test, alternatif formlar ve içsel tutarlılık gibi yöntemler kullanılır. Araştırma Hataları ve Etik Bilimsel araştırmalarda yapılan yaygın hatalar arasında yanlış usavurum, muhakeme ve çıkarım, yanlış denek seçimi ve yetersiz mülakat ve gözlemler bulunur. Araştırmacılar, çalışmalarında nesnellik ve açık, basit ifadeler kullanmaya özen göstermelidir. Sonuç Bilimsel Araştırma Teknikleri, öğrencilerin eleştirel düşünme, problem çözme ve bilimsel bilgiyi uygulama yeteneklerini geliştirmelerine yardımcı olacak temel bir disiplindir. Bu makale, öğrencilere bilimsel araştırmanın temel prensip ve yöntemlerini anlamalarında destek olmayı amaçlamaktadır. lolonolo.com olarak, açıköğretim ve meslek sınavlarına hazırlanan öğrencilere yönelik kaynaklar sunmaya devam edeceğiz. @lolonolo_com Auzef Bilimsel Araştırma Teknikleri 2023-2024 Bütünleme Soruları 1. Aşağıdakilerden hangisi örnek büyüklüğünü etkileyen faktörlerden biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Örnekte yer alan alt grupların sayısı",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Soru-yanıt ilişkisi",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "İncelenen olayın evrende görülme sıklığı",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Kararın önem derecesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Mali kaynak kısıtları",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Soru-yanıt ilişkisi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 184,
     "questionText": "“….. yöntem konusunda karşılaşılan en önemli sorun hem eylemleri incelenen varlığın, hem de eylemleri inceleyenlerin insan olmasıdır. Bu da araştırmacının nesnelliği sorununu akla getirmektedir.” Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -6100,7 +6236,7 @@
     "explanation": "**Doğru Cevap: **\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 181,
+    "id": 185,
     "questionText": "Yukarıda bir araştırma sürecinin aşamaları karışık olarak verilmiştir. Bu süreçlerin doğru sıralaması aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -6134,7 +6270,7 @@
     "explanation": "**Doğru Cevap: III-I-IV-II-V-VI**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 182,
+    "id": 186,
     "questionText": "Yukarıda belirtilen ifadelerden hangisi/hangileri eleştirel kaynak incelemenin yararları arasında yer alır?",
     "imageUrl": null,
     "options": [

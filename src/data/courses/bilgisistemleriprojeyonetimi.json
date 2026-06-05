@@ -2106,5 +2106,39 @@
     ],
     "correctAnswer": "C",
     "explanation": "**Doğru Cevap: Satın alma planı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 63,
+    "questionText": "Bilgi Sistemleri Proje Yönetimi 2023 Final Soruları 1. Bilgi çağı yönetim akımı hangi tarihten sonra tam anlamıyla bir bilim şeklini almıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "1975",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "1930",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "1950",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "1945",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "1964",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: 1950**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   }
 ]

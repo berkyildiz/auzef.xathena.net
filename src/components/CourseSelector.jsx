@@ -4,24 +4,24 @@ import { BookOpen, ChevronRight } from 'lucide-react';
 const COURSES = [
   {
     id: 'benzetim',
-    title: 'Benzetim',
+    title: 'Benzetim (Simülasyon)',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 154,
-    color: '#6366f1' // Primary color
+    questionCount: 155,
+    color: '#3b82f6' // Blue color
   },
   {
     id: 'bilgisistemleriprojeyonetimi',
     title: 'Bilgi Sistemleri Proje Yönetimi',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 62,
-    color: '#10b981' // Success/Emerald color
+    questionCount: 63,
+    color: '#10b981' // Green color
   },
   {
     id: 'hukukuntemelkavramlari',
     title: 'Hukukun Temel Kavramları',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 130,
-    color: '#f59e0b' // Amber/Orange color
+    questionCount: 173,
+    color: '#8b5cf6' // Purple color
   },
   {
     id: 'veritabaniyonetimsistemleri',
@@ -41,7 +41,7 @@ const COURSES = [
     id: 'bilimselarastirmateknikleri',
     title: 'Bilimsel Araştırma Teknikleri',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 182,
+    questionCount: 186,
     color: '#0ea5e9' // Sky Blue color
   },
   {

@@ -91,6 +91,53 @@ def parse_file(filename, out_filename):
         if len(opts) > 0:
             questions.append({'q': q_text, 'img': img_url, 'opts': opts, 'correct': correct})
 
+    # FORMAT 5: Table-based questions (<tr><td>) with hidden NOT: explanations and images
+    for td in soup.find_all('td'):
+        # Only process if there's a Cevap text inside
+        td_text = td.get_text(separator='\n', strip=True)
+        if 'Cevap :' not in td_text and 'Cevap:' not in td_text:
+            continue
+            
+        correct = None
+        explanation = ""
+        # Find the node that has the answer
+        h_nodes = td.find_all(['h4', 'strong', 'p', 'span'])
+        for h in h_nodes:
+            h_text = h.get_text(separator=' ', strip=True)
+            match = re.search(r'Cevap\s*:\s*([A-E])', h_text, re.IGNORECASE)
+            if match:
+                correct = match.group(1).upper()
+                not_match = re.search(r'NOT\s*:(.*)', h_text, re.IGNORECASE | re.DOTALL)
+                if not_match:
+                    explanation = not_match.group(1).strip()
+                break
+                
+        if not correct:
+            continue
+            
+        img = td.find('img')
+        img_url = process_image(img['src'] if img else None)
+        
+        # Extract options and question text
+        # Usually it looks like: Q text ... \n A) ... \n B) ... \n Cevap : ...
+        # We split by Cevap to avoid parsing options from the explanation
+        td_text_split = re.split(r'Cevap\s*:', td_text, flags=re.IGNORECASE)[0]
+        
+        match_q = re.search(r'(?:^\d+[\.\)]\s*)?(.*?)\n\s*A\)\s*(.*?)\n\s*B\)\s*(.*?)\n\s*C\)\s*(.*?)\n\s*D\)\s*(.*?)(?:\n\s*E\)\s*(.*))?$', td_text_split, re.IGNORECASE | re.DOTALL)
+        
+        if match_q:
+            q_text = normalize(match_q.group(1))
+            opts = [
+                {'letter': 'A', 'text': normalize(match_q.group(2)), 'isCorrect': correct == 'A'},
+                {'letter': 'B', 'text': normalize(match_q.group(3)), 'isCorrect': correct == 'B'},
+                {'letter': 'C', 'text': normalize(match_q.group(4)), 'isCorrect': correct == 'C'},
+                {'letter': 'D', 'text': normalize(match_q.group(5)), 'isCorrect': correct == 'D'},
+            ]
+            if match_q.group(6):
+                opts.append({'letter': 'E', 'text': normalize(match_q.group(6)), 'isCorrect': correct == 'E'})
+            
+            questions.append({'q': q_text, 'img': img_url, 'opts': opts, 'correct': correct, 'explanation': explanation})
+
     # FORMAT 3: <h4> Question Text \n <p> A) ... </p> ...
     for h4 in soup.find_all('h4'):
         q_text = normalize(h4.get_text(separator='\n', strip=True))
@@ -189,7 +236,7 @@ def parse_file(filename, out_filename):
                 'imageUrl': q['img'],
                 'options': q['opts'],
                 'correctAnswer': q['correct'],
-                'explanation': f"Bu sorunun çözümü sistem tarafından analiz edilmektedir. Doğru cevap {q['correct']} şıkkıdır."
+                'explanation': q.get('explanation') or f"Bu sorunun çözümü sistem tarafından analiz edilmektedir. Doğru cevap {q['correct']} şıkkıdır."
             }
             final_questions.append(final_q)
         else:

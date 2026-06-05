@@ -13,6 +13,13 @@ def enhance_explanations(file_path):
         
         explanation = f"**Doğru Cevap: {correct_opt}**\n\n"
         
+        # Check if explanation already exists and is NOT the default system message
+        existing_expl = q.get('explanation', '')
+        if existing_expl and "sistem tarafından analiz edilmektedir" not in existing_expl:
+            # Format it nicely and skip AI enhancement
+            q['explanation'] = f"**Doğru Cevap: {correct_opt}**\n\n**Orijinal Çözüm/Not:**\n{existing_expl}"
+            continue
+            
         # Enhanced heuristic logic
         if "statik" in q_text and "dinamik" in q_text:
             explanation += "Statik sistemler zamanla durumları değişmeyen (örneğin Güneş Sistemi'nin yapısı), dinamik sistemler ise girdi ve çıktıları zamanla farklılaşan süreçler içeren (örneğin Sindirim Sistemi) sistemlerdir. Bu yüzden Güneş Sistemi - Sindirim Sistemi ikilisi statik-dinamik eşleşmesi için klasik bir örnektir."

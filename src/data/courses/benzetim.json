@@ -5135,6 +5135,98 @@
   },
   {
     "id": 152,
+    "questionText": "Müşteri No Varış Zamanı 1 2 2 4 3 5 4 7 5 9 6 12 Yukarıda verilen tabloya göre 4. müşteri sisteme kaçıncı dakikada gelmiştir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "11",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "18",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: 18**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 153,
+    "questionText": "Parametreleri α= 5 dk; β= 10 dk olan weibull dağılıma uyan rassal değişkenlerin ters dönüşüm formülü aşağıdakilerden hangisidir?",
+    "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2026/04/Benzetim-2023-2024-Final-Sorulari-15.-SORU-a-sikki.jpg?resize=369%2C44&ssl=1",
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "E)",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: **\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 154,
+    "questionText": "Bir diş kliniğinde hastaların tedavi görme süreçlerinin benzetim çalışması yapılmıştır. Gözlemler sonucu hastaların ortalama 20 dakika bekledikleri gözlemlenmiştir. Sistemin modeli 8 saatlik 10 bağımsız koşumda çalıştırılmıştır. Koşum çıktılarının hipotez testlerini gerçekleştirmek için gerekli örneklem ortalaması 23,75 ve standart sapması 3,41 olarak hesaplanmıştır. Bu koşumlarda elde edilen sonuçların yardımıyla modelin geçerliliğini değerlendirmek için hesaplanacak hipotez testi formülü aşağıdakilerden hangisidir?",
+    "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2026/04/Benzetim-2023-2024-Final-Sorulari-19.-SORU-a-sikki.jpg?resize=144%2C55&ssl=1",
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "E)",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: **\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 155,
     "questionText": "Bilgisayar üreten bir firma ürünlerinin dayanıklılık süresini değerlendirmek istemektedir. 100 tane rassal olarak seçilen bilgisayarın standart sapması 120 gün, ortalama dayanıklılık süreleri de 1440 gündür.",
     "imageUrl": null,
     "options": [
@@ -5166,73 +5258,5 @@
     ],
     "correctAnswer": "B",
     "explanation": "**Doğru Cevap: [1420.2-1459,8]**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 153,
-    "questionText": "Parametreleri α= 5 dk; β= 10 dk olan weibull dağılıma uyan rassal değişkenlerin ters dönüşüm formülü aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: **\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 154,
-    "questionText": "Bir diş kliniğinde hastaların tedavi görme süreçlerinin benzetim çalışması yapılmıştır. Gözlemler sonucu hastaların ortalama 20 dakika bekledikleri gözlemlenmiştir. Sistemin modeli 8 saatlik 10 bağımsız koşumda çalıştırılmıştır. Koşum çıktılarının hipotez testlerini gerçekleştirmek için gerekli örneklem ortalaması 23,75 ve standart sapması 3,41 olarak hesaplanmıştır. Bu koşumlarda elde edilen sonuçların yardımıyla modelin geçerliliğini değerlendirmek için hesaplanacak hipotez testi formülü aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: **\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   }
 ]
