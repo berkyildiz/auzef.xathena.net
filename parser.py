@@ -24,7 +24,7 @@ def parse_file(filename, out_filename):
     for b in soup.find_all('div', class_=re.compile(r'rounded-2xl.*bg-card')):
         q_p = b.find('p', class_=re.compile(r'whitespace-pre-wrap.*text-foreground'))
         if not q_p: continue
-        q_text = normalize(q_p.get_text(strip=True))
+        q_text = normalize(q_p.get_text(separator='\n', strip=True))
         
         img = b.find('img')
         img_url = process_image(img['src'] if img else None)
@@ -32,11 +32,15 @@ def parse_file(filename, out_filename):
         opts = []
         correct = None
         for od in b.find_all('div', class_=re.compile(r'rounded-xl border p-4')):
+            # Prevent leaking from unclosed parents
+            if od.find_parent('div', class_=re.compile(r'rounded-2xl.*bg-card')) != b:
+                continue
+                
             letter_span = od.find('span', class_=re.compile(r'flex h-10 w-10'))
             if not letter_span: continue
             letter = letter_span.get_text(strip=True)
             text_p = od.find('p', class_=re.compile(r'whitespace-pre-wrap'))
-            opt_text = text_p.get_text(strip=True) if text_p else ""
+            opt_text = text_p.get_text(separator='\n', strip=True) if text_p else ""
             is_correct = "Doğru cevap" in od.get_text()
             if is_correct: correct = letter
             opts.append({'letter': letter, 'text': opt_text, 'isCorrect': is_correct})
@@ -52,7 +56,7 @@ def parse_file(filename, out_filename):
         num_span = h3.find('span', class_='hdq_question_number')
         if num_span: num_span.extract()
         
-        q_text = normalize(h3.get_text(strip=True))
+        q_text = normalize(h3.get_text(separator='\n', strip=True))
         q_text = re.sub(r'^#\d+\.\s*', '', q_text)
         
         img = b.find('img')
@@ -61,10 +65,14 @@ def parse_file(filename, out_filename):
         opts = []
         correct = None
         for r in b.find_all('div', class_='hdq_row'):
+            # Extremely important: Prevent leaking due to unclosed HTML tags!
+            if r.find_parent('div', class_='hdq_question') != b:
+                continue
+                
             label = r.find('span', class_='hdq_aria_label')
             if not label: continue
-            opt_full = label.get_text(strip=True)
-            match = re.match(r'^([A-E])\)\s*(.*)', opt_full)
+            opt_full = label.get_text(separator='\n', strip=True)
+            match = re.match(r'^([A-E])\)\s*(.*)', opt_full, re.DOTALL)
             if match:
                 letter, text = match.groups()
             else:
@@ -73,14 +81,14 @@ def parse_file(filename, out_filename):
             
             is_correct = 'hdq_correct_not_selected' in r.get('class', []) or 'hdq_correct' in r.get('class', [])
             if is_correct: correct = letter
-            opts.append({'letter': letter, 'text': text, 'isCorrect': is_correct})
+            opts.append({'letter': letter, 'text': text.strip(), 'isCorrect': is_correct})
             
         if len(opts) > 0:
             questions.append({'q': q_text, 'img': img_url, 'opts': opts, 'correct': correct})
 
     # FORMAT 3: <h4> Question Text \n <p> A) ... </p> ...
     for h4 in soup.find_all('h4'):
-        q_text = normalize(h4.get_text(strip=True))
+        q_text = normalize(h4.get_text(separator='\n', strip=True))
         q_text = re.sub(r'^\d+[\.\-]\s*', '', q_text)
         
         img = h4.find('img')
@@ -101,7 +109,7 @@ def parse_file(filename, out_filename):
                 break
                 
             if node.name == 'p':
-                text = node.get_text(strip=True)
+                text = node.get_text(separator='\n', strip=True) # SEPARATOR IS VITAL
                 if text.startswith('Cevap :') or text.startswith('Cevap:'):
                     match = re.search(r'Cevap\s*:\s*([A-E])', text)
                     if match:
@@ -111,9 +119,10 @@ def parse_file(filename, out_filename):
                 lines = text.split('\n')
                 for line in lines:
                     line = line.strip()
+                    if not line: continue
                     match = re.match(r'^([A-E])\)\s*(.*)', line)
                     if match:
-                        opts.append({'letter': match.group(1), 'text': match.group(2), 'isCorrect': False})
+                        opts.append({'letter': match.group(1), 'text': match.group(2).strip(), 'isCorrect': False})
             
             node = node.find_next_sibling()
             
@@ -128,8 +137,8 @@ def parse_file(filename, out_filename):
     
     for i, q in enumerate(questions):
         norm = re.sub(r'\s+', '', q['q'].lower())
-        # Filter logic: must have correct answer, must have at least 2 options, must be unique
-        if norm not in seen and len(q['opts']) >= 2 and q['correct']:
+        # Filter logic: must have correct answer, exactly 5 options, must be unique
+        if norm not in seen and len(q['opts']) == 5 and q['correct']:
             seen.add(norm)
             
             # Map to final format
@@ -148,7 +157,7 @@ def parse_file(filename, out_filename):
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump(final_questions, f, ensure_ascii=False, indent=2)
         
-    print(f"Total unique complete questions parsed and saved to {out_filename}: {len(final_questions)}")
+    print(f"Total unique flawless questions parsed and saved to {out_filename}: {len(final_questions)}")
 
 if __name__ == '__main__':
     if len(sys.argv) != 3:

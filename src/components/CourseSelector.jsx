@@ -6,7 +6,7 @@ const COURSES = [
     id: 'benzetim',
     title: 'Benzetim',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 58,
+    questionCount: 64,
     color: '#6366f1' // Primary color
   },
   {

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "questionText": "Aşağıdakilerden hangisi Statik-Dinamik sistem ikilisine örnektir?",
-    "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1771688198385-j2orqv.png",
+    "imageUrl": null,
     "options": [
       {
         "letter": "A",
@@ -28,485 +28,10 @@
         "letter": "E",
         "text": "Güneş Sistemi - Sindirim Sistemi",
         "isCorrect": true
-      },
-      {
-        "letter": "A",
-        "text": "Correlogram",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Compare Variances",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Conf.Interval on Mean",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Compare Means",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "One-Way ANOVA",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "Constant-10-Minutes",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Constant-10-Hours",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Random-10 - Hours",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Random-10 - Minutes",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Expression-10-Minutes",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "TOTAL NUMBER SEIZED",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "INSTANTANEOUS UTILIZATION",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "NUMBER SCHEDULED",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "SCHEDULED UTILIZATION",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "NUMBER BUSY",
-        "isCorrect": true
-      },
-      {
-        "letter": "A",
-        "text": "Sonuçlarda bağımsızlık sağlar.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Tahmini ortalama değer daha doğrudur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Güven aralıkları daha kolay hesaplanabilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Isınma süresinin yalnızca bir kez çalıştırılması gerekir, bu da deneyleri çalıştırmak için gereken süreyi azaltır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Standart sapma değeri daha yaklaşık sonuçlar verir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "80 dk",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "30 dk",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "40 dk",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "20 dk",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "60 dk",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "20 dk",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "16 dk",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "6 dk",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "12 dk",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "9 dk",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "Geçici durum simülasyonu",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Kararlı simülasyon",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Sonlu ufuklu simülasyon",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Sonsuz ufuklu simülasyon",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Kararsız durum simülasyonu",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "b değeri asal sayı olmalıdır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "c değeri tek sayı olmalıdır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Eğer m 4'e bölünüyorsa c-1 de 4'e bölünebilmelidir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "m değeri asal sayı olmalıdır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "m değerinin tüm bölenlerine b-1 de bölünebilmelidir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "En iyi durum hatası ≤ ε'dur ancak en kötü durum hatası > ε'dur. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "En iyi durum hatası < s dur. Sistem ve model performansları arasındaki fark, en iyi durumda bile yeterince büyük olduğundan model iyileştirilmelidir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "En kötü durum hatası ≤ε 'dur, simülasyon modeli reddedilir ve yeni bir model kurulur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "En iyi durum veya en kötü durum hatası > ε 'dur. Bir sonuca varılımcaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "En kötü durum hatası ≤ε dur. Simülasyon modeli yeterince yakın ve geçerli kabul edilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "Seize Delay Release",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Seize Delay",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Random",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Delay",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Delay Release",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "EXTEND",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "AUTOMOD",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "ARENA",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "SIMUL8",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "PROMODEL",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "0.2620-0.3420",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "0.04-0.3020",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "0.04-0.3887",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "0.2353-0.3020",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "0.2356-0.3887",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "İstenen sonuçlar alındığında",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Sistemde belli bir miktarda varlık olduğunda",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "İstenmeyen sonuçlar alınmaya başlandığında",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Önceden belirlenmiş birkaç ardışık zaman artımından sonra",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "İlgilenilen istatistikler sabitlendiğinde",
-        "isCorrect": true
-      },
-      {
-        "letter": "A",
-        "text": "DISC(1,2)",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "TIP",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "%80",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "%20",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "TIP=1",
-        "isCorrect": true
-      },
-      {
-        "letter": "A",
-        "text": "AutoStat",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "SimRunner",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "OptQuest",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "PROCESS ANALYZER",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "OUTPUT ANALYZER",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "FIFO",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "LIFO",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "PR",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Highest Attribute Value (first)",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Lowest Attribute Value (first)",
-        "isCorrect": true
-      },
-      {
-        "letter": "A",
-        "text": "[1320-1560]",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "[1420.2-1459,8]",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "[1202,4-1667,6]",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "[1398,5-1481,5]",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "[1400-1471]",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "Normal",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Weibull",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Üçgen",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Negatif Binom",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Ampirik",
-        "isCorrect": false
-      },
-      {
-        "letter": "A",
-        "text": "STORE",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "HALT",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "ACCESS",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "UNSTORE",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "HOLD",
-        "isCorrect": false
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Havayolları - Karayolları**\n\nStatik sistemler zamanla durumları değişmeyen (örneğin Güneş Sistemi'nin yapısı), dinamik sistemler ise girdi ve çıktıları zamanla farklılaşan süreçler içeren (örneğin Sindirim Sistemi) sistemlerdir. Bu yüzden Güneş Sistemi - Sindirim Sistemi ikilisi statik-dinamik eşleşmesi için klasik bir örnektir."
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Güneş Sistemi - Sindirim Sistemi**\n\nStatik sistemler zamanla durumları değişmeyen (örneğin Güneş Sistemi'nin yapısı), dinamik sistemler ise girdi ve çıktıları zamanla farklılaşan süreçler içeren (örneğin Sindirim Sistemi) sistemlerdir. Bu yüzden Güneş Sistemi - Sindirim Sistemi ikilisi statik-dinamik eşleşmesi için klasik bir örnektir."
   },
   {
     "id": 2,
@@ -1224,7 +749,7 @@
   },
   {
     "id": 23,
-    "questionText": "RECORD modülündeki TYPE alanında, üretilecek olan istatistiklerin tipi belirlenir.Aşağıdakilerden hangisi modüle gelen varlıklar arasındaki zamanı kayıt altına alır?",
+    "questionText": "RECORD modülündeki TYPE alanında, üretilecek olan istatistiklerin tipi belirlenir. Aşağıdakilerden hangisi modüle gelen varlıklar arasındaki zamanı kayıt altına alır?",
     "imageUrl": null,
     "options": [
       {
@@ -1326,7 +851,7 @@
   },
   {
     "id": 26,
-    "questionText": "Bir bankaya gelen müşterilerin yüzde 20’si fatura yatırmaktadır ve yüzde 80’i para çekmektedir. Bu müşteri tipleri ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafindan gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir.Buna göre DECIDE modüle yazılacak koşul/condition aşağıdakilerden hangisidir?",
+    "questionText": "Bir bankaya gelen müşterilerin yüzde 20’si fatura yatırmaktadır ve yüzde 80’i para çekmektedir. Bu müşteri tipleri ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafindan gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir. Buna göre DECIDE modüle yazılacak koşul/condition aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
       {
@@ -1360,7 +885,7 @@
   },
   {
     "id": 27,
-    "questionText": "SIMAN dili iki sınıftan oluşmaktadır.Aşağıdakilerden hangisi SIMAN sınıflarından bloklara örnek değildir?",
+    "questionText": "SIMAN dili iki sınıftan oluşmaktadır. Aşağıdakilerden hangisi SIMAN sınıflarından bloklara örnek değildir?",
     "imageUrl": null,
     "options": [
       {
@@ -1394,7 +919,7 @@
   },
   {
     "id": 28,
-    "questionText": "I. Uygun dağılımı seçmekII. Veri değerlerini içeren bir metin dosyası oluşturmakIII. Oluşturulan dağılım ifadesini Arena modelinde uygun alana kopyalamakIV. Verilere bir veya daha fazla dağılım uygunluğu için deney yapmakINPUT ANALYZER kullanmak için gereken eylemlerin doğru sıralaması aşağıdakilerden hangisidir?",
+    "questionText": "I. Uygun dağılımı seçmek II. Veri değerlerini içeren bir metin dosyası oluşturmak III. Oluşturulan dağılım ifadesini Arena modelinde uygun alana kopyalamak IV. Verilere bir veya daha fazla dağılım uygunluğu için deney yapmak INPUT ANALYZER kullanmak için gereken eylemlerin doğru sıralaması aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
       {
@@ -1496,7 +1021,7 @@
   },
   {
     "id": 31,
-    "questionText": "Kolmogorov Smirnov testi ile verilerin normal dağılıma uyup uymadığı test edilmiş ve D=0,1408 < D₀.₀₅,₂₀ =0,272 sonucu elde edilmiştir.Buna göre aşağıdakilerden hangisine karar verilir?",
+    "questionText": "Kolmogorov Smirnov testi ile verilerin normal dağılıma uyup uymadığı test edilmiş ve D=0,1408 < D₀.₀₅,₂₀ =0,272 sonucu elde edilmiştir. Buna göre aşağıdakilerden hangisine karar verilir?",
     "imageUrl": null,
     "options": [
       {
@@ -2445,5 +1970,209 @@
     ],
     "correctAnswer": "C",
     "explanation": "**Doğru Cevap: H0 : E(Y) = 18dk**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 59,
+    "questionText": "Bilgisayar üreten bir firma ürünlerinin dayanıklılık süresini değerlendirmek istemektedir. 100 tane rassal olarak seçilen bilgisayarın standart sapması 120 gün, ortalama dayanıklılık süreleri de 1440 gündür.",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "[1320-1560]",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "[1420.2-1459,8]",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "[1202,4-1667,6]",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "[1398,5-1481,5]",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "[1400-1471]",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: [1420.2-1459,8]**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 60,
+    "questionText": "",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "20 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "16 dk",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "6 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "12 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "9 dk",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: 16 dk**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 61,
+    "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi, güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında müşterilerin kasa kuyruğunda bekleme süreleri güven aralığı [8.15-10.30] olarak belirlenmiştir. Gözlemlenen sistemin bekleme ortalamalarının 9.25 dakika olduğu bilinmektedir.",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "En iyi durum hatası ≤ ε’dur ancak en kötü durum hatası > ε’dur. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "En iyi durum hatası < s dur. Sistem ve model performansları arasındaki fark, en iyi durumda bile yeterince büyük olduğundan model iyileştirilmelidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "En kötü durum hatası ≤ε ‘dur, simülasyon modeli reddedilir ve yeni bir model kurulur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "En iyi durum veya en kötü durum hatası > ε ‘dur. Bir sonuca varılımcaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "En kötü durum hatası ≤ε dur. Simülasyon modeli yeterince yakın ve geçerli kabul edilir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: En iyi durum veya en kötü durum hatası > ε ‘dur. Bir sonuca varılımcaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.**\n\nModel geçerliliği testlerinde, eğer en iyi durum hatası veya en kötü durum hatası istenen epsilon (hata payı) değerinden büyükse, sistemin gerçek değeri ile modelin tahmini değeri arasında istatistiksel bir fark olup olmadığı anlaşılamaz. Bu durumda modelin iyileştirilmesi veya daha fazla simülasyon (replikasyon) çalıştırılması gerekir."
+  },
+  {
+    "id": 62,
+    "questionText": "Bir berbere gelen müşterilerin %20’si saç tıraşı ve %80’i sakal tıraşı olmaktadır. Bu müşteri tipleri ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafından gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir.",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "DISC(1,2)",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "TIP %20",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "%80",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "%20",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "TIP=1",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: TIP=1**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 63,
+    "questionText": "Parametreleri α= 5 dk; β= 10 dk olan weibull dağılıma uyan rassal değişkenlerin ters dönüşüm formülü aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: **\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 64,
+    "questionText": "Bir diş kliniğinde hastaların tedavi görme süreçlerinin benzetim çalışması yapılmıştır. Gözlemler sonucu hastaların ortalama 20 dakika bekledikleri gözlemlenmiştir. Sistemin modeli 8 saatlik 10 bağımsız koşumda çalıştırılmıştır. Koşum çıktılarının hipotez testlerini gerçekleştirmek için gerekli örneklem ortalaması 23,75 ve standart sapması 3,41 olarak hesaplanmıştır. Bu koşumlarda elde edilen sonuçların yardımıyla modelin geçerliliğini değerlendirmek için hesaplanacak hipotez testi formülü aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: **\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   }
 ]
