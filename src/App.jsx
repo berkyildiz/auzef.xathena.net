@@ -44,6 +44,28 @@ function App() {
           onBack={handleBackToTests} 
         />
       )}
+      
+      <footer style={{
+        marginTop: '4rem',
+        padding: '2rem',
+        textAlign: 'center',
+        borderTop: '1px solid var(--border-color)',
+        color: 'var(--text-secondary)',
+        fontSize: '0.9rem'
+      }}>
+        <p style={{ margin: '0 0 0.5rem 0' }}>
+          Developed with ❤️ by <strong>Berk Yıldız</strong>
+        </p>
+        <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem' }}>
+          <a href="https://berkyildiz.com.tr" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--primary-color)', textDecoration: 'none' }}>
+            berkyildiz.com.tr
+          </a>
+          <span>|</span>
+          <a href="https://xathena.net" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--primary-color)', textDecoration: 'none' }}>
+            xathena.net
+          </a>
+        </div>
+      </footer>
     </div>
   );
 }

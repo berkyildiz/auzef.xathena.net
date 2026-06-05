@@ -1,7 +1,9 @@
 {
-  "name": "quiz-app",
+  "name": "auzef-soru-cozum",
+  "description": "AUZEF öğrencileri için çıkmış soru çözüm ve deneme platformu",
+  "author": "Berk Yıldız",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
