@@ -3,7 +3,7 @@ import re
 from bs4 import BeautifulSoup
 import os
 
-def parse_file(filename):
+def parse_file(filename, out_filename):
     with open(filename, 'r', encoding='utf-8') as f:
         content = f.read()
         
@@ -179,11 +179,17 @@ def parse_file(filename):
             
         q['explanation'] = explanation
 
-    out_path = os.path.join('src', 'data', 'courses', 'benzetim.json')
+    out_path = os.path.join('src', 'data', 'courses', out_filename)
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump(questions, f, ensure_ascii=False, indent=2)
         
-    print(f"Total unique questions parsed and saved: {len(questions)}")
+    print(f"Total unique questions parsed and saved to {out_filename}: {len(questions)}")
 
-parse_file('benzetimtxt.txt')
+if __name__ == '__main__':
+    import sys
+    if len(sys.argv) != 3:
+        print("Usage: python parser.py <input_txt> <output_json_name>")
+    else:
+        parse_file(sys.argv[1], sys.argv[2])
+
