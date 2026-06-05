@@ -6,14 +6,14 @@ const COURSES = [
     id: 'benzetim',
     title: 'Benzetim',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 67,
+    questionCount: 58,
     color: '#6366f1' // Primary color
   },
   {
     id: 'bilgisistemleriprojeyonetimi',
     title: 'Bilgi Sistemleri Proje Yönetimi',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 90,
+    questionCount: 69,
     color: '#10b981' // Success/Emerald color
   }
 ];

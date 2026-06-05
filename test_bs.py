@@ -1,13 +1,13 @@
-import json
+import sys
 import re
 from bs4 import BeautifulSoup
-import os
-import sys
 
-def parse_file(filename, out_filename):
+sys.stdout.reconfigure(encoding='utf-8')
+
+def parse_hybrid(filename):
     with open(filename, 'r', encoding='utf-8') as f:
         html = f.read()
-        
+    
     soup = BeautifulSoup(html, 'html.parser')
     questions = []
     
@@ -98,6 +98,7 @@ def parse_file(filename, out_filename):
         node = h4.find_next_sibling()
         while node:
             if node.name in ['h4', 'h3', 'div']:
+                # Stop if we hit another question block or heading
                 break
                 
             if node.name == 'p':
@@ -106,7 +107,7 @@ def parse_file(filename, out_filename):
                     match = re.search(r'Cevap\s*:\s*([A-E])', text)
                     if match:
                         correct = match.group(1)
-                    break
+                    break # End of this question's options
                     
                 lines = text.split('\n')
                 for line in lines:
@@ -122,36 +123,25 @@ def parse_file(filename, out_filename):
                 if o['letter'] == correct: o['isCorrect'] = True
             questions.append({'q': q_text, 'img': img_url, 'opts': opts, 'correct': correct})
 
-    # Deduplication and mapping to final structure
+    # Deduplication
     seen = set()
-    final_questions = []
-    
-    for i, q in enumerate(questions):
+    dedup = []
+    for q in questions:
         norm = re.sub(r'\s+', '', q['q'].lower())
-        # Filter logic: must have correct answer, must have at least 2 options, must be unique
-        if norm not in seen and len(q['opts']) >= 2 and q['correct']:
+        if norm not in seen and len(q['opts']) > 0 and q['correct']:
             seen.add(norm)
+            dedup.append(q)
             
-            # Map to final format
-            final_q = {
-                'id': len(final_questions) + 1,
-                'questionText': q['q'],
-                'imageUrl': q['img'],
-                'options': q['opts'],
-                'correctAnswer': q['correct'],
-                'explanation': f"Bu sorunun çözümü sistem tarafından analiz edilmektedir. Doğru cevap {q['correct']} şıkkıdır."
-            }
-            final_questions.append(final_q)
+    print(f"File {filename}: Extracted {len(dedup)} complete & unique questions.")
+    
+    # Fix missing letters or options for robust UI
+    for q in dedup:
+        # ensure they have 5 options
+        if len(q['opts']) < 5:
+            # We don't care much, UI handles it, but let's log
+            print(f" WARNING: '{q['q'][:40]}...' has {len(q['opts'])} options")
             
-    out_path = os.path.join('src', 'data', 'courses', out_filename)
-    os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    with open(out_path, 'w', encoding='utf-8') as f:
-        json.dump(final_questions, f, ensure_ascii=False, indent=2)
-        
-    print(f"Total unique complete questions parsed and saved to {out_filename}: {len(final_questions)}")
+    return dedup
 
-if __name__ == '__main__':
-    if len(sys.argv) != 3:
-        print("Usage: python parser.py <input_txt> <output_json_name>")
-    else:
-        parse_file(sys.argv[1], sys.argv[2])
+parse_hybrid('benzetimtxt.txt')
+parse_hybrid('bilgisistemleriprojeyonetimi.txt')

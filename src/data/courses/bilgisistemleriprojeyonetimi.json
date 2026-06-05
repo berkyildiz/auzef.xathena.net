@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "questionText": "Yazılım projesi geliştirme aşamalarından biri olan ve öncelikle dikkat edilmesi gereken planlama aşaması ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -505,10 +506,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 1,
     "explanation": "**Doğru Cevap: Müşteri ve üst yönetimin gözden geçirilmesi.**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 2,
     "questionText": "“Seçilen satıcı en düşük sahip olma maliyetini sağlayacak mı? Yoksa başka sebeplerden dolayı mı bu satıcı seçildi?” gibi soruların cevabını veren seçim kriteri hangisidir?",
     "imageUrl": null,
     "options": [
@@ -539,10 +540,10 @@
       }
     ],
     "correctAnswer": "E",
-    "id": 2,
     "explanation": "**Doğru Cevap: Yaşam döngüsü maliyeti**\n\nYaşam döngüsü maliyeti, bir sistemin veya ürünün baştan sona (tasarım, üretim, işletim, bakım vb.) tüm ömrü boyunca ortaya çıkardığı maliyetleri kapsar. En düşük sahip olma maliyeti bu kavramla ölçülür."
   },
   {
+    "id": 3,
     "questionText": "Aşağıdakilerden hangisi proje yönetimi planının güncellenebilecek öğelerinden birisi değildir?",
     "imageUrl": null,
     "options": [
@@ -573,10 +574,10 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 3,
     "explanation": "**Doğru Cevap: Performans temel çizgisi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 4,
     "questionText": "Bilgi çağı yönetim akımı hangi tarihten sonra tam anlamıyla bir bilim şeklini almıştır?",
     "imageUrl": null,
     "options": [
@@ -607,10 +608,10 @@
       }
     ],
     "correctAnswer": "C",
-    "id": 4,
     "explanation": "**Doğru Cevap: 1950**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 5,
     "questionText": "Aşağıdakilerden hangisi bir yazılım projesinin iletişim yönetimi kısmında gerçekleşen ilerlemeyi, planlanan ilerleme ile karşılaştırmalı olarak değerlendirmeye olanak sağlayan tekniktir?",
     "imageUrl": null,
     "options": [
@@ -641,10 +642,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 5,
     "explanation": "**Doğru Cevap: Çalışma performans ölçümleri**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 6,
     "questionText": "Aşağıdakilerden hangisi projede risk yönetiminin nasıl yaptırılacağını ve gerçekleşeceğinin açıklamak için izlenen yoldur?",
     "imageUrl": null,
     "options": [
@@ -675,10 +676,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 6,
     "explanation": "**Doğru Cevap: Risk yönetim planı**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 7,
     "questionText": "Aşağıdakilerden hangisi risklerin tanımlanması kısmında kullanılan bir girdi değildir?",
     "imageUrl": null,
     "options": [
@@ -709,10 +710,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 7,
     "explanation": "**Doğru Cevap: Eski Risk Analizleri**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 8,
     "questionText": "Aşağıdakilerden hangisi bir kaynak türü değildir?",
     "imageUrl": null,
     "options": [
@@ -743,10 +744,10 @@
       }
     ],
     "correctAnswer": "C",
-    "id": 8,
     "explanation": "**Doğru Cevap: Proje taslağı**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 9,
     "questionText": "Aşağıdakilerden hangisi bir yazılım projesinin iletişim yönetimi kısmında yargıya dayalı metotlar arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -777,10 +778,10 @@
       }
     ],
     "correctAnswer": "C",
-    "id": 9,
     "explanation": "**Doğru Cevap: Tahminsel öngörüler**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 10,
     "questionText": "Aşağıdakilerden hangisi çevik yöntemlerin ilkelerinden birisi değildir?",
     "imageUrl": null,
     "options": [
@@ -811,10 +812,10 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 10,
     "explanation": "**Doğru Cevap: Sponsor yazılım ilerlemesinin birincil ölçüsüdür.**\n\nÇevik (Agile) proje yönetimi, değişen gereksinimlere hızlı uyum sağlamayı, müşteri memnuniyetini ve iteratif/artan ürün teslimatını ön planda tutan bir yaklaşımdır."
   },
   {
+    "id": 11,
     "questionText": "Aşağıdakilerden hangisi üst ve alt tanımlama sınırları, taraflar arasında yapılan sözleşmelere dayanan tekniktir?",
     "imageUrl": null,
     "options": [
@@ -845,10 +846,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 11,
     "explanation": "**Doğru Cevap: Kontrol grafikleri**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 12,
     "questionText": "“……….tarihsel bilgiler ile diğer değişkenler arasındaki istatistiksel ilişki kullanılarak maliyet, süre gibi aktivite parametreleri için tahmini değerler hesaplanır.” şeklinde verilen tanım aşağıdaki hangi tekniği açıklamaktadır?",
     "imageUrl": null,
     "options": [
@@ -879,10 +880,10 @@
       }
     ],
     "correctAnswer": "C",
-    "id": 12,
     "explanation": "**Doğru Cevap: Parametrik tahmin**\n\nÜç nokta (PERT) tahmini tekniği, iyimser, kötümser ve en olası tahminlerin bir araya getirilerek daha güvenilir bir ortalama veya süre tahmini yapılmasını sağlar."
   },
   {
+    "id": 13,
     "questionText": "Aşağıdakilerden hangisi risk yönetiminin olumlu sonuçlarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -913,10 +914,10 @@
       }
     ],
     "correctAnswer": "E",
-    "id": 13,
     "explanation": "**Doğru Cevap: Üretimi yavaşlatır**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 14,
     "questionText": "Aşağıdakilerden hangisi fayda / maliyet analizinin avantajlarından birisi değildir?",
     "imageUrl": null,
     "options": [
@@ -947,10 +948,10 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 14,
     "explanation": "**Doğru Cevap: Paydaş memnuniyetinde azalış**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 15,
     "questionText": "Kalite bir ürün veya hizmetin belirlenen veya olabilecek …………..karşılama kabiliyetine dayanan özelliklerin toplamıdır. şeklinde verilen tamamlamada boş bırakılan alana aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -981,10 +982,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 15,
     "explanation": "**Doğru Cevap: İhtiyaçları**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 16,
     "questionText": "Bir Üniversitenin gelirlerini artıracak yeni bir bölüm açmaya / yaratmaya yönelik projeye onay verilmesi aşağıdakilerden hangisi ile ifade edilir?",
     "imageUrl": null,
     "options": [
@@ -1015,10 +1016,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 16,
     "explanation": "**Doğru Cevap: Organizasyonun ihtiyacı**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 17,
     "questionText": "Genellikle doğruluğu güvence altına almak için ürün kapsam tanımının çoğu zaman gözden geçirmeye imkan sağlayan girdi türü aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1049,10 +1050,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 17,
     "explanation": "**Doğru Cevap: Proje kapsam bildirimi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 18,
     "questionText": "Projenin kullanıcı istek, teknik gereksinim ve standartlarını karşılayacak şekilde hatasız geliştirilmesi için gerekli kontrol testleri yapmaktan sorumlu olan kişi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1083,10 +1084,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 18,
     "explanation": "**Doğru Cevap: Kalite / Test mühendisi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 19,
     "questionText": "Projenin başlangıcından tamamlanmasına kadar, maliyet alternatiflerinin tanımlanmasını ve değerlendirmesini kapsayan sürece ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -1117,10 +1118,10 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 19,
     "explanation": "**Doğru Cevap: Proje maliyet tahmini**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 20,
     "questionText": "Aşağıdakilerden hangisi bir projenin operasyon grubuna veya bir sonraki aşamaya aktarıldığını gösteren resmi dökümantasyondur?",
     "imageUrl": null,
     "options": [
@@ -1151,10 +1152,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 20,
     "explanation": "**Doğru Cevap: Proje kapanış belgeleri**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 21,
     "questionText": "….., bir ihtiyacın mevcut insan ve mali vb. kaynaklarla yapılabilir olmasıdır.Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -1185,10 +1186,10 @@
       }
     ],
     "correctAnswer": "C",
-    "id": 21,
     "explanation": "**Doğru Cevap: Gerçekleştirebilme**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 22,
     "questionText": "Aşağıdakilerden hangisi proje maliyetlerinin tahminine en çok etki eden faktörlerden birisi değildir?",
     "imageUrl": null,
     "options": [
@@ -1219,10 +1220,10 @@
       }
     ],
     "correctAnswer": "E",
-    "id": 22,
     "explanation": "**Doğru Cevap: Organizasyon politikaları**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 23,
     "questionText": "Aşağıdakilerden hangisi proje tedarik yönetiminde çevresel işletme faktörlerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1253,10 +1254,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 23,
     "explanation": "**Doğru Cevap: Kaynak seçimi kriterleri**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 24,
     "questionText": "“Seçilen satıcı en düşük sahip olma maliyetini sağlayacak mı? Yoksa başka sebeplerden dolayı mı bu satıcı seçildi?” gibi soruların cevabını veren seçim kriteri aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1287,10 +1288,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 24,
     "explanation": "**Doğru Cevap: Yaşam döngüsü maliyeti**\n\nYaşam döngüsü maliyeti, bir sistemin veya ürünün baştan sona (tasarım, üretim, işletim, bakım vb.) tüm ömrü boyunca ortaya çıkardığı maliyetleri kapsar. En düşük sahip olma maliyeti bu kavramla ölçülür."
   },
   {
+    "id": 25,
     "questionText": "Üst ve alt tanımlama sınırları ile taraflar arasında yapılan sözleşmelere dayanan teknik aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1321,10 +1322,10 @@
       }
     ],
     "correctAnswer": "E",
-    "id": 25,
     "explanation": "**Doğru Cevap: Kontrol grafikleri**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 26,
     "questionText": "Aşağıdakilerden hangisi projelerdeki entegrasyon planlarından biridir?",
     "imageUrl": null,
     "options": [
@@ -1355,10 +1356,10 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 26,
     "explanation": "**Doğru Cevap: Sistemler arası entegrasyon planı**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 27,
     "questionText": "Aşağıdakilerden hangisi proje yönetim süreçlerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1389,10 +1390,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 27,
     "explanation": "**Doğru Cevap: Geri bildirim**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 28,
     "questionText": "Bazı durumlarda proje yöneticisi bir işin süresini tahmin ederken eğer kendi deneyimlerine güvenmiyorsa veya süre tahminiyle ilgili fikir danışması gerektiğini düşünüyorsa farklı kişilerin görüşlerine de başvurur.Aşağıdakilerden hangisi yukarıda ifade edilen yöntemlerden biridir?",
     "imageUrl": null,
     "options": [
@@ -1423,10 +1424,10 @@
       }
     ],
     "correctAnswer": "C",
-    "id": 28,
     "explanation": "**Doğru Cevap: Üç nokta tahmini**\n\nÜç nokta (PERT) tahmini tekniği, iyimser, kötümser ve en olası tahminlerin bir araya getirilerek daha güvenilir bir ortalama veya süre tahmini yapılmasını sağlar."
   },
   {
+    "id": 29,
     "questionText": "Aşağıdakilerden hangisi projelerde bütçenin belirlenmesi kısmında görüşü alınabilecek uzmanlardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1457,10 +1458,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 29,
     "explanation": "**Doğru Cevap: Proje yöneticisi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 30,
     "questionText": "Benzin sıkıntısına çözüm olarak yakıtı daha verimli kullanan otomobiller üretmek hangi sosyal ihtiyacın sonucu olarak oluşturulmuştur?",
     "imageUrl": null,
     "options": [
@@ -1491,10 +1492,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 30,
     "explanation": "**Doğru Cevap: Sektördeki genel talep**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 31,
     "questionText": "Proje iletişim gereksinimlerinin belirlenmesinde aşağıda verilen bilgilerin hangisi kullanılamaz?",
     "imageUrl": null,
     "options": [
@@ -1525,10 +1526,10 @@
       }
     ],
     "correctAnswer": "E",
-    "id": 31,
     "explanation": "**Doğru Cevap: Projenin süresi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 32,
     "questionText": "Aşağıdakilerden hangisi bir yazılım projesindeki kapsam kavramının içerisinde yer almaz?",
     "imageUrl": null,
     "options": [
@@ -1559,10 +1560,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 32,
     "explanation": "**Doğru Cevap: Süreler**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 33,
     "questionText": "Aşağıdakilerden hangisi proje zaman yönetiminde zaman çizelgesinin geliştirilmesi kısmında güncellenebilecek hususlardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1593,10 +1594,10 @@
       }
     ],
     "correctAnswer": "E",
-    "id": 33,
     "explanation": "**Doğru Cevap: Kaynaklar**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 34,
     "questionText": "Aşağıdakilerden hangisi fayda/maliyet analizinin avantajlarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1627,10 +1628,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 34,
     "explanation": "**Doğru Cevap: Paydaş memnuniyetinde azalış**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 35,
     "questionText": "Özellikle şirketlerin bir kazanç kapısı olarak geliştirdikleri yazılımlarla ilgilenen proje ekip üyesi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1661,10 +1662,10 @@
       }
     ],
     "correctAnswer": "C",
-    "id": 35,
     "explanation": "**Doğru Cevap: Ürün yöneticisi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 36,
     "questionText": "Proje entegrasyon yönetiminde, projenin kapatılması aşamasından önce aşağıdaki aşamaların hangisi yer almaktadır?",
     "imageUrl": null,
     "options": [
@@ -1695,10 +1696,10 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 36,
     "explanation": "**Doğru Cevap: Projenin izlenmesi ve kontrolü**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 37,
     "questionText": "Yeni devreye alınacak örnek bir avans projedeki ilk sarmalda yapılacak işlemler düşünüldüğünde aşağıdakilerden hangisi doğru bir eşleşme olmaz?",
     "imageUrl": null,
     "options": [
@@ -1729,10 +1730,10 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 37,
     "explanation": "**Doğru Cevap: Alternatifler: Avans talep işleminin iş akış ortamına taşınması**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 38,
     "questionText": "Projede risk yönetiminin nasıl yapılandırılacağını ve gerçekleşeceğini açıklamak için izlenen yol aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1763,10 +1764,10 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 38,
     "explanation": "**Doğru Cevap: Risk yönetim planı**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 39,
     "questionText": "Aşağıdakilerden hangisi bir projede kalite planlanması kısmındaki girdilerden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1797,10 +1798,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 39,
     "explanation": "**Doğru Cevap: Fayda-maliyet analizi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 40,
     "questionText": "Proje türleri çeşitli olduğundan projeler için gerçekleştirilecek plan türleri de oldukça çeşitlidir. Bir projenin içerisinde de birçok farklı plan yapmak gerekebilir. şeklindeki bir ifade aşağıdakilerden hangisi için söylenebilir?",
     "imageUrl": null,
     "options": [
@@ -1831,10 +1832,10 @@
       }
     ],
     "correctAnswer": "E",
-    "id": 40,
     "explanation": "**Doğru Cevap: Planın Planı**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 41,
     "questionText": "…… projenin başlatılması yönetilmesi yürütülmesi izlenmesi kontrolü ve kapatılmasını içermektedir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -1865,10 +1866,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 41,
     "explanation": "**Doğru Cevap: Entegrasyon yönetimi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 42,
     "questionText": "Bir yazılım projesinde herhangi bir kaynağın maliyet olarak kabul edilebilmesi için aşağıdakilerden hangisinin gerçekleşmesi gerekmektedir?",
     "imageUrl": null,
     "options": [
@@ -1899,10 +1900,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 42,
     "explanation": "**Doğru Cevap: Parasal olarak ifade edilmesi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 43,
     "questionText": "Belli bir anda bir yazılım projesinin ne kadarının tamamlandığı ne kadarının tamamlanmadığı net bir biçimde ölçülemez. Bunun sebebi yazılım projelerinin sahip olduğu özellik aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1933,10 +1934,10 @@
       }
     ],
     "correctAnswer": "E",
-    "id": 43,
     "explanation": "**Doğru Cevap: Görünür bir ürün olmaması**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 44,
     "questionText": "Aşağıdakilerden hangisi proje yönetimi planının güncellenebilecek ögelerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1967,10 +1968,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 44,
     "explanation": "**Doğru Cevap: Performans temel çizgisi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 45,
     "questionText": "Aşağıdakilerden hangisi proje yöneticilerinin sahip olması beklenen kişisel bir özellik değildir?",
     "imageUrl": null,
     "options": [
@@ -2001,10 +2002,10 @@
       }
     ],
     "correctAnswer": "C",
-    "id": 45,
     "explanation": "**Doğru Cevap: Maliyet odaklı olma**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 46,
     "questionText": "Seçilen satıcı en düşük sahip olma maliyetini sağlayacak mı? Yoksa başka sebeplerden dolayı mı bu satıcı seçildi? gibi soruların cevabını veren seçim kriteri aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2035,10 +2036,10 @@
       }
     ],
     "correctAnswer": "E",
-    "id": 46,
     "explanation": "**Doğru Cevap: Yaşam döngüsü maliyeti**\n\nYaşam döngüsü maliyeti, bir sistemin veya ürünün baştan sona (tasarım, üretim, işletim, bakım vb.) tüm ömrü boyunca ortaya çıkardığı maliyetleri kapsar. En düşük sahip olma maliyeti bu kavramla ölçülür."
   },
   {
+    "id": 47,
     "questionText": "Aşağıdakilerden hangisi bir yazılımın kabul kriteri olabilir?",
     "imageUrl": null,
     "options": [
@@ -2069,10 +2070,10 @@
       }
     ],
     "correctAnswer": "E",
-    "id": 47,
     "explanation": "**Doğru Cevap: Modüllerin hızı**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 48,
     "questionText": "Yazılım projelerinde maliyetler aşağıdakilerden hangisi ile ifade edilmez?",
     "imageUrl": null,
     "options": [
@@ -2103,10 +2104,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 48,
     "explanation": "**Doğru Cevap: Kullanılan teçhizatlar**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 49,
     "questionText": "Aşağıdakilerden hangisi projenin kapatılması kısmında kontrol edilmesi gereken hususlardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -2137,10 +2138,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 49,
     "explanation": "**Doğru Cevap: Projenin maliyetinin hesaplanması**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 50,
     "questionText": "Aşağıdakilerden hangisi bir yazılım projesinin iletişim yönetimi kısmında gerçekleşen ilerlemeyi planlanan ilerlemeyle karşılaştırmalı olarak değerlendirmeye olanak sağlayan tekniktir?",
     "imageUrl": null,
     "options": [
@@ -2171,44 +2172,10 @@
       }
     ],
     "correctAnswer": "C",
-    "id": 50,
     "explanation": "**Doğru Cevap: Çalışma performans ölçümleri**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
-    "questionText": "Bazı durumlarda proje yöneticisi bir işin süresini tahmin ederken eğer kendi deneyimlerine güvenmiyorsa veya süre tahminiyle ilgili fikir danışması gerektiğini düşünüyorsa farklı kişilerin görüşlerine de başvurur. Aşağıdakilerden hangisi yukarıda ifade edilen yöntemlerden biridir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Yedek süre analizi",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Uzman görüşü",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Üç nokta tahmini",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Parametrik tahmin",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Örneksel tahmin",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
     "id": 51,
-    "explanation": "**Doğru Cevap: Üç nokta tahmini**\n\nÜç nokta (PERT) tahmini tekniği, iyimser, kötümser ve en olası tahminlerin bir araya getirilerek daha güvenilir bir ortalama veya süre tahmini yapılmasını sağlar."
-  },
-  {
     "questionText": "Risklerin projeyi etkileyebileceğini belirleme ve bunların özelliklerini belgeleme sürecine verilen ad aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2239,10 +2206,10 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 52,
     "explanation": "**Doğru Cevap: Risklerin tanımlanması**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 52,
     "questionText": "Proje bütçesi ile ilgili gerçekleştirilen yedek maliyet analizi ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -2273,10 +2240,10 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 53,
     "explanation": "**Doğru Cevap: Aktivite maliyet tahmininin hazırlanmasında kullanılır.**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 53,
     "questionText": "Aşağıdaki kavram kısaltması ve eşleştirmelerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -2307,10 +2274,10 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 54,
     "explanation": "**Doğru Cevap: BPA: Binary Process Accept – İkilik İşlem Kabulü**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 54,
     "questionText": "Bilimsel Yönetim akımı ile ilgili aşağıdaki hangi prensip tanımı doğru verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -2341,10 +2308,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 55,
     "explanation": "**Doğru Cevap: Yönetim ve işçi görevleri arasında fonksiyonel ayrımın yapılması**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 55,
     "questionText": "Aşağıdakilerden hangisi fayda-maliyet analizinde ele alınacak bir durumdur?",
     "imageUrl": null,
     "options": [
@@ -2375,10 +2342,10 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 56,
     "explanation": "**Doğru Cevap: Ortaya çıkacak olan faydanın getireceği ek maliyetler**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 56,
     "questionText": "Kritik yol metoduyla analiz edilmiş olan bir zaman çizelgesine uygulanan tekniğe verilen ad aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2409,10 +2376,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 57,
     "explanation": "**Doğru Cevap: Kaynak dengeleme**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 57,
     "questionText": "Aşağıdakilerden hangisi gerçekleştirme aşamasının unsurlarından birisi değildir?",
     "imageUrl": null,
     "options": [
@@ -2443,10 +2410,10 @@
       }
     ],
     "correctAnswer": "E",
-    "id": 58,
     "explanation": "**Doğru Cevap: Kod teftişi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 58,
     "questionText": "Aşağıdakilerden hangisi ürün kapsam tanımı hizmet tanımı sonuç tanımı kabul kriterleri hakkında önemli bilgiler içeren girdi olarak gösterilmektedir?",
     "imageUrl": null,
     "options": [
@@ -2477,10 +2444,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 59,
     "explanation": "**Doğru Cevap: Kapsam temel çizgisi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 59,
     "questionText": "Aşağıdakilerden hangisi İnsan İlişkileri Okulu’ndaki temel prensiplerden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -2511,10 +2478,10 @@
       }
     ],
     "correctAnswer": "C",
-    "id": 60,
     "explanation": "**Doğru Cevap: Ürünler mutlaka standartlaştırılmalıdır.**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 60,
     "questionText": "Aşağıdaki modellerin hangileri aynı kategori içerisinde yer alır?",
     "imageUrl": null,
     "options": [
@@ -2545,10 +2512,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 61,
     "explanation": "**Doğru Cevap: Şelale Modeli – V Model**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 61,
     "questionText": "Kalite bir ürün veya hizmetin belirlenen veya olabilecek ….. karşılama kabiliyetine dayanan özelliklerin toplamıdır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -2579,10 +2546,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 62,
     "explanation": "**Doğru Cevap: ihtiyaçları**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 62,
     "questionText": "Aşağıdakilerden hangisi bir paydaş sınıflandırma modeli değildir?",
     "imageUrl": null,
     "options": [
@@ -2613,10 +2580,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 63,
     "explanation": "**Doğru Cevap: Analiz modeli**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 63,
     "questionText": "Bir cep telefonu firmasının büyük veri vb. gelişmelerin ardından daha hafif ve daha yüksek bellekli bir cep telefonu üretmek için yeni bir projeye onay vermesi aşağıdakilerden hangisi ile ifade edilebilir?",
     "imageUrl": null,
     "options": [
@@ -2647,10 +2614,10 @@
       }
     ],
     "correctAnswer": "E",
-    "id": 64,
     "explanation": "**Doğru Cevap: Teknolojik ilerleme**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 64,
     "questionText": "Projelerdeki zaman ilişkileri belirlenirken en çok kullanılan öncel ilişkisi türü aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2681,10 +2648,10 @@
       }
     ],
     "correctAnswer": "D",
-    "id": 65,
     "explanation": "**Doğru Cevap: Bitiş-başlangıç**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 65,
     "questionText": "Aşağıdakilerden hangisi proje maliyetine doğrudan etki eden bir faktör değildir?",
     "imageUrl": null,
     "options": [
@@ -2715,10 +2682,10 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 66,
     "explanation": "**Doğru Cevap: Projede kullanılan teknolojiler**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 66,
     "questionText": "Aşağıdakilerden hangisi ayrıntılı proje kapsam bildiriminde bulunan maddelerden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -2749,10 +2716,10 @@
       }
     ],
     "correctAnswer": "B",
-    "id": 67,
     "explanation": "**Doğru Cevap: Ürün reklam çalışmaları**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 67,
     "questionText": "Aşağıdakilerden hangisi özel bir teknik olan kök analizini kapsamaktadır?",
     "imageUrl": null,
     "options": [
@@ -2783,10 +2750,10 @@
       }
     ],
     "correctAnswer": "C",
-    "id": 68,
     "explanation": "**Doğru Cevap: Süreç analizi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 68,
     "questionText": "Aşağıdakilerden hangisi yazılım proje yönetiminde yer alan bir plan değildir?",
     "imageUrl": null,
     "options": [
@@ -2817,10 +2784,10 @@
       }
     ],
     "correctAnswer": "C",
-    "id": 69,
     "explanation": "**Doğru Cevap: Satın alma planı**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   },
   {
+    "id": 69,
     "questionText": "Projenin kullanıcı istek teknik gereksinim ve standartlarını karşılayacak şekilde hatasız geliştirilmesi için gerekli kontrol testlerini yapmaktan sorumlu olan kişi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2851,287 +2818,6 @@
       }
     ],
     "correctAnswer": "A",
-    "id": 70,
     "explanation": "**Doğru Cevap: Kalite/test mühendisi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "1. Bilgi çağı yönetim akımı hangi tarihten sonra tam anlamıyla bir bilim şeklini almıştır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "1975B) 1930C) 1950D) 1945E) 1964",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "id": 71,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "2. Aşağıdakilerden hangisi bir kaynak türü değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "MalzemelerB) Mali varlıklarC) Proje taslağıD) Önceki projelerden elde ed,len tecrübelerE) Proje personeli",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "id": 72,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "3. Yazılım projesi geliştirme aşamalarından biri olan ve öncelikle dikkat edilmesi gereken planlama aşaması ile ilgili aşağıdakilerden hangisi yanlıştır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Süre takvimlerinin belirlenmesi.B) Müşteri ve üst yönetimin gözden geçirilmesi.C) Kullanılacak kaynakların belirlenmesi.D) Belirlenmiş süre ve mali kısıtların dikkate alınması.E) İzlenecek yöntemin seçilmesi.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "id": 73,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "4. Aşağıdakilerden hangisi çevik yöntemlerin ilkelerinden birisi değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Sponsor yazılım ilerlemesinin birincil ölçüsüdür.B) Sürdürülebilir geliştirmeyi teşvik etmektedir.C) Teknik mükemmeliyet ve iyi tasarım konusundaki sürekli özen ve çevikliği artırır.D) Projenin temelinde motive olmuş bireyler yer almalıdır.E) Bir yazılım takımında bilgi alışverişinin en etkili yöntemi yüz yüze iletişimdir.",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "A",
-    "id": 74,
-    "explanation": "**Doğru Cevap: Sponsor yazılım ilerlemesinin birincil ölçüsüdür.B) Sürdürülebilir geliştirmeyi teşvik etmektedir.C) Teknik mükemmeliyet ve iyi tasarım konusundaki sürekli özen ve çevikliği artırır.D) Projenin temelinde motive olmuş bireyler yer almalıdır.E) Bir yazılım takımında bilgi alışverişinin en etkili yöntemi yüz yüze iletişimdir.**\n\nÇevik (Agile) proje yönetimi, değişen gereksinimlere hızlı uyum sağlamayı, müşteri memnuniyetini ve iteratif/artan ürün teslimatını ön planda tutan bir yaklaşımdır."
-  },
-  {
-    "questionText": "5. Projenin kullanıcı istek, teknik gereksinim ve standartlarını karşılayacak şekilde hatasız geliştirilmesi için gerekli kontrol testleri yapmaktan sorumlu olan kişi aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Yardımcı ürün geliştiriciB) Ürün yöneticisiC) Arayüz geliştiriciD) Kalite / Test mühendisiE) Sistem analisti",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "id": 75,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "6. Kalite bir ürün veya hizmetin belirlenen veya olabilecek …………..karşılama kabiliyetine dayanan özelliklerin toplamıdır. şeklinde verilen tamamlamada boş bırakılan alana aşağıdakilerden hangisi getirilmelidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "ListeleriB) İhtiyaçlarıC) PaydaşlarıD) AnalizleriE) Verileri",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "id": 76,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "7. Bir Üniversitenin gelirlerini artıracak yeni bir bölüm açmaya / yaratmaya yönelik projeye onay verilmesi aşağıdakilerden hangisi ile ifade edilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Çevre üzerinde etkilerB) Organizasyonun ihtiyacıC) Teknolojik İlerlemeD) Pazardaki talepE) Müşterilerin talebi",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "id": 77,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "8. Aşağıdakilerden hangisi bir yazılım projesinin iletişim yönetimi kısmında yargıya dayalı metotlar arasında yer almaz?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Örneksel öngörüB) AnketlerC) Tahminsel öngörülerD) Delphi tekniğiE) Senaryo kurma",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "id": 78,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "9. Aşağıdakilerden hangisi bir projenin operasyon grubuna veya bir sonraki aşamaya aktarıldığını gösteren resmi dökümantasyondur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Proje dosyalarıB) Proje kapanış belgeleriC) Tarihsel bilgilerD) Proje takvimleriE) Risk listeleri",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "id": 79,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "10. Aşağıdakilerden hangisi projede risk yönetiminin nasıl yaptırılacağını ve gerçekleşeceğinin açıklamak için izlenen yoldur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Risk kırılım yapısıB) Risk kategorileriC) Risklerin tanımlanmasıD) Risk yönetim planıE) Risk olasılığı ve etkisinin tanımlanması",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "id": 80,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "11. Genellikle doğruluğu güvence altına almak için ürün kapsam tanımının çoğu zaman gözden geçirmeye imkan sağlayan girdi türü aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Araç ve tekniklerB) Öncelik şeması metoduC) Organizasyonel süreç varlıklarıD) Proje kapsam bildirimiE) Süreç varlıkları",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "id": 81,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "12. “……….tarihsel bilgiler ile diğer değişkenler arasındaki istatistiksel ilişki kullanılarak maliyet, süre gibi aktivite parametreleri için tahmini değerler hesaplanır.” şeklinde verilen tanım aşağıdaki hangi tekniği açıklamaktadır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Uzman görüşüB) Örneksel tahminC) Parametrik tahminD) Yedek süre analiziE) Üç nokta tahminleri",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "id": 82,
-    "explanation": "**Doğru Cevap: **\n\nÜç nokta (PERT) tahmini tekniği, iyimser, kötümser ve en olası tahminlerin bir araya getirilerek daha güvenilir bir ortalama veya süre tahmini yapılmasını sağlar."
-  },
-  {
-    "questionText": "13. “Seçilen satıcı en düşük sahip olma maliyetini sağlayacak mı? Yoksa başka sebeplerden dolayı mı bu satıcı seçildi?” gibi soruların cevabını veren seçim kriteri hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Teknik kaynaklarB) Yöntem yaklaşımıC) RiskD) İhtiyacın anlaşılmasıE) Yaşam döngüsü maliyeti",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "E",
-    "id": 83,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "14. Aşağıdakilerden hangisi proje yönetimi planının güncellenebilecek öğelerinden birisi değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Performans temel çizgisiB) Kapsam temel çizgisiC) Maliyet temel çizgisiD) Tedarik yönetim planıE) Zaman çizelgesi temel çizgisi",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "A",
-    "id": 84,
-    "explanation": "**Doğru Cevap: Performans temel çizgisiB) Kapsam temel çizgisiC) Maliyet temel çizgisiD) Tedarik yönetim planıE) Zaman çizelgesi temel çizgisi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "15. Aşağıdakilerden hangisi üst ve alt tanımlama sınırları, taraflar arasında yapılan sözleşmelere dayanan tekniktir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "KıyaslamaB) Kontrol grafikleriC) İstatistiksel örneklemeD) Akış şemasıE) Deney tasarımı",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "id": 85,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "16. Aşağıdakilerden hangisi risk yönetiminin olumlu sonuçlarından biri değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Kontrolü sağlarB) Kayıpları önlerC) Güvence sağlarD) Belirsizliği önlerE) Üretimi yavaşlatır",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "E",
-    "id": 86,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "17. Aşağıdakilerden hangisi fayda / maliyet analizinin avantajlarından birisi değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Paydaş memnuniyetinde azalışB) Aynı işin baştan yapılma durumlarının azaltılmasıC) Üretkenlik artışıD) Maliyetlerin düşmesiE) Gereksiz maliyetlerin öngörülmesi",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "A",
-    "id": 87,
-    "explanation": "**Doğru Cevap: Paydaş memnuniyetinde azalışB) Aynı işin baştan yapılma durumlarının azaltılmasıC) Üretkenlik artışıD) Maliyetlerin düşmesiE) Gereksiz maliyetlerin öngörülmesi**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "18. Aşağıdakilerden hangisi bir yazılım projesinin iletişim yönetimi kısmında gerçekleşen ilerlemeyi, planlanan ilerleme ile karşılaştırmalı olarak değerlendirmeye olanak sağlayan tekniktir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Proje yönetim planıB) Organizasyon süreç varlıklarıC) Çalışma performans bilgileriD) Çalışma performans ölçümleriE) Bütçe tahminleri",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "id": 88,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "19. Aşağıdakilerden hangisi risklerin tanımlanması kısmında kullanılan bir girdi değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Çevresel İşletme FaktörleriB) Eski Risk AnalizleriC) Maliyet Yönetimi PlanıD) Paydaş ListesiE) Zaman Çizelgesi Yönetimi Planı",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "id": 89,
-    "explanation": "**Doğru Cevap: **\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
-  },
-  {
-    "questionText": "20. Projenin başlangıcından tamamlanmasına kadar, maliyet alternatiflerinin tanımlanmasını ve değerlendirmesini kapsayan sürece ne ad verilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Proje maliyet tahminiB) Aktivite maliyet tahminiC) İşgücü maliyet tahminiD) Yedek maliyet tahminiE) Yönetim maliyet tahmini",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "A",
-    "id": 90,
-    "explanation": "**Doğru Cevap: Proje maliyet tahminiB) Aktivite maliyet tahminiC) İşgücü maliyet tahminiD) Yedek maliyet tahminiE) Yönetim maliyet tahmini**\n\nBu soru, bilgi sistemleri proje yönetimi standartları, PMI (Project Management Institute) prensipleri veya genel IT süreç yönetimi kavramlarına dayanmaktadır. İlgili konunun teorik temel yapısına göre en uygun adım, yöntem veya tanım seçilmiştir."
   }
 ]
