@@ -36,6 +36,20 @@ const COURSES = [
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
     questionCount: 92,
     color: '#ec4899' // Pink color
+  },
+  {
+    id: 'bilimselarastirmateknikleri',
+    title: 'Bilimsel Araştırma Teknikleri',
+    description: 'Geçmiş dönem çıkmış sorular ve cevapları',
+    questionCount: 182,
+    color: '#0ea5e9' // Sky Blue color
+  },
+  {
+    id: 'buyukveri',
+    title: 'Büyük Veri',
+    description: 'Geçmiş dönem çıkmış sorular ve cevapları',
+    questionCount: 42,
+    color: '#f43f5e' // Rose color
   }
 ];
 
