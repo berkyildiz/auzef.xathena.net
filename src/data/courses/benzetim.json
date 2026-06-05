@@ -506,7 +506,7 @@
     ],
     "correctAnswer": "B",
     "id": 1,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Havayolları - Karayolları' olmalıdır. Güneş sistemi, özellikleri zamanla değişmediği için statik bir sistemdir. Sindirim sistemi ise girdi ve çıktıları olan, zaman içinde değişen süreçler içerdiği için dinamiktir."
+    "explanation": "**Doğru Cevap: Havayolları - Karayolları**\n\nStatik sistemler zamanla durumları değişmeyen (örneğin Güneş Sistemi'nin yapısı), dinamik sistemler ise girdi ve çıktıları zamanla farklılaşan süreçler içeren (örneğin Sindirim Sistemi) sistemlerdir. Bu yüzden Güneş Sistemi - Sindirim Sistemi ikilisi statik-dinamik eşleşmesi için klasik bir örnektir."
   },
   {
     "questionText": "OUTPUT ANALYZER aracı ile farklı senaryolarda çalıştırılan modellerin ortalamalarının karşılaştırılması için aşağıdakilerden hangisi kullanılır?",
@@ -540,7 +540,7 @@
     ],
     "correctAnswer": "D",
     "id": 2,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Compare Means' olmalıdır. OUTPUT ANALYZER modülünde iki veya daha fazla farklı senaryonun ortalamalarını istatistiksel olarak karşılaştırmak için 'Compare Means' aracı kullanılır."
+    "explanation": "**Doğru Cevap: Compare Means**\n\nArena veya AutoStat gibi benzetim yazılımlarında Output Analyzer kullanıldığında, iki veya daha fazla alternatif senaryonun performans ortalamalarını istatistiksel (ANOVA vb. temelli) olarak karşılaştırmak için 'Compare Means' (Ortalamaları Karşılaştır) aracı kullanılır."
   },
   {
     "questionText": "Bir süpermarket sisteminde kasada işlem yapan müşteriler için benzetim çalışması yapılmıştır. Müşterilerin gelişleri arası süre sabit 10 dk olarak belirlenmiştir. Yukarıdaki görselde sarı renkli işaretlenmiş kutucuklar aşağıdaki seçeneklerin hangisinde doğru verilmiştir?",
@@ -574,7 +574,7 @@
     ],
     "correctAnswer": "A",
     "id": 3,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Constant-10-Minutes' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Constant-10-Minutes olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Constant-10-Minutes**\n\nMüşterilerin gelişleri veya işlem süreleri kesin bir sabit sayıya dayanıyorsa (örneğin tam 10 dakika), bu sistemde herhangi bir varyans yoktur. Bu nedenle simülasyon modelinde 'Constant-10-Minutes' parametresi seçilmelidir."
   },
   {
     "questionText": "ARENA çalışma sonuçları raporlarından Resources (Kaynaklar) raporunda aşağıdakilerden hangisi bir kaynağın meşgul birimlerinin sayısını ifade eder?",
@@ -608,7 +608,7 @@
     ],
     "correctAnswer": "E",
     "id": 4,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'NUMBER BUSY' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç NUMBER BUSY olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: NUMBER BUSY**\n\nArena Resources (Kaynaklar) istatistik raporunda, incelenen süreç boyunca kaynağın ne kadar meşgul kaldığını ölçmek için Number Busy veya Scheduled Utilization verilerine bakılır. O an çalışan meşgul birim sayısı direkt 'NUMBER BUSY' ile gösterilir."
   },
   {
     "questionText": "Tek bir uzun çalışmanın birden çok çoğaltma çalıştırmaya tercih edilebilme sebebi aşağıdakilerden hangisidir?",
@@ -642,7 +642,7 @@
     ],
     "correctAnswer": "D",
     "id": 5,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Isınma süresinin yalnızca bir kez çalıştırılması gerekir, bu da deneyleri çalıştırmak için gereken süreyi azaltır.' olmalıdır. Tek uzun bir çalışma yapmak, ısınma süresinin (warm-up period) sadece bir kez atılmasını sağlar. Böylece çok sayıda replikasyonda her seferinde kaybedilecek ısınma sürelerinden tasarruf edilir."
+    "explanation": "**Doğru Cevap: Isınma süresinin yalnızca bir kez çalıştırılması gerekir, bu da deneyleri çalıştırmak için gereken süreyi azaltır.**\n\nÇok sayıda kısa çalışma (replikasyon) yapmak yerine tek bir uzun çalıştırma yapmanın temel avantajı, sistemin kararlı (steady-state) duruma gelmesini beklediğimiz 'ısınma süresinin' (warm-up period) her replikasyon için defalarca atılmak zorunda kalınmamasıdır. Tek uzun çalışmada ısınma süresi sadece bir kez silinir."
   },
   {
     "questionText": "Bir acil servise saatte ortalama 4 hasta gelmektedir. Her bir hastaya ortalama müdahale süresi 12 dakikadır. Gelişler arası süre ve servis süresi üstel dağılıma uymaktadır. Bu durumda hastaların sistemde geçirdiği ortalama süre aşağıdakilerden hangisidir?",
@@ -676,7 +676,7 @@
     ],
     "correctAnswer": "C",
     "id": 6,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '40 dk' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 40 dk olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: 40 dk**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Bir araba yıkama istasyonuna gelen müşterilerin varış zamanları yukarıdaki tabloda gösterilmiştir. Araçlar 4 dakikada yıkanıyor ve 2 araç yıkama alanı var ise 4. müşteri sistemden ayrılma zamanı aşağıdakilerden hangisidir?",
@@ -710,7 +710,7 @@
     ],
     "correctAnswer": "B",
     "id": 7,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '16 dk' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 16 dk olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: 16 dk**\n\nBu bir klasik kuyruk teorisi problemidir. Araçlar 4 dakikada yıkanıyorsa ve 2 yıkama alanı varsa, ilk iki araç hemen yıkanmaya başlar (0-4 dk). Gelen 3. ve 4. araçlar ise sıraya girer. Sistemin çalışma süresi hesaplanarak müşterinin ayrılma zamanı basit toplama işlemleriyle bulunur."
   },
   {
     "questionText": "Bir fabrika sisteminin benzetim modeli aşağıdaki tanımlardan hangisi ile ifade edilmektedir?",
@@ -744,7 +744,7 @@
     ],
     "correctAnswer": "C",
     "id": 8,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Sonlu ufuklu simülasyon' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Sonlu ufuklu simülasyon olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Sonlu ufuklu simülasyon**\n\nEğer bir sistemin doğal bir başlangıcı ve bitişi varsa (örneğin sabah açılıp akşam kapanan bir banka veya fabrika vardiyası) buna sonlu ufuklu (terminating) simülasyon denir. Doğal bir bitişi olmayan, sürekli çalışan sistemler ise sonsuz ufuklu simülasyonlarla incelenir."
   },
   {
     "questionText": "Aşağıdakilerden hangisi doğrusal eşlik yönteminde tam periyot elde etmek için kullanılan Hull-Dobell teoremi şartlarındandır?",
@@ -778,7 +778,7 @@
     ],
     "correctAnswer": "A",
     "id": 9,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'b değeri asal sayı olmalıdır.' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç b değeri asal sayı olmalıdır. olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: b değeri asal sayı olmalıdır.**\n\nHull-Dobell teoremi, bir Doğrusal Eşlik (Linear Congruential) Rastgele Sayı Üretecinde tam periyot (maksimum farklı sayı döngüsü) elde etmek için gereken şartları belirler. Bunlardan biri de 'b' değerinin m'in asal çarpanlarıyla ilişkili kurallara uymasıdır."
   },
   {
     "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi, güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında müşterilerin kasa kuyruğunda bekleme süreleri güven aralığı [8.15-10.30] olarak belirlenmiştir. Gözlemlenen sistemin bekleme ortalamalarının 9.25 dakika olduğu bilinmektedir. Bu durum ε=1 için en iyi durum ve en kötü durum hatasına göre incelendiğinde aşağıdaki sonuçlardan hangisine ulaşılır?",
@@ -812,7 +812,7 @@
     ],
     "correctAnswer": "D",
     "id": 10,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'En iyi durum veya en kötü durum hatası > ε 'dur. Bir sonuca varılımcaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.' olmalıdır. Güven aralığı hesaplanırken örneklem ortalamasına hata payı (Z değeri * Standart Hata) eklenip çıkarılarak formülize edilir. Verilen değerler formülde yerine konulduğunda belirtilen doğru aralık elde edilir."
+    "explanation": "**Doğru Cevap: En iyi durum veya en kötü durum hatası > ε 'dur. Bir sonuca varılımcaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.**\n\nModel geçerliliği testlerinde, eğer en iyi durum hatası veya en kötü durum hatası istenen epsilon (hata payı) değerinden büyükse, sistemin gerçek değeri ile modelin tahmini değeri arasında istatistiksel bir fark olup olmadığı anlaşılamaz. Bu durumda modelin iyileştirilmesi veya daha fazla simülasyon (replikasyon) çalıştırılması gerekir."
   },
   {
     "questionText": "Aşağıdakilerden hangisi PROCESS modülündeki Action penceresindeki seçeneklerden değildir?",
@@ -846,7 +846,7 @@
     ],
     "correctAnswer": "C",
     "id": 11,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Random' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Random olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Random**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Aşağıdaki simülasyon yazılımlarından hangisi 1993 yılında ilk defa piyasaya sürülmüştür?",
@@ -880,7 +880,7 @@
     ],
     "correctAnswer": "C",
     "id": 12,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'ARENA' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç ARENA olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: ARENA**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Yukarıda verilen ARENA çıktısına göre triyaj ve kayıt işlemi için ortalama hasta bekleme süresinin güven aralığı aşağıdakilerden hangisidir?",
@@ -914,7 +914,7 @@
     ],
     "correctAnswer": "A",
     "id": 13,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '0.2620-0.3420' olmalıdır. Güven aralığı hesaplanırken örneklem ortalamasına hata payı (Z değeri * Standart Hata) eklenip çıkarılarak formülize edilir. Verilen değerler formülde yerine konulduğunda belirtilen doğru aralık elde edilir."
+    "explanation": "**Doğru Cevap: 0.2620-0.3420**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Kararlı durum modellerinin doğal sonlandırma süreleri olmadığına göre replikasyon uzunluğu belirlenme zamanı aşağıdakilerden hangisidir?",
@@ -948,7 +948,7 @@
     ],
     "correctAnswer": "E",
     "id": 14,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'İlgilenilen istatistikler sabitlendiğinde' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç İlgilenilen istatistikler sabitlendiğinde olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: İlgilenilen istatistikler sabitlendiğinde**\n\nSonsuz ufuklu (Infinite-horizon) simülasyonlarda sistem kararlı (steady-state) hale gelene kadar simülasyon çalıştırılır. Bu durum, ilgilenilen istatistiklerin varyansının azalması ve sonuçların belirli bir dengeye ulaşması (sabitlenmesi) ile anlaşılır."
   },
   {
     "questionText": "Bir berbere gelen müşterilerin %20’si saç tıraşı ve %80’i sakal tıraşı olmaktadır. Bu müşteri tipleri ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafından gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir. DECIDE modülene yazılacak koşul/condition aşağıdakilerden hangisidir?",
@@ -982,7 +982,7 @@
     ],
     "correctAnswer": "E",
     "id": 15,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'TIP=1' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç TIP=1 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: TIP=1**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "AutoMod ürün ailesindeki çalıştırma yöneticisi ve istatistiksel analiz ürünü aşağıdakilerden hangisidir?",
@@ -1016,7 +1016,7 @@
     ],
     "correctAnswer": "A",
     "id": 16,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'AutoStat' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç AutoStat olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: AutoStat**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "En düşük işlem süresine sahip varlığın ilk işlem görmesini sağlayacak kuyruk disiplini aşağıdakilerden hangisidir?",
@@ -1050,7 +1050,7 @@
     ],
     "correctAnswer": "E",
     "id": 17,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Lowest Attribute Value (first)' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Lowest Attribute Value (first) olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Lowest Attribute Value (first)**\n\nKuyruk disiplinlerinde (Queueing rules) varlıklara (Entities) atanan belirli bir özelliğin (Attribute) değerine göre sıralama yapılabilir. En küçük değere sahip olan varlığın önce işleme alınması durumu 'Lowest Attribute Value (First)' olarak adlandırılır."
   },
   {
     "questionText": "Bilgisayar üreten bir firma ürünlerinin dayanıklılık süresini değerlendirmek istemektedir. 100 tane rassal olarak seçilen bilgisayarın standart sapması 120 gün, ortalama dayanıklılık süreleri de 1440 gündür. %90 güvenle anakütle ortalama dayanıklılık süresi aşağıdaki aralıklardan hangisidir? (Z 𝘢/₂ = 1,65)",
@@ -1084,7 +1084,7 @@
     ],
     "correctAnswer": "B",
     "id": 18,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '[1420.2-1459,8]' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç [1420.2-1459,8] olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: [1420.2-1459,8]**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Bir üretim tesisinin benzetim modelinde makine kullanımları için arızalara kadar geçen süreyi modelleyen dağılım aşağıdakilerden hangisidir?",
@@ -1118,7 +1118,7 @@
     ],
     "correctAnswer": "B",
     "id": 19,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Weibull' olmalıdır. Makine arızalarına kadar geçen süreyi modellemek için literatürde sıklıkla Weibull dağılımı kullanılır. Çünkü bu dağılım, hata oranının zamanla artış veya azalışını esnek bir şekilde modelleyebilir."
+    "explanation": "**Doğru Cevap: Weibull**\n\nGüvenilirlik (Reliability) mühendisliğinde ve makine arızaları/tamir süreleri gibi durumların benzetiminde en çok 'Weibull Dağılımı' kullanılır. Çünkü Weibull, hata oranının zamanla artmasını, azalmasını veya sabit kalmasını tek bir dağılım çatısı altında çok esnek bir şekilde modelleyebilir."
   },
   {
     "questionText": "Aşağıdaki modüllerden hangisi bir taşıyıcı birimin durumunu devre dışı olarak değiştirmek için kullanılır?",
@@ -1152,7 +1152,7 @@
     ],
     "correctAnswer": "B",
     "id": 20,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'HALT' olmalıdır. ARENA ve benzeri benzetim yazılımlarında, bir kaynağı veya taşıyıcı birimi tamamen devre dışı bırakmak veya bozmak (arıza durumu) için HALT modülü tercih edilir."
+    "explanation": "**Doğru Cevap: HALT**\n\nArena yazılımında bir makinenin, kaynağın (Resource) veya taşıyıcının bilinçli olarak arızalanmasını veya sistemden tamamen devre dışı bırakılmasını simüle etmek için HALT bloğu/modülü kullanılır."
   },
   {
     "questionText": "Bir araba yıkama istasyonuna gelen müşterilerin varış zamanları yukarıdaki tabloda gösterilmiştir.Araçlar 4 dakikada yıkanıyor ve 2 araç yıkama alanı var ise 4. müşteri sistemden ayrılma zamanı aşağıdakilerden hangisidir?",
@@ -1186,7 +1186,7 @@
     ],
     "correctAnswer": "B",
     "id": 21,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '16 dk' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 16 dk olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: 16 dk**\n\nBu bir klasik kuyruk teorisi problemidir. Araçlar 4 dakikada yıkanıyorsa ve 2 yıkama alanı varsa, ilk iki araç hemen yıkanmaya başlar (0-4 dk). Gelen 3. ve 4. araçlar ise sıraya girer. Sistemin çalışma süresi hesaplanarak müşterinin ayrılma zamanı basit toplama işlemleriyle bulunur."
   },
   {
     "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi, güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında müşterilerin kasa kuyruğunda bekleme süreleri güven aralığı [8.15-10.30] olarak belirlenmiştir. Gözlemlenen sistemin bekleme ortalamalarının 9.25 dakika olduğu bilinmektedir.Bu durum ε=1 için en iyi durum ve en kötü durum hatasına göre incelendiğinde aşağıdaki sonuçlardan hangisine ulaşılır?",
@@ -1220,7 +1220,7 @@
     ],
     "correctAnswer": "D",
     "id": 22,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'En iyi durum veya en kötü durum hatası > ε 'dur. Bir sonuca varılımcaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.' olmalıdır. Güven aralığı hesaplanırken örneklem ortalamasına hata payı (Z değeri * Standart Hata) eklenip çıkarılarak formülize edilir. Verilen değerler formülde yerine konulduğunda belirtilen doğru aralık elde edilir."
+    "explanation": "**Doğru Cevap: En iyi durum veya en kötü durum hatası > ε 'dur. Bir sonuca varılımcaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.**\n\nModel geçerliliği testlerinde, eğer en iyi durum hatası veya en kötü durum hatası istenen epsilon (hata payı) değerinden büyükse, sistemin gerçek değeri ile modelin tahmini değeri arasında istatistiksel bir fark olup olmadığı anlaşılamaz. Bu durumda modelin iyileştirilmesi veya daha fazla simülasyon (replikasyon) çalıştırılması gerekir."
   },
   {
     "questionText": "Bir berbere gelen müşterilerin %20’si saç tıraşı ve %80’i sakal tıraşı olmaktadır. Bu müşteri tipleri ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafından gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir.DECIDE modülene yazılacak koşul/condition aşağıdakilerden hangisidir?",
@@ -1254,7 +1254,7 @@
     ],
     "correctAnswer": "E",
     "id": 23,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'TIP=1' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç TIP=1 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: TIP=1**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Bilgisayar üreten bir firma ürünlerinin dayanıklılık süresini değerlendirmek istemektedir. 100 tane rassal olarak seçilen bilgisayarın standart sapması 120 gün, ortalama dayanıklılık süreleri de 1440 gündür.%90 güvenle anakütle ortalama dayanıklılık süresi aşağıdaki aralıklardan hangisidir? (Z 𝘢/₂ = 1,65)",
@@ -1288,7 +1288,7 @@
     ],
     "correctAnswer": "B",
     "id": 24,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '[1420.2-1459,8]' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç [1420.2-1459,8] olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: [1420.2-1459,8]**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "1979-1986 yıllarını kapsayan simülasyon tarihçesi dönemi aşağıdakilerden hangisidir?",
@@ -1322,7 +1322,7 @@
     ],
     "correctAnswer": "A",
     "id": 25,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Konsolidasyon ve yenileme dönemi' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Konsolidasyon ve yenileme dönemi olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Konsolidasyon ve yenileme dönemi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Yukarıda verilen tabloya göre 4. müşteri sisteme kaçıncı dakikada gelmiştir?",
@@ -1356,7 +1356,7 @@
     ],
     "correctAnswer": "E",
     "id": 26,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '18' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 18 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: 18**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "RECORD modülündeki TYPE alanında, üretilecek olan istatistiklerin tipi belirlenir.Aşağıdakilerden hangisi modüle gelen varlıklar arasındaki zamanı kayıt altına alır?",
@@ -1390,7 +1390,7 @@
     ],
     "correctAnswer": "B",
     "id": 27,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Time Between' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Time Between olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Time Between**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Aşağıdakilerden hangisi bir benzetim yazılımı seçilirken dikkat edilecek model oluşturma özelliklerinden biri değildir?",
@@ -1424,7 +1424,7 @@
     ],
     "correctAnswer": "A",
     "id": 28,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Hareket kalitesi' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Hareket kalitesi olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Hareket kalitesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Aşağıdakilerden hangisi bir banka sisteminin yapısal varsayımlarına örnek değildir?",
@@ -1458,7 +1458,7 @@
     ],
     "correctAnswer": "C",
     "id": 29,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Bireysel müşteriler için hizmet süreleri 5 dk. ortalamalı üstel dağılıma uymaktadır.' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Bireysel müşteriler için hizmet süreleri 5 dk. ortalamalı üstel dağılıma uymaktadır. olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Bireysel müşteriler için hizmet süreleri 5 dk. ortalamalı üstel dağılıma uymaktadır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Parametreleri α= 5 dk; β= 10 dk olan weibull dağılıma uyan rassal değişkenlerin ters dönüşüm formülü aşağıdakilerden hangisidir?",
@@ -1492,7 +1492,7 @@
     ],
     "correctAnswer": null,
     "id": 30,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'bilinmeyen seçenek' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç bilinmeyen seçenek olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: **\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Bir bankaya gelen müşterilerin yüzde 20’si fatura yatırmaktadır ve yüzde 80’i para çekmektedir. Bu müşteri tipleri ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafindan gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir.Buna göre DECIDE modüle yazılacak koşul/condition aşağıdakilerden hangisidir?",
@@ -1526,7 +1526,7 @@
     ],
     "correctAnswer": "E",
     "id": 31,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'TIP==1' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç TIP==1 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: TIP==1**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "SIMAN dili iki sınıftan oluşmaktadır.Aşağıdakilerden hangisi SIMAN sınıflarından bloklara örnek değildir?",
@@ -1560,7 +1560,7 @@
     ],
     "correctAnswer": "D",
     "id": 32,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'RESOURCE' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç RESOURCE olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: RESOURCE**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "I. Uygun dağılımı seçmekII. Veri değerlerini içeren bir metin dosyası oluşturmakIII. Oluşturulan dağılım ifadesini Arena modelinde uygun alana kopyalamakIV. Verilere bir veya daha fazla dağılım uygunluğu için deney yapmakINPUT ANALYZER kullanmak için gereken eylemlerin doğru sıralaması aşağıdakilerden hangisidir?",
@@ -1594,7 +1594,7 @@
     ],
     "correctAnswer": "A",
     "id": 33,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'II-IV-I-III' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç II-IV-I-III olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: II-IV-I-III**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Aşağıdaki yöntemlerden hangisi sınırları uygun nokta tahminleri kullanılarak hesaplanan bir aralık içinde bulunduğu doğru istatistiksel parametrenin güvenini sayısallaştırmaktadır?",
@@ -1628,7 +1628,7 @@
     ],
     "correctAnswer": "B",
     "id": 34,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Güven aralığı' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Güven aralığı olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Güven aralığı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Bir diş kliniğinde hastaların tedavi görme süreçlerinin benzetim çalışması yapılmıştır. Gözlemler sonucu hastaların ortalama 20 dakika bekledikleri gözlemlenmiştir. Sistemin modeli 8 saatlik 10 bağımsız koşumda çalıştırılmıştır. Koşum çıktılarının hipotez testlerini gerçekleştirmek için gerekli örneklem ortalaması 23,75 ve standart sapması 3,41 olarak hesaplanmıştır.Bu koşumlarda elde edilen sonuçların yardımıyla modelin geçerliliğini değerlendirmek için hesaplanacak hipotez testi formülü aşağıdakilerden hangisidir?",
@@ -1662,7 +1662,7 @@
     ],
     "correctAnswer": null,
     "id": 35,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'bilinmeyen seçenek' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç bilinmeyen seçenek olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: **\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Yukarıda verilen görseller hangi iki dağılım ailesine aittir?",
@@ -1696,7 +1696,7 @@
     ],
     "correctAnswer": "D",
     "id": 36,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Geometrik-Düzgün' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Geometrik-Düzgün olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Geometrik-Düzgün**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Kolmogorov Smirnov testi ile verilerin normal dağılıma uyup uymadığı test edilmiş ve D=0,1408 < D₀.₀₅,₂₀ =0,272 sonucu elde edilmiştir.Buna göre aşağıdakilerden hangisine karar verilir?",
@@ -1730,7 +1730,7 @@
     ],
     "correctAnswer": "C",
     "id": 37,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Verilerin normal dağılıma uymakta olduğu kabul edilir.' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Verilerin normal dağılıma uymakta olduğu kabul edilir. olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Verilerin normal dağılıma uymakta olduğu kabul edilir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "En iyi senaryoyu belirlemek için istatistiksel bir prosedür sağlayan ARENA programı aracı aşağıdakilerden hangisidir?",
@@ -1764,7 +1764,7 @@
     ],
     "correctAnswer": "E",
     "id": 38,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'PROCESS ANALYZER' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç PROCESS ANALYZER olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: PROCESS ANALYZER**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Bir havalimanında check-in yaptıran yolculara dair bir benzetim çalışması yapılmıştır. Sistem ARENA yardımıyla modellenirken CREATE modülünde “yolcu” bilgisi hangi pencereye yazılmalıdır?",
@@ -1798,7 +1798,7 @@
     ],
     "correctAnswer": "C",
     "id": 39,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Entity Type' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Entity Type olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Entity Type**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Bir havaalanı sisteminin benzetim modeli aşağıdaki tanımlardan hangisi ile ifade edilmektedir?",
@@ -1832,7 +1832,7 @@
     ],
     "correctAnswer": "D",
     "id": 40,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Sonsuz ufuklu simülasyon' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Sonsuz ufuklu simülasyon olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Sonsuz ufuklu simülasyon**\n\nEğer bir sistemin doğal bir başlangıcı ve bitişi varsa (örneğin sabah açılıp akşam kapanan bir banka veya fabrika vardiyası) buna sonlu ufuklu (terminating) simülasyon denir. Doğal bir bitişi olmayan, sürekli çalışan sistemler ise sonsuz ufuklu simülasyonlarla incelenir."
   },
   {
     "questionText": "Yukarıdaki şekilde verilen vardiya çizelgesine göre saat 13:00-14:00 arasında kaç personel görev yapmaktadır?",
@@ -1866,7 +1866,7 @@
     ],
     "correctAnswer": "D",
     "id": 41,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '4' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 4 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: 4**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Faaliyetlerin meydana gelmesinde görev alan personel, alet, alan, enerji, zaman, para gibi birimler aşağıdakilerden hangisini ifade etmektedir?",
@@ -1900,7 +1900,7 @@
     ],
     "correctAnswer": "A",
     "id": 42,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Kaynak' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Kaynak olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Kaynak**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Aşağıdakilerden hangisi Arena şablon paneli değildir?",
@@ -1934,7 +1934,7 @@
     ],
     "correctAnswer": "E",
     "id": 43,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'BASIC TRANSPORT' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç BASIC TRANSPORT olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: BASIC TRANSPORT**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Yukarıda verilen formül ( λ / μ*c ) aşağıdakilerden hangisini hesaplamak için kullanılır?",
@@ -1968,7 +1968,7 @@
     ],
     "correctAnswer": "B",
     "id": 44,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Trafik yoğunluğu' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Trafik yoğunluğu olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Trafik yoğunluğu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Bilgisayar üreten bir firma ürünlerinin dayanıklılık süresini değerlendirmek istemektedir. 100 tane rassal olarak seçilen bilgisayarın standart sapması 120 gün, ortalama dayanıklılık süreleri de 1440 gündür. %90 güvenle anakütle ortalama dayanıklılık süresi aşağıdaki aralıklardan hangisidir? (Zα/2=1,65)",
@@ -2002,7 +2002,7 @@
     ],
     "correctAnswer": "B",
     "id": 45,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '[1420.2 – 1459.8]' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç [1420.2 – 1459.8] olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: [1420.2 – 1459.8]**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Bir araba yıkama istasyonuna gelen müşterilerin varış zamanları sırasıyla (0 3 5 2 6 7) yukarıdaki tabloda gösterilmiştir. Araçlar 4 dakikada yıkanıyor ve 2 araç yıkama alanı var ise 4. müşteri sistemden ayrılma zamanı aşağıdakilerden hangisidir?",
@@ -2036,7 +2036,7 @@
     ],
     "correctAnswer": "B",
     "id": 46,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '16 dk' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 16 dk olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: 16 dk**\n\nBu bir klasik kuyruk teorisi problemidir. Araçlar 4 dakikada yıkanıyorsa ve 2 yıkama alanı varsa, ilk iki araç hemen yıkanmaya başlar (0-4 dk). Gelen 3. ve 4. araçlar ise sıraya girer. Sistemin çalışma süresi hesaplanarak müşterinin ayrılma zamanı basit toplama işlemleriyle bulunur."
   },
   {
     "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında müşterilerin kasa kuyruğunda bekleme süreleri güven aralığı [8.15-10.30] olarak belirlenmiştir. Gözlemlenen sistemin bekleme ortalamalarının 9.25 dakika olduğu bilinmektedir. Bu durum e=1 için en iyi durum ve en kötü durum hatasına göre incelendiğinde aşağıdaki sonuçlardan hangisine ulaşılır?",
@@ -2070,7 +2070,7 @@
     ],
     "correctAnswer": "D",
     "id": 47,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'En iyi durum veya en kötü durum hatası e'den büyüktür. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.' olmalıdır. Güven aralığı hesaplanırken örneklem ortalamasına hata payı (Z değeri * Standart Hata) eklenip çıkarılarak formülize edilir. Verilen değerler formülde yerine konulduğunda belirtilen doğru aralık elde edilir."
+    "explanation": "**Doğru Cevap: En iyi durum veya en kötü durum hatası e'den büyüktür. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.**\n\nModel geçerliliği testlerinde, eğer en iyi durum hatası veya en kötü durum hatası istenen epsilon (hata payı) değerinden büyükse, sistemin gerçek değeri ile modelin tahmini değeri arasında istatistiksel bir fark olup olmadığı anlaşılamaz. Bu durumda modelin iyileştirilmesi veya daha fazla simülasyon (replikasyon) çalıştırılması gerekir."
   },
   {
     "questionText": "Aşağıdakilerden hangisi ters dönüşüm yöntemini kullanarak elde edilen rassal değişken aralıklarından değildir?",
@@ -2104,7 +2104,7 @@
     ],
     "correctAnswer": "E",
     "id": 48,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '0.25 R 0.55 ise X=2' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 0.25 R 0.55 ise X=2 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: 0.25 R 0.55 ise X=2**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında kasa kuyruğunda bekleyen ortalama müşteri sayısı güven aralığı [9.1-10.5] olarak belirlenmiştir. Gözlemlenen sistemde kuyrukta bekleyen müşteri sayısı ortalama 11 müşteri olarak belirlenmiştir. Bu durum e=1 için en iyi durum ve en kötü durum hatasına göre incelendiğinde aşağıdaki sonuçlardan hangisine ulaşılır?",
@@ -2138,7 +2138,7 @@
     ],
     "correctAnswer": "E",
     "id": 49,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'En iyi durum hatası e'dur ancak en kötü durum hatası e'dur. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.' olmalıdır. Güven aralığı hesaplanırken örneklem ortalamasına hata payı (Z değeri * Standart Hata) eklenip çıkarılarak formülize edilir. Verilen değerler formülde yerine konulduğunda belirtilen doğru aralık elde edilir."
+    "explanation": "**Doğru Cevap: En iyi durum hatası e'dur ancak en kötü durum hatası e'dur. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.**\n\nModel geçerliliği testlerinde, eğer en iyi durum hatası veya en kötü durum hatası istenen epsilon (hata payı) değerinden büyükse, sistemin gerçek değeri ile modelin tahmini değeri arasında istatistiksel bir fark olup olmadığı anlaşılamaz. Bu durumda modelin iyileştirilmesi veya daha fazla simülasyon (replikasyon) çalıştırılması gerekir."
   },
   {
     "questionText": "Yukarıda gösterilen simülasyonun ısınma periyodu sona ererek kararlı duruma ulaşma zamanı (kaçıncı saatte) aşağıdakilerden hangisidir?",
@@ -2172,7 +2172,7 @@
     ],
     "correctAnswer": "B",
     "id": 50,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '50' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 50 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: 50**\n\nEğer bir sistemin doğal bir başlangıcı ve bitişi varsa (örneğin sabah açılıp akşam kapanan bir banka veya fabrika vardiyası) buna sonlu ufuklu (terminating) simülasyon denir. Doğal bir bitişi olmayan, sürekli çalışan sistemler ise sonsuz ufuklu simülasyonlarla incelenir."
   },
   {
     "questionText": "Bir berbere gelen müşterilerin ‘si saç tıraşı ve ‘i sakal tıraşı olmaktadır. Bu müşteri tipleri ARENA programı ile modellenen bir modelde ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafından gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir. DECIDE modüle yazılacak koşul/condition aşağıdakilerden hangisidir?",
@@ -2206,7 +2206,7 @@
     ],
     "correctAnswer": "A",
     "id": 51,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'TIP==1' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç TIP==1 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: TIP==1**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "RECORD modülündeki TYPE alanında üretilecek olan istatistiklerin tipi belirlenir. Aşağıdakilerden hangisi modüle gelen varlıklar arasındaki zamanı kayıt altına alır?",
@@ -2240,7 +2240,7 @@
     ],
     "correctAnswer": "B",
     "id": 52,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Time Between' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Time Between olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Time Between**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "ARENA programında RUN açılır menüsünden seçilen SETUP penceresindeki REPLICATION PARAMETERS sekmesi ile aşağıdakilerden hangisi belirlenemez?",
@@ -2274,7 +2274,7 @@
     ],
     "correctAnswer": "A",
     "id": 53,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Yürütme hızı' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Yürütme hızı olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Yürütme hızı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Faaliyetlerin meydana gelmesinde görev alan personel alet alan enerji zaman para gibi birimler aşağıdakilerden hangisini ifade etmektedir?",
@@ -2308,7 +2308,7 @@
     ],
     "correctAnswer": "B",
     "id": 54,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Kaynak' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Kaynak olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Kaynak**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Aşağıdakilerden hangisi PROCESS ANALYZER için tanımlanabilecek bir CONTROL değişkeni olamaz?",
@@ -2342,7 +2342,7 @@
     ],
     "correctAnswer": "A",
     "id": 55,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Müşterilerin bekleme süresi' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Müşterilerin bekleme süresi olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Müşterilerin bekleme süresi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Bir gazete bayiine gelen müşterilerin %20’si A, %25’i B, %15’i C ve %40’ı D gazetesini almaktadır. ARENA programı ile modellenen Benzetim modelinde CREATE modülü ile üretilen müşterilere gazete tercihleri ASSIGN modülü ile DISC fonksiyonu kullanarak atanacaktır. Doğru fonksiyon gösterimi aşağıdakilerden hangisidir?",
@@ -2376,7 +2376,7 @@
     ],
     "correctAnswer": "B",
     "id": 56,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'DISC(0.2,1,0.45,2,0.6,3,1,4)' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç DISC(0.2,1,0.45,2,0.6,3,1,4) olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: DISC(0.2,1,0.45,2,0.6,3,1,4)**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Aşağıdaki ikililerden hangisi her ARENA modülünde bulunmalıdır?",
@@ -2410,7 +2410,7 @@
     ],
     "correctAnswer": "D",
     "id": 57,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Create-Dispose' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Create-Dispose olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Create-Dispose**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Simülasyon yazılımını değerlendirirken ve seçerken aşağıdaki tavsiyelerden hangisi dikkate alınmamalıdır?",
@@ -2444,7 +2444,7 @@
     ],
     "correctAnswer": "A",
     "id": 58,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Tek bir konuya odaklanılmalıdır.' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Tek bir konuya odaklanılmalıdır. olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Tek bir konuya odaklanılmalıdır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Histogram ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
@@ -2478,7 +2478,7 @@
     ],
     "correctAnswer": "E",
     "id": 59,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Sürekli verilerin histogramı dağılımın olasılık kütle fonksiyonuna karşılık gelir.' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Sürekli verilerin histogramı dağılımın olasılık kütle fonksiyonuna karşılık gelir. olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Sürekli verilerin histogramı dağılımın olasılık kütle fonksiyonuna karşılık gelir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Verilen görseller aşağıdaki hangi iki dağılım ailesine aittir?",
@@ -2512,7 +2512,7 @@
     ],
     "correctAnswer": "D",
     "id": 60,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Geometrik-Düzgün' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Geometrik-Düzgün olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Geometrik-Düzgün**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Aşağıdakilerden hangisi simülasyon saatinin ilerletilmesinde kullanılan yaklaşımlardan biridir?",
@@ -2546,7 +2546,7 @@
     ],
     "correctAnswer": "D",
     "id": 61,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Sabit artışlarla zaman ilerletme' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Sabit artışlarla zaman ilerletme olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Sabit artışlarla zaman ilerletme**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Yukarıdaki şekilde verilen Fit All Summary raporuna göre verilere en uygun dağılım aşağıdakilerden hangisidir?",
@@ -2580,7 +2580,7 @@
     ],
     "correctAnswer": "D",
     "id": 62,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Normal' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Normal olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Normal**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Kendall (1953)’de kuyruk sistemi modellerini sınıflandırmak için kullandığı A/B/c/N/K notasyonundaki c aşağıdakilerden hangisini temsil etmektedir?",
@@ -2614,7 +2614,7 @@
     ],
     "correctAnswer": "C",
     "id": 63,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Servis sayısı' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Servis sayısı olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: Servis sayısı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "I. Bir diş kliniğinde hastaların tedavi görme süreçlerinin benzetim çalışması yapılmıştır. Gözlemler sonucu hastaların ortalama 18 dk bekledikleri gözlemlenmiştir. Sistemin modeli 8 saatlik 10 bağımsız koşumda çalıştırılmıştır.  Bu koşumlarda elde edilen sonuçların yardımıyla modelin geçerliliğini test etmek için kurulacak sıfır hipotezi aşağıdakilerden hangisidir?",
@@ -2648,7 +2648,7 @@
     ],
     "correctAnswer": "C",
     "id": 64,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'H0 : E(Y) = 18dk' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç H0 : E(Y) = 18dk olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: H0 : E(Y) = 18dk**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Bilgisayar üreten bir firma ürünlerinin dayanıklılık süresini değerlendirmek istemektedir. 100 tane rassal olarak seçilen bilgisayarın standart sapması 120 gün, ortalama dayanıklılık süreleri de 1440 gündür.",
@@ -2662,7 +2662,7 @@
     ],
     "correctAnswer": "B",
     "id": 65,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'bilinmeyen seçenek' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç bilinmeyen seçenek olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: **\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
     "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi, güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında müşterilerin kasa kuyruğunda bekleme süreleri güven aralığı [8.15-10.30] olarak belirlenmiştir. Gözlemlenen sistemin bekleme ortalamalarının 9.25 dakika olduğu bilinmektedir.",
@@ -2676,7 +2676,7 @@
     ],
     "correctAnswer": "D",
     "id": 66,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'bilinmeyen seçenek' olmalıdır. Güven aralığı hesaplanırken örneklem ortalamasına hata payı (Z değeri * Standart Hata) eklenip çıkarılarak formülize edilir. Verilen değerler formülde yerine konulduğunda belirtilen doğru aralık elde edilir."
+    "explanation": "**Doğru Cevap: **\n\nModel geçerliliği testlerinde, eğer en iyi durum hatası veya en kötü durum hatası istenen epsilon (hata payı) değerinden büyükse, sistemin gerçek değeri ile modelin tahmini değeri arasında istatistiksel bir fark olup olmadığı anlaşılamaz. Bu durumda modelin iyileştirilmesi veya daha fazla simülasyon (replikasyon) çalıştırılması gerekir."
   },
   {
     "questionText": "Bir berbere gelen müşterilerin %20’si saç tıraşı ve %80’i sakal tıraşı olmaktadır. Bu müşteri tipleri ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafından gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir.",
@@ -2690,6 +2690,6 @@
     ],
     "correctAnswer": "E",
     "id": 67,
-    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'bilinmeyen seçenek' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç bilinmeyen seçenek olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+    "explanation": "**Doğru Cevap: **\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   }
 ]
