@@ -6,21 +6,21 @@ const COURSES = [
     id: 'benzetim',
     title: 'Benzetim',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 64,
+    questionCount: 154,
     color: '#6366f1' // Primary color
   },
   {
     id: 'bilgisistemleriprojeyonetimi',
     title: 'Bilgi Sistemleri Proje Yönetimi',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 69,
+    questionCount: 62,
     color: '#10b981' // Success/Emerald color
   },
   {
     id: 'hukukuntemelkavramlari',
     title: 'Hukukun Temel Kavramları',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 135,
+    questionCount: 130,
     color: '#f59e0b' // Amber/Orange color
   },
   {
@@ -29,6 +29,13 @@ const COURSES = [
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
     questionCount: 70,
     color: '#8b5cf6' // Violet color
+  },
+  {
+    id: 'bilgisayarorganizasyonu',
+    title: 'Bilgisayar Organizasyonu',
+    description: 'Geçmiş dönem çıkmış sorular ve cevapları',
+    questionCount: 92,
+    color: '#ec4899' // Pink color
   }
 ];
 
