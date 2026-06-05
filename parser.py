@@ -3,6 +3,15 @@ import re
 from bs4 import BeautifulSoup
 import os
 import sys
+import difflib
+
+def normalize_turkish(text):
+    if not text: return ""
+    text = text.replace('I', 'ı').lower()
+    text = text.replace('ç', 'c').replace('ğ', 'g').replace('ı', 'i').replace('ö', 'o').replace('ş', 's').replace('ü', 'u')
+    # Remove all non-alphanumeric characters
+    text = re.sub(r'[^a-z0-9]', '', text)
+    return text
 
 def parse_file(filename, out_filename):
     with open(filename, 'r', encoding='utf-8') as f:
@@ -32,10 +41,8 @@ def parse_file(filename, out_filename):
         opts = []
         correct = None
         for od in b.find_all('div', class_=re.compile(r'rounded-xl border p-4')):
-            # Prevent leaking from unclosed parents
             if od.find_parent('div', class_=re.compile(r'rounded-2xl.*bg-card')) != b:
                 continue
-                
             letter_span = od.find('span', class_=re.compile(r'flex h-10 w-10'))
             if not letter_span: continue
             letter = letter_span.get_text(strip=True)
@@ -65,10 +72,8 @@ def parse_file(filename, out_filename):
         opts = []
         correct = None
         for r in b.find_all('div', class_='hdq_row'):
-            # Extremely important: Prevent leaking due to unclosed HTML tags!
             if r.find_parent('div', class_='hdq_question') != b:
                 continue
-                
             label = r.find('span', class_='hdq_aria_label')
             if not label: continue
             opt_full = label.get_text(separator='\n', strip=True)
@@ -109,7 +114,7 @@ def parse_file(filename, out_filename):
                 break
                 
             if node.name == 'p':
-                text = node.get_text(separator='\n', strip=True) # SEPARATOR IS VITAL
+                text = node.get_text(separator='\n', strip=True)
                 if text.startswith('Cevap :') or text.startswith('Cevap:'):
                     match = re.search(r'Cevap\s*:\s*([A-E])', text)
                     if match:
@@ -131,17 +136,53 @@ def parse_file(filename, out_filename):
                 if o['letter'] == correct: o['isCorrect'] = True
             questions.append({'q': q_text, 'img': img_url, 'opts': opts, 'correct': correct})
 
-    # Deduplication and mapping to final structure
-    seen = set()
+    # FORMAT 4: PLAINTEXT FALLBACK
+    plain_text = soup.get_text(separator='\n')
+    blocks = re.split(r'\n\s*\n', plain_text)
+    
+    for block in blocks:
+        block = block.strip()
+        if not block: continue
+        
+        match = re.search(r'(?:Soru\s*\d+|\d+[\.\)])\s*(.*?)\n\s*A\)\s*(.*?)\n\s*B\)\s*(.*?)\n\s*C\)\s*(.*?)\n\s*D\)\s*(.*?)\n(?:E\)\s*(.*?)\n)?.*?Cevap\s*:\s*([A-E])', block, re.IGNORECASE | re.DOTALL)
+        if match:
+            q_text = normalize(match.group(1))
+            opts = [
+                {'letter': 'A', 'text': normalize(match.group(2)), 'isCorrect': False},
+                {'letter': 'B', 'text': normalize(match.group(3)), 'isCorrect': False},
+                {'letter': 'C', 'text': normalize(match.group(4)), 'isCorrect': False},
+                {'letter': 'D', 'text': normalize(match.group(5)), 'isCorrect': False},
+            ]
+            if match.group(6):
+                opts.append({'letter': 'E', 'text': normalize(match.group(6)), 'isCorrect': False})
+            
+            correct = match.group(7).upper()
+            for o in opts:
+                if o['letter'] == correct:
+                    o['isCorrect'] = True
+            
+            questions.append({'q': q_text, 'img': None, 'opts': opts, 'correct': correct})
+
+    # Fuzzy Deduplication
     final_questions = []
+    duplicate_count = 0
     
     for i, q in enumerate(questions):
-        norm = re.sub(r'\s+', '', q['q'].lower())
-        # Filter logic: must have correct answer, exactly 5 options, must be unique
-        if norm not in seen and len(q['opts']) == 5 and q['correct']:
-            seen.add(norm)
+        if not q['opts'] or not q['correct']:
+            continue
             
-            # Map to final format
+        norm_q = normalize_turkish(q['q'])
+        if len(norm_q) < 5: continue
+        
+        is_duplicate = False
+        for fq in final_questions:
+            norm_fq = normalize_turkish(fq['questionText'])
+            ratio = difflib.SequenceMatcher(None, norm_q, norm_fq).ratio()
+            if ratio > 0.85:
+                is_duplicate = True
+                break
+                
+        if not is_duplicate:
             final_q = {
                 'id': len(final_questions) + 1,
                 'questionText': q['q'],
@@ -151,13 +192,17 @@ def parse_file(filename, out_filename):
                 'explanation': f"Bu sorunun çözümü sistem tarafından analiz edilmektedir. Doğru cevap {q['correct']} şıkkıdır."
             }
             final_questions.append(final_q)
+        else:
+            duplicate_count += 1
             
     out_path = os.path.join('src', 'data', 'courses', out_filename)
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump(final_questions, f, ensure_ascii=False, indent=2)
         
-    print(f"Total unique flawless questions parsed and saved to {out_filename}: {len(final_questions)}")
+    print(f"Parsed {len(questions)} initial raw questions.")
+    print(f"Removed {duplicate_count} duplicate questions using fuzzy matching.")
+    print(f"Total unique flawless questions saved to {out_filename}: {len(final_questions)}")
 
 if __name__ == '__main__':
     if len(sys.argv) != 3:

@@ -817,40 +817,6 @@
   },
   {
     "id": 25,
-    "questionText": "Yukarıdaki sorgu ile aşağıdaki işlemlerden hangisi gerçekleştirilir?",
-    "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1772252894600-h5n1mz.jpg",
-    "options": [
-      {
-        "letter": "A",
-        "text": "PersonelNo 155 veya 300 olan personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "PersonelNo 155 ve 300 olan personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "PersonelNo 155 olan personelle aynı göreve sahip olan ve \"300\" numaralı personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "PersonelNo 300 olan personelle aynı göreve sahip olan ve \"155\" numaralı personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "PersonelNo 155 veya 300 olan personelin ücretinden daha az ücret alan personeli listeler.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: PersonelNo 155 olan personelle aynı göreve sahip olan ve \"300\" numaralı personelin ücretinden daha fazla ücret alan personeli listeler.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 26,
     "questionText": "SELECT Adı, Ücret, NVL (Komisyon, 0) FROM PERSONEL; Yukarıdaki SQL sorgusu aşağıdakilerden hangisini gerçekleştirmek için kullanılır?",
     "imageUrl": null,
     "options": [
@@ -884,7 +850,7 @@
     "explanation": "**Doğru Cevap: Personel tablosundaki Komisyon verilerini NULL olan kayıtlarda 0 yazarak Adı, Ücret ve Komisyon değerlerini elde etmek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 27,
+    "id": 26,
     "questionText": "İki veya daha fazla veri tabanı tablosunun tüm olası eşleştirmelerini bir araya getiren cebirsel işlem aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -918,7 +884,7 @@
     "explanation": "**Doğru Cevap: Kartezyen Çarpım**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 28,
+    "id": 27,
     "questionText": "En fazla ücret alan personelinin ücreti \"30\" numaralı bölümün ortalama ücretinden daha fazla olan bölümleri öğrenmek için gerçekleştirilen bir sorguda (tablo ve alan adlarının önemsenmediği durumda) aşağıdaki sorgu parçalarının hangisi bulunmaz?",
     "imageUrl": null,
     "options": [
@@ -952,7 +918,7 @@
     "explanation": "**Doğru Cevap: WHERE BölümNo;**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 29,
+    "id": 28,
     "questionText": "Transaction işlemindeki SQL komutu tarafından yapılmış olan tüm değişiklikleri geri almak için kullanılan komut aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -986,7 +952,7 @@
     "explanation": "**Doğru Cevap: Rollback**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 30,
+    "id": 29,
     "questionText": "Aşağıdakilerden hangisi Yolcular ismindeki bir tablodaki tüm kayıtları getiren SQL sorgusudur?",
     "imageUrl": null,
     "options": [
@@ -1020,7 +986,7 @@
     "explanation": "**Doğru Cevap: Select * From Yolcular;**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 31,
+    "id": 30,
     "questionText": "Aşağıdakilerden hangisi veri tabanı yönetim sistemi kullanıcılarının veri tabanı yönetim sistemi nesnelerine hangi yetkilerle erişebileceklerini belirlemek için kullanılmaz?",
     "imageUrl": null,
     "options": [
@@ -1054,7 +1020,7 @@
     "explanation": "**Doğru Cevap: WHERE**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 32,
+    "id": 31,
     "questionText": "Yukarıda verilen sorguda kullanılan anahtar kelimeler ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1772252955327-n2kupl.jpg",
     "options": [
@@ -1088,7 +1054,7 @@
     "explanation": "**Doğru Cevap: DISTINCT; verilerin gruplanmasını sağlamak için kullanılır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 33,
+    "id": 32,
     "questionText": "Aşağıdakilerden hangisi çoka-çok ilişki örneği olabilir?",
     "imageUrl": null,
     "options": [
@@ -1122,7 +1088,7 @@
     "explanation": "**Doğru Cevap: Ders - Öğrenci**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 34,
+    "id": 33,
     "questionText": "Aşağıdaki veri türlerinden hangisi üzerinde TO_DATE() fonksiyonu kullanılarak tarih verisine dönüştürme gerçekleştirmek mümkündür?",
     "imageUrl": null,
     "options": [
@@ -1156,7 +1122,7 @@
     "explanation": "**Doğru Cevap: Metinsel**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 35,
+    "id": 34,
     "questionText": "Tablo1 ismindeki bir veri tabanı tablosunda Koşull ismindeki koşulu sağlayan satırların silinmesini sağlayan SQL komutu aşağıdakilerden hangisi olabilir?",
     "imageUrl": null,
     "options": [
@@ -1190,7 +1156,7 @@
     "explanation": "**Doğru Cevap: Delete From Tablo 1  Where Koşul 1**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 36,
+    "id": 35,
     "questionText": "Gruplanan ya da hesaplanan alanların sınırlanması için kullanılan SQL deyimi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1224,7 +1190,7 @@
     "explanation": "**Doğru Cevap: GROUP BY**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 37,
+    "id": 36,
     "questionText": "Bir veri tabanı tablosunda bir alana girilen verinin tekrarsız olmasını sağlamak için kullanılan veri kısıtlama türündeki ifade aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1258,7 +1224,7 @@
     "explanation": "**Doğru Cevap: UNIQUE**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 38,
+    "id": 37,
     "questionText": "Yukarıdaki tabloda verilen alanlardan hangisi bir kayıtta birden çok değer alabilir?",
     "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1772253060129-xtx1p9.jpg",
     "options": [
@@ -1292,7 +1258,7 @@
     "explanation": "**Doğru Cevap: AldigiDersler**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 39,
+    "id": 38,
     "questionText": "Bir veri tabanı tablosunda yer alan bazı özniteliklerin başka bir öznitelik aracılığıyla üçüncü bir özniteliğe bağlı olması durumuna verilen ad aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1326,7 +1292,7 @@
     "explanation": "**Doğru Cevap: Geçişli bağımlılık**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 40,
+    "id": 39,
     "questionText": "Personel arasında görevi \"Memur\" olanlara %10, \"Şef\" olanlara %15, \"Müdür\" olanlara ise %20 zam yapılması için gerçekleştirilecek olan SQL sorgusu aşağıdakilerden hangisidir?",
     "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1772253118297-etixbg.jpg",
     "options": [
@@ -1360,7 +1326,7 @@
     "explanation": "**Doğru Cevap: **\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 41,
+    "id": 40,
     "questionText": "Bir veri tabanının temelini oluşturan ve bilgilerin tutulduğu nesne aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1394,7 +1360,7 @@
     "explanation": "**Doğru Cevap: Tablo**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 42,
+    "id": 41,
     "questionText": "Bir veri tabanında depolanacak verileri kısıtlayan koşullar aşağıdakilerden hangisi ile ifade edilir?",
     "imageUrl": null,
     "options": [
@@ -1428,7 +1394,7 @@
     "explanation": "**Doğru Cevap: Bütünlük kısıtlamaları**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 43,
+    "id": 42,
     "questionText": "UPDATE PERSONEL SET BölümNo=10 WHERE PersonelNo=300 sorgusu aşağıdakilerden hangisini yapar?",
     "imageUrl": null,
     "options": [
@@ -1462,41 +1428,7 @@
     "explanation": "**Doğru Cevap: 300 numaralı personelin BölümNo’sunu 10 olarak değiştirir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 44,
-    "questionText": "Personel arasında görevi MEMUR olanlara %10, ŞEF olanlara %15, MÜDÜR olanlara ise %20 zam yapılması için gerçekleştirilecek olan SQL sorgusu aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "SELECT Adı, Görevi, Ücret DECODE(Görevi, Ücret*1,10, Ücret*1,15, Ücret*1,20) FROM PERSONEL;",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "SELECT Adı, Görevi, Ücret DECODE(Görevi, ‘Memur’, ‘Şef’, ‘Müdür’, Ücret*1,10, Ücret*1,15, Ücret*1,20, Ücret) FROM PERSONEL;",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "SELECT Adı, Görevi, Ücret DECODE(Görevi, ‘Memur’, Ücret*1,10, ‘Şef’, Ücret*1,15, ‘Müdür’, Ücret*1,20, Ücret) FROM PERSONEL;",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "SELECT Adı, Görevi, Ücret DECODE(Memur, Ücret*1,10, Şef, Ücret*1,15, Müdür, Ücret*1,20, Ücret) FROM PERSONEL;",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "SELECT Adı, Görevi, Ücret DECODE(‘Memur’, ‘Şef’, ‘Müdür’, Ücret*1,10, Ücret*1,15, Ücret*1,20, Ücret) FROM PERSONEL;",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: SELECT Adı, Görevi, Ücret DECODE(Görevi, ‘Memur’, Ücret*1,10, ‘Şef’, Ücret*1,15, ‘Müdür’, Ücret*1,20, Ücret) FROM PERSONEL;**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 45,
+    "id": 43,
     "questionText": "İsmi Tablo1, içerdiği alanlar Alan1, Alan2 ve Alan3 olan bir tablodaki bütün verilerin silinmesi için aşağıdaki komutlardan hangisi kullanılmalıdır?",
     "imageUrl": null,
     "options": [
@@ -1530,7 +1462,7 @@
     "explanation": "**Doğru Cevap: Truncate Tablo1 (Alan1, Alan2, Alan3);**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 46,
+    "id": 44,
     "questionText": "Aşağıdakilerden hangisi Select Adı & ‘Personeli’ & Ücret & ‘TL Ücret Alıyor…’ As Adı_Ücreti From Personel şeklinde verilen bir sorgunun sonucunda oluşan tabloda yer alan bir kayıt olabilir?",
     "imageUrl": null,
     "options": [
@@ -1564,7 +1496,7 @@
     "explanation": "**Doğru Cevap: Erdem personeli 5000 TL ücret alıyor…**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 47,
+    "id": 45,
     "questionText": "Tablo ve görünüm oluşturma yetkilerine sahip olan bir YÖNETİCİ rolü oluşturmak ve veri tabanı yönetim sistemindeki Ali ve Ayşe kullanıcılarına bu rol yetkisini vermek için aşağıdaki işlemlerden hangisi gerçekleştirilmez?",
     "imageUrl": null,
     "options": [
@@ -1598,7 +1530,7 @@
     "explanation": "**Doğru Cevap: YÖNETİCİ ismiyle oluşturulan rolün işlemleri başarıyla gerçekleştirip gerçekleştirilemediğine bakılır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 48,
+    "id": 46,
     "questionText": "Veri tabanındaki bir tablonun bir kaydı ile diğer tablonun bir kaydı eşleştirilirse bu iki tablo arasındaki ilişki nasıl bir ilişki olur?",
     "imageUrl": null,
     "options": [
@@ -1632,41 +1564,7 @@
     "explanation": "**Doğru Cevap: Bire bir ilişki**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 49,
-    "questionText": "Aşağıdaki veri tabanı yönetim sistemlerinin hangisinde COMMIT ve ROLLBACK işlemlerine ihtiyaç duyulmaz?<",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Web veri tabanı yönetim sistemleri",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "İlişkisel veri tabanı yönetim sistemleri",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Çok kullanıcılı veri tabanı yönetim sistemleri",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Masaüstü veri tabanı yönetim sistemleri",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Tek kullanıcılı veri tabanı yönetim sistemleri",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Tek kullanıcılı veri tabanı yönetim sistemleri**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 50,
+    "id": 47,
     "questionText": "SELECT Görevi, SUM(Ücret) FROM PERSONEL WHERE Görevi <> ‘PAZARLAMACI’ GROUP BY Görevi HAVING SUM(Ücret)> 5000 ORDER BY SUM(Ücret); Yukarıdaki sorgu aşağıdakilerden hangisini yapar?",
     "imageUrl": null,
     "options": [
@@ -1700,41 +1598,7 @@
     "explanation": "**Doğru Cevap: Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, ücretleri toplanır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 51,
-    "questionText": "Alanları PersonelNo, Adı, Görevi, Ücret, BölümNo olan bir PERSONEL tablosu ve alanları BölümNo, Bölüm Adı, Konum olan bir BÖLÜM tablosu arasındaki ilişki nasıl kurulur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "İki tablodaki en çok veriye sahip olan alan üzerinde işlem yapılarak",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "İki tabloda ortak olan BölümNo alanından faydalanılarak",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "İki tablodaki herhangi bir alan üzerinde işlem yapılarak",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "İki tablodaki en az veriye sahip olan alan üzerinde işlem yapılarak",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "İki tablodaki bütün alanlar birleştirilerek",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: İki tabloda ortak olan BölümNo alanından faydalanılarak**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 52,
+    "id": 48,
     "questionText": "SELECT Adı, Ücret FROM PERSONEL WHERE Ücret > (SELECT AVG(Ücret) FROM PERSONEL); sorgusu aşağıdakilerden hangisini yapar?",
     "imageUrl": null,
     "options": [
@@ -1768,7 +1632,7 @@
     "explanation": "**Doğru Cevap: Herkesin ücretinin ortalamasından daha fazla ücret alan personelleri bulur.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 53,
+    "id": 49,
     "questionText": "SELECT Adı, Ücret FROM PERSONEL WHERE Ücret = (SELECT MIN (Ücret) FROM PERSONEL); sorgusunda hangi kısım alt sorgudur?",
     "imageUrl": null,
     "options": [
@@ -1802,7 +1666,7 @@
     "explanation": "**Doğru Cevap: SELECT MIN (Ücret) FROM PERSONEL**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 54,
+    "id": 50,
     "questionText": "Alanları Adı, Soyadı ve İşeGirişTarihi şeklinde olan bir Personel tablosundaki personeller arasında o iş yerinde en az sürede çalışandan en çok sürede çalışana doğru bir sıralama işlemi gerçekleştiren SQL sorgusu aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1836,7 +1700,7 @@
     "explanation": "**Doğru Cevap: SELECT * FROM Personel ORDER BY İşeGirişTarihi DESC;**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 55,
+    "id": 51,
     "questionText": "İlişkisel cebir işlemleri ile ilgili aşağıdakilerden hangisi doğrudur?",
     "imageUrl": null,
     "options": [
@@ -1870,7 +1734,7 @@
     "explanation": "**Doğru Cevap: İki veya daha çok tabloda ortak olan alanlar içerisinde belli bir kurala uyan elemanları bulmak için seçim + kesişme işlemi birlikte kullanılır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 56,
+    "id": 52,
     "questionText": "Aşağıdaki SQL sorgularından hangisi yanlış yazılmıştır?",
     "imageUrl": null,
     "options": [
@@ -1904,41 +1768,7 @@
     "explanation": "**Doğru Cevap: SELECT BölümNo, COUNT(*) FROM PERSONEL;**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 57,
-    "questionText": "SQL’deki TO_CHAR ve TO_NUMBER fonksiyonlarının kullanımı ile ilgili aşağıdakilerden hangisi yanlıştır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Her fonksiyonun kullanılabileceği belli veri türleri vardır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Bu fonksiyonların kullanımı sonucunda veri tabanı tablosundaki kaydın değeri değişmez, sadece görüntüleme biçimi değişir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Kategori olarak dönüştürme fonksiyonları olarak ifade edilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Bu fonksiyonlar WHERE, ORDER BY vb. deyimlerden farklı deyimler ile beraber kullanılır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "İhtiyaca göre farklı formatta dönüştürmeler gerçekleştirilebilir.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Bu fonksiyonlar WHERE, ORDER BY vb. deyimlerden farklı deyimler ile beraber kullanılır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 58,
+    "id": 53,
     "questionText": "Birden daha fazla SQL sorgusunun arka arkaya tek bir sorgu gibi çalıştırılmasını sağlayan kavram aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1972,7 +1802,7 @@
     "explanation": "**Doğru Cevap: TRANSACTION**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 59,
+    "id": 54,
     "questionText": "Bir veri kümesinde bir özniteliğin alabileceği değerlerin tümünün oluşturduğu kümeye ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -2006,7 +1836,7 @@
     "explanation": "**Doğru Cevap: Etki alanı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 60,
+    "id": 55,
     "questionText": "Aşağıdakilerden hangisi bir alt sorgu çeşidi değildir?",
     "imageUrl": null,
     "options": [
@@ -2040,7 +1870,7 @@
     "explanation": "**Doğru Cevap: Belirsiz alt sorgu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 61,
+    "id": 56,
     "questionText": "Aşağıdakilerden hangisi SQL'de bir matematiksel fonksiyondur?",
     "imageUrl": null,
     "options": [
@@ -2074,7 +1904,7 @@
     "explanation": "**Doğru Cevap: MOD()**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 62,
+    "id": 57,
     "questionText": "Aşağıdakilerden hangisi INDEKS oluşturmayı engelleyen bir durum değildir?",
     "imageUrl": null,
     "options": [
@@ -2108,7 +1938,7 @@
     "explanation": "**Doğru Cevap: Alanın çok sayıda NULL değer içermesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 63,
+    "id": 58,
     "questionText": "SELECT SUM(Ücret) FROM PERSONEL WHERE Görevi ='Şef'; şeklindeki bir sorgu, aşağıdaki değerlerin hangisini elde etmek için kullanılır?",
     "imageUrl": null,
     "options": [
@@ -2142,7 +1972,7 @@
     "explanation": "**Doğru Cevap: Görevi Şef olan kişilerin Ücret alanlarının toplamı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 64,
+    "id": 59,
     "questionText": "Bir veri tabanı tablosunda bir özniteliğin bağlı olduğu anahtar ile benzersiz olarak belirlenmesi durumuna ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -2176,7 +2006,7 @@
     "explanation": "**Doğru Cevap: Tam fonksiyonel bağımlılık**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 65,
+    "id": 60,
     "questionText": "Yukarıdaki şekilde \"?\" yerine hangi ilişkisel cebir işlemi gelmelidir?",
     "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1772251956693-rnw3j1.jpg",
     "options": [
@@ -2210,7 +2040,7 @@
     "explanation": "**Doğru Cevap: Atma**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 66,
+    "id": 61,
     "questionText": "SELECT Adı, Görevi Ücret FROM PERSONELWHERE Görevi = (SELECT GöreviFROM PERSONEL WHERE PersonelNo=155) AND Ücret> (SELECT Ücret FROM PERSONEL WHERE PersonelNo=300);sorgusu ne iş yapar?",
     "imageUrl": null,
     "options": [
@@ -2244,7 +2074,7 @@
     "explanation": "**Doğru Cevap: PersonelNo 155 olan personelle aynı göreve sahip olan ve \"300\" numaralı personelin ücretinden daha fazla ücret alan personeli listeler.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 67,
+    "id": 62,
     "questionText": "GRANT CREATE TABLE TO Ruya; sorgusu ne anlama gelmektedir?",
     "imageUrl": null,
     "options": [
@@ -2278,7 +2108,7 @@
     "explanation": "**Doğru Cevap: Ruya kullanıcısına tablo oluşturma yetkisi verir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 68,
+    "id": 63,
     "questionText": "İki veya daha çok veri tabanı tablosundaki ortak satırların bulunması için kullanılan komut aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2312,7 +2142,7 @@
     "explanation": "**Doğru Cevap: INTERSECT**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 69,
+    "id": 64,
     "questionText": "Aşağıdakilerden hangisi ilişkisel veri tabanları ile ilişkisel olmayan veri tabanları arasındaki kesin farklardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -2346,75 +2176,7 @@
     "explanation": "**Doğru Cevap: Kullanıldıkları işler**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 70,
-    "questionText": "Aşağıdakilerden hangisi bir veri tabanındaki bir tablonun ismi olabilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "HAVING",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "SYSDATE",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "INTO",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "UPDATE",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "OGRENCILER",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: OGRENCILER**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 71,
-    "questionText": "SELECT Adı, Ücret, NVL(Komisyon, 0) FROM PERSONEL; SQL sorgusu aşağıdakilerden hangisini gerçekleştirmek için kullanılır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Personel tablosundaki değeri NULL olmayan Komisyon verilerini bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Personel tablosundaki değeri NULL olan tüm verileri bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Personel tablosundaki Komisyon verilerini NULL olan kayıtlarda 0 yazarak Adı, Ücret ve Komisyon degerlerini elde etmek",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Personel tablosundaki Komisyon verilerinı bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Personel tablosundaki değeri NULL olan Konsisyon verilerini bulmak",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Personel tablosundaki Komisyon verilerini NULL olan kayıtlarda 0 yazarak Adı, Ücret ve Komisyon degerlerini elde etmek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 72,
+    "id": 65,
     "questionText": "İlişkisel veri tabanlarında yapılan aşağıdaki işlemlerden hangisinin sonucu doğru verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -2448,7 +2210,7 @@
     "explanation": "**Doğru Cevap: (10x3)+100+NULL = NULL**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 73,
+    "id": 66,
     "questionText": "SELECT BölümNo, AVG(Ücret) FROM PERSONEL;WHERE AVG(Ücret) >2000GROUP BY BölümNo; Yukarıda verilen SQL sorgusu içerisinde yer alan hata aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2482,7 +2244,7 @@
     "explanation": "**Doğru Cevap: Group By ile Where deyimi beraber kullanılamaz.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 74,
+    "id": 67,
     "questionText": "Aşağıdaki karşılaştırma deyimlerinden hangileri bir değerin tabloda var olup olmadığını tespit etmek için kullanılır?",
     "imageUrl": null,
     "options": [
@@ -2516,7 +2278,7 @@
     "explanation": "**Doğru Cevap: IS NULL / IS NOT NULL**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 75,
+    "id": 68,
     "questionText": "Veri tabanlarındaki view yapısı ile ilgili aşağıdakilerden hangisi söylenemez?",
     "imageUrl": null,
     "options": [
@@ -2550,41 +2312,7 @@
     "explanation": "**Doğru Cevap: Tablolardan daha çok bellek alanı kaplar.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 76,
-    "questionText": "SELECT Adı ÜcretNVL (Komisyon0) FROM PERSONEL; Yukarıdaki SQL sorgusu aşağıdakilerden hangisini gerçekleştirmek için kullanılır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Personel tablosundaki Komisyon verilerini bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Personel tablosundaki değeri NULL olan Komisyon verilerini bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Personel tablosundaki değeri NULL olan tüm verileri bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Personel tablosundaki Komisyon verilerini NULL olan kayıtlarda 0 yazarak Adı, Ücret ve Komisyon değerlerini elde etmek",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Personel tablosundaki değeri NULL olmayan Komisyon verilerini bulmak",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Personel tablosundaki Komisyon verilerini NULL olan kayıtlarda 0 yazarak Adı, Ücret ve Komisyon değerlerini elde etmek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 77,
+    "id": 69,
     "questionText": "SELECT Adı GöreviÜcret FROM PERSONELWHERE Görevi = (SELECT GöreviFROM PERSONEL WHERE PersonelNo=155) AND Ücret> (SELECT Ücret FROM PERSONEL WHERE PersonelNo 300) Yukarıdaki sorgu ile aşağıdaki işlemlerden hangisi gerçekleştirilir?",
     "imageUrl": null,
     "options": [
@@ -2618,177 +2346,7 @@
     "explanation": "**Doğru Cevap: PersonelNo 155 olan personelle aynı göreve sahip olan ve \"300\" numaralı personelin ücretinden daha fazla ücret alan personeli listeler.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 78,
-    "questionText": "CREATE ROLE rol adı; Yukarıdaki sorgu kim veya kimler tarafından oluşturulabilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Veri Tabanı Yönetim Sistemi yöneticisi",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Veri Tabanı Yönetim Sistemi'ndeki diğer roller",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Veri Tabanı Yönetim Sistemi sahibi",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Veri Tabanı Yönetim Sistemi oluşturucusu",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Veri Tabanı Yönetim Sistemi'ndeki kullanıcılar",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Veri Tabanı Yönetim Sistemi yöneticisi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 79,
-    "questionText": "Personel arasında görevi “Memur” olanlara%10 , “Şef” olanlara%15 , “Müdür” olanlara%20 ise zam yapılması için gerçekleştirilecek olan SQL sorgusu aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "SELECT Adı, Görevi, Ücret DECODE (Görev i, Memur', 'Şef', 'Müdür' , Ücret*1,10 , Ücret 1,15, Ücret 1, 20, Ücret) FROM PERSONEL;",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "SELECT Adı, Görevi, Ücret DECODE ('Memu r', 'Şef', 'Müdür', Ücret 1,10, Ücret 1,15, Ücret*1,20, Ücret) FROM PERSONEL",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "SELECT Adı, Görevi, Ücret DECODE (Görev i, Memur', Ücret 1,10, 'Şef', Ücret*1 15, Müdür, Ücret 1,20, Ücret) FROM PERSONEL;",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "SELECT Adı, Görevi, Ücret DECODE (Memur , Ücret 1,10, Şef, Ücret 1,15, Müdür, Ücret 1,20, Ücret) FROM PERSONEL;",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "SELECT Adı, Görevi, Ücret DECODE (Görev i, Ücret 1,10, Ücret*1,15, Ücret 1,20) FROM PERSONEL;",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: SELECT Adı, Görevi, Ücret DECODE (Görev i, Memur', 'Şef', 'Müdür' , Ücret*1,10 , Ücret 1,15, Ücret 1, 20, Ücret) FROM PERSONEL;**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 80,
-    "questionText": "Tablol ismindeki bir veri tabanı tablosunda Koşull ismindeki koşulu sağlayan satırların silinmesini sağlayan SQL komutu aşağıdakilerden hangisi olabilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Select Koşull Delete Tablol",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Delete Koşull Select Tablol",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Delete Koşull Where Tablol",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Delete From Tablol Where Koşull",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Select From Tablol Where Koşull",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Delete From Tablol Where Koşull**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 81,
-    "questionText": "En fazla ücret alan personelinin ücreti “30” numaralı bölümün ortalama ücretinden daha fazla olan bölümleri öğrenmek için gerçekleştirilen bir sorguda (tablo ve alan adlarının önemsenmediği durumda) aşağıdaki sorgu parçalarının hangisi bulunmaz?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "(SELECT AVG(Ücret) FROM PERSONEL)",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "WHERE BölümNo;",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "SELECT BolumNo MAX(Ücret) AS EN YÜKSEK ÜCRET\"",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "FROM PERSONEL GROUP BY BölümNo",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "HAVING MAX (Ücret) >",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: WHERE BölümNo;**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 82,
-    "questionText": "Aşağıdaki veri türlerinden hangisi üzerinde TO_DATE() fonksiyonu kullamlarak tarih verisine dönüştürme gerçekleştirmek mümkündür?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Köprü",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Metinsel",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Resim",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Ses",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Sayısal",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Metinsel**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 83,
+    "id": 70,
     "questionText": "SELECT [DISTINCT (* sütun ) FROM tabl [WHERE koşul] [ORDER BY [sütunifade [A SC DESC ]; Yukarıda verilen sorguda kullanılan anahtar kelimeler ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -2820,141 +2378,5 @@
     ],
     "correctAnswer": "C",
     "explanation": "**Doğru Cevap: DISTINCT; verilerin gruplanmasını sağlamak için kullanılır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 84,
-    "questionText": "SQL’deki bazı grup fonksiyonları, uygulandığı alandaki tüm verileri kullanıp bir sonuç oluştururken bazı fonksiyonlar uygulandığı alanlar arasından bir değer seçmektedir. Aşağıdakilerden hangisi alanlardaki veriler arasında bir değer seçen grup fonksiyonudur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "STDDEV() Fonksiyonu",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "COUNT() Fonksiyonu",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "SUM() Fonksiyonu",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "AVG() Fonksiyonu",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "VARIANCE() Fonksiyonu",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: COUNT() Fonksiyonu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 85,
-    "questionText": "Karakter türü bilgi içinde arama yapmak için yazılmış olan LIKE ‘RU%’ sorgusunun amacı aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "RU ile biten tüm verileri bulur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "RU ile başlayan tüm verileri bulur.",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "İçinde RU bulunmayan tüm verileri bulur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "İçinde RU bulunan tüm verileri bulur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "RU değerinin yüzde kaç olduğunu hesaplar.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: RU ile başlayan tüm verileri bulur.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 86,
-    "questionText": "Herhangi bir programlama dilindeki IF…THEN…ELSE deyimine SQL’de karşılık gelen deyim aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "NVL()",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "INITCAP()",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "DECODE()",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "MOD()",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "NEXT_DAY()",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: DECODE()**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 87,
-    "questionText": "SELECT Görevi, SUM(Ücret) FROM PERSONEL WHERE Görevi ‘PAZARLAMACI’ GROUP BY Görevi HAVING SUM(Ücret)> 5000 ORDER BY SUM(Ücret); Yukarıdaki SQL sorgusu aşağıdakilerden hangisini gerçekleştirir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, ücretleri toplanır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Pazarlamacı olan personelin ücretleri toplanır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, ücretleri toplanır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   }
 ]

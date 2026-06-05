@@ -27,7 +27,7 @@ const COURSES = [
     id: 'veritabaniyonetimsistemleri',
     title: 'Veri Tabanı Yönetim Sistemleri',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 87,
+    questionCount: 70,
     color: '#8b5cf6' // Violet color
   }
 ];
