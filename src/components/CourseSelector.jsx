@@ -22,7 +22,8 @@ export default function CourseSelector({ onSelectCourse }) {
   return (
     <div className="container animate-fade-in">
       <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
-        <h1 style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>AUZEF Soru Çözüm</h1>
+        <img src="/logo.png" alt="AUZEF Soru Çözüm Logo" style={{ width: '120px', height: '120px', marginBottom: '1rem', borderRadius: '24px', boxShadow: '0 8px 32px rgba(16, 185, 129, 0.2)' }} />
+        <h1 style={{ fontSize: '2.5rem', marginBottom: '1rem', background: 'linear-gradient(45deg, var(--primary-color), var(--secondary-color))', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>AUZEF Soru Çözüm</h1>
         <p style={{ color: 'var(--text-secondary)', fontSize: '1.1rem' }}>
           Çıkmış soruları çözerek sınavlara hazırlanın. Bir ders seçerek hemen başlayın.
         </p>
