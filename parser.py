@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup
 import os
 import sys
 import difflib
+import concurrent.futures
+import time
 
 def normalize_turkish(text):
     if not text: return ""
@@ -13,23 +15,64 @@ def normalize_turkish(text):
     text = re.sub(r'[^a-z0-9]', '', text)
     return text
 
-def parse_file(filename, out_filename):
-    with open(filename, 'r', encoding='utf-8') as f:
-        html = f.read()
-        
+def normalize(text):
+    if not text: return ""
+    # Clean up random invisible characters and extra whitespace
+    text = re.sub(r'[\xa0\u200b]', ' ', text)
+    return re.sub(r'\s+', ' ', text).strip()
+
+def is_promotional_image(img_url):
+    if not img_url: return True
+    lower_url = img_url.lower()
+    bad_keywords = ['telegram', 'banner', 'logo', 'premium', 'uye', 'sosyal', 'instagram', 'facebook', 'twitter', 'youtube', 'reklam', 'abone', 'ad-free']
+    for kw in bad_keywords:
+        if kw in lower_url:
+            return True
+    return False
+
+def is_fake_explanation(text):
+    if not text: return True
+    lower_text = text.lower()
+    bad_keywords = ['premium', 'üyelere özel', 'reklamsız üye', 'çözüm sadece', 'boş bırakılmış', 'bu soru boş']
+    for kw in bad_keywords:
+        if kw in lower_text:
+            return True
+    return False
+
+def process_image(img_url):
+    if not img_url or is_promotional_image(img_url): return None
+    if img_url.startswith('/'): return "https://lolonolo.com" + img_url
+    return img_url
+
+def parse_html(html):
     soup = BeautifulSoup(html, 'html.parser')
     questions = []
     
-    def normalize(text):
-        if not text: return ""
-        return re.sub(r'\s+', ' ', text).strip()
+    # Track parsed blocks to avoid double parsing the same text in different formats
+    parsed_texts = set()
 
-    def process_image(img_url):
-        if not img_url: return None
-        if img_url.startswith('/'): return "https://lolonolo.com" + img_url
-        return img_url
+    def add_question(q_text, opts, correct, img_url, explanation):
+        if not q_text or len(q_text) < 5 or not opts or not correct:
+            return
+            
+        norm_q = normalize_turkish(q_text)
+        if norm_q in parsed_texts:
+            return
+            
+        parsed_texts.add(norm_q)
+        
+        if is_fake_explanation(explanation):
+            explanation = ""
+            
+        questions.append({
+            'q': q_text,
+            'img': img_url,
+            'opts': opts,
+            'correct': correct,
+            'explanation': explanation
+        })
 
-    # FORMAT 1: <div class="rounded-2xl bg-card">
+    # FORMAT 1: Tailwind Web App (<div class="rounded-2xl bg-card">)
     for b in soup.find_all('div', class_=re.compile(r'rounded-2xl.*bg-card')):
         q_p = b.find('p', class_=re.compile(r'whitespace-pre-wrap.*text-foreground'))
         if not q_p: continue
@@ -52,10 +95,9 @@ def parse_file(filename, out_filename):
             if is_correct: correct = letter
             opts.append({'letter': letter, 'text': opt_text, 'isCorrect': is_correct})
             
-        if len(opts) > 0:
-            questions.append({'q': q_text, 'img': img_url, 'opts': opts, 'correct': correct})
+        add_question(q_text, opts, correct, img_url, "")
 
-    # FORMAT 2: <div class="hdq_question">
+    # FORMAT 2: HDQ WordPress Plugin
     for b in soup.find_all('div', class_='hdq_question'):
         h3 = b.find('h3', class_='hdq_question_heading')
         if not h3: continue
@@ -74,9 +116,16 @@ def parse_file(filename, out_filename):
         for r in b.find_all('div', class_='hdq_row'):
             if r.find_parent('div', class_='hdq_question') != b:
                 continue
-            label = r.find('span', class_='hdq_aria_label')
-            if not label: continue
-            opt_full = label.get_text(separator='\n', strip=True)
+            
+            # Use title attribute or aria label
+            input_tag = r.find('input', type='checkbox')
+            opt_full = input_tag.get('title', '') if input_tag else ""
+            if not opt_full:
+                label = r.find('span', class_='hdq_aria_label')
+                if label: opt_full = label.get_text(separator='\n', strip=True)
+                
+            if not opt_full: continue
+                
             match = re.match(r'^([A-E])\)\s*(.*)', opt_full, re.DOTALL)
             if match:
                 letter, text = match.groups()
@@ -85,15 +134,22 @@ def parse_file(filename, out_filename):
                 text = opt_full
             
             is_correct = 'hdq_correct_not_selected' in r.get('class', []) or 'hdq_correct' in r.get('class', [])
+            if not is_correct and input_tag and input_tag.get('value') == '1':
+                is_correct = True
+                
             if is_correct: correct = letter
             opts.append({'letter': letter, 'text': text.strip(), 'isCorrect': is_correct})
             
-        if len(opts) > 0:
-            questions.append({'q': q_text, 'img': img_url, 'opts': opts, 'correct': correct})
+        # Explanations are usually fake paywalls here, but let's extract them just in case they aren't
+        explanation = ""
+        after_text = b.find_next_sibling('div', class_='hdq_question_after_text')
+        if after_text:
+            explanation = after_text.get_text(separator='\n', strip=True)
+            
+        add_question(q_text, opts, correct, img_url, explanation)
 
-    # FORMAT 5: Table-based questions (<tr><td>) with hidden NOT: explanations and images
+    # FORMAT 3: Flat Table (<tr><td>)
     for td in soup.find_all('td'):
-        # Only process if there's a Cevap text inside
         td_text = td.get_text(separator='\n', strip=True)
         if 'Cevap :' not in td_text and 'Cevap:' not in td_text:
             continue
@@ -107,7 +163,7 @@ def parse_file(filename, out_filename):
             match = re.search(r'Cevap\s*:\s*([A-E])', h_text, re.IGNORECASE)
             if match:
                 correct = match.group(1).upper()
-                not_match = re.search(r'NOT\s*:(.*)', h_text, re.IGNORECASE | re.DOTALL)
+                not_match = re.search(r'(?:NOT|Açıklama)\s*:(.*)', h_text, re.IGNORECASE | re.DOTALL)
                 if not_match:
                     explanation = not_match.group(1).strip()
                 break
@@ -118,9 +174,7 @@ def parse_file(filename, out_filename):
         img = td.find('img')
         img_url = process_image(img['src'] if img else None)
         
-        # Extract options and question text
-        # Usually it looks like: Q text ... \n A) ... \n B) ... \n Cevap : ...
-        # We split by Cevap to avoid parsing options from the explanation
+        # Split by Cevap to avoid parsing options from the explanation
         td_text_split = re.split(r'Cevap\s*:', td_text, flags=re.IGNORECASE)[0]
         
         match_q = re.search(r'(?:^\d+[\.\)]\s*)?(.*?)\n\s*A\)\s*(.*?)\n\s*B\)\s*(.*?)\n\s*C\)\s*(.*?)\n\s*D\)\s*(.*?)(?:\n\s*E\)\s*(.*))?$', td_text_split, re.IGNORECASE | re.DOTALL)
@@ -136,9 +190,9 @@ def parse_file(filename, out_filename):
             if match_q.group(6):
                 opts.append({'letter': 'E', 'text': normalize(match_q.group(6)), 'isCorrect': correct == 'E'})
             
-            questions.append({'q': q_text, 'img': img_url, 'opts': opts, 'correct': correct, 'explanation': explanation})
+            add_question(q_text, opts, correct, img_url, explanation)
 
-    # FORMAT 3: <h4> Question Text \n <p> A) ... </p> ...
+    # FORMAT 4: Sub-Header <h4>
     for h4 in soup.find_all('h4'):
         q_text = normalize(h4.get_text(separator='\n', strip=True))
         q_text = re.sub(r'^\d+[\.\-]\s*', '', q_text)
@@ -154,18 +208,23 @@ def parse_file(filename, out_filename):
         
         opts = []
         correct = None
+        explanation = ""
         
         node = h4.find_next_sibling()
         while node:
-            if node.name in ['h4', 'h3', 'div']:
+            if node.name in ['h4', 'h3', 'div', 'table']:
                 break
                 
             if node.name == 'p':
                 text = node.get_text(separator='\n', strip=True)
                 if text.startswith('Cevap :') or text.startswith('Cevap:'):
-                    match = re.search(r'Cevap\s*:\s*([A-E])', text)
+                    match = re.search(r'Cevap\s*:\s*([A-E])', text, re.IGNORECASE)
                     if match:
-                        correct = match.group(1)
+                        correct = match.group(1).upper()
+                    
+                    not_match = re.search(r'(?:NOT|Açıklama)\s*:(.*)', text, re.IGNORECASE | re.DOTALL)
+                    if not_match:
+                        explanation = not_match.group(1).strip()
                     break
                     
                 lines = text.split('\n')
@@ -174,16 +233,23 @@ def parse_file(filename, out_filename):
                     if not line: continue
                     match = re.match(r'^([A-E])\)\s*(.*)', line)
                     if match:
-                        opts.append({'letter': match.group(1), 'text': match.group(2).strip(), 'isCorrect': False})
+                        opts.append({'letter': match.group(1).upper(), 'text': match.group(2).strip(), 'isCorrect': False})
             
             node = node.find_next_sibling()
             
         if len(opts) > 0 and correct:
             for o in opts:
                 if o['letter'] == correct: o['isCorrect'] = True
-            questions.append({'q': q_text, 'img': img_url, 'opts': opts, 'correct': correct})
+            
+            # Try to grab explanation from the next sibling if it's there
+            if not explanation and node and node.name == 'p':
+                next_text = node.get_text(separator='\n', strip=True)
+                if next_text.startswith('NOT') or next_text.startswith('Açıklama'):
+                    explanation = next_text
+            
+            add_question(q_text, opts, correct, img_url, explanation)
 
-    # FORMAT 4: PLAINTEXT FALLBACK
+    # FORMAT 5: PLAINTEXT FALLBACK
     plain_text = soup.get_text(separator='\n')
     blocks = re.split(r'\n\s*\n', plain_text)
     
@@ -191,7 +257,7 @@ def parse_file(filename, out_filename):
         block = block.strip()
         if not block: continue
         
-        match = re.search(r'(?:Soru\s*\d+|\d+[\.\)])\s*(.*?)\n\s*A\)\s*(.*?)\n\s*B\)\s*(.*?)\n\s*C\)\s*(.*?)\n\s*D\)\s*(.*?)\n(?:E\)\s*(.*?)\n)?.*?Cevap\s*:\s*([A-E])', block, re.IGNORECASE | re.DOTALL)
+        match = re.search(r'(?:Soru\s*\d+|\d+[\.\)])\s*(.*?)\n\s*A\)\s*(.*?)\n\s*B\)\s*(.*?)\n\s*C\)\s*(.*?)\n\s*D\)\s*(.*?)\n(?:E\)\s*(.*?)\n)?.*?Cevap\s*:\s*([A-E])(.*)', block, re.IGNORECASE | re.DOTALL)
         if match:
             q_text = normalize(match.group(1))
             opts = [
@@ -208,51 +274,117 @@ def parse_file(filename, out_filename):
                 if o['letter'] == correct:
                     o['isCorrect'] = True
             
-            questions.append({'q': q_text, 'img': None, 'opts': opts, 'correct': correct})
+            explanation = ""
+            if match.group(8):
+                tail = match.group(8).strip()
+                if tail.startswith('NOT') or tail.startswith('Açıklama'):
+                    explanation = tail
+            
+            add_question(q_text, opts, correct, None, explanation)
 
-    # Fuzzy Deduplication
+    return questions
+
+def parse_file(filename, out_filename):
+    print(f"[{filename}] Okunuyor...")
+    with open(filename, 'r', encoding='utf-8') as f:
+        html = f.read()
+        
+    questions = parse_html(html)
+    
+    # Advanced Fuzzy Deduplication & Merge
     final_questions = []
     duplicate_count = 0
+    merged_explanations = 0
     
-    for i, q in enumerate(questions):
-        if not q['opts'] or not q['correct']:
-            continue
-            
+    for q in questions:
         norm_q = normalize_turkish(q['q'])
-        if len(norm_q) < 5: continue
         
         is_duplicate = False
-        for fq in final_questions:
+        duplicate_idx = -1
+        
+        for idx, fq in enumerate(final_questions):
             norm_fq = normalize_turkish(fq['questionText'])
             ratio = difflib.SequenceMatcher(None, norm_q, norm_fq).ratio()
             if ratio > 0.85:
                 is_duplicate = True
+                duplicate_idx = idx
                 break
                 
         if not is_duplicate:
+            # Add new
             final_q = {
                 'id': len(final_questions) + 1,
                 'questionText': q['q'],
                 'imageUrl': q['img'],
                 'options': q['opts'],
                 'correctAnswer': q['correct'],
-                'explanation': q.get('explanation') or f"Bu sorunun çözümü sistem tarafından analiz edilmektedir. Doğru cevap {q['correct']} şıkkıdır."
+                'explanation': q['explanation'] or f"Bu sorunun çözümü sistem tarafından analiz edilmektedir. Doğru cevap {q['correct']} şıkkıdır."
             }
             final_questions.append(final_q)
         else:
             duplicate_count += 1
+            # MERGE LOGIC: If the duplicate has an explanation but the stored one doesn't, upgrade it!
+            stored_q = final_questions[duplicate_idx]
+            stored_has_real_expl = stored_q['explanation'] and "sistem tarafından analiz edilmektedir" not in stored_q['explanation']
+            new_has_real_expl = q['explanation'] and len(q['explanation']) > 0
+            
+            if new_has_real_expl and not stored_has_real_expl:
+                final_questions[duplicate_idx]['explanation'] = q['explanation']
+                merged_explanations += 1
+                
+            # MERGE LOGIC: If the duplicate has an image but the stored one doesn't, upgrade it!
+            if not stored_q['imageUrl'] and q['img']:
+                final_questions[duplicate_idx]['imageUrl'] = q['img']
             
     out_path = os.path.join('src', 'data', 'courses', out_filename)
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump(final_questions, f, ensure_ascii=False, indent=2)
         
-    print(f"Parsed {len(questions)} initial raw questions.")
-    print(f"Removed {duplicate_count} duplicate questions using fuzzy matching.")
-    print(f"Total unique flawless questions saved to {out_filename}: {len(final_questions)}")
+    return {
+        'file': filename,
+        'initial': len(questions),
+        'duplicates': duplicate_count,
+        'merged': merged_explanations,
+        'final': len(final_questions)
+    }
+
+def main():
+    if len(sys.argv) > 1:
+        # Run specific files
+        pairs = []
+        # format: python parser.py file1.txt file1.json file2.txt file2.json
+        for i in range(1, len(sys.argv), 2):
+            if i+1 < len(sys.argv):
+                pairs.append((sys.argv[i], sys.argv[i+1]))
+    else:
+        # Run all 7 files automatically
+        pairs = [
+            ('benzetimtxt.txt', 'benzetim.json'),
+            ('bilgisistemleriprojeyonetimi.txt', 'bilgisistemleriprojeyonetimi.json'),
+            ('hukukuntemelkavramlari.txt', 'hukukuntemelkavramlari.json'),
+            ('veritabaniyonetimsistemleri.txt', 'veritabaniyonetimsistemleri.json'),
+            ('bilgisayarorganizasyonu.txt', 'bilgisayarorganizasyonu.json'),
+            ('bilimselarastirmateknikleri.txt', 'bilimselarastirmateknikleri.json'),
+            ('buyukveri.txt', 'buyukveri.json')
+        ]
+        
+    print(f"🚀 {len(pairs)} dosya üzerinde Eşzamanlı (Paralel) Evrensel Parser başlatılıyor...")
+    start_time = time.time()
+    
+    with concurrent.futures.ProcessPoolExecutor() as executor:
+        futures = [executor.submit(parse_file, txt, json_out) for txt, json_out in pairs]
+        
+        for future in concurrent.futures.as_completed(futures):
+            try:
+                res = future.result()
+                print(f"✅ [{res['file']}] Tamamlandı! İlk: {res['initial']} | Silinen Kopya: {res['duplicates']} | Birleştirilen Açıklama: {res['merged']} | SONUÇ: {res['final']}")
+            except Exception as exc:
+                print(f"❌ HATA: {exc}")
+                
+    print(f"⏱️ Toplam süre: {time.time() - start_time:.2f} saniye.")
 
 if __name__ == '__main__':
-    if len(sys.argv) != 3:
-        print("Usage: python parser.py <input_txt> <output_json_name>")
-    else:
-        parse_file(sys.argv[1], sys.argv[2])
+    # Fix encoding issues for windows console
+    sys.stdout.reconfigure(encoding='utf-8')
+    main()
