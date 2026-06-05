@@ -272,11 +272,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .correct-border {
-  border-left: 4px solid var(--success-color);
+  border: 1px solid var(--success-color);
+  box-shadow: 0 0 20px rgba(16, 185, 129, 0.1);
 }
 
 .incorrect-border {
-  border-left: 4px solid var(--error-color);
+  border: 1px solid var(--error-color);
+  box-shadow: 0 0 20px rgba(239, 68, 68, 0.1);
+}
+
+.revealed-border {
+  border: 1px solid var(--text-secondary);
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.05);
 }
 
 .explanation-box {
@@ -335,10 +342,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-family);
 }
 
-.nav-btn:hover {
-  background: rgba(255, 255, 255, 0.1);
-}
-
 .nav-btn.correct {
   background: var(--success-bg);
   border-color: var(--success-color);
@@ -347,8 +350,24 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-btn.incorrect {
   background: var(--error-bg);
-  border-color: var(--error-color);
   color: var(--error-color);
+  border-color: var(--error-color);
+}
+
+.nav-btn.empty-revealed {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-secondary);
+  border-color: var(--text-secondary);
+}
+
+.nav-btn.active {
+  box-shadow: 0 0 0 2px var(--background), 0 0 0 4px var(--primary-color);
+  transform: scale(1.1);
+}
+
+.nav-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 @media (max-width: 768px) {

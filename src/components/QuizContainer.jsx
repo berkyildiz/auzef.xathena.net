@@ -1,12 +1,15 @@
 import { useState, useEffect } from 'react';
-import { ArrowLeft, RotateCcw, CheckCircle, Award } from 'lucide-react';
+import { ArrowLeft, RotateCcw, CheckCircle, Award, ChevronLeft, ChevronRight, List } from 'lucide-react';
 import QuestionCard from './QuestionCard';
 
 export default function QuizContainer({ courseId, onBack }) {
   const [questions, setQuestions] = useState([]);
   const [userAnswers, setUserAnswers] = useState({});
+  const [revealedQuestions, setRevealedQuestions] = useState({});
   const [isFinished, setIsFinished] = useState(false);
+  const [showReport, setShowReport] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
+  const [currentIndex, setCurrentIndex] = useState(0);
 
   useEffect(() => {
     import(`../data/courses/${courseId}.json`)
@@ -22,6 +25,7 @@ export default function QuizContainer({ courseId, onBack }) {
   }, [courseId]);
 
   const handleAnswer = (questionIndex, isCorrect, letter) => {
+    if (isFinished) return;
     setUserAnswers(prev => ({
       ...prev,
       [questionIndex]: {
@@ -29,19 +33,30 @@ export default function QuizContainer({ courseId, onBack }) {
         selectedLetter: letter
       }
     }));
+    // Soru cevaplandığında otomatik sonraki soruya geçme mantığı eklenebilir. Şimdilik manuel.
+  };
+
+  const handleReveal = (questionIndex) => {
+    if (isFinished) return;
+    setRevealedQuestions(prev => ({
+      ...prev,
+      [questionIndex]: true
+    }));
   };
 
   const restartQuiz = () => {
     setUserAnswers({});
+    setRevealedQuestions({});
     setIsFinished(false);
+    setShowReport(false);
+    setCurrentIndex(0);
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
-  const scrollToQuestion = (index) => {
-    const el = document.getElementById(`question-${index}`);
-    if (el) {
-      el.scrollIntoView({ behavior: 'smooth' });
-    }
+  const finishQuiz = () => {
+    setIsFinished(true);
+    setShowReport(true);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   if (isLoading) {
@@ -68,7 +83,7 @@ export default function QuizContainer({ courseId, onBack }) {
   const progressPercentage = (answeredCount / totalQuestions) * 100;
 
   // --- RESULTS SCREEN ---
-  if (isFinished) {
+  if (showReport) {
     const score = Object.values(userAnswers).filter(a => a.isCorrect).length;
     const percentage = Math.round((score / totalQuestions) * 100);
     const emptyCount = totalQuestions - answeredCount;
@@ -80,25 +95,21 @@ export default function QuizContainer({ courseId, onBack }) {
     else message = "Daha fazla pratik yapmalısın. Çözüm yollarını detaylıca okuman sana çok fayda sağlayacaktır. 💪";
 
     return (
-      <div className="container animate-fade-in">
-        <button className="btn btn-outline" style={{ marginBottom: '2rem' }} onClick={onBack}>
-          <ArrowLeft size={18} /> Geri Dön
-        </button>
-        
+      <div className="container animate-fade-in" style={{ marginTop: '2rem' }}>
         <div className="glass-panel results-container" style={{ textAlign: 'center', padding: '3rem 2rem' }}>
           <Award size={64} style={{ color: 'var(--primary-color)', marginBottom: '1rem' }} />
           <h2 style={{ fontSize: '2.5rem', marginBottom: '2rem', background: 'linear-gradient(45deg, var(--primary-color), var(--secondary-color))', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Sınav Tamamlandı!</h2>
           
           <div style={{ display: 'flex', justifyContent: 'center', gap: '2rem', marginBottom: '3rem', flexWrap: 'wrap' }}>
-            <div className="stat-card" style={{ padding: '1.5rem', background: 'var(--success-bg)', borderRadius: '12px', border: '1px solid var(--success-color)' }}>
+            <div className="stat-card" style={{ padding: '1.5rem', background: 'var(--success-bg)', borderRadius: '12px', border: '1px solid var(--success-color)', minWidth: '120px' }}>
               <div style={{ fontSize: '2rem', fontWeight: 'bold', color: 'var(--success-color)' }}>{score}</div>
               <div style={{ color: 'var(--text-secondary)' }}>Doğru</div>
             </div>
-            <div className="stat-card" style={{ padding: '1.5rem', background: 'var(--error-bg)', borderRadius: '12px', border: '1px solid var(--error-color)' }}>
+            <div className="stat-card" style={{ padding: '1.5rem', background: 'var(--error-bg)', borderRadius: '12px', border: '1px solid var(--error-color)', minWidth: '120px' }}>
               <div style={{ fontSize: '2rem', fontWeight: 'bold', color: 'var(--error-color)' }}>{wrongCount}</div>
               <div style={{ color: 'var(--text-secondary)' }}>Yanlış</div>
             </div>
-            <div className="stat-card" style={{ padding: '1.5rem', background: 'rgba(255, 255, 255, 0.05)', borderRadius: '12px', border: '1px solid var(--border-color)' }}>
+            <div className="stat-card" style={{ padding: '1.5rem', background: 'rgba(255, 255, 255, 0.05)', borderRadius: '12px', border: '1px solid var(--border-color)', minWidth: '120px' }}>
               <div style={{ fontSize: '2rem', fontWeight: 'bold' }}>{emptyCount}</div>
               <div style={{ color: 'var(--text-secondary)' }}>Boş</div>
             </div>
@@ -108,11 +119,14 @@ export default function QuizContainer({ courseId, onBack }) {
           <p style={{ fontSize: '1.2rem', color: 'var(--text-secondary)', marginBottom: '3rem', maxWidth: '600px', margin: '0 auto 3rem auto', lineHeight: '1.6' }}>{message}</p>
           
           <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap' }}>
-            <button className="btn btn-primary" onClick={() => setIsFinished(false)}>
-              <CheckCircle size={18} /> Sonuçları Kapat & Çözümleri İncele
+            <button className="btn btn-primary" onClick={() => { setShowReport(false); setCurrentIndex(0); }}>
+              <List size={18} /> Tüm Soruları ve Çözümleri İncele
             </button>
             <button className="btn btn-outline" onClick={restartQuiz}>
               <RotateCcw size={18} /> Sınavı Sıfırla
+            </button>
+            <button className="btn btn-outline" onClick={onBack}>
+              <ArrowLeft size={18} /> Derslere Dön
             </button>
           </div>
         </div>
@@ -120,15 +134,24 @@ export default function QuizContainer({ courseId, onBack }) {
     );
   }
 
+  const currentQ = questions[currentIndex];
+
   return (
     <div className="quiz-layout">
-      {/* Sticky Header */}
+      {/* Sticky Header with Breadcrumbs */}
       <div className="quiz-sticky-header">
         <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <button className="btn btn-outline" style={{ padding: '0.5rem 1rem' }} onClick={onBack}>
-            <ArrowLeft size={18} /> <span className="hide-mobile">Derslere Dön</span>
-          </button>
-          <div style={{ flex: 1, margin: '0 2rem' }}>
+          
+          <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+            <button className="btn btn-outline" style={{ padding: '0.5rem 0.75rem', display: 'flex', alignItems: 'center', justifyContent: 'center' }} onClick={onBack} title="Derslere Dön">
+              <ArrowLeft size={18} /> 
+            </button>
+            <div className="breadcrumbs hide-mobile" style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
+              Dersler / <strong>{courseId}</strong> / Soru {currentIndex + 1}
+            </div>
+          </div>
+
+          <div style={{ flex: 1, margin: '0 2rem', maxWidth: '400px' }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '0.5rem', fontSize: '0.85rem' }}>
               <span>İlerleme ({answeredCount}/{totalQuestions})</span>
               <span>%{Math.round(progressPercentage)}</span>
@@ -137,48 +160,83 @@ export default function QuizContainer({ courseId, onBack }) {
               <div className="progress-bar-fill" style={{ width: `${progressPercentage}%` }}></div>
             </div>
           </div>
-          <button className="btn btn-primary" onClick={() => { setIsFinished(true); window.scrollTo({top:0, behavior:'smooth'}); }}>
-            Sınavı Bitir
-          </button>
+
+          <div style={{ display: 'flex', gap: '1rem' }}>
+            {isFinished ? (
+              <button className="btn btn-primary" onClick={() => setShowReport(true)}>
+                Raporu Görüntüle
+              </button>
+            ) : (
+              <button className="btn btn-primary" onClick={finishQuiz}>
+                Sınavı Bitir
+              </button>
+            )}
+          </div>
         </div>
       </div>
 
       <div className="container" style={{ display: 'flex', gap: '2rem', marginTop: '100px', alignItems: 'flex-start' }}>
         
-        {/* Soru Listesi */}
-        <div className="questions-list-container" style={{ flex: 1 }}>
-          {questions.map((q, idx) => (
-            <QuestionCard 
-              key={q.id}
-              questionIndex={idx}
-              question={q} 
-              userAnswers={userAnswers}
-              onAnswer={handleAnswer}
-            />
-          ))}
+        {/* Soru Alanı */}
+        <div className="questions-list-container" style={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
+          <QuestionCard 
+            key={currentQ.id}
+            questionIndex={currentIndex}
+            question={currentQ} 
+            userAnswers={userAnswers}
+            revealedQuestions={revealedQuestions}
+            onAnswer={handleAnswer}
+            onReveal={handleReveal}
+            isFinished={isFinished}
+          />
           
-          <div style={{ display: 'flex', justifyContent: 'center', marginTop: '3rem', marginBottom: '5rem' }}>
-            <button className="btn btn-primary" style={{ padding: '1rem 3rem', fontSize: '1.2rem' }} onClick={() => { setIsFinished(true); window.scrollTo({top:0, behavior:'smooth'}); }}>
-              Sınavı Bitir ve Puanı Gör
+          {/* Pagination Controls */}
+          <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '1rem', marginBottom: '3rem' }}>
+            <button 
+              className="btn btn-outline" 
+              onClick={() => setCurrentIndex(prev => Math.max(0, prev - 1))}
+              disabled={currentIndex === 0}
+            >
+              <ChevronLeft size={20} /> Önceki
             </button>
+
+            {currentIndex < totalQuestions - 1 ? (
+              <button 
+                className="btn btn-outline" 
+                onClick={() => setCurrentIndex(prev => Math.min(totalQuestions - 1, prev + 1))}
+              >
+                Sonraki <ChevronRight size={20} />
+              </button>
+            ) : (
+              <button className="btn btn-primary" onClick={finishQuiz}>
+                Sınavı Bitir <CheckCircle size={20} />
+              </button>
+            )}
           </div>
         </div>
 
         {/* Sağ Taraf - Navigasyon Izgarası */}
         <div className="question-navigator glass-panel">
-          <h3 style={{ marginTop: 0, marginBottom: '1rem', fontSize: '1.1rem', textAlign: 'center' }}>Soru Navigasyonu</h3>
+          <h3 style={{ marginTop: 0, marginBottom: '1rem', fontSize: '1.1rem', textAlign: 'center' }}>Navigasyon</h3>
           <div className="navigator-grid">
             {questions.map((_, idx) => {
               const ans = userAnswers[idx];
+              const isRevealed = revealedQuestions[idx] || isFinished;
+              
               let statusClass = "nav-btn";
+              if (idx === currentIndex) statusClass += " active";
+              
               if (ans) {
                 statusClass += ans.isCorrect ? " correct" : " incorrect";
+              } else if (isRevealed && !ans) {
+                statusClass += " empty-revealed";
               }
+              
               return (
                 <button 
                   key={idx} 
                   className={statusClass}
-                  onClick={() => scrollToQuestion(idx)}
+                  onClick={() => setCurrentIndex(idx)}
                 >
                   {idx + 1}
                 </button>

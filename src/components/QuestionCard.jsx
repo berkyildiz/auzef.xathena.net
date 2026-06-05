@@ -1,26 +1,64 @@
-import { useState, useEffect } from 'react';
-import { CheckCircle, XCircle, Lightbulb } from 'lucide-react';
+import { CheckCircle, XCircle, Lightbulb, Eye } from 'lucide-react';
 
-export default function QuestionCard({ question, questionIndex, userAnswers, onAnswer }) {
+export default function QuestionCard({ 
+  question, 
+  questionIndex, 
+  userAnswers, 
+  revealedQuestions,
+  onAnswer, 
+  onReveal,
+  isFinished 
+}) {
   const answerData = userAnswers[questionIndex];
   const hasAnswered = !!answerData;
+  const isRevealed = revealedQuestions[questionIndex] || isFinished;
   const selectedOption = answerData?.selectedLetter;
 
   const handleOptionClick = (letter) => {
-    if (hasAnswered) return;
+    // Eğer cevaplanmışsa veya sırrı çözülmüşse (revealed) tıklamayı engelle
+    if (hasAnswered || isRevealed) return;
+    
     const isCorrect = letter === question.correctAnswer;
     onAnswer(questionIndex, isCorrect, letter);
   };
 
+  // Kartın genel durumu için border class belirleme
+  let cardBorderClass = '';
+  if (hasAnswered) {
+    cardBorderClass = answerData.isCorrect ? 'correct-border' : 'incorrect-border';
+  } else if (isRevealed) {
+    cardBorderClass = 'revealed-border'; // boş bırakılıp cevabı gösterilmiş
+  }
+
   return (
-    <div id={`question-${questionIndex}`} className={`glass-panel animate-fade-in ${hasAnswered ? (answerData.isCorrect ? 'correct-border' : 'incorrect-border') : ''}`} style={{ padding: '2rem', marginBottom: '2rem', scrollMarginTop: '100px' }}>
-      <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '1rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '1rem' }}>
+    <div className={`glass-panel animate-fade-in ${cardBorderClass}`} style={{ padding: '2rem', marginBottom: '1rem', width: '100%' }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '1rem' }}>
         <h3 style={{ margin: 0, color: 'var(--primary-color)' }}>Soru {questionIndex + 1}</h3>
-        {hasAnswered && (
-          <span style={{ fontWeight: 'bold', color: answerData.isCorrect ? 'var(--success-color)' : 'var(--error-color)' }}>
-            {answerData.isCorrect ? 'Doğru Bildin' : 'Yanlış Bildin'}
-          </span>
-        )}
+        
+        <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
+          {hasAnswered && (
+            <span style={{ fontWeight: 'bold', color: answerData.isCorrect ? 'var(--success-color)' : 'var(--error-color)' }}>
+              {answerData.isCorrect ? 'Doğru Bildin' : 'Yanlış Bildin'}
+            </span>
+          )}
+          
+          {!hasAnswered && isRevealed && (
+            <span style={{ fontWeight: 'bold', color: 'var(--text-secondary)' }}>
+              Boş Bırakıldı
+            </span>
+          )}
+
+          {!hasAnswered && !isRevealed && (
+            <button 
+              className="btn btn-outline" 
+              style={{ padding: '0.4rem 0.8rem', fontSize: '0.85rem' }} 
+              onClick={() => onReveal(questionIndex)}
+              title="Cevabı ve Çözümü Göster"
+            >
+              <Eye size={16} /> Çözümü Göster
+            </button>
+          )}
+        </div>
       </div>
 
       {question.imageUrl && (
@@ -40,11 +78,13 @@ export default function QuestionCard({ question, questionIndex, userAnswers, onA
         {question.options.map((option) => {
           let optionClass = "option-card";
           
-          if (hasAnswered) {
+          // Eğer cevaplandıysa veya açıklandıysa etkileşimi kapat
+          if (hasAnswered || isRevealed) {
             optionClass += " disabled";
+            
             if (option.letter === question.correctAnswer) {
               optionClass += " correct";
-            } else if (option.letter === selectedOption && selectedOption !== question.correctAnswer) {
+            } else if (hasAnswered && option.letter === selectedOption && selectedOption !== question.correctAnswer) {
               optionClass += " incorrect";
             }
           }
@@ -58,7 +98,7 @@ export default function QuestionCard({ question, questionIndex, userAnswers, onA
               <div className="option-letter">{option.letter}</div>
               <div style={{ flex: 1, fontSize: '1rem' }}>{option.text}</div>
               
-              {hasAnswered && option.letter === question.correctAnswer && (
+              {(hasAnswered || isRevealed) && option.letter === question.correctAnswer && (
                 <CheckCircle size={20} className="animate-fade-in" style={{ color: 'var(--success-color)' }} />
               )}
               {hasAnswered && option.letter === selectedOption && selectedOption !== question.correctAnswer && (
@@ -69,8 +109,8 @@ export default function QuestionCard({ question, questionIndex, userAnswers, onA
         })}
       </div>
       
-      {/* Explanation Box appears immediately after answering */}
-      {hasAnswered && (
+      {/* Explanation Box appears if answered OR revealed */}
+      {(hasAnswered || isRevealed) && (
         <div className="explanation-box animate-fade-in" style={{ marginTop: '1.5rem' }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.75rem', color: 'var(--primary-color)' }}>
             <Lightbulb size={20} />
