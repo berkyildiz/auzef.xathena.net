@@ -1633,40 +1633,6 @@
   },
   {
     "id": 49,
-    "questionText": "Alanları PersonelNo, Adı, Görevi, Ücret, BölümNo olan bir PERSONEL tablosu ve alanları BölümNo, Bölüm Adı, Konum olan bir BÖLÜM tablosu arasındaki ilişki nasıl kurulur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "İki tablodaki en çok veriye sahip olan alan üzerinde işlem yapılarak",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "İki tabloda ortak olan BölümNo alanından faydalanılarak",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "İki tablodaki herhangi bir alan üzerinde işlem yapılarak",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "İki tablodaki en az veriye sahip olan alan üzerinde işlem yapılarak",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "İki tablodaki bütün alanlar birleştirilerek",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 50,
     "questionText": "SELECT Adı, Ücret FROM PERSONEL WHERE Ücret > (SELECT AVG(Ücret) FROM PERSONEL); sorgusu aşağıdakilerden hangisini yapar?",
     "imageUrl": null,
     "options": [
@@ -1700,7 +1666,7 @@
     "explanation": ""
   },
   {
-    "id": 51,
+    "id": 50,
     "questionText": "SELECT Adı, Ücret FROM PERSONEL WHERE Ücret = (SELECT MIN (Ücret) FROM PERSONEL); sorgusunda hangi kısım alt sorgudur?",
     "imageUrl": null,
     "options": [
@@ -1734,7 +1700,7 @@
     "explanation": ""
   },
   {
-    "id": 52,
+    "id": 51,
     "questionText": "Alanları Adı, Soyadı ve İşeGirişTarihi şeklinde olan bir Personel tablosundaki personeller arasında o iş yerinde en az sürede çalışandan en çok sürede çalışana doğru bir sıralama işlemi gerçekleştiren SQL sorgusu aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1768,7 +1734,7 @@
     "explanation": ""
   },
   {
-    "id": 53,
+    "id": 52,
     "questionText": "İlişkisel cebir işlemleri ile ilgili aşağıdakilerden hangisi doğrudur?",
     "imageUrl": null,
     "options": [
@@ -1802,7 +1768,7 @@
     "explanation": ""
   },
   {
-    "id": 54,
+    "id": 53,
     "questionText": "Aşağıdaki SQL sorgularından hangisi yanlış yazılmıştır?",
     "imageUrl": null,
     "options": [
@@ -1836,7 +1802,7 @@
     "explanation": ""
   },
   {
-    "id": 55,
+    "id": 54,
     "questionText": "Birden daha fazla SQL sorgusunun arka arkaya tek bir sorgu gibi çalıştırılmasını sağlayan kavram aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1870,7 +1836,7 @@
     "explanation": ""
   },
   {
-    "id": 56,
+    "id": 55,
     "questionText": "Bir veri kümesinde bir özniteliğin alabileceği değerlerin tümünün oluşturduğu kümeye ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -1904,7 +1870,7 @@
     "explanation": ""
   },
   {
-    "id": 57,
+    "id": 56,
     "questionText": "Aşağıdakilerden hangisi bir alt sorgu çeşidi değildir?",
     "imageUrl": null,
     "options": [
@@ -1938,7 +1904,7 @@
     "explanation": ""
   },
   {
-    "id": 58,
+    "id": 57,
     "questionText": "Aşağıdakilerden hangisi SQL'de bir matematiksel fonksiyondur?",
     "imageUrl": null,
     "options": [
@@ -1972,7 +1938,7 @@
     "explanation": ""
   },
   {
-    "id": 59,
+    "id": 58,
     "questionText": "Aşağıdakilerden hangisi INDEKS oluşturmayı engelleyen bir durum değildir?",
     "imageUrl": null,
     "options": [
@@ -2006,7 +1972,7 @@
     "explanation": ""
   },
   {
-    "id": 60,
+    "id": 59,
     "questionText": "SELECT SUM(Ücret) FROM PERSONEL WHERE Görevi ='Şef'; şeklindeki bir sorgu, aşağıdaki değerlerin hangisini elde etmek için kullanılır?",
     "imageUrl": null,
     "options": [
@@ -2040,7 +2006,7 @@
     "explanation": ""
   },
   {
-    "id": 61,
+    "id": 60,
     "questionText": "Bir veri tabanı tablosunda bir özniteliğin bağlı olduğu anahtar ile benzersiz olarak belirlenmesi durumuna ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -2074,7 +2040,7 @@
     "explanation": ""
   },
   {
-    "id": 62,
+    "id": 61,
     "questionText": "Yukarıdaki şekilde \"?\" yerine hangi ilişkisel cebir işlemi gelmelidir?",
     "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1772251956693-rnw3j1.jpg",
     "options": [
@@ -2108,7 +2074,7 @@
     "explanation": ""
   },
   {
-    "id": 63,
+    "id": 62,
     "questionText": "SELECT Adı, Görevi Ücret FROM PERSONELWHERE Görevi = (SELECT GöreviFROM PERSONEL WHERE PersonelNo=155) AND Ücret> (SELECT Ücret FROM PERSONEL WHERE PersonelNo=300);sorgusu ne iş yapar?",
     "imageUrl": null,
     "options": [
@@ -2142,7 +2108,7 @@
     "explanation": ""
   },
   {
-    "id": 64,
+    "id": 63,
     "questionText": "GRANT CREATE TABLE TO Ruya; sorgusu ne anlama gelmektedir?",
     "imageUrl": null,
     "options": [
@@ -2176,7 +2142,7 @@
     "explanation": ""
   },
   {
-    "id": 65,
+    "id": 64,
     "questionText": "İki veya daha çok veri tabanı tablosundaki ortak satırların bulunması için kullanılan komut aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2210,7 +2176,7 @@
     "explanation": ""
   },
   {
-    "id": 66,
+    "id": 65,
     "questionText": "Aşağıdakilerden hangisi ilişkisel veri tabanları ile ilişkisel olmayan veri tabanları arasındaki kesin farklardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -2244,75 +2210,7 @@
     "explanation": ""
   },
   {
-    "id": 67,
-    "questionText": "Aşağıdakilerden hangisi bir veri tabanındaki bir tablonun ismi olabilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "HAVING",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "SYSDATE",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "INTO",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "UPDATE",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "OGRENCILER",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 68,
-    "questionText": "SELECT Adı, Ücret, NVL(Komisyon, 0) FROM PERSONEL; SQL sorgusu aşağıdakilerden hangisini gerçekleştirmek için kullanılır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Personel tablosundaki değeri NULL olmayan Komisyon verilerini bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Personel tablosundaki değeri NULL olan tüm verileri bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Personel tablosundaki Komisyon verilerini NULL olan kayıtlarda 0 yazarak Adı, Ücret ve Komisyon degerlerini elde etmek",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Personel tablosundaki Komisyon verilerinı bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Personel tablosundaki değeri NULL olan Konsisyon verilerini bulmak",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 69,
+    "id": 66,
     "questionText": "İlişkisel veri tabanlarında yapılan aşağıdaki işlemlerden hangisinin sonucu doğru verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -2346,7 +2244,7 @@
     "explanation": ""
   },
   {
-    "id": 70,
+    "id": 67,
     "questionText": "SELECT BölümNo, AVG(Ücret) FROM PERSONEL;WHERE AVG(Ücret) >2000GROUP BY BölümNo; Yukarıda verilen SQL sorgusu içerisinde yer alan hata aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2380,7 +2278,7 @@
     "explanation": ""
   },
   {
-    "id": 71,
+    "id": 68,
     "questionText": "Aşağıdaki karşılaştırma deyimlerinden hangileri bir değerin tabloda var olup olmadığını tespit etmek için kullanılır?",
     "imageUrl": null,
     "options": [
@@ -2414,7 +2312,7 @@
     "explanation": ""
   },
   {
-    "id": 72,
+    "id": 69,
     "questionText": "Veri tabanlarındaki view yapısı ile ilgili aşağıdakilerden hangisi söylenemez?",
     "imageUrl": null,
     "options": [
@@ -2448,7 +2346,7 @@
     "explanation": ""
   },
   {
-    "id": 73,
+    "id": 70,
     "questionText": "SELECT Adı GöreviÜcret FROM PERSONELWHERE Görevi = (SELECT GöreviFROM PERSONEL WHERE PersonelNo=155) AND Ücret> (SELECT Ücret FROM PERSONEL WHERE PersonelNo 300) Yukarıdaki sorgu ile aşağıdaki işlemlerden hangisi gerçekleştirilir?",
     "imageUrl": null,
     "options": [
@@ -2482,109 +2380,7 @@
     "explanation": ""
   },
   {
-    "id": 74,
-    "questionText": "Personel arasında görevi “Memur” olanlara%10 , “Şef” olanlara%15 , “Müdür” olanlara%20 ise zam yapılması için gerçekleştirilecek olan SQL sorgusu aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "SELECT Adı, Görevi, Ücret DECODE (Görev i, Memur', 'Şef', 'Müdür' , Ücret*1,10 , Ücret 1,15, Ücret 1, 20, Ücret) FROM PERSONEL;",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "SELECT Adı, Görevi, Ücret DECODE ('Memu r', 'Şef', 'Müdür', Ücret 1,10, Ücret 1,15, Ücret*1,20, Ücret) FROM PERSONEL",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "SELECT Adı, Görevi, Ücret DECODE (Görev i, Memur', Ücret 1,10, 'Şef', Ücret*1 15, Müdür, Ücret 1,20, Ücret) FROM PERSONEL;",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "SELECT Adı, Görevi, Ücret DECODE (Memur , Ücret 1,10, Şef, Ücret 1,15, Müdür, Ücret 1,20, Ücret) FROM PERSONEL;",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "SELECT Adı, Görevi, Ücret DECODE (Görev i, Ücret 1,10, Ücret*1,15, Ücret 1,20) FROM PERSONEL;",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 75,
-    "questionText": "Tablol ismindeki bir veri tabanı tablosunda Koşull ismindeki koşulu sağlayan satırların silinmesini sağlayan SQL komutu aşağıdakilerden hangisi olabilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Select Koşull Delete Tablol",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Delete Koşull Select Tablol",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Delete Koşull Where Tablol",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Delete From Tablol Where Koşull",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Select From Tablol Where Koşull",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 76,
-    "questionText": "Aşağıdaki veri türlerinden hangisi üzerinde TO_DATE() fonksiyonu kullamlarak tarih verisine dönüştürme gerçekleştirmek mümkündür?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Köprü",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Metinsel",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Resim",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Ses",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Sayısal",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 77,
+    "id": 71,
     "questionText": "SELECT [DISTINCT (* sütun ) FROM tabl [WHERE koşul] [ORDER BY [sütunifade [A SC DESC ]; Yukarıda verilen sorguda kullanılan anahtar kelimeler ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -2615,40 +2411,6 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 78,
-    "questionText": "SELECT Görevi, SUM(Ücret) FROM PERSONEL WHERE Görevi ‘PAZARLAMACI’ GROUP BY Görevi HAVING SUM(Ücret)> 5000 ORDER BY SUM(Ücret); Yukarıdaki SQL sorgusu aşağıdakilerden hangisini gerçekleştirir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, ücretleri toplanır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Pazarlamacı olan personelin ücretleri toplanır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
     "explanation": ""
   }
 ]

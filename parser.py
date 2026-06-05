@@ -302,10 +302,12 @@ def parse_file(filename, out_filename):
         
         for idx, fq in enumerate(final_questions):
             norm_fq = normalize_turkish(fq['questionText'])
-            if norm_q == norm_fq:
-                is_duplicate = True
-                duplicate_idx = idx
-                break
+            if abs(len(norm_q) - len(norm_fq)) <= 30:
+                ratio = difflib.SequenceMatcher(None, norm_q, norm_fq).ratio()
+                if ratio >= 0.90:
+                    is_duplicate = True
+                    duplicate_idx = idx
+                    break
                 
         if not is_duplicate:
             # Add new

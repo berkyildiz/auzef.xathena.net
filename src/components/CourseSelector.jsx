@@ -2,13 +2,13 @@ import { useState } from 'react';
 import { BookOpen, ChevronRight } from 'lucide-react';
 
 const questionCounts = {
-  buyukveri: 45,
-  bilgisistemleriprojeyonetimi: 69,
-  veritabaniyonetimsistemleri: 78,
-  bilgisayarorganizasyonu: 103,
-  benzetim: 162,
-  hukukuntemelkavramlari: 193,
-  bilimselarastirmateknikleri: 203
+  buyukveri: 43,
+  bilgisistemleriprojeyonetimi: 64,
+  veritabaniyonetimsistemleri: 71,
+  bilgisayarorganizasyonu: 94,
+  benzetim: 156,
+  hukukuntemelkavramlari: 182,
+  bilimselarastirmateknikleri: 194
 };
 
 const COURSES = [

@@ -987,40 +987,6 @@
   },
   {
     "id": 30,
-    "questionText": "“Geçerlilikte yapılan işlem amaca ne kadar uygun olursa geçerlik o kadar …………., amaçtan ne kadar uzak olursa geçerlik o kadar …………..olur. ”Yukarıdaki boşluğa uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "yüksek / düşük",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "kötü / iyi",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "az / çok",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "düşük / yüksek",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "değersiz / değerli",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 31,
     "questionText": "Aşağıdakilerden hangisi veri hazırlama işleminin adımlarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1054,7 +1020,7 @@
     "explanation": ""
   },
   {
-    "id": 32,
+    "id": 31,
     "questionText": "Aşağıdakilerden hangisi kayıp değerleri (eksik cevaplar) düzeltilme yöntemlerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1088,7 +1054,7 @@
     "explanation": ""
   },
   {
-    "id": 33,
+    "id": 32,
     "questionText": "Aşağıdakilerden hangisi sosyal bilimlerde yapılan araştırmalarda kullanılan temel ölçüm seviyesi türlerinden biri doğru değildir?",
     "imageUrl": null,
     "options": [
@@ -1122,7 +1088,7 @@
     "explanation": ""
   },
   {
-    "id": 34,
+    "id": 33,
     "questionText": "Aşağıdakilerden hangisi bir araştırma raporunun bölümlerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1156,7 +1122,7 @@
     "explanation": ""
   },
   {
-    "id": 35,
+    "id": 34,
     "questionText": "“Geçerliğin yüksek olması, büyük ölçüde, ölçülmek istenen değişkenin ifade edilebilmesine bağlıdır. Bu yönü ile doğrudan ölçmelerde geçerlik daha …………. , dolaylı ölçmelerde ise değişkenin yeterince tanımlanamaması ve kriterlerinin yeterince duyarlı olmaması nedeniyle, geçerlik ………….. olabilmektedir.” Yukarıdaki boşluklara uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -1190,7 +1156,7 @@
     "explanation": ""
   },
   {
-    "id": 36,
+    "id": 35,
     "questionText": "Aşağıdakilerden hangisi rapor yazmada dikkat edilecek ana ilkelerden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1224,7 +1190,7 @@
     "explanation": ""
   },
   {
-    "id": 37,
+    "id": 36,
     "questionText": "Anakütle bireylerinin tamsayımı yapılsa dahi verilerin tanımlanmasında, gözlenmesinde, toplanmasında ortaya çıkan ve geri dönüşü mümkün olmayan hatalar …………. kapsamında ele alınır. Yukarıdaki boşluğa uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -1258,7 +1224,7 @@
     "explanation": ""
   },
   {
-    "id": 38,
+    "id": 37,
     "questionText": "Psikoloji, sosyoloji, antropoloji, eğitim gibi sosyal bilim alanlarında insan ve toplum davranışları gibi sayılarla açıklanması zor olan araştırmalara ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -1292,7 +1258,7 @@
     "explanation": ""
   },
   {
-    "id": 39,
+    "id": 38,
     "questionText": "I-Sabit hatalar II-Sistematik hatalar III-Tesadüfi hatalar IV-Tahmini hatalar Aşağıdaki şıklardan hangisinde yukarıda belirtilen ölçmede karşılaşılan hata türleri bir arada verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -1326,7 +1292,7 @@
     "explanation": ""
   },
   {
-    "id": 40,
+    "id": 39,
     "questionText": "Aşağıdakilerden hangisi araştırma tasarımının adımları arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -1360,7 +1326,7 @@
     "explanation": ""
   },
   {
-    "id": 41,
+    "id": 40,
     "questionText": "Aşağıdakilerden hangisi kantitatif araştırmaların avantajlarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1394,7 +1360,7 @@
     "explanation": ""
   },
   {
-    "id": 42,
+    "id": 41,
     "questionText": "Doldurulan her bir anket formu (gözlem ve diğer formlar için de geçerli) ayrı ayrı incelenerek her bir görüşmenin doğruluğu ve tam olma durumu gözden geçirildikten sonra veriler kodlamaya hazır hale getirilmesi işlemine ne ad verilmektedir?",
     "imageUrl": null,
     "options": [
@@ -1428,7 +1394,7 @@
     "explanation": ""
   },
   {
-    "id": 43,
+    "id": 42,
     "questionText": "Aşağıdakilerden hangisi doğrudur?",
     "imageUrl": null,
     "options": [
@@ -1462,7 +1428,7 @@
     "explanation": ""
   },
   {
-    "id": 44,
+    "id": 43,
     "questionText": "Aşağıdakilerden hangisi örnekleme sürecinin aşamalarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1496,7 +1462,7 @@
     "explanation": ""
   },
   {
-    "id": 45,
+    "id": 44,
     "questionText": "Aşağıdakilerden hangisi kodlamanın aşamalarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1530,7 +1496,7 @@
     "explanation": ""
   },
   {
-    "id": 46,
+    "id": 45,
     "questionText": "Herhangi bir niteliği gözlemek ve gözlem sonucunda önceden tespit edilen belirli kurallara göre nesnelerin ve kişilerin özelliklerine belli veriler temel alınarak sınıflandırıldıkları araç veya mekanizmalara ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -1564,7 +1530,7 @@
     "explanation": ""
   },
   {
-    "id": 47,
+    "id": 46,
     "questionText": "“Somut değişkenlerin ölçümü ………… ancak değişkenler soyutlaştıkça ölçümleri …………… .” Yukarıdaki boşluklara uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -1598,7 +1564,7 @@
     "explanation": ""
   },
   {
-    "id": 48,
+    "id": 47,
     "questionText": "Kalitatif araştırmalarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "imageUrl": null,
     "options": [
@@ -1632,7 +1598,7 @@
     "explanation": ""
   },
   {
-    "id": 49,
+    "id": 48,
     "questionText": "Bir projenin hedeflerini tamamlamada gerekli olan verilerin toplanması için düzenlenen soru kümelerinden oluşan formlara ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -1666,7 +1632,7 @@
     "explanation": ""
   },
   {
-    "id": 50,
+    "id": 49,
     "questionText": "Aşağıdakilerden hangisi tekli ölçeklerden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -1700,41 +1666,7 @@
     "explanation": ""
   },
   {
-    "id": 51,
-    "questionText": "Yanıtlayıcıdan, anketörden, yanıtlayıcı-anketör etkileşiminden ve anket formundan kaynaklanan hatalar nedeniyle araştırmacı gerçek değer yerine kaydedilen değeri elde edebilmektedir. Gerçek değer ile kaydedilen değer arasındaki farka ne ad verilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Sistematik hata",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Örnekleme dışı hata",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Seçim hatası",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Sabit hata",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Kapsam hatası",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 52,
+    "id": 50,
     "questionText": "I. Karar alıcılarla görüşmek II. Alanın uzmanlarıyla mülakatlar yapmak III. İkincil veri analizi IV. Kalitatif araştırma Yukarıda verilen ifadelerden hangisi bir araştırmacının problem belirleme sürecinde kullanabileceği kaynakları ve yapması gerekenleri belirtir?",
     "imageUrl": null,
     "options": [
@@ -1768,7 +1700,7 @@
     "explanation": ""
   },
   {
-    "id": 53,
+    "id": 51,
     "questionText": "Her ölçme birimi miktarı değişiklik göstermeyen hatalara ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -1802,7 +1734,7 @@
     "explanation": ""
   },
   {
-    "id": 54,
+    "id": 52,
     "questionText": "Aşağıdakilerden hangisi anket ön testi metotlarından biridir?",
     "imageUrl": null,
     "options": [
@@ -1836,7 +1768,7 @@
     "explanation": ""
   },
   {
-    "id": 55,
+    "id": 53,
     "questionText": "Araştırma projesinin temelini oluşturan ve bir araştırmayı yürütmek için oluşturulan çatı ya da tasarıyı belirten ifade aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1870,7 +1802,7 @@
     "explanation": ""
   },
   {
-    "id": 56,
+    "id": 54,
     "questionText": "Bilimsel etik kurallarına uygun davranan, yaptığı araştırmada veri toplamada dürüst davranan kişi hangi bilimsel etik kuralına uymuştur?",
     "imageUrl": null,
     "options": [
@@ -1904,7 +1836,7 @@
     "explanation": ""
   },
   {
-    "id": 57,
+    "id": 55,
     "questionText": "Araştırma hakkında genel bilgilerin olduğu, amacının kullanılan yöntemin ve elde edilen bulguların kısa ve genel bir biçimde tanıtıldığı bölüm hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1938,7 +1870,7 @@
     "explanation": ""
   },
   {
-    "id": 58,
+    "id": 56,
     "questionText": "Anakütle parametresinin gerçek değeri ile anakütleden elde edilecek bütün örneklerden hesaplanacak ortalama değer arasındaki farkla ölçülen hata türü hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1972,7 +1904,7 @@
     "explanation": ""
   },
   {
-    "id": 59,
+    "id": 57,
     "questionText": "Standart ölçek ve yeni ölçek geliştirilen ölçek aynı anda bireylere uygulanır ve bireylerin her iki ölçekten aldıkları puanlara göre ilişki katsayı hesaplanması hangi yoldan gerçekleşmiştir?",
     "imageUrl": null,
     "options": [
@@ -2006,7 +1938,7 @@
     "explanation": ""
   },
   {
-    "id": 60,
+    "id": 58,
     "questionText": "Anket ile ilgili verilen bilgilerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -2040,7 +1972,7 @@
     "explanation": ""
   },
   {
-    "id": 61,
+    "id": 59,
     "questionText": "Hangisi sosyal bilimlerde yapılan araştırma yöntemlerinde kullanılan temel ölçüm türlerinden değildir?",
     "imageUrl": null,
     "options": [
@@ -2074,7 +2006,7 @@
     "explanation": ""
   },
   {
-    "id": 62,
+    "id": 60,
     "questionText": "Aşağıdakilerden hangisi kantitatif araştırma yönteminin özelliklerinden değildir?",
     "imageUrl": null,
     "options": [
@@ -2108,7 +2040,7 @@
     "explanation": ""
   },
   {
-    "id": 63,
+    "id": 61,
     "questionText": "Bir araştırma probleminin çözümü için doğrulanması ya da yanlışlanması gereken önermeler aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2142,7 +2074,7 @@
     "explanation": ""
   },
   {
-    "id": 64,
+    "id": 62,
     "questionText": "Ölçümün kesinliğinin yani hatalardan ne seviyede arındığının anlaşılması için çerçeve sağlayan model nedir?",
     "imageUrl": null,
     "options": [
@@ -2176,7 +2108,7 @@
     "explanation": ""
   },
   {
-    "id": 65,
+    "id": 63,
     "questionText": "Kişisel tercihler, tutumlar, inançlar ve bekleyişler gibi verilerin analizinde hangisi kullanılır?",
     "imageUrl": null,
     "options": [
@@ -2210,7 +2142,7 @@
     "explanation": ""
   },
   {
-    "id": 66,
+    "id": 64,
     "questionText": "Yeni bir olay hakkında uygun kişiler, davranışlar ve durumların gözlenerek birincil verilerin elde edilmesi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2244,7 +2176,7 @@
     "explanation": ""
   },
   {
-    "id": 67,
+    "id": 65,
     "questionText": "Araştırmanın oluşturulmasında yararlanılan tüm kaynakların sistemli bir biçimde yazıldığı bölüm hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2278,7 +2210,7 @@
     "explanation": ""
   },
   {
-    "id": 68,
+    "id": 66,
     "questionText": "Bağımsız değişkenin etkilediği değişken hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2312,7 +2244,7 @@
     "explanation": ""
   },
   {
-    "id": 69,
+    "id": 67,
     "questionText": "Problemlere güvenilir çözümler aramak amacıyla, planlı ve sistemli olarak verilerin toplanması, çözümlenmesi, yorumlanarak değerlendirilmesi ve rapor edilmesi süreci nedir?",
     "imageUrl": null,
     "options": [
@@ -2346,7 +2278,7 @@
     "explanation": ""
   },
   {
-    "id": 70,
+    "id": 68,
     "questionText": "Ankette yer alan soruların düzeni ile alakalı aşağıda verilen ifadelerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -2380,7 +2312,7 @@
     "explanation": ""
   },
   {
-    "id": 71,
+    "id": 69,
     "questionText": "Raporların okuyanlar tarafından kolayca bulunmasını sağlamak amacıyla yazılan, genelde üç beş kelimeden oluşan ve raporda bulunabilecek temel konuların ya da esas kavramların belirtildiği kısma ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -2414,7 +2346,7 @@
     "explanation": ""
   },
   {
-    "id": 72,
+    "id": 70,
     "questionText": "TÜBA’nın açılımı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2448,7 +2380,7 @@
     "explanation": ""
   },
   {
-    "id": 73,
+    "id": 71,
     "questionText": "Aşağıdakilerden hangisi gözlem teknikleri arasında değildir?",
     "imageUrl": null,
     "options": [
@@ -2482,7 +2414,7 @@
     "explanation": ""
   },
   {
-    "id": 74,
+    "id": 72,
     "questionText": "Büyüklüklerine göre sıralanmış gözlemler grubunun merkezi değeri aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2516,7 +2448,7 @@
     "explanation": ""
   },
   {
-    "id": 75,
+    "id": 73,
     "questionText": "Aşağıdakilerden hangisi ölçümün kesinliğinin anlaşılması için çerçeve sağlayan modeldir?",
     "imageUrl": null,
     "options": [
@@ -2550,7 +2482,7 @@
     "explanation": ""
   },
   {
-    "id": 76,
+    "id": 74,
     "questionText": "Araştırmacıların, yaptıkları araştırmayla ilgili yeterli kuramsal bilgisinin ve becerisinin olduğu, bunun yanında araştırmanın her aşamasında dürüst davranması ve araştırmada etik ilkelere uymaya özen gösterdiği durumlar bilimsel etik açısından nasıl tanımlanır?",
     "imageUrl": null,
     "options": [
@@ -2584,7 +2516,7 @@
     "explanation": ""
   },
   {
-    "id": 77,
+    "id": 75,
     "questionText": "Veri hazırlama süreci aşağıdakilerin hangisinde sırasıyla doğru şekilde ifade edilmiştir?",
     "imageUrl": null,
     "options": [
@@ -2618,7 +2550,7 @@
     "explanation": ""
   },
   {
-    "id": 78,
+    "id": 76,
     "questionText": "Aşağıdakilerden hangisi sonuçlandırıcı araştırma tasarımları arasında yer alır?",
     "imageUrl": null,
     "options": [
@@ -2652,7 +2584,7 @@
     "explanation": ""
   },
   {
-    "id": 79,
+    "id": 77,
     "questionText": "Ana kütle bireylerinin tam sayımı yapılsa dahi verilerin tanımlanmasında, gözlenmesinde, toplanmasında ortaya çıkan ve geri dönüşü mümkün olmayan hatalar, ….. kapsamında ele alınır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -2686,7 +2618,7 @@
     "explanation": ""
   },
   {
-    "id": 80,
+    "id": 78,
     "questionText": "Araştırmada verilerin hangi birimlerden elde edileceğinin belirlenmesi işlemi araştırma sürecinin hangi aşamasında yer almaktadır?",
     "imageUrl": null,
     "options": [
@@ -2720,7 +2652,7 @@
     "explanation": ""
   },
   {
-    "id": 81,
+    "id": 79,
     "questionText": "Aşağıdakilerden hangisi yaygın kullanılan geçerlik türlerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -2754,7 +2686,7 @@
     "explanation": ""
   },
   {
-    "id": 82,
+    "id": 80,
     "questionText": "Bir testin geçerli olabilmesi için ….. olması gerekir ama bir testin güvenilir olması o testin ….. olması için yeterli değildir. Yukarıdaki cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -2788,7 +2720,7 @@
     "explanation": ""
   },
   {
-    "id": 83,
+    "id": 81,
     "questionText": "Kişilerin istediklerini yazmalarına izin veren cevap formatı aşağıdaki seçeneklerin hangisinde verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -2822,7 +2754,7 @@
     "explanation": ""
   },
   {
-    "id": 84,
+    "id": 82,
     "questionText": "Araştırmacının amaçları doğrultusunda ilgili ana kütle hakkında veri toplama yöntemleri ile kişisel olarak toplanan verilere ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -2856,7 +2788,7 @@
     "explanation": ""
   },
   {
-    "id": 85,
+    "id": 83,
     "questionText": "Araştırma problemi ile ilgili aşağıdaki cümlelerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -2890,7 +2822,7 @@
     "explanation": ""
   },
   {
-    "id": 86,
+    "id": 84,
     "questionText": "Somut değişkenlerin ölçümü……, ancak değişkenler soyutlaştıkça ölçümleri ….. Yukarıda verilen boşluklara sırasıyla aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -2924,41 +2856,7 @@
     "explanation": ""
   },
   {
-    "id": 87,
-    "questionText": "Aşağıda verilen raporlama bölümlerinden hangisinin açıklaması yanlıştır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Bulgular: İnceleme sonunda bulunanlar",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Özet: Araştırmanın içeriği ile ilgili tek paragraflık kısa bilgi",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Başlık: Kısa, spesifik, bilgilendirici",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Giriş: İncelenen konu ve önemi",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Kaynaklar: Anket verilerinin elde edildiği kişilerin bilgileri",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 88,
+    "id": 85,
     "questionText": "Diğer tüm ölçeklerden daha güçlü olan ve tüm aritmetik işlemlerin yapılabildiği ölçüm seviyesi aşağıdakilerden hangisiidir?",
     "imageUrl": null,
     "options": [
@@ -2992,7 +2890,7 @@
     "explanation": ""
   },
   {
-    "id": 89,
+    "id": 86,
     "questionText": "I. Yüz-yüze anket II. Posta anketi III. İkincil anket IV. İnternet anketi Yukarıdakilerden hangileri araştırmalarda kullanılan anket yöntemleri arasında yer alır?",
     "imageUrl": null,
     "options": [
@@ -3026,7 +2924,7 @@
     "explanation": ""
   },
   {
-    "id": 90,
+    "id": 87,
     "questionText": "I. Büyük örnek kütle sorunu, II. Online araştırmalarda örnekleme sorunu, III. Sanal ortamda araştırma imkanının geniş olması. Yukarıda verilenlerden hangisi veya hangileri örnekleme sorunlarının içinde yer alır?",
     "imageUrl": null,
     "options": [
@@ -3060,7 +2958,7 @@
     "explanation": ""
   },
   {
-    "id": 91,
+    "id": 88,
     "questionText": "Aşağıdakilerden hangisi örnek büyüklüğünü etkileyen faktörlerden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -3094,7 +2992,7 @@
     "explanation": ""
   },
   {
-    "id": 92,
+    "id": 89,
     "questionText": "Aşağıdakilerden hangisi kaynakça hazırlarken araştırmacıların sıkça yaptığı hatalardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -3128,7 +3026,7 @@
     "explanation": ""
   },
   {
-    "id": 93,
+    "id": 90,
     "questionText": "Aşağıda belirtilen durumlardan hangisi bilimsel araştırmalarda yapılan yaygın hatalar arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -3162,7 +3060,7 @@
     "explanation": ""
   },
   {
-    "id": 94,
+    "id": 91,
     "questionText": "Bilimsel yaklaşımlara ilişkin olarak aşağıda verilen ifadelerden hangisi doğrudur?",
     "imageUrl": null,
     "options": [
@@ -3196,7 +3094,7 @@
     "explanation": ""
   },
   {
-    "id": 95,
+    "id": 92,
     "questionText": "…. yöntem konusunda karşılaşılan en önemli sorun hem eylemleri incelenen varlığın, hem de eylemleri inceleyenlerin insan olmasıdır. Bu da araştırmacının nesnelliği sorununu akla getirmektedir. Yani araştırmacının, araştırmasını yaparken kendi önyargı ve düşüncelerinin araştırmasını etkilemesine izin vermemeye çalışması gerekmektedir. Ancak, tam nesnelliğe ulaşmak imkânsız gibidir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -3230,7 +3128,7 @@
     "explanation": ""
   },
   {
-    "id": 96,
+    "id": 93,
     "questionText": "Aşağıdakilerden hangisi anket teriminin en genel ifadesidir?",
     "imageUrl": null,
     "options": [
@@ -3264,7 +3162,7 @@
     "explanation": ""
   },
   {
-    "id": 97,
+    "id": 94,
     "questionText": "Bilimsel çalışmalar daha önce yapılmış araştırmalar üzerine inşa edilirler. Yukarıdaki ifadeye göre aşağıdakilerden hangisi bilimsel bir araştırma yaparken araştırmacının kaçınması gereken bir durumdur?",
     "imageUrl": null,
     "options": [
@@ -3298,7 +3196,7 @@
     "explanation": ""
   },
   {
-    "id": 98,
+    "id": 95,
     "questionText": "Aşağıdakilerden hangisi tipik bir araştırma sürecinde görülmez?",
     "imageUrl": null,
     "options": [
@@ -3332,7 +3230,7 @@
     "explanation": ""
   },
   {
-    "id": 99,
+    "id": 96,
     "questionText": "“….. görece kısa sürede yazılırlar ve yılda birden çok sayı yayınlanan dergilere gönderilirler. Hakem değerlendirmesinden geçenler yayımlanırlar. Sayfa sayıları 10-40 arası olabilir.” Yukarıdaki cümlede boş bırakılan yere gelmesi gereken çalışma türünün adı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -3366,7 +3264,7 @@
     "explanation": ""
   },
   {
-    "id": 100,
+    "id": 97,
     "questionText": "Aşağıdakilerden hangisi ölçeklerle ilgili dikkat edilmesi gereken hususlar arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -3400,7 +3298,7 @@
     "explanation": ""
   },
   {
-    "id": 101,
+    "id": 98,
     "questionText": "I. Mülakatlar, bir olgu hakkında anketlerle edinilemeyecek derinlikte veriye ulaşılmasını sağlarlar. II. Mülakatçı ile katılımcı arasında iyi bir iletişim kurulursa, cevapların anketlere nazaran daha dürüst ve doğru olma ihtimali artar. III. Mülakatlar zaman konusunda anket yöntemine göre daha az zaman almaktadır. IV. Mülakatlarda bireysel temas yoğun olması nedeniyle sübjektiflik ve ön yargının oluşma ihtimali yüksektir. Yukarıda mülakatlarla ilgili verilen bilgilerden hangisi/hangileri yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -3434,7 +3332,7 @@
     "explanation": ""
   },
   {
-    "id": 102,
+    "id": 99,
     "questionText": "Aşağıdakilerden hangisi iyi bir hipotezin sahip olması gereken özellikleri arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -3468,7 +3366,7 @@
     "explanation": ""
   },
   {
-    "id": 103,
+    "id": 100,
     "questionText": "Aşağıda verilenlerden hangisi değişken türlerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -3502,7 +3400,7 @@
     "explanation": ""
   },
   {
-    "id": 104,
+    "id": 101,
     "questionText": "I. Araştırmacının ihtiyacını karşılamayacak nitelikte olmaları, II. Ticari amaçlı verilere ulaşmanın pahalı olabilmesi, III. Değişkenlere karşı uyumlu olabilmeleri, IV. Çalışmanın olması gerekenden çok, verilerin elverdiği şekilde tasarlanması. Yukarıda verilenlerden hangisi ya da hangileri İkincil Verilerin Zayıflıklarından değildir?",
     "imageUrl": null,
     "options": [
@@ -3536,7 +3434,7 @@
     "explanation": ""
   },
   {
-    "id": 105,
+    "id": 102,
     "questionText": "Bir ölçeğin güvenilirliğini ölçmede kullanılan üç yaklaşım çeşidi aşağıdaki seçeneklerden hangisinde verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -3570,7 +3468,7 @@
     "explanation": ""
   },
   {
-    "id": 106,
+    "id": 103,
     "questionText": "Aşağıdakilerden hangisi araştırma önerisinin içeriğinde bulunmaz?",
     "imageUrl": null,
     "options": [
@@ -3604,7 +3502,7 @@
     "explanation": ""
   },
   {
-    "id": 107,
+    "id": 104,
     "questionText": "Aşağıdakilerden hangisi geçerlilik kategorisi içinde bulunmaz?",
     "imageUrl": null,
     "options": [
@@ -3638,7 +3536,7 @@
     "explanation": ""
   },
   {
-    "id": 108,
+    "id": 105,
     "questionText": "Aşağıdakilerden hangisi iyi yazılmış bir özetin özellikleri arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -3672,7 +3570,7 @@
     "explanation": ""
   },
   {
-    "id": 109,
+    "id": 106,
     "questionText": "Aşağıdakilerden hangisi örnekleme süreci aşamaları arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -3706,7 +3604,7 @@
     "explanation": ""
   },
   {
-    "id": 110,
+    "id": 107,
     "questionText": "Aşağıdakilerden hangisi iyi bir araştırma konusu için söylenemez?",
     "imageUrl": null,
     "options": [
@@ -3740,7 +3638,7 @@
     "explanation": ""
   },
   {
-    "id": 111,
+    "id": 108,
     "questionText": "I. Ölçekler, çok sayıda ifade ile bir olgunun farklı boyutları hakkında insanların kafasında oluşan “algıyı” ölçmekten fazlasını da yapabilirler. II. Önermeler soru biçiminde olduğu için hipotezler de soru biçiminde olmalıdır. III. “Kişinin gelir düzeyi harcamalarını etkiler.” bir önermedir. IV. “Gelir düzeyi ile harcama miktarı arasında bir ilişki yoktur.” bir hipotezdir. Yukarıda temel kavramlarla ilgili verilen bilgilerden hangisi ya da hangileri doğrudur?",
     "imageUrl": null,
     "options": [
@@ -3774,41 +3672,7 @@
     "explanation": ""
   },
   {
-    "id": 112,
-    "questionText": "Araştırma süreciyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Araştırmacı, konu hakkında bir araştırma tasarımında bulunacak düzeyde bilgi sahibi olmalıdır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Bir araştırma için araştırma konusunun seçimi sanıldığı kadar önemli değildir.",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Bir araştırmaya başlamadan önce araştırmacının, en azından ne yapmak istediğini bilmesi gerekir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Belirlenen genel araştırma konularının araştırılabilir hale gelmeleri için değişik ölçütler kullanılarak özelleştirilmeleri, yani daraltılmaları gerekir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Araştırma konusunda fazla deneyimi olmayanlar için araştırma fikri edinmenin en yararlı yollarından bir tanesi, daha önce yapılmış çalışmaları incelemektir.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 113,
+    "id": 109,
     "questionText": "I. Kolay: Evrendeki belli değişkenlerin örnek kütlede de temsil edilebilmesi için kota ayrılmasıdır. II. Küme: Elemanların değil de kümelerin, kurumların, coğrafi birimlerin (ülke, bölge, il, ilçe, köy, mahalle), şubelerin tesadüfi olarak seçildikleri örnekleme türüdür. III. Tabakalı: Evrende var olan bir özelliğin ya da değişkenin örnekte de aynı oranda temsil edilmesidir. IV. Kota: Evrenin evrene üye olanların kesin olarak belirlenemediği durumlarda kullanılan bir tekniktir. Yukarıda verilen örnekleme türü-tanım eşleştirmelerinden hangisi veya hangileri doğru olarak verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -3842,7 +3706,7 @@
     "explanation": ""
   },
   {
-    "id": 114,
+    "id": 110,
     "questionText": "İçsel tutarlılığın ölçümünde en yaygın kullanılan yöntem ….. alfa olarak da bilinen alfa katsayısıdır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -3876,7 +3740,7 @@
     "explanation": ""
   },
   {
-    "id": 115,
+    "id": 111,
     "questionText": "I. Bilimsel dergi II. Raporlar III. Yüksek lisans tezi IV. Anket Yukarıda verilenlerden hangisi ya da hangileri “İkincil Veri Türleri” başlığı altında yer alır?",
     "imageUrl": null,
     "options": [
@@ -3910,7 +3774,7 @@
     "explanation": ""
   },
   {
-    "id": 116,
+    "id": 112,
     "questionText": "Aşağıdakilerden hangisi bir hata kaynağı değildir?",
     "imageUrl": null,
     "options": [
@@ -3944,7 +3808,7 @@
     "explanation": ""
   },
   {
-    "id": 117,
+    "id": 113,
     "questionText": "Düşünsel ve bilimsel çalışmaların en değerli çıktısına verilen ad aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -3978,7 +3842,7 @@
     "explanation": ""
   },
   {
-    "id": 118,
+    "id": 114,
     "questionText": "Belli varsayım, yasa ve hipotezleri içeren ve ele aldığı olgunun işleyişine dair tutarlı açıklamalar getiren sistematik savlar topluluğudur. Yukarıda tanımı yapılan kavram aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -4012,7 +3876,7 @@
     "explanation": ""
   },
   {
-    "id": 119,
+    "id": 115,
     "questionText": "I. Bilimsel düşünce sadece bazı durumlarda nesnel (objektif) olabilir. II. Bilim, soru sormaya, sorgulamaya dayanır. III. Bilim, insana belli sınırlar içerisinde doğayı ve yaşamı denetleme imkânı sağlar. IV. Bilimsel faaliyetin amacı incelenen konudaki olguları tanımlamak, olgular arasında nedensellik ilişkisi kurmak ve bunları genelleştirip, kuramlar içinde toplayarak kanunlara ulaşmaktır. ”Bilimsel Yaklaşım” ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?",
     "imageUrl": null,
     "options": [
@@ -4046,41 +3910,7 @@
     "explanation": ""
   },
   {
-    "id": 120,
-    "questionText": "I. Araştırmacının ihtiyacını karşılamayacak nitelikte olmaları II. Ticari amaçlı verilere ulaşmanın pahalı olabilmesi III. Değişkenlere karşı uyumlu olabilmeleri IV. Çalışma olması gerekenden çok, verilerin elverdiği şekilde tasarlanması Yukarıda verilenlerden hangisi ya da hangileri “İkincil Verilerin Zayıflıklarından” değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "II ve IV",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "I ve II",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "I, III ve IV",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "II ve III",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Yalnız III",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 121,
+    "id": 116,
     "questionText": "I. Ders kitabı II. Yüksek lisans tezi III. Bilimsel kitap IV. Gazete Yukarıdakilerden hangisi ya da hangileri bilimsel çalışma türleri arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -4114,7 +3944,7 @@
     "explanation": ""
   },
   {
-    "id": 122,
+    "id": 117,
     "questionText": "Evrenden araştırmanın yürütüleceği daha küçük bir grubun belli bir dizgesellikte seçilmesine ….., seçilen küçük gruba da ….. denir. Yukarıda cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -4148,7 +3978,7 @@
     "explanation": ""
   },
   {
-    "id": 123,
+    "id": 118,
     "questionText": "Aşağıdakilerden hangisi hipotezlerin özellikleri arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -4182,7 +4012,7 @@
     "explanation": ""
   },
   {
-    "id": 124,
+    "id": 119,
     "questionText": "I. Sokaktaki bir Van kedisi II. Sendikalı işçiler III. Barınakta yemeğini yiyen bir bulldog IV. Trabzon’da geçimini balıkçılıktan sağlayan aileler Yukarıda verilenlerden hangisi veya hangileri bir evren statüsünde olamaz?",
     "imageUrl": null,
     "options": [
@@ -4216,7 +4046,7 @@
     "explanation": ""
   },
   {
-    "id": 125,
+    "id": 120,
     "questionText": "Daha çok kişilerin tutumlarını ve eğilimlerini ölçme amaçlı olarak kullanılan ölçek aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -4250,7 +4080,7 @@
     "explanation": ""
   },
   {
-    "id": 126,
+    "id": 121,
     "questionText": "Pozitivist bilim anlayışının dayandığı temel varsayımlarla ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -4284,7 +4114,7 @@
     "explanation": ""
   },
   {
-    "id": 127,
+    "id": 122,
     "questionText": "Aşağıdakilerden hangisi araştırma evrenine ilişkin cevap verilmesi gereken temel sorulardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -4318,7 +4148,7 @@
     "explanation": ""
   },
   {
-    "id": 128,
+    "id": 123,
     "questionText": "“Bir testin veya ölçeğin ölçmek istediği şeyi tutarlı ve istikrarlı bir biçimde ölçme derecesidir.“ Yukarıda verilen cümledeki tanım aşağıdaki terimlerden hangisini karşılamaktadır?",
     "imageUrl": null,
     "options": [
@@ -4352,7 +4182,7 @@
     "explanation": ""
   },
   {
-    "id": 129,
+    "id": 124,
     "questionText": "Aşağıdakilerden hangisi örnek büyüklüğünü etkileyen faktörler arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -4386,7 +4216,7 @@
     "explanation": ""
   },
   {
-    "id": 130,
+    "id": 125,
     "questionText": "“Mülakatın zayıf yönlerinden biri bireysel temasların yoğun olması sebebiyle hem olumlu hem de olumsuz anlamda ….. ve ….. oluşma ihtimalinin yüksekliğidir.“ Yukarıda boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?’’",
     "imageUrl": null,
     "options": [
@@ -4420,7 +4250,7 @@
     "explanation": ""
   },
   {
-    "id": 131,
+    "id": 126,
     "questionText": "I. Alandaki uzmanlık bilgisinin pekiştirilmesine yardımcı olur. II. Araştırmanın amacı, problemi ve hipotezleri için dayanak sağlar. III. Diğer araştırmaların kaynaklarını ve sonuçlarını kopyalayarak zaman konusunda tasarruf edilmesini sağlar. IV. Yöntem, model, ölçek kullanımı vb. için meşruiyet oluşturur. Yukarıda belirtilen ifadelerden hangisi/hangileri eleştirel kaynak incelemenin yararları arasında yer alır?",
     "imageUrl": null,
     "options": [
@@ -4454,7 +4284,7 @@
     "explanation": ""
   },
   {
-    "id": 132,
+    "id": 127,
     "questionText": "“Günlük hayatta yapılan konuşmalarda tarafların sık sık ‘seni yanlış anladım’ veya ‘beni yanlış anladın’ gibi ifadeler kullandıkları ve ilave açıklamaya ihtiyaç duyduklarına tanık olunur. Oysa özellikle katılımcının yönettiği anketlerde bu tür yanlış veya eksik anlamalar söz konusu olduğunda, araştırmacının ilave açıklama yapma şansı yoktur. Bu duruma çözüm olarak ankette yer alan soruları, yanlış anlamayı en aza indirecek şekilde ifade etmek önerilebilir.“ Yukarıda verilen paragrafa göre aşağıdakilerden hangisi bir anketin verimsiz olmasına sebep olabilecek nitelikte değildir?",
     "imageUrl": null,
     "options": [
@@ -4488,7 +4318,7 @@
     "explanation": ""
   },
   {
-    "id": 133,
+    "id": 128,
     "questionText": "Aşağıda belirtilen ifadelerden hangisi pozitivist bilim anlayışının dayandığı temel varsayımlar arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -4522,7 +4352,7 @@
     "explanation": ""
   },
   {
-    "id": 134,
+    "id": 129,
     "questionText": "Aşağıdakilerden hangisi iyi bir araştırma konusunun özellikleri arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -4556,7 +4386,7 @@
     "explanation": ""
   },
   {
-    "id": 135,
+    "id": 130,
     "questionText": "“…..araştırmaya katılabilecek olası bütün katılımcıların yer aldığı topluluktur.“ Yukarıdaki tanımda boş bırakılan yere hangi kavram getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -4590,7 +4420,7 @@
     "explanation": ""
   },
   {
-    "id": 136,
+    "id": 131,
     "questionText": "Aşağıdakilerden hangisi kaynakça hazırlanırken dikkat edilmesi ve uygulanması gereken noktalar arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -4624,7 +4454,7 @@
     "explanation": ""
   },
   {
-    "id": 137,
+    "id": 132,
     "questionText": "…… doğal dünyadaki olayların nedenlerini tanımlayarak genelleştirmeye çalışırken, ….. sosyal dünyadaki olayların anlamını veya önemini açıklamaya çalışır. Yukarıda boş bırakılan yerlere hangi seçenekte verilen kavramlar sırasıyla getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -4658,7 +4488,7 @@
     "explanation": ""
   },
   {
-    "id": 138,
+    "id": 133,
     "questionText": "I. Eleştirel kaynak incelemesi yaparak araştırma stratejisi ve hipotezlerinin belirlenmesi II. Araştırma sorularının veya hipotezlerinin sınanabileceği verilerin toplanması III. Araştırma konusunun seçimi ve araştırma önerisinin oluşturulması IV. Araştırmanın konu aldığı ana kütlenin (evren) ve örnek kütlenin belirlenmesi V. Verilerin analizi VI. Araştırma bulgularının raporlanması Yukarıda bir araştırma sürecinin aşamaları karışık olarak verilmiştir. Bu süreçlerin doğru sıralaması aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -4692,7 +4522,7 @@
     "explanation": ""
   },
   {
-    "id": 139,
+    "id": 134,
     "questionText": "Bilimsel araştırmalar kapsamındaki temel kavramlara ilişkin aşağıda verilen tanımlamalardan hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -4726,41 +4556,7 @@
     "explanation": ""
   },
   {
-    "id": 140,
-    "questionText": "I. Kolay: Evrendeki belli değişkenlerin örnek kütlede de temsil edilebilmesi için kota ayrılmasıdır. II. Küme: Elemanların değil de kümelerin, kurumların, coğrafi birimlerin (ülke, bölge, il, ilçe, köy, mahalle), şubelerin tesadüfi olarak seçildikleri örnekleme türüdür. III. Tabakalı: Evrende var olan bir özelliğin ya da değişkenin örnekte de aynı oranda temsil edilmesidir. IV. Kota: Evrenin evrene üye olanların kesin olarak belirlenemediği durumlarda kullanılan bir tekniktir. Yukarıda verilen örnekleme türü-tanım eşleştirmelerinden hangisi veya hangileri aşağıda doğru olarak verilmiştir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Yalnız III",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "III ve IV",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "II ve III",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "I ve III",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "I ve II",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 141,
+    "id": 135,
     "questionText": "“….. niyet edilen araştırmanın öngörülen zaman dilimi içerisinde gerçekleştirilip gerçekleştirilemeyeceğini ortaya koyar.’’ Yukarıdaki cümlede boş bırakılan yere gelmesi gereken terim aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -4794,7 +4590,7 @@
     "explanation": ""
   },
   {
-    "id": 142,
+    "id": 136,
     "questionText": "Tanımlanan evrendeki her elemanın, ‘’eşit’’ ve ‘’bağımsız’’ seçilme şansına sahip olduğu örnekleme tekniği aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -4828,7 +4624,7 @@
     "explanation": ""
   },
   {
-    "id": 143,
+    "id": 137,
     "questionText": "I. Alana katkı sağlama II. Araştırmacıyla örtüşebilme III. Uygulama ve kuramsal anlamlı olma IV. Sadece deneye dayalı olma Yukarıdakilerden hangisi ya da hangileri iyi bir konunun belirleyicisi değildir?",
     "imageUrl": null,
     "options": [
@@ -4862,7 +4658,7 @@
     "explanation": ""
   },
   {
-    "id": 144,
+    "id": 138,
     "questionText": "Aşağıdakilerden hangisi bir olgu değildir?",
     "imageUrl": null,
     "options": [
@@ -4896,7 +4692,7 @@
     "explanation": ""
   },
   {
-    "id": 145,
+    "id": 139,
     "questionText": "Kaynak taraması hakkında aşağıdaki yargılardan hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -4930,7 +4726,7 @@
     "explanation": ""
   },
   {
-    "id": 146,
+    "id": 140,
     "questionText": "Yöntem başlığı altında aşağıdakilerden hangisine yer verilemez?",
     "imageUrl": null,
     "options": [
@@ -4964,7 +4760,7 @@
     "explanation": ""
   },
   {
-    "id": 147,
+    "id": 141,
     "questionText": "‘’….. ve ….. verilerin sınıflandırılması ve anlaşılabilir olmasına yardımcı olmaları açısından yararlıdırlar.’’ Yukarıdaki cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangileri getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -4998,7 +4794,7 @@
     "explanation": ""
   },
   {
-    "id": 148,
+    "id": 142,
     "questionText": "Doğru özet yazımı dikkate alındığında ‘’Araştırma sorularına nasıl cevap bulunacak?’’ sorusuna hangi bölüm karşılık gelmektedir?",
     "imageUrl": null,
     "options": [
@@ -5032,7 +4828,7 @@
     "explanation": ""
   },
   {
-    "id": 149,
+    "id": 143,
     "questionText": "“Yapılan çalışmalar, araştırılan olgu veya olguların belli bir andaki durumunu ortaya koymaya yönelik olabilir. Yani amaç, olgunun belli bir anda resmini çekmek olabilir.” Yukarda bahsi geçen araştırma/çalışma türü aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -5066,7 +4862,7 @@
     "explanation": ""
   },
   {
-    "id": 150,
+    "id": 144,
     "questionText": "I. Kategori sayısı II. Ölçeklerde denge III. Kategorilerin yapısı ve yazılı gösterimi IV. Ölçeklerin sık sık değişimi Yukarıda verilenlerden hangisi ya da hangileri ölçeklerle ilgili önemli hususlar arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -5100,7 +4896,7 @@
     "explanation": ""
   },
   {
-    "id": 151,
+    "id": 145,
     "questionText": "Aşağıdakilerden hangisi e-posta anketlerinin görece hızlı ve düşük maliyetli olmalarının yanında sağladığı kolaylıklardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -5134,7 +4930,7 @@
     "explanation": ""
   },
   {
-    "id": 152,
+    "id": 146,
     "questionText": "Aşağıda verilenlerden hangisi örnekleme sürecine dâhil olan aşamalardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -5168,7 +4964,7 @@
     "explanation": ""
   },
   {
-    "id": 153,
+    "id": 147,
     "questionText": "Paradigmalarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "imageUrl": null,
     "options": [
@@ -5202,7 +4998,7 @@
     "explanation": ""
   },
   {
-    "id": 154,
+    "id": 148,
     "questionText": "I. Hipotez içerme II. Tutarlı olma III. Yasa içerme IV. Kendi bildiğini uygulama Yukarıda verilenlerden hangisi veya hangileri kuram tanımına karşılık gelmez?",
     "imageUrl": null,
     "options": [
@@ -5236,7 +5032,7 @@
     "explanation": ""
   },
   {
-    "id": 155,
+    "id": 149,
     "questionText": "Gözlemsel araştırma türlerinin çeşitli ölçütlerle tasnifi sonucunda ortaya çıkan iki tür gözlemin adları aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -5270,7 +5066,7 @@
     "explanation": ""
   },
   {
-    "id": 156,
+    "id": 150,
     "questionText": "“Sözde ölçekten oranlı ölçeğe gidildikçe ölçeğin ….. gücü artar.” Yukarıda verilen cümlede boş bırakılan yere gelmesi gereken aşağıdaki seçeneklerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -5304,7 +5100,7 @@
     "explanation": ""
   },
   {
-    "id": 157,
+    "id": 151,
     "questionText": "Aşağıdakilerden hangisi “sözde bilim’’ (pseudo science) terimine karşılık gelmez?",
     "imageUrl": null,
     "options": [
@@ -5338,7 +5134,7 @@
     "explanation": ""
   },
   {
-    "id": 158,
+    "id": 152,
     "questionText": "Aşağıda verilen seçeneklerden hangisi nominal/sözde ölçüm düzeyine bir örnektir?",
     "imageUrl": null,
     "options": [
@@ -5372,7 +5168,7 @@
     "explanation": ""
   },
   {
-    "id": 159,
+    "id": 153,
     "questionText": "Aşağıdakilerden hangisi sosyal kuramların işleyişiyle alakalı gerçekliklerin ortaya koyulmasında fayda sağlamaz?",
     "imageUrl": null,
     "options": [
@@ -5406,7 +5202,7 @@
     "explanation": ""
   },
   {
-    "id": 160,
+    "id": 154,
     "questionText": "Ölçüm düzeyleri aşağıda verilen seçeneklerden hangisinde eksiksiz bir şekilde verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -5440,7 +5236,7 @@
     "explanation": ""
   },
   {
-    "id": 161,
+    "id": 155,
     "questionText": "Müşteri gereksinimlerini karşılayabilmek için kullanılagelen insan, iş, ürün ve/veya hizmet kalite ihtiyaçlarının düzenli bir yöntemle ve tüm çalışanların katılımları ile sağlanmasına verilen ad aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -5474,41 +5270,7 @@
     "explanation": ""
   },
   {
-    "id": 162,
-    "questionText": "I. Bilimsel düşünce sadece bazı durumlarda nesnel (objektif) olabilir. II. Bilim, soru sormaya, sorgulamaya dayanır. III. Bilim, insana belli sınırlar içerisinde doğayı ve yaşamı denetleme imkânı sağlar. IV. Bilimsel faaliyetin amacı incelenen konudaki olguları tanımlamak, olgular arasında nedensellik ilişkisi kurmak ve bunları genelleştirip, kuramlar içinde toplayarak kanunlara ulaşmaktır. Yukarıdakilerden hangisi ya da hangileri doğrudur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "A) II, III ve IV",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "I, II ve IV",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Yalnız I",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "II ve III",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "I ve II",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 163,
+    "id": 156,
     "questionText": "….. araştırmacının veri toplamayı hedeflediği elemanların yer aldığı ve kendisini diğerlerinden ayırt edecek en az bir özelliğe sahip kümedir. Yukarıdaki ifadede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
     "imageUrl": null,
     "options": [
@@ -5542,7 +5304,7 @@
     "explanation": ""
   },
   {
-    "id": 164,
+    "id": 157,
     "questionText": "Bir topluluğa (kişi, kurum, varlık) ilişkin veri toplamanın bir yolu olarak o topluluktaki elemanların her birinin tek tek araştırılmasına verilen ad aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -5576,7 +5338,7 @@
     "explanation": ""
   },
   {
-    "id": 165,
+    "id": 158,
     "questionText": "‘’Eleştirel kaynak incelemesi süreci: ….. – ….. – …. olarak ilerler.’’ Yukarıda verilen cümledeki boş bırakılan yerlere gelmesi gereken aşamalar aşağıdaki seçeneklerden hangisinde doğru şekilde verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -5610,7 +5372,7 @@
     "explanation": ""
   },
   {
-    "id": 166,
+    "id": 159,
     "questionText": "Araştırmanın türü ne olursa olsun, bir araştırmacının birincil veri edinebilmesi için hangi veri toplama tekniklerini uygulaması gerekmektedir?",
     "imageUrl": null,
     "options": [
@@ -5644,7 +5406,7 @@
     "explanation": ""
   },
   {
-    "id": 167,
+    "id": 160,
     "questionText": "“….. şüphe, memnuniyetsizlik, reddetme, daha iyisini arama ile başlar.” Yukarıdaki cümlede boş bırakılan yere gelmesi gereken kavram aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -5678,7 +5440,7 @@
     "explanation": ""
   },
   {
-    "id": 168,
+    "id": 161,
     "questionText": "Aşağıdakilerden hangisi tipik bir araştırma raporunda bulunması gereken kısımlardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -5712,7 +5474,7 @@
     "explanation": ""
   },
   {
-    "id": 169,
+    "id": 162,
     "questionText": "Basit bir ifadeyle ….. önceden tespit edilen belirli kurallara göre nesnelerin ve kişilerin özelliklerine sayılar veya semboller atamaktır. Yukarıdaki tanımda boş bırakılan yere gelmesi gereken terim aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -5746,7 +5508,7 @@
     "explanation": ""
   },
   {
-    "id": 170,
+    "id": 163,
     "questionText": "Bilimsel bilgiyi büyü, fal, din, edebiyat ve sanat gibi diğer bilgi türlerinden ayıran en önemli ölçüt bilimin konusunun ….. olmasıdır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -5780,7 +5542,7 @@
     "explanation": ""
   },
   {
-    "id": 171,
+    "id": 164,
     "questionText": "Bilimle ilgili aşağıda verilen ifadelerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -5814,7 +5576,7 @@
     "explanation": ""
   },
   {
-    "id": 172,
+    "id": 165,
     "questionText": "Aşağıda verilen sınıflandırma ölçütü – tür eşleştirmelerinden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -5848,7 +5610,7 @@
     "explanation": ""
   },
   {
-    "id": 173,
+    "id": 166,
     "questionText": "Metodoloji olarak da adlandırılan bilimin adı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -5882,7 +5644,7 @@
     "explanation": ""
   },
   {
-    "id": 174,
+    "id": 167,
     "questionText": "“….. sınırlı sayıda örneğe (parçalara) bakarak genel hakkında kanaat sahibi olunmasını sağlar. Buna karşılık ….. esasta tümel önermelerden tikel önermelerin çıkarılmasını sağlayan yani, genele bakarak parça hakkında fikir sahibi olunmasını sağlayan ilişkilendirme yöntemidir.’’ Yukarıdaki paragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -5916,7 +5678,7 @@
     "explanation": ""
   },
   {
-    "id": 175,
+    "id": 168,
     "questionText": "Aşağıdaki ölçek türleri eşleştirmelerinden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -5950,7 +5712,7 @@
     "explanation": ""
   },
   {
-    "id": 176,
+    "id": 169,
     "questionText": "“Bir şeyin veya konunun eleştirel bir şekilde incelenmesi neticesinde yeni durumları keşfetmek, yeni ilişkiler ortaya koymak veya yeni sonuçlara ulaşmak için yapılan arayış ve sorgulamalar bütünüdür.” Yukarıda verilen tanım aşağıdaki terimlerden hangisine aittir?",
     "imageUrl": null,
     "options": [
@@ -5984,7 +5746,7 @@
     "explanation": ""
   },
   {
-    "id": 177,
+    "id": 170,
     "questionText": "‘’Bu düzeydeki bir ölçüme bakarak, bir nesnenin belirli bir özelliği az mı yoksa çok mu taşıdığını söylemek mümkündür.’’ Yukarıdaki cümlede bahsedilen ölçüm düzeyi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -6018,7 +5780,7 @@
     "explanation": ""
   },
   {
-    "id": 178,
+    "id": 171,
     "questionText": "Aşağıdakilerden hangisi ölçeklerde her bir ifadeye katılma düzeyini belirlemek için geliştirilmiş ölçüm biçimlerinden biridir?",
     "imageUrl": null,
     "options": [
@@ -6052,7 +5814,7 @@
     "explanation": ""
   },
   {
-    "id": 179,
+    "id": 172,
     "questionText": "Araştırmacının uygun bir örnek kütle için ulaşması gereken dengenin şartları aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -6086,7 +5848,7 @@
     "explanation": ""
   },
   {
-    "id": 180,
+    "id": 173,
     "questionText": "Başlıca veri toplama tekniklerine (anket, mülakat, gözlem) Christensen ….. ve ….. tekniğini Rugg ve Petre ise ….. tekniğini eklemektedir. Yukarıdaki cümlede yer alan boşluklara sırasıyla aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -6120,7 +5882,7 @@
     "explanation": ""
   },
   {
-    "id": 181,
+    "id": 174,
     "questionText": "Aşağıdakilerden hangisi araştırma yönteminin seçiminde yanıt verilmesi gereken sorulardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -6154,7 +5916,7 @@
     "explanation": ""
   },
   {
-    "id": 182,
+    "id": 175,
     "questionText": "‘’….. anakütlede yer alan bütün elemanların yazılı olduğu listedir.’’ Yukarıdaki cümlede boş bırakılan yere gelmesi gereken terim aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -6188,7 +5950,7 @@
     "explanation": ""
   },
   {
-    "id": 183,
+    "id": 176,
     "questionText": "Aşağıdaki örnekleme teknikleri eşleştirmelerinden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -6222,7 +5984,7 @@
     "explanation": ""
   },
   {
-    "id": 184,
+    "id": 177,
     "questionText": "‘’….. en önemli üstünlükleri araştırılan olguya ilişkin değişme ve gelişmeleri tespit edebilme kapasitesidir.’’ Yukarıdaki cümlede boş bırakılan yere aşağıdaki araştırma türlerinden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -6256,7 +6018,7 @@
     "explanation": ""
   },
   {
-    "id": 185,
+    "id": 178,
     "questionText": "I. Belirlenen ana kütleden örnek kütleleri oluşturacak deneklerin seçilmesi II. Az sayıda değişkenin ölçülmesi III. Diğer değişkenlerin kontrol edilmesi IV. Bir veya daha çok değişken üzerine planlanan değişimin tatbik edilmesi Yukarıdakilerden hangisi veya hangileri tipik bir deneysel araştırmada takip edilecek aşamalardandır?",
     "imageUrl": null,
     "options": [
@@ -6290,7 +6052,7 @@
     "explanation": ""
   },
   {
-    "id": 186,
+    "id": 179,
     "questionText": "Araştırmalara ilişkin olarak aşağıdaki ifadelerden hangisi doğrudur?",
     "imageUrl": null,
     "options": [
@@ -6324,75 +6086,7 @@
     "explanation": ""
   },
   {
-    "id": 187,
-    "questionText": "‘’Mülakatın zayıf yönlerinden biri bireysel temasların yoğun olması sebebiyle hem olumlu hem de olumsuz anlamda ….. ve ….. oluşma ihtimalinin yüksekliğidir.’’ Yukarıda boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "veri dağılımı - bağlılık",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "üretim - tüketim",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "objektiflik - empati",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "subjektiflik - ön yargı",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "pragmatik yaklaşım - bencillik",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 188,
-    "questionText": "I. Büyük örnek kütle sorunu II. Online araştırmalarda örnekleme sorunu III. Sanal ortamda araştırma imkânının geniş olması IV. Kaynak yetersizliği Yukarıda verilenlerden hangisi veya hangileri örnekleme sorunlarının içinde yer alır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "I, III ve IV",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "I ve III",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Yalnız II",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "I ve II",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "I ve IV",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 189,
+    "id": 180,
     "questionText": "I. Bitirme zamanı için bir sürenin belirlenmesi II. Bilgisayar desteği almak III. Dikkat dağıtıcı unsurlardan kaçınmak IV. İstikrar kaybı yaşanabilecek mekânlarda bulunmak Yukarıda verilenlerden hangileri yazma aşamasında dikkat edilmesi gereken konulara dâhil edilebilir?",
     "imageUrl": null,
     "options": [
@@ -6426,7 +6120,7 @@
     "explanation": ""
   },
   {
-    "id": 190,
+    "id": 181,
     "questionText": "Bilimsel Araştırmalarda Temel Kavramlara ilişkin olarak verilen aşağıdaki bilgilerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -6460,7 +6154,7 @@
     "explanation": ""
   },
   {
-    "id": 191,
+    "id": 182,
     "questionText": "‘’Gazeteciler veya televizyoncular haber veya yorumun üslubu biraz dramatik hale getirerek ilgi çekmek isteyebilirler. Roman ve hikâye yazarları kelimelerle oynayarak hayal gücümüzün sınırlarını zorlamak isteyebilirler. Ancak, bilimsel çalışmalarda dil özlü ve duru biçimde kullanılmalıdır.’’ Yukarıdaki paragraf dikkate alındığında bir bilim insanının ne gibi noktalardan kaçınması gerekir?",
     "imageUrl": null,
     "options": [
@@ -6494,7 +6188,7 @@
     "explanation": ""
   },
   {
-    "id": 192,
+    "id": 183,
     "questionText": "I. Biçimsel Olmayan Mülakatlar II. Yarı-Biçimsel Mülakatlar III. Biçimsel Mülakatlar IV. Biçim Üzeri Mülakatlar Yukarıdakilerden hangisi ya da hangileri mülakat türlerine girmez?",
     "imageUrl": null,
     "options": [
@@ -6528,7 +6222,7 @@
     "explanation": ""
   },
   {
-    "id": 193,
+    "id": 184,
     "questionText": "İdeal evrenin araştırılabilir düzeyde indirgenebilmesi için bazı ölçütlere göre daraltılmasına ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -6562,7 +6256,7 @@
     "explanation": ""
   },
   {
-    "id": 194,
+    "id": 185,
     "questionText": "I. Sektör ayrımı II. Yaşama yerlerine göre (köy, şehir, varoş) III. Coğrafi alan IV. Zaman Yukarıda verilenlerden hangisi ya da hangileri tipik konu daraltma yollarındandır?",
     "imageUrl": null,
     "options": [
@@ -6596,7 +6290,7 @@
     "explanation": ""
   },
   {
-    "id": 195,
+    "id": 186,
     "questionText": "I. Yanlış usavurum, muhakeme ve çıkarım II. Yanlış denek seçimi III. Dış etkiyi azaltma IV. Yetersiz mülakat ve gözlemler Yukarıda verilenlerden hangisi veya hangileri bilimsel araştırmalarda yapılan yaygın hatalardandır?",
     "imageUrl": null,
     "options": [
@@ -6630,7 +6324,7 @@
     "explanation": ""
   },
   {
-    "id": 196,
+    "id": 187,
     "questionText": "I. Olaylara dayanma II. Taraflı olma III. Yanılma olasılığının kabulü IV. Eleştiriye açık olma Yukarıdakilerden hangisi ya da hangileri bilimsel düşünmenin temel özellikleri arasında sayılabilir?",
     "imageUrl": null,
     "options": [
@@ -6664,7 +6358,7 @@
     "explanation": ""
   },
   {
-    "id": 197,
+    "id": 188,
     "questionText": "Bilimsel Araştırma Teknikleri 2024-2025 Final Sınavı Çıkan Sorular 1. Aşağıdakilerden hangisi örnek büyüklüğünü etkileyen faktörler arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -6698,7 +6392,7 @@
     "explanation": ""
   },
   {
-    "id": 198,
+    "id": 189,
     "questionText": "Bilimsel Araştırma Teknikleri 2023 Bütünleme Soruları 1. Aşağıdakilerden hangisi araştırma yönteminin seçiminde yanıt verilmesi gereken sorulardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -6732,7 +6426,7 @@
     "explanation": ""
   },
   {
-    "id": 199,
+    "id": 190,
     "questionText": "“….. yöntem konusunda karşılaşılan en önemli sorun hem eylemleri incelenen varlığın, hem de eylemleri inceleyenlerin insan olmasıdır. Bu da araştırmacının nesnelliği sorununu akla getirmektedir.” Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -6746,7 +6440,7 @@
     "explanation": ""
   },
   {
-    "id": 200,
+    "id": 191,
     "questionText": "I. Mülakatlar, bir olgu hakkında anketlerle edinilemeyecek derinlikte veriye ulaşılmasını sağlarlar II. Mülakatçı ile katılımcı arasında iyi bir iletişim kurulursa, cevapların anketlere nazaran daha dürüst ve doğru olma ihtimali artar. III. Mülakatlar zaman konusunda anket yöntemine göre daha az zaman almaktadır. IV. Mülakatlarda bireysel temas yoğun olması nedeniyle sübjektiflik ve ön yargının oluşma ihtimali yüksektir.",
     "imageUrl": null,
     "options": [
@@ -6780,7 +6474,7 @@
     "explanation": ""
   },
   {
-    "id": 201,
+    "id": 192,
     "questionText": "Yukarıda bir araştırma sürecinin aşamaları karışık olarak verilmiştir. Bu süreçlerin doğru sıralaması aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -6814,7 +6508,7 @@
     "explanation": ""
   },
   {
-    "id": 202,
+    "id": 193,
     "questionText": "Yukarıda belirtilen ifadelerden hangisi/hangileri eleştirel kaynak incelemenin yararları arasında yer alır?",
     "imageUrl": null,
     "options": [
@@ -6848,7 +6542,7 @@
     "explanation": ""
   },
   {
-    "id": 203,
+    "id": 194,
     "questionText": "I. Kolay: Evrendeki belli değişkenlerin örnek kütlede de temsil edilebilmesi için kota ayrılmasıdır. II. Küme: Elemanların değil de kümelerin, kurumların, coğrafi birimlerin (ülke, bölge, il, ilçe, köy, mahalle), şubelerin tesadüfi olarak seçildikleri örnekleme türüdür. III. Tabakalı: Evrende var olan bir özelliğin ya da değişkenin örnekte de aynı oranda temsil edilmesidir. IV. Kota: Evrenin evrene üye olanların kesin olarak belirlenemediği durumlarda kullanılan bir tekniktir.",
     "imageUrl": null,
     "options": [

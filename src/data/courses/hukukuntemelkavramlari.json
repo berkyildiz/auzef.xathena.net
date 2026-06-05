@@ -439,7 +439,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "İş hukukunda işveren vekili dendiğinde, işveren adına hareket eden ve işin, işyerinin veya işletmenin yönetiminde görev alan kişilere işveren vekili denir."
   },
   {
     "id": 14,
@@ -3367,40 +3367,6 @@
   },
   {
     "id": 100,
-    "questionText": "Aşağıdakilerden hangisi kamu hukuku dallan içinde yer alır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "İcra ve mas hukuku",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Borçlar hukuku",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Vergi hukuku",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Milletlerarası özel hukuk",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Medeni hukuk",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 101,
     "questionText": "Davacının karşı tarafı bir şey yapmaya, bir şey vermeye veya bir şeyi yapmaktan kaçınmaya mahkûm etmesini amaçlayan davaya ne denir?",
     "imageUrl": null,
     "options": [
@@ -3434,7 +3400,7 @@
     "explanation": ""
   },
   {
-    "id": 102,
+    "id": 101,
     "questionText": "Hukuk kurallarının yorumlanmasında metne sıkı sıkıya bağlı kalınmasını savunan yorum yöntemi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -3468,7 +3434,7 @@
     "explanation": ""
   },
   {
-    "id": 103,
+    "id": 102,
     "questionText": "Aşağıdaki organlardan hangisi 2014’ten önceki kararlarında Sayıştayı bir yargı organı olarak kabul etmemiştir?",
     "imageUrl": null,
     "options": [
@@ -3502,7 +3468,7 @@
     "explanation": ""
   },
   {
-    "id": 104,
+    "id": 103,
     "questionText": "Ahlak kuradan ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -3536,7 +3502,7 @@
     "explanation": ""
   },
   {
-    "id": 105,
+    "id": 104,
     "questionText": "Nafaka yükümlülüğü aşağıdaki toplumsal düzen kurallarından hangisi tarafından düzenlenmiştir?",
     "imageUrl": null,
     "options": [
@@ -3570,7 +3536,7 @@
     "explanation": ""
   },
   {
-    "id": 106,
+    "id": 105,
     "questionText": "Yürütme yetkisi kime aittir?",
     "imageUrl": null,
     "options": [
@@ -3604,7 +3570,7 @@
     "explanation": ""
   },
   {
-    "id": 107,
+    "id": 106,
     "questionText": "Vergi kanunlarına göre verginin ödenmesi bakımından alacaklı vergi dairesine karşı muhatap olan kişiye ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -3638,7 +3604,7 @@
     "explanation": ""
   },
   {
-    "id": 108,
+    "id": 107,
     "questionText": "Hakkın doğmasına engel olan veya hakkı sona erdiren maddi olayların ileri sürülmesine ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -3672,7 +3638,7 @@
     "explanation": ""
   },
   {
-    "id": 109,
+    "id": 108,
     "questionText": "Halkın devlet yönetimine katılması esasını temel alan anayasa ilkesi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -3706,7 +3672,7 @@
     "explanation": ""
   },
   {
-    "id": 110,
+    "id": 109,
     "questionText": "Aşağıdakilerden hangisi adli yargıda genel görevli hukuk mahkemesidir?",
     "imageUrl": null,
     "options": [
@@ -3740,7 +3706,7 @@
     "explanation": ""
   },
   {
-    "id": 111,
+    "id": 110,
     "questionText": "Gemide bir suç işlenmesi ve kaçma, delilleri yok etme veya delil toplamaya engel olma tehlikesinin bulunması durumlannda sanığı tutuklama yetkisine sahip olan kişi kimdir?",
     "imageUrl": null,
     "options": [
@@ -3774,7 +3740,7 @@
     "explanation": ""
   },
   {
-    "id": 112,
+    "id": 111,
     "questionText": "Kişilerle devlet arasındaki ilişkileri düzenleyen hukuk kurallarından doğan haklara ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -3808,7 +3774,7 @@
     "explanation": ""
   },
   {
-    "id": 113,
+    "id": 112,
     "questionText": "Aralarında var olan bore ilişkisi dolayısıyla alacaklının borçludan isteyebileceği, borçlunun da yerine getirmekle yükümlü bulunduğu davranış biçimine ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -3842,7 +3808,7 @@
     "explanation": ""
   },
   {
-    "id": 114,
+    "id": 113,
     "questionText": "Aşağıdakilerden hangisi yönetmelik çıkaramaz?",
     "imageUrl": null,
     "options": [
@@ -3876,7 +3842,7 @@
     "explanation": ""
   },
   {
-    "id": 115,
+    "id": 114,
     "questionText": "Bir yükseköğretim kurumunun yetkili kurulu, bir öğrencinin sınavlara girmesine hukuka aykırı biçimde engel olursa öğrenci bu işlemin İptali için hangi mahkemeye başvurur?",
     "imageUrl": null,
     "options": [
@@ -3910,7 +3876,7 @@
     "explanation": ""
   },
   {
-    "id": 116,
+    "id": 115,
     "questionText": "İflasa hangi mahkeme karar verir?",
     "imageUrl": null,
     "options": [
@@ -3944,7 +3910,7 @@
     "explanation": ""
   },
   {
-    "id": 117,
+    "id": 116,
     "questionText": "Farklı yargı kolları arasında ortaya çıkan görev ve hüküm uyuşmazlıklarını kesin olarak karara bağlayan organ aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -3978,7 +3944,7 @@
     "explanation": ""
   },
   {
-    "id": 118,
+    "id": 117,
     "questionText": "Ölüme bağlı tasarrufun en bilinen ve yaygın olarak başvurulan türü aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -4012,7 +3978,7 @@
     "explanation": ""
   },
   {
-    "id": 119,
+    "id": 118,
     "questionText": "Hukukun kaynakları ile ilgili aşağıdakilerden hangisi doğrudur?",
     "imageUrl": null,
     "options": [
@@ -4046,41 +4012,7 @@
     "explanation": ""
   },
   {
-    "id": 120,
-    "questionText": "Vergi yasalarına göre kendisine vergi borcu düşen (terettüp eden) gerçek ve tüzel kişiye ne ad verilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Tacir",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Müflis",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Alacaklı",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Fail",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Mükellef",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 121,
+    "id": 119,
     "questionText": "Aşağıdakilerden hangisi Kamu Hukuku/Özel Hukuk ayrımının ölçütlerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -4114,7 +4046,7 @@
     "explanation": ""
   },
   {
-    "id": 122,
+    "id": 120,
     "questionText": "Derneği temsil eden organ aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -4148,7 +4080,7 @@
     "explanation": ""
   },
   {
-    "id": 123,
+    "id": 121,
     "questionText": "Soyut norm denetimi de denilen davanın diğer adı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -4182,7 +4114,7 @@
     "explanation": ""
   },
   {
-    "id": 124,
+    "id": 122,
     "questionText": "Defi kim/kimler tarafından ileri sürülebilir?",
     "imageUrl": null,
     "options": [
@@ -4216,7 +4148,7 @@
     "explanation": ""
   },
   {
-    "id": 125,
+    "id": 123,
     "questionText": "Olağan (adi) zaman aşımı yoluyla tapuya kayıtlı taşınmaz malın kazanılmasında süre kaç yıldır?",
     "imageUrl": null,
     "options": [
@@ -4250,7 +4182,7 @@
     "explanation": ""
   },
   {
-    "id": 126,
+    "id": 124,
     "questionText": "Aşağıdakilerden hangisinde anonim şirketintanımı doğru bir şekilde verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -4284,7 +4216,7 @@
     "explanation": ""
   },
   {
-    "id": 127,
+    "id": 125,
     "questionText": "Atanmış mirasçılar da kanuni mirasçılar gibiterekenin ……. halefidirler. Yukarıda boş bırakılan yere aşağıdaki kelimelerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -4318,7 +4250,7 @@
     "explanation": ""
   },
   {
-    "id": 128,
+    "id": 126,
     "questionText": "Aşağıdakilerden hangisi maddi olmayan mallar üzerindeki mutlak haklardan biridir?",
     "imageUrl": null,
     "options": [
@@ -4352,7 +4284,7 @@
     "explanation": ""
   },
   {
-    "id": 129,
+    "id": 127,
     "questionText": "Toplu iş sözleşmesi aşağıdakilerden hangileri arasında yapılabilir?",
     "imageUrl": null,
     "options": [
@@ -4386,7 +4318,7 @@
     "explanation": ""
   },
   {
-    "id": 130,
+    "id": 128,
     "questionText": "Hâkimin kendiliğinden dikkate aldığı yaptırım aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -4420,7 +4352,7 @@
     "explanation": ""
   },
   {
-    "id": 131,
+    "id": 129,
     "questionText": "Aşağıda verilen hangi dönemden sonra uluslararası örgütler, milletlerarası hukukun konusu olmaya başlamıştır?",
     "imageUrl": null,
     "options": [
@@ -4454,7 +4386,7 @@
     "explanation": ""
   },
   {
-    "id": 132,
+    "id": 130,
     "questionText": "Bir hukuk kuralının somut bir olaya uygulanabilmesi için kuralın tam ve kesin anlamının ortaya çıkarılması faaliyetine ne denir?",
     "imageUrl": null,
     "options": [
@@ -4488,7 +4420,7 @@
     "explanation": ""
   },
   {
-    "id": 133,
+    "id": 131,
     "questionText": "Aşağıdakilerden hangisi hukuk sistemleri içindeyer almaz?",
     "imageUrl": null,
     "options": [
@@ -4522,7 +4454,7 @@
     "explanation": ""
   },
   {
-    "id": 134,
+    "id": 132,
     "questionText": "Aşağıdakilerden hangisi Türkiye Cumhuriyeti’nin temel niteliklerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -4556,7 +4488,7 @@
     "explanation": ""
   },
   {
-    "id": 135,
+    "id": 133,
     "questionText": "Aşağıdakilerden hangisi Avrupa İnsan Hakları Mahkemesine başvuru şartlarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -4590,7 +4522,7 @@
     "explanation": ""
   },
   {
-    "id": 136,
+    "id": 134,
     "questionText": "Hangisi özel( hukuk ) Haklarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -4624,7 +4556,7 @@
     "explanation": ""
   },
   {
-    "id": 137,
+    "id": 135,
     "questionText": "Hukuk kuralları dışında diğer toplumsal kurallara uyulmadığında karşılaşılacak olan tepki hangisidir?",
     "imageUrl": null,
     "options": [
@@ -4658,41 +4590,7 @@
     "explanation": ""
   },
   {
-    "id": 138,
-    "questionText": "Hangisi idare hukukunda özel kişilere karşı uygulanan yaptırımlardan biridir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Manevi tazminat",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Butlan",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Maddi tazminat",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "İdari para cezası",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Hapis cezası",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 139,
+    "id": 136,
     "questionText": "Hangisi hukukun bağlayıcı kaynaklarından değildir?",
     "imageUrl": null,
     "options": [
@@ -4726,7 +4624,7 @@
     "explanation": ""
   },
   {
-    "id": 140,
+    "id": 137,
     "questionText": "Hangisi Uluslararası hukukun kendine has yaptırımları arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -4760,7 +4658,7 @@
     "explanation": ""
   },
   {
-    "id": 141,
+    "id": 138,
     "questionText": "Özel sigortacılık alanında aşağıdaki şirketlerden hangisi faaliyet gösterebilir?",
     "imageUrl": null,
     "options": [
@@ -4794,7 +4692,7 @@
     "explanation": ""
   },
   {
-    "id": 142,
+    "id": 139,
     "questionText": "Hesap mahkemesi de denilen organ hangisidir?",
     "imageUrl": null,
     "options": [
@@ -4828,7 +4726,7 @@
     "explanation": ""
   },
   {
-    "id": 143,
+    "id": 140,
     "questionText": "Kişinin hak ve borçlara sahip olabilme ehliyeti hukukumuzda hangi kavramla tanımlanmaktadır?",
     "imageUrl": null,
     "options": [
@@ -4862,7 +4760,7 @@
     "explanation": ""
   },
   {
-    "id": 144,
+    "id": 141,
     "questionText": "Yenisi seçilene kadar hangisi Cumhurbaşkanlığına vekalet eder?",
     "imageUrl": null,
     "options": [
@@ -4896,7 +4794,7 @@
     "explanation": ""
   },
   {
-    "id": 145,
+    "id": 142,
     "questionText": "Anayasa mahkemesine yapılacak bireysel başvuru yollarının tüketildiği tarihten başvuru yolu öngörülmemişse ihlalin öğrenildiği tarihten itibaren kaç gün içinde yapılmalıdır?",
     "imageUrl": null,
     "options": [
@@ -4930,7 +4828,7 @@
     "explanation": ""
   },
   {
-    "id": 146,
+    "id": 143,
     "questionText": "Bir sözleşmenin meydana gelebilmesi için iki irade açıklamasına ihtiyaç vardır. Bunlardan zaman bakımından önce yapılan irade açıklamasına ne denir?",
     "imageUrl": null,
     "options": [
@@ -4964,7 +4862,7 @@
     "explanation": ""
   },
   {
-    "id": 147,
+    "id": 144,
     "questionText": "Bir kişiyi devlete bağlayan hukuki ve siyasi bağa ne denir?",
     "imageUrl": null,
     "options": [
@@ -4998,7 +4896,7 @@
     "explanation": ""
   },
   {
-    "id": 148,
+    "id": 145,
     "questionText": "Hangisi adli yargıda genel görevli hukuk mahkemesidir?",
     "imageUrl": null,
     "options": [
@@ -5032,7 +4930,7 @@
     "explanation": ""
   },
   {
-    "id": 149,
+    "id": 146,
     "questionText": "Anayasamıza göre milletvekili seçilme yaşı nedir?",
     "imageUrl": null,
     "options": [
@@ -5066,7 +4964,7 @@
     "explanation": ""
   },
   {
-    "id": 150,
+    "id": 147,
     "questionText": "Normlar arasındaki hiyerarşik sıralamaya göre en üstün norm hangisidir?",
     "imageUrl": null,
     "options": [
@@ -5100,7 +4998,7 @@
     "explanation": ""
   },
   {
-    "id": 151,
+    "id": 148,
     "questionText": "“Kadın ve erkek 17 yaşını doldurmadan evlenemez.” Yukarıdaki kural niteliği açısından nasıl bir hukuk kuralıdır?",
     "imageUrl": null,
     "options": [
@@ -5134,7 +5032,7 @@
     "explanation": ""
   },
   {
-    "id": 152,
+    "id": 149,
     "questionText": "Soyut norm denetimi de denilen davanın diğer adı hangisidir?",
     "imageUrl": null,
     "options": [
@@ -5168,7 +5066,7 @@
     "explanation": ""
   },
   {
-    "id": 153,
+    "id": 150,
     "questionText": "Hangisi edimin şartlarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -5202,75 +5100,7 @@
     "explanation": ""
   },
   {
-    "id": 154,
-    "questionText": "Aralarında var olan borç ilişkisi dolayısıyla alacaklının borludan isteyebileceği borçlunun da yerine getirmekle yükümlü olduğu davranış biçimine ne denir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Sözleşme",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Çalışma",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Edim",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "İş",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Alacak",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 155,
-    "questionText": "Halkın devlet yönetimine katılması esasını temel alan anayasa ilkesi hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Sosyal devlet",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Demokratik devlet",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "İnsan haklarına saygılı devlet",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Laik devlet",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Hukuk devleti",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 156,
+    "id": 151,
     "questionText": "Bir davaya yer itibarıyla hangi mahkemenin bakacağı ifade eden kavram hangisidir?",
     "imageUrl": null,
     "options": [
@@ -5304,7 +5134,7 @@
     "explanation": ""
   },
   {
-    "id": 157,
+    "id": 152,
     "questionText": "Hangisi vergi idaresi tarafından gerçekleştirilen işlemlerden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -5338,41 +5168,7 @@
     "explanation": ""
   },
   {
-    "id": 158,
-    "questionText": "Fransız İnsan ve Yurttaş Halklar Bildirgesi hangi olayın bir ürünüdür?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Amerikan bağımsızlık savaşının",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Büyük Fransız Devriminin",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Rönesansın",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Sanayi Devriminin",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Reform Hareketlerinin",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 159,
+    "id": 153,
     "questionText": "Hangisi kamu hukuku dalları içinde yer alır?",
     "imageUrl": null,
     "options": [
@@ -5406,41 +5202,7 @@
     "explanation": ""
   },
   {
-    "id": 160,
-    "questionText": "İş Kanununa göre işveren adına hareket eden ve işin, iş yerinin veya işletmenin yönetiminde görev alan kişilere ne denir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Müffettiş",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "İşveren vekili",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Şef",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Müdür",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Tacir yardımcısı",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "İş hukukunda işveren vekili dendiğinde, işveren adına hareket eden ve işin, işyerinin veya işletmenin yönetiminde görev alan kişilere işveren vekili denir."
-  },
-  {
-    "id": 161,
+    "id": 154,
     "questionText": "Bir kişinin malına veya canına karşı yapılan hukuka aykırı saldırılara karşı kişinin kendini savunmasına hukuken ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -5474,41 +5236,7 @@
     "explanation": ""
   },
   {
-    "id": 162,
-    "questionText": "Bir kimsenin sahip olduğu hakkı devretmeksizin bu hak üzerinde bir başkasına kimi yeni haklar kazandırmasına…?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Devren kazanma",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Tesisen kazanma",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Olağanüstü zaman aşımıyla kazanma",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Aslen kazanma",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Olağan zaman aşımı yoluyla kazanma",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 163,
+    "id": 155,
     "questionText": "Bir hastaya tıbbi müdahale kendisinin veya kendisi buna ehil durumda değilse yasal temsilcisinin rızası alınarak yapılmalıdır. Ancak somut durumda bunu sağlamanın imkan dışı olduğu durumlarda bu rıza alınmadan yapılan tıbbi müdahaleler hangi gerekçeyle hukuka uygundur?",
     "imageUrl": null,
     "options": [
@@ -5542,7 +5270,7 @@
     "explanation": ""
   },
   {
-    "id": 164,
+    "id": 156,
     "questionText": "Hukukun Temel Kavramları Bütünleme 2021 Aşağıdakilerden hangisi negatif statü haklarından biridir?",
     "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2021/04/Auzef-Hukukun-Temel-Kavramlari-Butunleme-2021.png?resize=150%2C150&ssl=1",
     "options": [
@@ -5576,7 +5304,7 @@
     "explanation": ""
   },
   {
-    "id": 165,
+    "id": 157,
     "questionText": "Aşağıdakilerden hangisi cebrî icra yollarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -5610,7 +5338,7 @@
     "explanation": ""
   },
   {
-    "id": 166,
+    "id": 158,
     "questionText": "Normalar hiyerarşisi aşağıdaki şıklardan hangisinde doğru bir biçimde yazılmıştır?",
     "imageUrl": null,
     "options": [
@@ -5644,7 +5372,7 @@
     "explanation": ""
   },
   {
-    "id": 167,
+    "id": 159,
     "questionText": "“Toplumsal hayatta gerek kişiler ile kişiler, gerek kişiler ile doğrudan doğruya toplum arasındaki ilişkileri düzenleyen; maddi yaptırımlı, yani uyulması zorunlu kuralların bütünüdür.” Tanımı verilen düzen kuralları aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -5678,7 +5406,7 @@
     "explanation": ""
   },
   {
-    "id": 168,
+    "id": 160,
     "questionText": "Aşağıdakilerden hangisi yönetmelik çıkarmaya yetkili değildir?",
     "imageUrl": null,
     "options": [
@@ -5712,7 +5440,7 @@
     "explanation": ""
   },
   {
-    "id": 169,
+    "id": 161,
     "questionText": "Aşağıdaki şıklardan hangisinde derneğin zorunlu organları doğru olarak verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -5746,7 +5474,7 @@
     "explanation": ""
   },
   {
-    "id": 170,
+    "id": 162,
     "questionText": "Aşağıdakilerden hangisi özel hukuk tüzel kişilerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -5780,7 +5508,7 @@
     "explanation": ""
   },
   {
-    "id": 171,
+    "id": 163,
     "questionText": "Sünnet ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -5814,7 +5542,7 @@
     "explanation": ""
   },
   {
-    "id": 172,
+    "id": 164,
     "questionText": "Esas bakımından iptal davası açma süresi aşağıdakilerden hangisinde doğru verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -5848,41 +5576,7 @@
     "explanation": ""
   },
   {
-    "id": 173,
-    "questionText": "Bir sözleşmenin meydana gelebilmesi için iki irade açıklamasına ihtiyaç vardır. Bunlardan zaman bakımından önce yapılan irade açıklamasına ne ad verilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "İcaba davet",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Muvazaa",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Kabul",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "İcap",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Edim",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 174,
+    "id": 165,
     "questionText": "Aşağıdakilerden hangisi hâkimin takdir yetkisini kullanırken göz önüne alması gereken hususlardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -5916,7 +5610,7 @@
     "explanation": ""
   },
   {
-    "id": 175,
+    "id": 166,
     "questionText": "Milletvekilliğinin düşmesi aşağıdaki hukuk dallarından hangisine ilişkin bir yaptırımdır?",
     "imageUrl": null,
     "options": [
@@ -5950,7 +5644,7 @@
     "explanation": ""
   },
   {
-    "id": 176,
+    "id": 167,
     "questionText": "Aşağıdakilerden hangisi hukuk kurallarının içermesi gereken özelliklerden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -5984,7 +5678,7 @@
     "explanation": ""
   },
   {
-    "id": 177,
+    "id": 168,
     "questionText": "Aşağıdakilerden hangisi yorum türlerinden biridir?",
     "imageUrl": null,
     "options": [
@@ -6018,7 +5712,7 @@
     "explanation": ""
   },
   {
-    "id": 178,
+    "id": 169,
     "questionText": "Aşağıdakilerden hangisi medeni hukukun alt dallarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -6052,7 +5746,7 @@
     "explanation": ""
   },
   {
-    "id": 179,
+    "id": 170,
     "questionText": "Adli yargı ile idari yargı arasında çıkan görev ve hüküm uyuşmazlıkları hangi mahkemede çözülür?",
     "imageUrl": null,
     "options": [
@@ -6086,7 +5780,7 @@
     "explanation": ""
   },
   {
-    "id": 180,
+    "id": 171,
     "questionText": "Adli yargı kaç derecelidir?",
     "imageUrl": null,
     "options": [
@@ -6120,7 +5814,7 @@
     "explanation": ""
   },
   {
-    "id": 181,
+    "id": 172,
     "questionText": "Aşağıdakilerden hangisi ihtisas mahkemelerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -6154,7 +5848,7 @@
     "explanation": ""
   },
   {
-    "id": 182,
+    "id": 173,
     "questionText": "Eğitim hakkı, sağlık hakkı, sosyal güvenlik hakkı gibi haklar hangi kategoride yer alan haklardır?",
     "imageUrl": null,
     "options": [
@@ -6188,7 +5882,7 @@
     "explanation": ""
   },
   {
-    "id": 183,
+    "id": 174,
     "questionText": "Rakipler arasındaki veya tedarik edenlerle müşteriler arasındaki ilişkileri etkileyen aldatıcı veya dürüstlük kuralına aykırı davranışlara ve ticari uygulamalara ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -6222,7 +5916,7 @@
     "explanation": ""
   },
   {
-    "id": 184,
+    "id": 175,
     "questionText": "Aşağıdakilerden hangisi merkezî yönetim bütçesi kapsamındaki kamu idareleri ile sosyal güvenlik kurumlarının bütün gelir ve giderleriyle mallarını Türkiye Büyük Millet Meclisi adına denetlemekle yetkilidir?",
     "imageUrl": null,
     "options": [
@@ -6256,7 +5950,7 @@
     "explanation": ""
   },
   {
-    "id": 185,
+    "id": 176,
     "questionText": "Boşanma ve miras konuları hangi hukuk dalı tarafından incelenir?",
     "imageUrl": null,
     "options": [
@@ -6290,7 +5984,7 @@
     "explanation": ""
   },
   {
-    "id": 186,
+    "id": 177,
     "questionText": "Aşağıdakilerden hangisi Türk vatandaşlığından çıkma koşullarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -6324,75 +6018,7 @@
     "explanation": ""
   },
   {
-    "id": 187,
-    "questionText": "Aşağıdakilerden hangisi dava şartlarından biri değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Yargı yolunun açık olması",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Hukuki yarar bulunmalı",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Mahkemenin görevli olması",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Avukatla temsil edilmiş olması",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Mahkemenin yetkili olması",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 188,
-    "questionText": "Aşağıdakilerden hangisi vergi idaresi tarafından gerçekleştirilen işlemlerden biri değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Tahakkuk",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Tarh",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Tebliğ",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Vergiyi doğuran olay",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Tahsil",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 189,
+    "id": 178,
     "questionText": "Aşağıdakilerden hangisi vergi borcunu kaldıran nedenlerden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -6426,7 +6052,7 @@
     "explanation": ""
   },
   {
-    "id": 190,
+    "id": 179,
     "questionText": "Bireysel başvuru ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -6460,7 +6086,7 @@
     "explanation": ""
   },
   {
-    "id": 191,
+    "id": 180,
     "questionText": "Aşağıdakilerden hangisi ispat yükünü tersine çevirmektedir?",
     "imageUrl": null,
     "options": [
@@ -6494,7 +6120,7 @@
     "explanation": ""
   },
   {
-    "id": 192,
+    "id": 181,
     "questionText": "Nişanlanma ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -6528,7 +6154,7 @@
     "explanation": ""
   },
   {
-    "id": 193,
+    "id": 182,
     "questionText": "Haksız fiille zarar arasındaki nedensellik bağının diğer adı nedir?",
     "imageUrl": null,
     "options": [

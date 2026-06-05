@@ -851,40 +851,6 @@
   },
   {
     "id": 26,
-    "questionText": "8 bloklu bir ön bellekte doğrudan eşleme yöntemi ile ana belleğin 8. Bloğu ön belleğin hangi bloğuna eşlenir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "2",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "4",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "0",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "6",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "8",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 27,
     "questionText": "Hangi bellek türünü yeniden programlamadan önce içindeki verilerin silinmesi gereklidir?",
     "imageUrl": null,
     "options": [
@@ -918,7 +884,7 @@
     "explanation": ""
   },
   {
-    "id": 28,
+    "id": 27,
     "questionText": "101001012 sayısının 1’e tümleyeni kaçtır?",
     "imageUrl": null,
     "options": [
@@ -952,7 +918,7 @@
     "explanation": ""
   },
   {
-    "id": 29,
+    "id": 28,
     "questionText": "Dijital sistemlerde kullanılan en çok sayı sistemi hangisidir?",
     "imageUrl": null,
     "options": [
@@ -986,7 +952,7 @@
     "explanation": ""
   },
   {
-    "id": 30,
+    "id": 29,
     "questionText": "Aranan verinin bulunduğu Ana bellek bloğunun tamamının ön belleğe yüklenmesine ne denir?",
     "imageUrl": null,
     "options": [
@@ -1020,7 +986,7 @@
     "explanation": ""
   },
   {
-    "id": 31,
+    "id": 30,
     "questionText": "Ana bellek için ……. ve önbellek için…….. olacak şekilde her iki teknoloji de sıklıkla birlikte kullanılır. Boşluğa gelecek kelimeler hangisinde doğru sırada verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -1054,7 +1020,7 @@
     "explanation": ""
   },
   {
-    "id": 32,
+    "id": 31,
     "questionText": "Bir problemi çözmek için gereken mantıksal adım dizisi nedir?",
     "imageUrl": null,
     "options": [
@@ -1088,7 +1054,7 @@
     "explanation": ""
   },
   {
-    "id": 33,
+    "id": 32,
     "questionText": "13DA8A2D sayısının big Endian gösteriminde 2. Baytta hangi sayı bulunur?",
     "imageUrl": null,
     "options": [
@@ -1122,7 +1088,7 @@
     "explanation": ""
   },
   {
-    "id": 34,
+    "id": 33,
     "questionText": "Aşağıdakilerden hangisi VMEbus görevlerindendir?",
     "imageUrl": null,
     "options": [
@@ -1156,7 +1122,7 @@
     "explanation": ""
   },
   {
-    "id": 35,
+    "id": 34,
     "questionText": "Çok amaçlı kullanılabilen kapı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1190,41 +1156,7 @@
     "explanation": ""
   },
   {
-    "id": 36,
-    "questionText": "13DA8A2D sayısının littleEndian gösteriminde 2. Baytta hangi sayı bulunur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "2D",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "8A",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "13",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "A2",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "DA",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 37,
+    "id": 35,
     "questionText": "Bir BOOL cebri değişkeni kaç farklı değer alabilir?",
     "imageUrl": null,
     "options": [
@@ -1258,7 +1190,7 @@
     "explanation": ""
   },
   {
-    "id": 38,
+    "id": 36,
     "questionText": "ASCII vey aEBCDIC kodu kullanılan karakter dizileri karakter başına ne kadar yer kaplar?",
     "imageUrl": null,
     "options": [
@@ -1292,7 +1224,7 @@
     "explanation": ""
   },
   {
-    "id": 39,
+    "id": 37,
     "questionText": "Hangisi Multibus II nin özelliklerinden değildir?",
     "imageUrl": null,
     "options": [
@@ -1326,7 +1258,7 @@
     "explanation": ""
   },
   {
-    "id": 40,
+    "id": 38,
     "questionText": "Sistem veri yolu bileşenleri hangi seçenekte doğru verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -1360,7 +1292,7 @@
     "explanation": ""
   },
   {
-    "id": 41,
+    "id": 39,
     "questionText": "Bir veya birkaç önceden belirlenmiş görevi gerçekleştirmek için tasarlanmış özel amaçlı bir sistemlere nedenir?",
     "imageUrl": null,
     "options": [
@@ -1394,7 +1326,7 @@
     "explanation": ""
   },
   {
-    "id": 42,
+    "id": 40,
     "questionText": "Ağ referans modellerinin en üst katmanı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1428,7 +1360,7 @@
     "explanation": ""
   },
   {
-    "id": 43,
+    "id": 41,
     "questionText": "Eşler arası ağ mimarisi ile ilgili hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -1462,41 +1394,7 @@
     "explanation": ""
   },
   {
-    "id": 44,
-    "questionText": "10100101² sayısının 2’ye tümleyenikaçtır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "01011010²",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "11011010²",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "10000001²",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "01011011²",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "11011011²",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 45,
+    "id": 42,
     "questionText": "İletilen bilgilerin alıcı ana bilgisayarlar ile gönderen ana bilgisayarlar arasında taşındığı yollara ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -1530,7 +1428,7 @@
     "explanation": ""
   },
   {
-    "id": 46,
+    "id": 43,
     "questionText": "Hangi RAM türünde güç mevcut olduğu sürece veri kaybı olmaz?",
     "imageUrl": null,
     "options": [
@@ -1564,7 +1462,7 @@
     "explanation": ""
   },
   {
-    "id": 47,
+    "id": 44,
     "questionText": "Bir registerin görevi nedir?",
     "imageUrl": null,
     "options": [
@@ -1598,7 +1496,7 @@
     "explanation": ""
   },
   {
-    "id": 48,
+    "id": 45,
     "questionText": "Mümkün olabilecek en yüksek hızlı işlemler için operandlar nerede saklanmalıdır?",
     "imageUrl": null,
     "options": [
@@ -1632,7 +1530,7 @@
     "explanation": ""
   },
   {
-    "id": 49,
+    "id": 46,
     "questionText": "Gelen iletişim bağlantılarından aldığı verileri giden iletişim bağlantıları aracılığıyla ileten aygıtlara ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -1666,7 +1564,7 @@
     "explanation": ""
   },
   {
-    "id": 50,
+    "id": 47,
     "questionText": "İşaretli tam sayı gösteriminde bir sayının negatif olduğu nasıl belirtilir?",
     "imageUrl": null,
     "options": [
@@ -1700,7 +1598,7 @@
     "explanation": ""
   },
   {
-    "id": 51,
+    "id": 48,
     "questionText": "Bir taramanın başlangıcında veya belirli zaman aralıklarında belirli bir değerle başlatılan hata denetleme mekanizması aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1734,7 +1632,7 @@
     "explanation": ""
   },
   {
-    "id": 52,
+    "id": 49,
     "questionText": "ALU (Arithmetik ve Mantık Birimi)’nun görevi nedir?",
     "imageUrl": null,
     "options": [
@@ -1768,7 +1666,7 @@
     "explanation": ""
   },
   {
-    "id": 53,
+    "id": 50,
     "questionText": "Aşağıdakilerin hangisinde 16 lık sayı tabanının rakamları doğru verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -1802,7 +1700,7 @@
     "explanation": ""
   },
   {
-    "id": 54,
+    "id": 51,
     "questionText": "Hangisi bir veri yolu tahkim tekniğidir?",
     "imageUrl": null,
     "options": [
@@ -1836,7 +1734,7 @@
     "explanation": ""
   },
   {
-    "id": 55,
+    "id": 52,
     "questionText": "LAN lar hangi teknolojiye dayanır?",
     "imageUrl": null,
     "options": [
@@ -1870,7 +1768,7 @@
     "explanation": ""
   },
   {
-    "id": 56,
+    "id": 53,
     "questionText": "Bellek hızı CPU’ya göre çok düşük olduğunda sistemin tamamı nasıl etkilenir?",
     "imageUrl": null,
     "options": [
@@ -1904,7 +1802,7 @@
     "explanation": ""
   },
   {
-    "id": 57,
+    "id": 54,
     "questionText": "Aşağıdakilerden hangisi asenkron veri iletişiminde bulunmaz?",
     "imageUrl": null,
     "options": [
@@ -1938,7 +1836,7 @@
     "explanation": ""
   },
   {
-    "id": 58,
+    "id": 55,
     "questionText": "Bir devrenin çıktısının aynı devreye giriş olarak verilmesine ne denir?",
     "imageUrl": null,
     "options": [
@@ -1972,7 +1870,7 @@
     "explanation": ""
   },
   {
-    "id": 59,
+    "id": 56,
     "questionText": "Aşağıdakilerden hangisi kontrol biriminin görevlerinden değildir?",
     "imageUrl": null,
     "options": [
@@ -2006,7 +1904,7 @@
     "explanation": ""
   },
   {
-    "id": 60,
+    "id": 57,
     "questionText": "Veri yolu denetleyicisinin görevi nedir?",
     "imageUrl": null,
     "options": [
@@ -2040,7 +1938,7 @@
     "explanation": ""
   },
   {
-    "id": 61,
+    "id": 58,
     "questionText": "Verileri bölümlere ayırarak bir ağ üzerindeki trafik miktarını azaltan birim aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2074,7 +1972,7 @@
     "explanation": ""
   },
   {
-    "id": 62,
+    "id": 59,
     "questionText": "Bellek adres alanının bir kısmını kullanan G/Ç türü hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2108,7 +2006,7 @@
     "explanation": ""
   },
   {
-    "id": 63,
+    "id": 60,
     "questionText": "D/A Dönüştürücünün çıkışında hangisi görülür?",
     "imageUrl": null,
     "options": [
@@ -2142,7 +2040,7 @@
     "explanation": ""
   },
   {
-    "id": 64,
+    "id": 61,
     "questionText": "Bir CPU’nun iki ana bileşeni hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2176,7 +2074,7 @@
     "explanation": ""
   },
   {
-    "id": 65,
+    "id": 62,
     "questionText": "Tüm gömülü sistemlerde bulunan ve sistemin başlatılmasını sağlayan öğe aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2205,7 +2103,7 @@
     "explanation": ""
   },
   {
-    "id": 66,
+    "id": 63,
     "questionText": "İki BCD rakamı kapladığı alan birimi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2239,7 +2137,7 @@
     "explanation": ""
   },
   {
-    "id": 67,
+    "id": 64,
     "questionText": "Tüm ….. uygulama kodunu başlatmadan önce kendi kendini sınamasını sağlayan bir ürün başlangıç yazılımı (firmware) bulunur.",
     "imageUrl": null,
     "options": [
@@ -2273,7 +2171,7 @@
     "explanation": ""
   },
   {
-    "id": 68,
+    "id": 65,
     "questionText": "VMEbus üzerindeki en küçük adreslenebilir depolama birimi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2307,7 +2205,7 @@
     "explanation": ""
   },
   {
-    "id": 69,
+    "id": 66,
     "questionText": "Aşağıdaki bellek türlerinden hangisinin yeniden programlamak mümkün değildir?",
     "imageUrl": null,
     "options": [
@@ -2341,7 +2239,7 @@
     "explanation": ""
   },
   {
-    "id": 70,
+    "id": 67,
     "questionText": "101101012 sayısının 1’e tümleyeni aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2375,7 +2273,7 @@
     "explanation": ""
   },
   {
-    "id": 71,
+    "id": 68,
     "questionText": "Aşağıdaki ifadelerden hangisi hata tespiti için kullanılır?",
     "imageUrl": null,
     "options": [
@@ -2409,7 +2307,7 @@
     "explanation": ""
   },
   {
-    "id": 72,
+    "id": 69,
     "questionText": "DA139A2E sayısının Little Endian gösteriminde 2. baytı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2443,7 +2341,7 @@
     "explanation": ""
   },
   {
-    "id": 73,
+    "id": 70,
     "questionText": "Çoklayıcı bir kanal birkaç ….. aygıta bağlanabilir.",
     "imageUrl": null,
     "options": [
@@ -2477,7 +2375,7 @@
     "explanation": ""
   },
   {
-    "id": 74,
+    "id": 71,
     "questionText": "Aşağıdaki kavramlardan hangisi bir ağ bileşenidir?",
     "imageUrl": null,
     "options": [
@@ -2511,41 +2409,7 @@
     "explanation": ""
   },
   {
-    "id": 75,
-    "questionText": "Ağ referans modellerinin en alt katmanı aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Sunum",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Ağ",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Nakil",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Uygulama",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Fiziksel",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 76,
+    "id": 72,
     "questionText": "CPU ve diğer bileşenler arasındaki iletişimi aşağıdakilerden hangisi sağlamaktadır?",
     "imageUrl": null,
     "options": [
@@ -2579,7 +2443,7 @@
     "explanation": ""
   },
   {
-    "id": 77,
+    "id": 73,
     "questionText": "İki veya daha fazla bilgisayarı kablo kullanmadan bağlayan ağ aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2613,41 +2477,7 @@
     "explanation": ""
   },
   {
-    "id": 78,
-    "questionText": "DA139A2E sayısının big Endian gösteriminde 3. Baytı aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "2E",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "A2",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "DA",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "13",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "9A",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 79,
+    "id": 74,
     "questionText": "Watchdog timer hata durumunda sistemi normal çalışmaya döndürmek için ne yapar?",
     "imageUrl": null,
     "options": [
@@ -2681,7 +2511,7 @@
     "explanation": ""
   },
   {
-    "id": 80,
+    "id": 75,
     "questionText": "Aşağıdaki yazmaçlardan hangisi kullanıcı tarafından programlanabilir?",
     "imageUrl": null,
     "options": [
@@ -2715,7 +2545,7 @@
     "explanation": ""
   },
   {
-    "id": 81,
+    "id": 76,
     "questionText": "Doğrudan eşlemede, yeni bir bloğun yerleştirilmesi gereken ….. konumunda önceden başka bir blok varsa veriler doğrudan üzerine yazılır.",
     "imageUrl": null,
     "options": [
@@ -2749,7 +2579,7 @@
     "explanation": ""
   },
   {
-    "id": 82,
+    "id": 77,
     "questionText": "Yukarıdaki (mantıksal kapı) devrenin çıkışı aşağıdakilerin hangisinde yer almaktadır?",
     "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-14-15.57.55.png",
     "options": [
@@ -2783,7 +2613,7 @@
     "explanation": ""
   },
   {
-    "id": 83,
+    "id": 78,
     "questionText": "Aşağıdakilerden hangisi işletim sisteminin temel işlevlerindendir?",
     "imageUrl": null,
     "options": [
@@ -2817,7 +2647,7 @@
     "explanation": ""
   },
   {
-    "id": 84,
+    "id": 79,
     "questionText": "Aynı veri yolu üzerinde birden fazla Master cihaz olduğunda yetkilendirmeyi aşağıdaki birimlerden hangisi yapar?",
     "imageUrl": null,
     "options": [
@@ -2851,7 +2681,7 @@
     "explanation": ""
   },
   {
-    "id": 85,
+    "id": 80,
     "questionText": "Adres veri yolunun görevi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2885,41 +2715,7 @@
     "explanation": ""
   },
   {
-    "id": 86,
-    "questionText": "101101012 sayısının 2’ye tümleyeni aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "010110112",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "110110102",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "100000012",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "110110112",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "010010112",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 87,
+    "id": 81,
     "questionText": "Dört adımlı bir basit kontrol döngüsünde işlemci şu anda 3. adımdadır. Kullanıcı tarafından 2. adımdaki işlem gerçekleştirilmek istendiğinde bu adım işlemci tarafından ne zaman çalıştırılır?",
     "imageUrl": null,
     "options": [
@@ -2953,7 +2749,7 @@
     "explanation": ""
   },
   {
-    "id": 88,
+    "id": 82,
     "questionText": "Aşağıdakilerden hangisi geniş alan ağının kısaltmasıdır?",
     "imageUrl": null,
     "options": [
@@ -2987,7 +2783,7 @@
     "explanation": ""
   },
   {
-    "id": 89,
+    "id": 83,
     "questionText": "1011011010002 sayısının tümleyeni (tersi) aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -3021,7 +2817,7 @@
     "explanation": ""
   },
   {
-    "id": 90,
+    "id": 84,
     "questionText": "CPU ile ilgili aşağıdakilerden hangisi doğrudur?",
     "imageUrl": null,
     "options": [
@@ -3055,41 +2851,7 @@
     "explanation": ""
   },
   {
-    "id": 91,
-    "questionText": "Ana bellek için yaygın olarak hangi tip RAM kullanılır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "ROM",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "RAM",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "SRAM",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "DRAM",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "PROM",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 92,
+    "id": 85,
     "questionText": "Firmware aşağıdakilerden hangisi üzerinde saklanır?",
     "imageUrl": null,
     "options": [
@@ -3123,7 +2885,7 @@
     "explanation": ""
   },
   {
-    "id": 93,
+    "id": 86,
     "questionText": "Aşağıdakilerden hangisi Multibus II’nin özelliklerindendir?",
     "imageUrl": null,
     "options": [
@@ -3157,41 +2919,7 @@
     "explanation": ""
   },
   {
-    "id": 94,
-    "questionText": "Yukarıdaki devrenin çıkışı aşağıdakilerin hangisinde yer almaktadır.",
-    "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-14-16.52.21.png",
-    "options": [
-      {
-        "letter": "A",
-        "text": "c",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "a",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "e",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "d",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "b",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 95,
+    "id": 87,
     "questionText": "Bellek hiyerarşisinde diğerlerine göre en altta yer alan birim aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -3225,7 +2953,7 @@
     "explanation": ""
   },
   {
-    "id": 96,
+    "id": 88,
     "questionText": "İki BCD rakamı ne kadar yer kaplar?",
     "imageUrl": null,
     "options": [
@@ -3259,7 +2987,7 @@
     "explanation": ""
   },
   {
-    "id": 97,
+    "id": 89,
     "questionText": "Aşağıdakilerden hangisi komut seti aritmetik talimatlarındandır?",
     "imageUrl": null,
     "options": [
@@ -3293,41 +3021,7 @@
     "explanation": ""
   },
   {
-    "id": 98,
-    "questionText": "4 katmanlı TCP/IP modelinin en alt katmanı aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Nakil",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Sunum",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Ağ erişimi",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Fiziksel",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Ağ",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 99,
+    "id": 90,
     "questionText": "Doğrudan eşlemede, yeni bir bloğun yerleştirilmesi gereken ….. konumunda önceden başka bir blok varsa veriler doğrudan üzerine yazılır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -3361,7 +3055,7 @@
     "explanation": ""
   },
   {
-    "id": 100,
+    "id": 91,
     "questionText": "Aşağıdakilerden hangisi işletim sisteminin görevlerinden değildir?",
     "imageUrl": null,
     "options": [
@@ -3395,7 +3089,7 @@
     "explanation": ""
   },
   {
-    "id": 101,
+    "id": 92,
     "questionText": "Aşağıdakilerden hangisi DMA sisteminin yapabileceği tüm işlemleri gerçekleştirebilen sınırlı kapasiteli bir işlemcidir?",
     "imageUrl": null,
     "options": [
@@ -3429,7 +3123,7 @@
     "explanation": ""
   },
   {
-    "id": 102,
+    "id": 93,
     "questionText": "Aşağıdakilerden hangisi ön belleğin özelliklerindedir?",
     "imageUrl": null,
     "options": [
@@ -3463,7 +3157,7 @@
     "explanation": ""
   },
   {
-    "id": 103,
+    "id": 94,
     "questionText": "Yazılım mimarilerinin en basiti olan ve basit bir göreve adanmış bağımsız bir mikro denetleyici ile küçük cihazlarda kullanılan döngü aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [

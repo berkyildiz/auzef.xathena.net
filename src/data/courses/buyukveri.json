@@ -1259,74 +1259,6 @@
   },
   {
     "id": 38,
-    "questionText": "1- …….. büyük veri analizlerini iletmek, anlamak ve geliştirmek için resimler, diyagramlar ya da animasyonlar oluşturmak için kullanan bir tekniktir. Yukarıdaki cümlede verilen boşluğa aşağıdakilerden hangisi gelmelidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Zaman serisi analizi",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Optimizasyon",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Doğal dil işleme",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Sinyal işleme",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Büyük veri görselleştirme",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 39,
-    "questionText": "12- Aşağıdakilerden hangisi bulut bilişimin veri etkileşiminde olduğu bir bileşen değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Dayanıklılık",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Süreklilik",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Anlamlılık",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Erişim",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Gizlilik",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 40,
     "questionText": "…….. büyük veri analizlerini iletmek, anlamak ve geliştirmek için resimler, diyagramlar ya da animasyonlar oluşturmak için kullanan bir tekniktir.",
     "imageUrl": null,
     "options": [
@@ -1360,7 +1292,7 @@
     "explanation": ""
   },
   {
-    "id": 41,
+    "id": 39,
     "questionText": "Dolandırıcılıktan teröre kadar değişen güvenlik sorunlarını çözmek için büyük veri analitiği yöntemlerini kullanarak çözümler üretmektedir. Sistemlerini CIA destekleriyle geliştirmiş ve ABD hükümeti ve güvenlik kurumları tarafından yaygın bir şekilde kullanılmaktadır.",
     "imageUrl": null,
     "options": [
@@ -1394,7 +1326,7 @@
     "explanation": ""
   },
   {
-    "id": 42,
+    "id": 40,
     "questionText": "“Semantik web sayesinde makinelerin etkileşiminin yanında …….. etkileşiminin de üst seviyeye ulaşması beklenmektedir.”",
     "imageUrl": null,
     "options": [
@@ -1428,7 +1360,7 @@
     "explanation": ""
   },
   {
-    "id": 43,
+    "id": 41,
     "questionText": "I. Klinik referanslar II. Genomik veriler III. Statik veriler IV. Yayınlar",
     "imageUrl": null,
     "options": [
@@ -1462,7 +1394,7 @@
     "explanation": ""
   },
   {
-    "id": 44,
+    "id": 42,
     "questionText": "Karıştırma ve permütasyon olarak da bilinir, veri kümesi öznitelik değerlerini orijinal kayıtlara karşılık gelmeyecek şekilde yeniden düzenlemek maksadıyla kullanılan bir tekniktir.",
     "imageUrl": null,
     "options": [
@@ -1496,7 +1428,7 @@
     "explanation": ""
   },
   {
-    "id": 45,
+    "id": 43,
     "questionText": "Herkesin özgürce ve yeniden kullanabileceği ve yeniden dağıtılabilen, yalnızca nitelik ve paylaşım gereksinimine tabi olan veridir.",
     "imageUrl": null,
     "options": [

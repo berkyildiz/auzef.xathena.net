@@ -104,7 +104,7 @@
   {
     "id": 4,
     "questionText": "ARENA çalışma sonuçları raporlarından Resources (Kaynaklar) raporunda aşağıdakilerden hangisi bir kaynağın meşgul birimlerinin sayısını ifade eder?",
-    "imageUrl": null,
+    "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2025/07/Benzetim-Soru-11-min.png?resize=800%2C513&ssl=1",
     "options": [
       {
         "letter": "A",
@@ -1123,40 +1123,6 @@
   },
   {
     "id": 34,
-    "questionText": "Bir havaalanı sisteminin benzetim modeli aşağıdaki tanımlardan hangisi ile ifade edilmektedir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Kararsız durum simülasyonu",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Geçici durum simülasyonu",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Sonlu ufuklu simülasyon",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Sonsuz ufuklu simülasyon",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Kalıcı durum simülasyonu",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 35,
     "questionText": "Yukarıdaki şekilde verilen vardiya çizelgesine göre saat 13:00-14:00 arasında kaç personel görev yapmaktadır?",
     "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2026/04/Benzetim-2023-2024-Final-Sorulari-10.-SORU.jpg?resize=404%2C333&ssl=1",
     "options": [
@@ -1190,7 +1156,7 @@
     "explanation": ""
   },
   {
-    "id": 36,
+    "id": 35,
     "questionText": "Faaliyetlerin meydana gelmesinde görev alan personel, alet, alan, enerji, zaman, para gibi birimler aşağıdakilerden hangisini ifade etmektedir?",
     "imageUrl": null,
     "options": [
@@ -1224,7 +1190,7 @@
     "explanation": ""
   },
   {
-    "id": 37,
+    "id": 36,
     "questionText": "Aşağıdakilerden hangisi Arena şablon paneli değildir?",
     "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2026/04/Benzetim-2023-2024-Final-Sorulari-2.-SORU.jpg?resize=111%2C69&ssl=1",
     "options": [
@@ -1258,7 +1224,7 @@
     "explanation": ""
   },
   {
-    "id": 38,
+    "id": 37,
     "questionText": "Yukarıda verilen formül ( λ / μ*c ) aşağıdakilerden hangisini hesaplamak için kullanılır?",
     "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2026/04/Benzetim-2023-2024-Final-Sorulari-2.-SORU.jpg?resize=111%2C69&ssl=1",
     "options": [
@@ -1292,109 +1258,7 @@
     "explanation": ""
   },
   {
-    "id": 39,
-    "questionText": "Bilgisayar üreten bir firma ürünlerinin dayanıklılık süresini değerlendirmek istemektedir. 100 tane rassal olarak seçilen bilgisayarın standart sapması 120 gün, ortalama dayanıklılık süreleri de 1440 gündür. %90 güvenle anakütle ortalama dayanıklılık süresi aşağıdaki aralıklardan hangisidir? (Zα/2=1,65)",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "[1320 - 1560]",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "[1420.2 - 1459.8]",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "[1202.4 - 1667.6]",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "[1398.5 - 1481.5]",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "[1400 - 1471]",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 40,
-    "questionText": "Bir araba yıkama istasyonuna gelen müşterilerin varış zamanları sırasıyla (0 3 5 2 6 7) yukarıdaki tabloda gösterilmiştir. Araçlar 4 dakikada yıkanıyor ve 2 araç yıkama alanı var ise 4. müşteri sistemden ayrılma zamanı aşağıdakilerden hangisidir?",
-    "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-17-13.11.33.png",
-    "options": [
-      {
-        "letter": "A",
-        "text": "20 dk",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "16 dk",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "6 dk",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "12 dk",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "9 dk",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 41,
-    "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında müşterilerin kasa kuyruğunda bekleme süreleri güven aralığı [8.15-10.30] olarak belirlenmiştir. Gözlemlenen sistemin bekleme ortalamalarının 9.25 dakika olduğu bilinmektedir. Bu durum e=1 için en iyi durum ve en kötü durum hatasına göre incelendiğinde aşağıdaki sonuçlardan hangisine ulaşılır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "En iyi durum hatası e'den küçük veya eşittir ancak en kötü durum hatası e'den büyüktür. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "En iyi durum hatası e'den küçüktür. Sistem ve model performansları arasındaki fark en iyi durumda bile yeterince büyük olduğundan model iyileştirilmelidir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "En kötü durum hatası e'den küçük veya eşittir simülasyon modeli reddedilir ve yeni bir model kurulur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "En iyi durum veya en kötü durum hatası e'den büyüktür. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "En kötü durum hatası e'den küçük veya eşittir. Simülasyon modeli yeterince yakın ve geçerli kabul edilir.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 42,
+    "id": 38,
     "questionText": "Aşağıdakilerden hangisi ters dönüşüm yöntemini kullanarak elde edilen rassal değişken aralıklarından değildir?",
     "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-17-20.26.50.png",
     "options": [
@@ -1428,7 +1292,7 @@
     "explanation": ""
   },
   {
-    "id": 43,
+    "id": 39,
     "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında kasa kuyruğunda bekleyen ortalama müşteri sayısı güven aralığı [9.1-10.5] olarak belirlenmiştir. Gözlemlenen sistemde kuyrukta bekleyen müşteri sayısı ortalama 11 müşteri olarak belirlenmiştir. Bu durum e=1 için en iyi durum ve en kötü durum hatasına göre incelendiğinde aşağıdaki sonuçlardan hangisine ulaşılır?",
     "imageUrl": null,
     "options": [
@@ -1462,7 +1326,7 @@
     "explanation": ""
   },
   {
-    "id": 44,
+    "id": 40,
     "questionText": "Yukarıda gösterilen simülasyonun ısınma periyodu sona ererek kararlı duruma ulaşma zamanı (kaçıncı saatte) aşağıdakilerden hangisidir?",
     "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-17-20.27.41.png",
     "options": [
@@ -1496,7 +1360,7 @@
     "explanation": ""
   },
   {
-    "id": 45,
+    "id": 41,
     "questionText": "Bir berbere gelen müşterilerin ‘si saç tıraşı ve ‘i sakal tıraşı olmaktadır. Bu müşteri tipleri ARENA programı ile modellenen bir modelde ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafından gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir. DECIDE modüle yazılacak koşul/condition aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1530,7 +1394,7 @@
     "explanation": ""
   },
   {
-    "id": 46,
+    "id": 42,
     "questionText": "ARENA programında RUN açılır menüsünden seçilen SETUP penceresindeki REPLICATION PARAMETERS sekmesi ile aşağıdakilerden hangisi belirlenemez?",
     "imageUrl": null,
     "options": [
@@ -1564,7 +1428,7 @@
     "explanation": ""
   },
   {
-    "id": 47,
+    "id": 43,
     "questionText": "Aşağıdakilerden hangisi PROCESS ANALYZER için tanımlanabilecek bir CONTROL değişkeni olamaz?",
     "imageUrl": null,
     "options": [
@@ -1598,7 +1462,7 @@
     "explanation": ""
   },
   {
-    "id": 48,
+    "id": 44,
     "questionText": "Bir gazete bayiine gelen müşterilerin %20’si A, %25’i B, %15’i C ve %40’ı D gazetesini almaktadır. ARENA programı ile modellenen Benzetim modelinde CREATE modülü ile üretilen müşterilere gazete tercihleri ASSIGN modülü ile DISC fonksiyonu kullanarak atanacaktır. Doğru fonksiyon gösterimi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1632,7 +1496,7 @@
     "explanation": ""
   },
   {
-    "id": 49,
+    "id": 45,
     "questionText": "Aşağıdaki ikililerden hangisi her ARENA modülünde bulunmalıdır?",
     "imageUrl": null,
     "options": [
@@ -1666,7 +1530,7 @@
     "explanation": ""
   },
   {
-    "id": 50,
+    "id": 46,
     "questionText": "Simülasyon yazılımını değerlendirirken ve seçerken aşağıdaki tavsiyelerden hangisi dikkate alınmamalıdır?",
     "imageUrl": null,
     "options": [
@@ -1700,7 +1564,7 @@
     "explanation": ""
   },
   {
-    "id": 51,
+    "id": 47,
     "questionText": "Histogram ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -1734,7 +1598,7 @@
     "explanation": ""
   },
   {
-    "id": 52,
+    "id": 48,
     "questionText": "Verilen görseller aşağıdaki hangi iki dağılım ailesine aittir?",
     "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-17-20.32.10.png",
     "options": [
@@ -1768,7 +1632,7 @@
     "explanation": ""
   },
   {
-    "id": 53,
+    "id": 49,
     "questionText": "Aşağıdakilerden hangisi simülasyon saatinin ilerletilmesinde kullanılan yaklaşımlardan biridir?",
     "imageUrl": null,
     "options": [
@@ -1802,7 +1666,7 @@
     "explanation": ""
   },
   {
-    "id": 54,
+    "id": 50,
     "questionText": "Yukarıdaki şekilde verilen Fit All Summary raporuna göre verilere en uygun dağılım aşağıdakilerden hangisidir?",
     "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-17-20.32.39.png",
     "options": [
@@ -1836,7 +1700,7 @@
     "explanation": ""
   },
   {
-    "id": 55,
+    "id": 51,
     "questionText": "Kendall (1953)’de kuyruk sistemi modellerini sınıflandırmak için kullandığı A/B/c/N/K notasyonundaki c aşağıdakilerden hangisini temsil etmektedir?",
     "imageUrl": null,
     "options": [
@@ -1870,7 +1734,7 @@
     "explanation": ""
   },
   {
-    "id": 56,
+    "id": 52,
     "questionText": "I. Bir diş kliniğinde hastaların tedavi görme süreçlerinin benzetim çalışması yapılmıştır. Gözlemler sonucu hastaların ortalama 18 dk bekledikleri gözlemlenmiştir. Sistemin modeli 8 saatlik 10 bağımsız koşumda çalıştırılmıştır. Bu koşumlarda elde edilen sonuçların yardımıyla modelin geçerliliğini test etmek için kurulacak sıfır hipotezi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1904,7 +1768,7 @@
     "explanation": ""
   },
   {
-    "id": 57,
+    "id": 53,
     "questionText": "Aşağıdakilerden hangisi objektif/nesnel sorumluluğa örnektir?",
     "imageUrl": null,
     "options": [
@@ -1938,7 +1802,7 @@
     "explanation": ""
   },
   {
-    "id": 58,
+    "id": 54,
     "questionText": "Aşağıdakilerden hangisi karara bir örnektir?",
     "imageUrl": null,
     "options": [
@@ -1972,7 +1836,7 @@
     "explanation": ""
   },
   {
-    "id": 59,
+    "id": 55,
     "questionText": "İtiraz kim veya kimler tarafından ileri sürülebilir?",
     "imageUrl": null,
     "options": [
@@ -2006,7 +1870,7 @@
     "explanation": ""
   },
   {
-    "id": 60,
+    "id": 56,
     "questionText": "Dernekler ve diğer tüzel kişiler (sendikalar), statüleri çerçevesinde üyelerinin veya mensuplarının yahut temsil ettikleri kesimin çıkarlarını korumak için, kendi adlarına, ilgililerin haklarının tespiti, hukuka aykırı durumun giderilmesi veya ilgililerin gelecekteki haklarının ihlâl edilmesinin önlenmesi için açabilecekleri davalara ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -2040,7 +1904,7 @@
     "explanation": ""
   },
   {
-    "id": 61,
+    "id": 57,
     "questionText": "Bir hakkın kötüye kullanılması durumunda zarar gören kişi aşağıdaki davalardan hangisini açamaz?",
     "imageUrl": null,
     "options": [
@@ -2074,7 +1938,7 @@
     "explanation": ""
   },
   {
-    "id": 62,
+    "id": 58,
     "questionText": "“İnsan haklarına saygılı devlet” ifadesi hangi anayasada yer almıştır?",
     "imageUrl": null,
     "options": [
@@ -2108,7 +1972,7 @@
     "explanation": ""
   },
   {
-    "id": 63,
+    "id": 59,
     "questionText": "Aşağıdakilerden hangisi başkentteki yardımcı kuruluşlar arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -2142,7 +2006,7 @@
     "explanation": ""
   },
   {
-    "id": 64,
+    "id": 60,
     "questionText": "Vergi alacağının yasalarda gösterilen matrah ve oranlar üzerinden vergi dairesi tarafından hesaplanarak bu alacağı miktar itibariyle tespit eden idari işleme ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -2176,7 +2040,7 @@
     "explanation": ""
   },
   {
-    "id": 65,
+    "id": 61,
     "questionText": "Vergi yükümlüsü işe başladığını kaç gün içerisinde vergi dairesine bildirmek zorundadır?",
     "imageUrl": null,
     "options": [
@@ -2210,7 +2074,7 @@
     "explanation": ""
   },
   {
-    "id": 66,
+    "id": 62,
     "questionText": "Aşağıdaki belgelerinden hangisi en temel insan hakları belgesi olarak kabul edilmektedir?",
     "imageUrl": null,
     "options": [
@@ -2244,7 +2108,7 @@
     "explanation": ""
   },
   {
-    "id": 67,
+    "id": 63,
     "questionText": "Aşağıdakilerden hangisi boşanmanın sonuçlarıyla ilgili değildir?",
     "imageUrl": null,
     "options": [
@@ -2278,7 +2142,7 @@
     "explanation": ""
   },
   {
-    "id": 68,
+    "id": 64,
     "questionText": "Sözleşme yapmak amacıyla zaman itibariyle önce açıklanan iradeye ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -2312,7 +2176,7 @@
     "explanation": ""
   },
   {
-    "id": 69,
+    "id": 65,
     "questionText": "İki veya daha fazla kişinin iktisadi bir amaca ulaşmak için emek ve sermayelerini bir sözleşmeyle birleştirmek suretiyle meydana getirdikleri topluluğa ne adı verilir?",
     "imageUrl": null,
     "options": [
@@ -2346,7 +2210,7 @@
     "explanation": ""
   },
   {
-    "id": 70,
+    "id": 66,
     "questionText": "Aşağıdakilerden hangisi milletlerarası özel hukukun dallarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -2380,7 +2244,7 @@
     "explanation": ""
   },
   {
-    "id": 71,
+    "id": 67,
     "questionText": "İcra ve iflas hukuku esas itibariyle hangi hukuku tamamlayan bir hukuk dalıdır?",
     "imageUrl": null,
     "options": [
@@ -2414,7 +2278,7 @@
     "explanation": ""
   },
   {
-    "id": 72,
+    "id": 68,
     "questionText": "İptal davası, iptali istenen hukuk kuralının Resmi Gazete’de yayımlanmasından itibaren kaç gün içinde açılmalıdır?",
     "imageUrl": null,
     "options": [
@@ -2448,7 +2312,7 @@
     "explanation": ""
   },
   {
-    "id": 73,
+    "id": 69,
     "questionText": "Uyuşmazlık Mahkemesi Başkanı kim/hangi organ tarafından seçilir?",
     "imageUrl": null,
     "options": [
@@ -2482,7 +2346,7 @@
     "explanation": ""
   },
   {
-    "id": 74,
+    "id": 70,
     "questionText": "Aşağıdaki mahkemelerden hangisi gerektiğinde kurul halında çalışır?",
     "imageUrl": null,
     "options": [
@@ -2516,7 +2380,7 @@
     "explanation": ""
   },
   {
-    "id": 75,
+    "id": 71,
     "questionText": "Aşağıdakilerden hangisi, Türkiye Cumhuriyeti’nin en üst danışma organıdır?",
     "imageUrl": null,
     "options": [
@@ -2550,7 +2414,7 @@
     "explanation": ""
   },
   {
-    "id": 76,
+    "id": 72,
     "questionText": "Aşağıdakilerden hangisi Avrupa İnsan Hakları Mahkemesinin resmi dillerinden biridir?",
     "imageUrl": null,
     "options": [
@@ -2584,7 +2448,7 @@
     "explanation": ""
   },
   {
-    "id": 77,
+    "id": 73,
     "questionText": "Kusura dayanmayan sorumluluğa ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -2618,7 +2482,7 @@
     "explanation": ""
   },
   {
-    "id": 78,
+    "id": 74,
     "questionText": "Aşağıdakilerden hangisi tek tarafa borç yükleyen bir sözleşmedir?",
     "imageUrl": null,
     "options": [
@@ -2652,7 +2516,7 @@
     "explanation": ""
   },
   {
-    "id": 79,
+    "id": 75,
     "questionText": "Kişinin bizzat kendi gücüyle hakkını almaya kalkmasına ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -2686,7 +2550,7 @@
     "explanation": ""
   },
   {
-    "id": 80,
+    "id": 76,
     "questionText": "Boşanma davası, aşağıdaki dava türlerinden hangisinin içinde yer alır?",
     "imageUrl": null,
     "options": [
@@ -2720,7 +2584,7 @@
     "explanation": ""
   },
   {
-    "id": 81,
+    "id": 77,
     "questionText": "Aşağıdakilerden hangisi “zilyet” sözcüğünün karşılığıdır?",
     "imageUrl": null,
     "options": [
@@ -2754,7 +2618,7 @@
     "explanation": ""
   },
   {
-    "id": 82,
+    "id": 78,
     "questionText": "1921 Anayasasını hangi meclis yapmıştır?",
     "imageUrl": null,
     "options": [
@@ -2788,7 +2652,7 @@
     "explanation": ""
   },
   {
-    "id": 83,
+    "id": 79,
     "questionText": "Laiklik ilkesi anayasa hangi tarihte girmiştir?",
     "imageUrl": null,
     "options": [
@@ -2822,7 +2686,7 @@
     "explanation": ""
   },
   {
-    "id": 84,
+    "id": 80,
     "questionText": "Aşağıdakilerden hangisi vergilendirme süreçlerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -2856,7 +2720,7 @@
     "explanation": ""
   },
   {
-    "id": 85,
+    "id": 81,
     "questionText": "Aşağıdakilerden hangisi vergiyi tamamen veya kısmen ortadan kaldırmaz?",
     "imageUrl": null,
     "options": [
@@ -2890,7 +2754,7 @@
     "explanation": ""
   },
   {
-    "id": 86,
+    "id": 82,
     "questionText": "Uluslararası alanda en güçlü ve etkili örgüt aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2924,7 +2788,7 @@
     "explanation": ""
   },
   {
-    "id": 87,
+    "id": 83,
     "questionText": "Bir şeyi fiili hâkimiyeti altında bulunduran kimseye ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -2958,7 +2822,7 @@
     "explanation": ""
   },
   {
-    "id": 88,
+    "id": 84,
     "questionText": "Aşağıdakilerden hangisi olumsuz edime bir örnektir?",
     "imageUrl": null,
     "options": [
@@ -2992,7 +2856,7 @@
     "explanation": ""
   },
   {
-    "id": 89,
+    "id": 85,
     "questionText": "Bir ticari işletmeyi, kısmen dahi olsa kendi adına işleten kişiye ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -3026,7 +2890,7 @@
     "explanation": ""
   },
   {
-    "id": 90,
+    "id": 86,
     "questionText": "Ödeme aracı olarak bilinen kıymetli evrak aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -3060,7 +2924,7 @@
     "explanation": ""
   },
   {
-    "id": 91,
+    "id": 87,
     "questionText": "Aşağıdakilerden hangisi armatörün eş anlamlısı olarak kullanılabilir?",
     "imageUrl": null,
     "options": [
@@ -3094,7 +2958,7 @@
     "explanation": ""
   },
   {
-    "id": 92,
+    "id": 88,
     "questionText": "Anayasa Mahkemesinde iptal dava açmak için ez az kaç milletvekilinin imzasına gerek vardır?",
     "imageUrl": null,
     "options": [
@@ -3128,7 +2992,7 @@
     "explanation": ""
   },
   {
-    "id": 93,
+    "id": 89,
     "questionText": "Sayıştay hangi organ/kişi adına görev yapar?",
     "imageUrl": null,
     "options": [
@@ -3162,7 +3026,7 @@
     "explanation": ""
   },
   {
-    "id": 94,
+    "id": 90,
     "questionText": "Aşağıdaki yargı yollarından hangisi olağan ve genel yargı yoludur?",
     "imageUrl": null,
     "options": [
@@ -3196,7 +3060,7 @@
     "explanation": ""
   },
   {
-    "id": 95,
+    "id": 91,
     "questionText": "Yargıtay’da kaç tane hukuk dairesi bulunmaktadır?",
     "imageUrl": null,
     "options": [
@@ -3230,7 +3094,7 @@
     "explanation": ""
   },
   {
-    "id": 96,
+    "id": 92,
     "questionText": "Avrupa İnsan Hakları Mahkemesinin bulunduğu kent, aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -3264,7 +3128,7 @@
     "explanation": ""
   },
   {
-    "id": 97,
+    "id": 93,
     "questionText": "Hukukun kendisine sonuç bağladığı olaylara ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -3298,7 +3162,7 @@
     "explanation": ""
   },
   {
-    "id": 98,
+    "id": 94,
     "questionText": "Aşağıdakilerden hangisi sözleşme sözcüğünün eş anlamlısıdır?",
     "imageUrl": null,
     "options": [
@@ -3332,7 +3196,7 @@
     "explanation": ""
   },
   {
-    "id": 99,
+    "id": 95,
     "questionText": "Aşağıdakilerden hangisi sağlar arası bir işlem değildir?",
     "imageUrl": null,
     "options": [
@@ -3366,7 +3230,7 @@
     "explanation": ""
   },
   {
-    "id": 100,
+    "id": 96,
     "questionText": "Bir kimsenin, kendisinin veya üçüncü bir şahsın malvarlığına veya şahsına yönelmiş ve fiilen devam etmekte bulunan haksız bir saldırıyı defetmek zorunluluğu içinde yapmış olduğu savunmaya ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -3400,7 +3264,7 @@
     "explanation": ""
   },
   {
-    "id": 101,
+    "id": 97,
     "questionText": "Hangi davada yargıç vicdani kanaatine göre karar verir?",
     "imageUrl": null,
     "options": [
@@ -3434,7 +3298,7 @@
     "explanation": ""
   },
   {
-    "id": 102,
+    "id": 98,
     "questionText": "Osmanlı-Türk tarihindeki ilk yazılı anayasa hangisidir?",
     "imageUrl": null,
     "options": [
@@ -3468,7 +3332,7 @@
     "explanation": ""
   },
   {
-    "id": 103,
+    "id": 99,
     "questionText": "“Milli egemenlik” ilkesi ilk defa hangi anayasada yer almıştır?",
     "imageUrl": null,
     "options": [
@@ -3502,7 +3366,7 @@
     "explanation": ""
   },
   {
-    "id": 104,
+    "id": 100,
     "questionText": "Aşağıdaki işlemlerden hangisi yargı denetimi dışındaki işlemlerdendir?",
     "imageUrl": null,
     "options": [
@@ -3536,7 +3400,7 @@
     "explanation": ""
   },
   {
-    "id": 105,
+    "id": 101,
     "questionText": "Vergi yükümlüleri, ihbarnamenin tebliğinden itibaren kaç gün içerisinde uzlaşma isteyebilirler?",
     "imageUrl": null,
     "options": [
@@ -3570,7 +3434,7 @@
     "explanation": ""
   },
   {
-    "id": 106,
+    "id": 102,
     "questionText": "Ambargo, aşağıdaki hukuk dallarından hangisine özgü bir yaptırımdır?",
     "imageUrl": null,
     "options": [
@@ -3604,7 +3468,7 @@
     "explanation": ""
   },
   {
-    "id": 107,
+    "id": 103,
     "questionText": "Aralarındaki borç ilişkisinden dolayı alacaklının borçludan isteyebilme hakkına sahip olduğu, borçlunun da yerine getirmekle yükümlü bulunduğu bir davranış biçimine ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -3638,7 +3502,7 @@
     "explanation": ""
   },
   {
-    "id": 108,
+    "id": 104,
     "questionText": "Aşağıdakilerden hangisi sınırlı ayni haklardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -3672,7 +3536,7 @@
     "explanation": ""
   },
   {
-    "id": 109,
+    "id": 105,
     "questionText": "Vedia sözcüğünün anlamı nedir?",
     "imageUrl": null,
     "options": [
@@ -3706,7 +3570,7 @@
     "explanation": ""
   },
   {
-    "id": 110,
+    "id": 106,
     "questionText": "Kooperatifler en az kaç kişi tarafından kurulabilir?",
     "imageUrl": null,
     "options": [
@@ -3740,7 +3604,7 @@
     "explanation": ""
   },
   {
-    "id": 111,
+    "id": 107,
     "questionText": "Aşağıdakilerden hangisi bir kambiyo senedidir?",
     "imageUrl": null,
     "options": [
@@ -3774,7 +3638,7 @@
     "explanation": ""
   },
   {
-    "id": 112,
+    "id": 108,
     "questionText": "Anayasa Mahkemesi ilk defa hangi anayasada yer almıştır?",
     "imageUrl": null,
     "options": [
@@ -3808,7 +3672,7 @@
     "explanation": ""
   },
   {
-    "id": 113,
+    "id": 109,
     "questionText": "Siyasal partilerin kapatılması konusunda dava açma yetkisi kime aittir?",
     "imageUrl": null,
     "options": [
@@ -3842,7 +3706,7 @@
     "explanation": ""
   },
   {
-    "id": 114,
+    "id": 110,
     "questionText": "Yüksek Seçim Kurulu kararlarına karşı nereye başvurulabilir?",
     "imageUrl": null,
     "options": [
@@ -3876,7 +3740,7 @@
     "explanation": ""
   },
   {
-    "id": 115,
+    "id": 111,
     "questionText": "Aşağıdakilerden hangisi özel ceza mahkemelerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -3910,7 +3774,7 @@
     "explanation": ""
   },
   {
-    "id": 116,
+    "id": 112,
     "questionText": "Danıştay’da kaç dava dairesi bulunmaktadır?",
     "imageUrl": null,
     "options": [
@@ -3944,7 +3808,7 @@
     "explanation": ""
   },
   {
-    "id": 117,
+    "id": 113,
     "questionText": "Aşağıdaki haklardan hangisi kişiye sıkı sıkıya bağlı haklardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -3978,7 +3842,7 @@
     "explanation": ""
   },
   {
-    "id": 118,
+    "id": 114,
     "questionText": "Aşağıdakilerden hangisi tek taraflı bir işlem değildir?",
     "imageUrl": null,
     "options": [
@@ -4012,7 +3876,7 @@
     "explanation": ""
   },
   {
-    "id": 119,
+    "id": 115,
     "questionText": "Aşağıdakilerden hangisi ölüme bağlı bir tasarruftur?",
     "imageUrl": null,
     "options": [
@@ -4046,7 +3910,7 @@
     "explanation": ""
   },
   {
-    "id": 120,
+    "id": 116,
     "questionText": "Davada ispat yükü, kural olarak, kime aittir?",
     "imageUrl": null,
     "options": [
@@ -4080,7 +3944,7 @@
     "explanation": ""
   },
   {
-    "id": 121,
+    "id": 117,
     "questionText": "Yasa/kanun koruyucusu dendiğinde aşağıdakilerden hangisi anlaşılır?",
     "imageUrl": null,
     "options": [
@@ -4114,7 +3978,7 @@
     "explanation": ""
   },
   {
-    "id": 122,
+    "id": 118,
     "questionText": "Hukuku kamu hukuku ve özel hukuk şeklinde ilk olarak ikiye ayıran hukukçular hangileridir?",
     "imageUrl": null,
     "options": [
@@ -4148,7 +4012,7 @@
     "explanation": ""
   },
   {
-    "id": 123,
+    "id": 119,
     "questionText": "“Atatürk milliyetçiliğine bağlı devlet” ilkesi hangi anayasada yer almıştır?",
     "imageUrl": null,
     "options": [
@@ -4182,7 +4046,7 @@
     "explanation": ""
   },
   {
-    "id": 124,
+    "id": 120,
     "questionText": "Bakanları atama ve görevden alma yetkisi kime aittir?",
     "imageUrl": null,
     "options": [
@@ -4216,7 +4080,7 @@
     "explanation": ""
   },
   {
-    "id": 125,
+    "id": 121,
     "questionText": "Vergi yükümlülerinin, ihbarnamenin tebliğinden itibaren kaç gün içerisinde dava açma hakları vardır?",
     "imageUrl": null,
     "options": [
@@ -4250,7 +4114,7 @@
     "explanation": ""
   },
   {
-    "id": 126,
+    "id": 122,
     "questionText": "Aşağıdaki hukuk dallarından hangisi yazılı olmaktan çok örf ve âdet ve gelenek hukukuna dayanmaktadır?",
     "imageUrl": null,
     "options": [
@@ -4284,7 +4148,7 @@
     "explanation": ""
   },
   {
-    "id": 127,
+    "id": 123,
     "questionText": "Özel hukukun en geniş dalı hangisidir?",
     "imageUrl": null,
     "options": [
@@ -4318,7 +4182,7 @@
     "explanation": ""
   },
   {
-    "id": 128,
+    "id": 124,
     "questionText": "Tenkis nedir?",
     "imageUrl": null,
     "options": [
@@ -4352,7 +4216,7 @@
     "explanation": ""
   },
   {
-    "id": 129,
+    "id": 125,
     "questionText": "İki taraf arasında kurulan ve taraflardan birini diğerine karşı belli bir davranış biçiminde bulunmakla yükümlü kılan hukuksal bağa ne denir?",
     "imageUrl": null,
     "options": [
@@ -4386,7 +4250,7 @@
     "explanation": ""
   },
   {
-    "id": 130,
+    "id": 126,
     "questionText": "Aşağıdaki şirketlerde hangisi tek kişi tarafından kurulabilir?",
     "imageUrl": null,
     "options": [
@@ -4420,7 +4284,7 @@
     "explanation": ""
   },
   {
-    "id": 131,
+    "id": 127,
     "questionText": "Gemisini deniz ticaretinde kullanan kişiye ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -4454,7 +4318,7 @@
     "explanation": ""
   },
   {
-    "id": 132,
+    "id": 128,
     "questionText": "Aşağıdaki yargı kollarından hangisi Türk yargı sisteminde yer alan yargı çeşitlerinden biri değildir?",
     "imageUrl": null,
     "options": [
@@ -4488,7 +4352,7 @@
     "explanation": ""
   },
   {
-    "id": 133,
+    "id": 129,
     "questionText": "Anayasa Mahkemesinde yasalara ve anayasa değişikliklerine karşı şekil bozukluğuna dayalı iptal davası açma süresi kaç gündür?",
     "imageUrl": null,
     "options": [
@@ -4522,7 +4386,7 @@
     "explanation": ""
   },
   {
-    "id": 134,
+    "id": 130,
     "questionText": "Yüksek Seçim Kurulu kaç asil üyeden oluşur?",
     "imageUrl": null,
     "options": [
@@ -4556,7 +4420,7 @@
     "explanation": ""
   },
   {
-    "id": 135,
+    "id": 131,
     "questionText": "Bir yerde özel mahkeme kurulmamışsa, özel mahkemenin görev alanına giren dava ve işlere, özel mahkeme sıfatıyla, o yerdeki hangi mahkeme tarafından bakılır?",
     "imageUrl": null,
     "options": [
@@ -4590,7 +4454,7 @@
     "explanation": ""
   },
   {
-    "id": 136,
+    "id": 132,
     "questionText": "Vergi mahkemelerinin tek yargıçla veya kurul olarak verdikleri tüm kararlara karşı kararın tebliğinden itibaren kaç gün içinde, mahkemenin bulunduğu yargı çevresindeki bölge idare mahkemesine istinaf yoluna başvurulabilir?",
     "imageUrl": null,
     "options": [
@@ -4624,7 +4488,7 @@
     "explanation": ""
   },
   {
-    "id": 137,
+    "id": 133,
     "questionText": "Avrupa İnsan Hakları Mahkemesi’ne bireysel başvuru süresi kaç aydır?",
     "imageUrl": null,
     "options": [
@@ -4658,7 +4522,7 @@
     "explanation": ""
   },
   {
-    "id": 138,
+    "id": 134,
     "questionText": "Somut norm denetimini yapma görevi aşağıdaki organlardan hangisine aittir?",
     "imageUrl": null,
     "options": [
@@ -4692,7 +4556,7 @@
     "explanation": ""
   },
   {
-    "id": 139,
+    "id": 135,
     "questionText": "Uyuşmazlık Mahkemesi Başkanını seçmek aşağıdaki organlardan hangisinin yetki ve görev alanına girmektedir?",
     "imageUrl": null,
     "options": [
@@ -4726,7 +4590,7 @@
     "explanation": ""
   },
   {
-    "id": 140,
+    "id": 136,
     "questionText": "Uluslararası antlaşmalara ilişkin aşağıdaki bilgilerden hangisi doğrudur?",
     "imageUrl": null,
     "options": [
@@ -4760,7 +4624,7 @@
     "explanation": ""
   },
   {
-    "id": 141,
+    "id": 137,
     "questionText": "Ödenmeyen vergilerin devlet zoruyla tahsili hususlarını inceleyen vergi dalı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -4794,7 +4658,7 @@
     "explanation": ""
   },
   {
-    "id": 142,
+    "id": 138,
     "questionText": "Tüzel kişilerin fiil ehliyeti ne zaman kazanılır?",
     "imageUrl": null,
     "options": [
@@ -4828,7 +4692,7 @@
     "explanation": ""
   },
   {
-    "id": 143,
+    "id": 139,
     "questionText": "Aşağıdakilerden hangisi Vergi Hukukunun alt dallarından biri değildir?",
     "imageUrl": null,
     "options": [
@@ -4862,7 +4726,7 @@
     "explanation": ""
   },
   {
-    "id": 144,
+    "id": 140,
     "questionText": "Adli yargı kaç derecelidir?",
     "imageUrl": null,
     "options": [
@@ -4896,7 +4760,7 @@
     "explanation": ""
   },
   {
-    "id": 145,
+    "id": 141,
     "questionText": "Fransız İnsan ve Yurttaş Halkları Bildirgesi hangi olayın bir ürünüdür?",
     "imageUrl": null,
     "options": [
@@ -4930,7 +4794,7 @@
     "explanation": ""
   },
   {
-    "id": 146,
+    "id": 142,
     "questionText": "Bir senedin sahteliğine ilişkin açılan davaya ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -4964,7 +4828,7 @@
     "explanation": ""
   },
   {
-    "id": 147,
+    "id": 143,
     "questionText": "Aşağıdakilerden hangisi medeni hukukun bir alt dalı olarak kabul edilemez?",
     "imageUrl": null,
     "options": [
@@ -4998,7 +4862,7 @@
     "explanation": ""
   },
   {
-    "id": 148,
+    "id": 144,
     "questionText": "Ticari bir işletmeyi bir ticaret unvanı altında işletmek amacıyla gerçek kişiler arasında kurulan ve ortakların sorumluluğu şirket alacaklarına karşı sınırlanmamış olan şirkete ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -5032,7 +4896,7 @@
     "explanation": ""
   },
   {
-    "id": 149,
+    "id": 145,
     "questionText": "Aşağıdakilerden hangisi 1982 Anayasası’nın 2. maddesinde belirtilen nitelikler arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -5066,7 +4930,7 @@
     "explanation": ""
   },
   {
-    "id": 150,
+    "id": 146,
     "questionText": "Anayasamıza göre milletvekili seçilebilme yaşı kaçtır?",
     "imageUrl": null,
     "options": [
@@ -5100,7 +4964,7 @@
     "explanation": ""
   },
   {
-    "id": 151,
+    "id": 147,
     "questionText": "Taciri tanıtmaya ve diğer tacirlerden ayırt etmeye yarayan unsur aşağıdakilerden hangisi dir?",
     "imageUrl": null,
     "options": [
@@ -5134,7 +4998,7 @@
     "explanation": ""
   },
   {
-    "id": 152,
+    "id": 148,
     "questionText": "Aşağıdakilerden hangisi boşanma davasının sonuçları arasında yer almaz?",
     "imageUrl": null,
     "options": [
@@ -5168,7 +5032,7 @@
     "explanation": ""
   },
   {
-    "id": 153,
+    "id": 149,
     "questionText": "Aşağıdakilerden hangisi işlenen fiili hukuka aykırı olmaktan çıkaran durumlardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -5202,7 +5066,7 @@
     "explanation": ""
   },
   {
-    "id": 154,
+    "id": 150,
     "questionText": "Aşağıdakilerden hangisi ceza hukukunda geçerli olan yaptırım türlerinden biridir?",
     "imageUrl": null,
     "options": [
@@ -5236,7 +5100,7 @@
     "explanation": ""
   },
   {
-    "id": 155,
+    "id": 151,
     "questionText": "Aşağıdakilerden hangisi hukukta yer alan yorum türlerinden biridir?",
     "imageUrl": null,
     "options": [
@@ -5270,7 +5134,7 @@
     "explanation": ""
   },
   {
-    "id": 156,
+    "id": 152,
     "questionText": "Hakkın doğmasına engel olan veya hakkı sona erdiren maddi olayların ileri sürülmesine ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -5304,75 +5168,7 @@
     "explanation": ""
   },
   {
-    "id": 157,
-    "questionText": "1- Bir üretim tesisinin benzetim modelinde makine kullanımları için arızalara kadar geçen süreyi modelleyen dağılım aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Normal",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Weibull",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Üçgen",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Negatif Binom",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Ampirik",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 158,
-    "questionText": "10- ARENA çalışma sonuçları raporlarından Resources (Kaynaklar) raporunda aşağıdakilerden hangisi bir kaynağın meşgul birimlerinin sayısını ifade eder?",
-    "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2025/07/Benzetim-Soru-11-min.png?resize=800%2C513&ssl=1",
-    "options": [
-      {
-        "letter": "A",
-        "text": "TOTAL NUMBER SEIZED",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "INSTANTANEOUS UTILIZATION",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "NUMBER SCHEDULED",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "SCHEDULED UTILIZATION",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "NUMBER BUSY",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 159,
+    "id": 153,
     "questionText": "Müşteri No Varış Zamanı 1 2 2 4 3 5 4 7 5 9 6 12 Yukarıda verilen tabloya göre 4. müşteri sisteme kaçıncı dakikada gelmiştir?",
     "imageUrl": null,
     "options": [
@@ -5406,7 +5202,7 @@
     "explanation": ""
   },
   {
-    "id": 160,
+    "id": 154,
     "questionText": "Bilgisayar üreten bir firma ürünlerinin dayanıklılık süresini değerlendirmek istemektedir. 100 tane rassal olarak seçilen bilgisayarın standart sapması 120 gün, ortalama dayanıklılık süreleri de 1440 gündür.",
     "imageUrl": null,
     "options": [
@@ -5440,7 +5236,7 @@
     "explanation": ""
   },
   {
-    "id": 161,
+    "id": 155,
     "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi, güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında müşterilerin kasa kuyruğunda bekleme süreleri güven aralığı [8.15-10.30] olarak belirlenmiştir. Gözlemlenen sistemin bekleme ortalamalarının 9.25 dakika olduğu bilinmektedir.",
     "imageUrl": null,
     "options": [
@@ -5474,7 +5270,7 @@
     "explanation": ""
   },
   {
-    "id": 162,
+    "id": 156,
     "questionText": "Bir berbere gelen müşterilerin %20’si saç tıraşı ve %80’i sakal tıraşı olmaktadır. Bu müşteri tipleri ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafından gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir.",
     "imageUrl": null,
     "options": [
