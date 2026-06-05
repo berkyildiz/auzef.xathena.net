@@ -1,28 +1,28 @@
 import { useState, useEffect } from 'react';
-import { ArrowLeft, RotateCcw, CheckCircle, Award, ChevronLeft, ChevronRight, List } from 'lucide-react';
+import { ArrowLeft, RotateCcw, CheckCircle, Award, List } from 'lucide-react';
 import QuestionCard from './QuestionCard';
 
-export default function QuizContainer({ courseId, onBack }) {
+export default function QuizContainer({ courseId, courseTitle, testConfig, onBack }) {
   const [questions, setQuestions] = useState([]);
   const [userAnswers, setUserAnswers] = useState({});
   const [revealedQuestions, setRevealedQuestions] = useState({});
   const [isFinished, setIsFinished] = useState(false);
   const [showReport, setShowReport] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
-  const [currentIndex, setCurrentIndex] = useState(0);
 
   useEffect(() => {
     import(`../data/courses/${courseId}.json`)
       .then((module) => {
         const data = [...module.default];
-        setQuestions(data);
+        const slice = data.slice(testConfig.startIndex, testConfig.endIndex);
+        setQuestions(slice);
         setIsLoading(false);
       })
       .catch((err) => {
         console.error("Sorular yüklenirken hata oluştu:", err);
         setIsLoading(false);
       });
-  }, [courseId]);
+  }, [courseId, testConfig]);
 
   const handleAnswer = (questionIndex, isCorrect, letter) => {
     if (isFinished) return;
@@ -33,7 +33,6 @@ export default function QuizContainer({ courseId, onBack }) {
         selectedLetter: letter
       }
     }));
-    // Soru cevaplandığında otomatik sonraki soruya geçme mantığı eklenebilir. Şimdilik manuel.
   };
 
   const handleReveal = (questionIndex) => {
@@ -49,7 +48,6 @@ export default function QuizContainer({ courseId, onBack }) {
     setRevealedQuestions({});
     setIsFinished(false);
     setShowReport(false);
-    setCurrentIndex(0);
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
@@ -57,6 +55,13 @@ export default function QuizContainer({ courseId, onBack }) {
     setIsFinished(true);
     setShowReport(true);
     window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const scrollToQuestion = (index) => {
+    const el = document.getElementById(`question-${index}`);
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth' });
+    }
   };
 
   if (isLoading) {
@@ -72,7 +77,7 @@ export default function QuizContainer({ courseId, onBack }) {
       <div className="container animate-fade-in" style={{ textAlign: 'center', marginTop: '4rem' }}>
         <h2>Henüz soru eklenmemiş.</h2>
         <button className="btn btn-outline" style={{ marginTop: '2rem' }} onClick={onBack}>
-          <ArrowLeft size={18} /> Geri Dön
+          <ArrowLeft size={18} /> Testlere Dön
         </button>
       </div>
     );
@@ -119,22 +124,20 @@ export default function QuizContainer({ courseId, onBack }) {
           <p style={{ fontSize: '1.2rem', color: 'var(--text-secondary)', marginBottom: '3rem', maxWidth: '600px', margin: '0 auto 3rem auto', lineHeight: '1.6' }}>{message}</p>
           
           <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap' }}>
-            <button className="btn btn-primary" onClick={() => { setShowReport(false); setCurrentIndex(0); }}>
+            <button className="btn btn-primary" onClick={() => { setShowReport(false); }}>
               <List size={18} /> Tüm Soruları ve Çözümleri İncele
             </button>
             <button className="btn btn-outline" onClick={restartQuiz}>
               <RotateCcw size={18} /> Sınavı Sıfırla
             </button>
             <button className="btn btn-outline" onClick={onBack}>
-              <ArrowLeft size={18} /> Derslere Dön
+              <ArrowLeft size={18} /> Testlere Dön
             </button>
           </div>
         </div>
       </div>
     );
   }
-
-  const currentQ = questions[currentIndex];
 
   return (
     <div className="quiz-layout">
@@ -143,11 +146,11 @@ export default function QuizContainer({ courseId, onBack }) {
         <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           
           <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
-            <button className="btn btn-outline" style={{ padding: '0.5rem 0.75rem', display: 'flex', alignItems: 'center', justifyContent: 'center' }} onClick={onBack} title="Derslere Dön">
+            <button className="btn btn-outline" style={{ padding: '0.5rem 0.75rem', display: 'flex', alignItems: 'center', justifyContent: 'center' }} onClick={onBack} title="Testlere Dön">
               <ArrowLeft size={18} /> 
             </button>
             <div className="breadcrumbs hide-mobile" style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
-              Dersler / <strong>{courseId}</strong> / Soru {currentIndex + 1}
+              {courseTitle || courseId} / <strong>{testConfig.title}</strong>
             </div>
           </div>
 
@@ -177,46 +180,33 @@ export default function QuizContainer({ courseId, onBack }) {
 
       <div className="container" style={{ display: 'flex', gap: '2rem', marginTop: '100px', alignItems: 'flex-start' }}>
         
-        {/* Soru Alanı */}
+        {/* Soru Listesi (Yukarıdan Aşağı) */}
         <div className="questions-list-container" style={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
-          <QuestionCard 
-            key={currentQ.id}
-            questionIndex={currentIndex}
-            question={currentQ} 
-            userAnswers={userAnswers}
-            revealedQuestions={revealedQuestions}
-            onAnswer={handleAnswer}
-            onReveal={handleReveal}
-            isFinished={isFinished}
-          />
+          {questions.map((q, idx) => (
+            <QuestionCard 
+              key={q.id}
+              questionIndex={idx}
+              question={q} 
+              userAnswers={userAnswers}
+              revealedQuestions={revealedQuestions}
+              onAnswer={handleAnswer}
+              onReveal={handleReveal}
+              isFinished={isFinished}
+            />
+          ))}
           
-          {/* Pagination Controls */}
-          <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '1rem', marginBottom: '3rem' }}>
-            <button 
-              className="btn btn-outline" 
-              onClick={() => setCurrentIndex(prev => Math.max(0, prev - 1))}
-              disabled={currentIndex === 0}
-            >
-              <ChevronLeft size={20} /> Önceki
-            </button>
-
-            {currentIndex < totalQuestions - 1 ? (
-              <button 
-                className="btn btn-outline" 
-                onClick={() => setCurrentIndex(prev => Math.min(totalQuestions - 1, prev + 1))}
-              >
-                Sonraki <ChevronRight size={20} />
+          {/* En Altta Sınavı Bitir Butonu */}
+          {!isFinished && (
+            <div style={{ display: 'flex', justifyContent: 'center', marginTop: '1rem', marginBottom: '5rem' }}>
+              <button className="btn btn-primary" style={{ padding: '1rem 3rem', fontSize: '1.2rem' }} onClick={finishQuiz}>
+                Sınavı Bitir ve Raporu Gör <CheckCircle size={20} style={{ marginLeft: '0.5rem' }} />
               </button>
-            ) : (
-              <button className="btn btn-primary" onClick={finishQuiz}>
-                Sınavı Bitir <CheckCircle size={20} />
-              </button>
-            )}
-          </div>
+            </div>
+          )}
         </div>
 
         {/* Sağ Taraf - Navigasyon Izgarası */}
-        <div className="question-navigator glass-panel">
+        <div className="question-navigator glass-panel" style={{ position: 'sticky', top: '100px' }}>
           <h3 style={{ marginTop: 0, marginBottom: '1rem', fontSize: '1.1rem', textAlign: 'center' }}>Navigasyon</h3>
           <div className="navigator-grid">
             {questions.map((_, idx) => {
@@ -224,7 +214,6 @@ export default function QuizContainer({ courseId, onBack }) {
               const isRevealed = revealedQuestions[idx] || isFinished;
               
               let statusClass = "nav-btn";
-              if (idx === currentIndex) statusClass += " active";
               
               if (ans) {
                 statusClass += ans.isCorrect ? " correct" : " incorrect";
@@ -236,7 +225,7 @@ export default function QuizContainer({ courseId, onBack }) {
                 <button 
                   key={idx} 
                   className={statusClass}
-                  onClick={() => setCurrentIndex(idx)}
+                  onClick={() => scrollToQuestion(idx)}
                 >
                   {idx + 1}
                 </button>

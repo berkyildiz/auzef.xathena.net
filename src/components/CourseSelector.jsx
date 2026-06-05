@@ -33,7 +33,7 @@ export default function CourseSelector({ onSelectCourse }) {
           <div 
             key={course.id}
             className="glass-panel course-card"
-            onClick={() => onSelectCourse(course.id)}
+            onClick={() => onSelectCourse(course.id, course.title)}
           >
             <div className="icon-container" style={{ color: course.color, background: `${course.color}20` }}>
               <BookOpen size={24} />

@@ -31,7 +31,7 @@ export default function QuestionCard({
   }
 
   return (
-    <div className={`glass-panel animate-fade-in ${cardBorderClass}`} style={{ padding: '2rem', marginBottom: '1rem', width: '100%' }}>
+    <div id={`question-${questionIndex}`} className={`glass-panel animate-fade-in ${cardBorderClass}`} style={{ padding: '2rem', marginBottom: '1rem', width: '100%', scrollMarginTop: '100px' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '1rem' }}>
         <h3 style={{ margin: 0, color: 'var(--primary-color)' }}>Soru {questionIndex + 1}</h3>
         
