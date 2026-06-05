@@ -4,7 +4,7 @@ WORKDIR /app
 
 # Bağımlılıkları kopyala ve kur
 COPY package*.json ./
-RUN npm install
+RUN npm ci
 
 # Kaynak kodları kopyala ve projeyi derle
 COPY . .
