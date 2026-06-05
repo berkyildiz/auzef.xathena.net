@@ -52,15 +52,13 @@ def parse_html(html):
     parsed_texts = set()
 
     def add_question(q_text, opts, correct, img_url, explanation):
-        if not q_text or len(q_text) < 5 or not opts or not correct:
+        if not q_text or len(q_text) < 10 or len(q_text) > 1500 or not opts or not correct:
             return
             
-        norm_q = normalize_turkish(q_text)
-        if norm_q in parsed_texts:
-            return
-            
-        parsed_texts.add(norm_q)
-        
+        for o in opts:
+            if not o['text'] or len(o['text']) < 1 or len(o['text']) > 400:
+                return
+                
         if is_fake_explanation(explanation):
             explanation = ""
             
@@ -304,8 +302,7 @@ def parse_file(filename, out_filename):
         
         for idx, fq in enumerate(final_questions):
             norm_fq = normalize_turkish(fq['questionText'])
-            ratio = difflib.SequenceMatcher(None, norm_q, norm_fq).ratio()
-            if ratio > 0.85:
+            if norm_q == norm_fq:
                 is_duplicate = True
                 duplicate_idx = idx
                 break
@@ -318,14 +315,14 @@ def parse_file(filename, out_filename):
                 'imageUrl': q['img'],
                 'options': q['opts'],
                 'correctAnswer': q['correct'],
-                'explanation': q['explanation'] or f"Bu sorunun çözümü sistem tarafından analiz edilmektedir. Doğru cevap {q['correct']} şıkkıdır."
+                'explanation': q['explanation'] if q['explanation'] else ""
             }
             final_questions.append(final_q)
         else:
             duplicate_count += 1
             # MERGE LOGIC: If the duplicate has an explanation but the stored one doesn't, upgrade it!
             stored_q = final_questions[duplicate_idx]
-            stored_has_real_expl = stored_q['explanation'] and "sistem tarafından analiz edilmektedir" not in stored_q['explanation']
+            stored_has_real_expl = stored_q['explanation'] and len(stored_q['explanation']) > 0
             new_has_real_expl = q['explanation'] and len(q['explanation']) > 0
             
             if new_has_real_expl and not stored_has_real_expl:

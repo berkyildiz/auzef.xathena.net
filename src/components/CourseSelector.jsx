@@ -1,55 +1,65 @@
 import { useState } from 'react';
 import { BookOpen, ChevronRight } from 'lucide-react';
 
+const questionCounts = {
+  buyukveri: 45,
+  bilgisistemleriprojeyonetimi: 69,
+  veritabaniyonetimsistemleri: 78,
+  bilgisayarorganizasyonu: 103,
+  benzetim: 162,
+  hukukuntemelkavramlari: 193,
+  bilimselarastirmateknikleri: 203
+};
+
 const COURSES = [
   {
     id: 'benzetim',
     title: 'Benzetim (Simülasyon)',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 155,
+    questionCount: questionCounts.benzetim,
     color: '#3b82f6' // Blue color
   },
   {
     id: 'bilgisistemleriprojeyonetimi',
     title: 'Bilgi Sistemleri Proje Yönetimi',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 63,
+    questionCount: questionCounts.bilgisistemleriprojeyonetimi,
     color: '#10b981' // Green color
   },
   {
     id: 'hukukuntemelkavramlari',
     title: 'Hukukun Temel Kavramları',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 173,
+    questionCount: questionCounts.hukukuntemelkavramlari,
     color: '#8b5cf6' // Purple color
   },
   {
     id: 'veritabaniyonetimsistemleri',
-    title: 'Veri Tabanı Yönetim Sistemleri',
+    title: 'Veritabanı Yönetim Sistemleri',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 70,
-    color: '#8b5cf6' // Violet color
+    questionCount: questionCounts.veritabaniyonetimsistemleri,
+    color: '#f59e0b' // Amber color
   },
   {
     id: 'bilgisayarorganizasyonu',
     title: 'Bilgisayar Organizasyonu',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 92,
-    color: '#ec4899' // Pink color
+    questionCount: questionCounts.bilgisayarorganizasyonu,
+    color: '#ef4444' // Red color
   },
   {
     id: 'bilimselarastirmateknikleri',
     title: 'Bilimsel Araştırma Teknikleri',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 186,
-    color: '#0ea5e9' // Sky Blue color
+    questionCount: questionCounts.bilimselarastirmateknikleri,
+    color: '#14b8a6' // Teal color
   },
   {
     id: 'buyukveri',
     title: 'Büyük Veri',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
-    questionCount: 42,
-    color: '#f43f5e' // Rose color
+    questionCount: questionCounts.buyukveri,
+    color: '#06b6d4' // Cyan color
   }
 ];
 

@@ -31,7 +31,7 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: IV-III-II-I-V**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 2,
@@ -65,7 +65,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: 1**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 3,
@@ -99,7 +99,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Komut tabanlı G/Ç**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 4,
@@ -133,7 +133,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Fiziksel**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 5,
@@ -167,7 +167,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Tüm işlenenler bellektedir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 6,
@@ -201,12 +201,12 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: SRAM**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 7,
     "questionText": "0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F rakamları hangi sayı sistemine aittir?",
-    "imageUrl": null,
+    "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2024/07/Bilgisayar-organizasyonu-2024-final-sorulari-soru2.png?resize=44%2C40&ssl=1",
     "options": [
       {
         "letter": "A",
@@ -235,7 +235,7 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Hexadecimal**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 8,
@@ -269,7 +269,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: G/Ç arayüzü**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 9,
@@ -303,7 +303,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Bağımsız**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 10,
@@ -337,7 +337,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Sistem yavaşlar.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 11,
@@ -371,7 +371,7 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Kaynak program – Nesne kodu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 12,
@@ -405,7 +405,7 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Sunucu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 13,
@@ -439,7 +439,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: ????̅̅+̅????**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 14,
@@ -473,7 +473,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: İşletim sistemi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 15,
@@ -507,7 +507,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Fiziksel**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 16,
@@ -541,7 +541,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Sistemdeki elemanların senkronizasyonunu sağlar.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 17,
@@ -575,7 +575,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: dağıtık**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 18,
@@ -609,7 +609,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Gömülü sistem**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 19,
@@ -643,7 +643,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: NOP**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 20,
@@ -677,7 +677,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Bellekten belleğe**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 21,
@@ -711,7 +711,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: ön bellek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 22,
@@ -745,7 +745,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Bellek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 23,
@@ -779,7 +779,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Derleyici**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 24,
@@ -813,7 +813,7 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: WAN**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 25,
@@ -847,10 +847,44 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: G/ç genişletmeleri için iSBX veri yolu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
     "id": 26,
+    "questionText": "8 bloklu bir ön bellekte doğrudan eşleme yöntemi ile ana belleğin 8. Bloğu ön belleğin hangi bloğuna eşlenir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "8",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": ""
+  },
+  {
+    "id": 27,
     "questionText": "Hangi bellek türünü yeniden programlamadan önce içindeki verilerin silinmesi gereklidir?",
     "imageUrl": null,
     "options": [
@@ -881,10 +915,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: EPROM**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 27,
+    "id": 28,
     "questionText": "101001012 sayısının 1’e tümleyeni kaçtır?",
     "imageUrl": null,
     "options": [
@@ -915,10 +949,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: 01011010²**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 28,
+    "id": 29,
     "questionText": "Dijital sistemlerde kullanılan en çok sayı sistemi hangisidir?",
     "imageUrl": null,
     "options": [
@@ -949,10 +983,10 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Binary**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 29,
+    "id": 30,
     "questionText": "Aranan verinin bulunduğu Ana bellek bloğunun tamamının ön belleğe yüklenmesine ne denir?",
     "imageUrl": null,
     "options": [
@@ -983,10 +1017,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Yerellik ilkesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 30,
+    "id": 31,
     "questionText": "Ana bellek için ……. ve önbellek için…….. olacak şekilde her iki teknoloji de sıklıkla birlikte kullanılır. Boşluğa gelecek kelimeler hangisinde doğru sırada verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -1017,10 +1051,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: DRAM-SRAM**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 31,
+    "id": 32,
     "questionText": "Bir problemi çözmek için gereken mantıksal adım dizisi nedir?",
     "imageUrl": null,
     "options": [
@@ -1051,10 +1085,10 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Algoritma**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 32,
+    "id": 33,
     "questionText": "13DA8A2D sayısının big Endian gösteriminde 2. Baytta hangi sayı bulunur?",
     "imageUrl": null,
     "options": [
@@ -1085,10 +1119,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: DA**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 33,
+    "id": 34,
     "questionText": "Aşağıdakilerden hangisi VMEbus görevlerindendir?",
     "imageUrl": null,
     "options": [
@@ -1119,10 +1153,10 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Cihazlar arasındaki etkileşimi kesin olarak tanımlayan protokolleri belirtmek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 34,
+    "id": 35,
     "questionText": "Çok amaçlı kullanılabilen kapı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1153,10 +1187,44 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: NAND**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 35,
+    "id": 36,
+    "questionText": "13DA8A2D sayısının littleEndian gösteriminde 2. Baytta hangi sayı bulunur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "2D",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "8A",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "A2",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "DA",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 37,
     "questionText": "Bir BOOL cebri değişkeni kaç farklı değer alabilir?",
     "imageUrl": null,
     "options": [
@@ -1187,10 +1255,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: 2**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 36,
+    "id": 38,
     "questionText": "ASCII vey aEBCDIC kodu kullanılan karakter dizileri karakter başına ne kadar yer kaplar?",
     "imageUrl": null,
     "options": [
@@ -1221,10 +1289,10 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: 1 bayt**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 37,
+    "id": 39,
     "questionText": "Hangisi Multibus II nin özelliklerinden değildir?",
     "imageUrl": null,
     "options": [
@@ -1255,10 +1323,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Ses ve görüntü için HDMI aktarımını destekler.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 38,
+    "id": 40,
     "questionText": "Sistem veri yolu bileşenleri hangi seçenekte doğru verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -1289,10 +1357,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: adres veri yolu- kontrol veri yolu- data veri yolu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 39,
+    "id": 41,
     "questionText": "Bir veya birkaç önceden belirlenmiş görevi gerçekleştirmek için tasarlanmış özel amaçlı bir sistemlere nedenir?",
     "imageUrl": null,
     "options": [
@@ -1323,10 +1391,10 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Gömülü sistem**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 40,
+    "id": 42,
     "questionText": "Ağ referans modellerinin en üst katmanı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1357,10 +1425,10 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Uygulama**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 41,
+    "id": 43,
     "questionText": "Eşler arası ağ mimarisi ile ilgili hangisi yanlıştır?",
     "imageUrl": null,
     "options": [
@@ -1391,10 +1459,44 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Ağdaki her bilgisayar ya bir istemci ya da sunucudur.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 42,
+    "id": 44,
+    "questionText": "10100101² sayısının 2’ye tümleyenikaçtır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "01011010²",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "11011010²",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "10000001²",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "01011011²",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "11011011²",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 45,
     "questionText": "İletilen bilgilerin alıcı ana bilgisayarlar ile gönderen ana bilgisayarlar arasında taşındığı yollara ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -1425,10 +1527,10 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Link**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 43,
+    "id": 46,
     "questionText": "Hangi RAM türünde güç mevcut olduğu sürece veri kaybı olmaz?",
     "imageUrl": null,
     "options": [
@@ -1459,10 +1561,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: DRAM**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 44,
+    "id": 47,
     "questionText": "Bir registerin görevi nedir?",
     "imageUrl": null,
     "options": [
@@ -1493,10 +1595,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Veri depolama**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 45,
+    "id": 48,
     "questionText": "Mümkün olabilecek en yüksek hızlı işlemler için operandlar nerede saklanmalıdır?",
     "imageUrl": null,
     "options": [
@@ -1527,10 +1629,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Bellek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 46,
+    "id": 49,
     "questionText": "Gelen iletişim bağlantılarından aldığı verileri giden iletişim bağlantıları aracılığıyla ileten aygıtlara ne ad verilir?",
     "imageUrl": null,
     "options": [
@@ -1561,10 +1663,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Router**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 47,
+    "id": 50,
     "questionText": "İşaretli tam sayı gösteriminde bir sayının negatif olduğu nasıl belirtilir?",
     "imageUrl": null,
     "options": [
@@ -1595,10 +1697,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: En yüksek değerlikli bit 1 dir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 48,
+    "id": 51,
     "questionText": "Bir taramanın başlangıcında veya belirli zaman aralıklarında belirli bir değerle başlatılan hata denetleme mekanizması aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1629,10 +1731,10 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Watchdog Timer**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 49,
+    "id": 52,
     "questionText": "ALU (Arithmetik ve Mantık Birimi)’nun görevi nedir?",
     "imageUrl": null,
     "options": [
@@ -1663,10 +1765,10 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Program sayaç yazmacı ve Adres yazmacı üzerinde aritmetik ve mantık işlemleri gerçekleştirir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 50,
+    "id": 53,
     "questionText": "Aşağıdakilerin hangisinde 16 lık sayı tabanının rakamları doğru verilmiştir?",
     "imageUrl": null,
     "options": [
@@ -1697,10 +1799,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: 0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 51,
+    "id": 54,
     "questionText": "Hangisi bir veri yolu tahkim tekniğidir?",
     "imageUrl": null,
     "options": [
@@ -1731,10 +1833,10 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Daisy-chain**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 52,
+    "id": 55,
     "questionText": "LAN lar hangi teknolojiye dayanır?",
     "imageUrl": null,
     "options": [
@@ -1765,10 +1867,10 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Ethernet**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 53,
+    "id": 56,
     "questionText": "Bellek hızı CPU’ya göre çok düşük olduğunda sistemin tamamı nasıl etkilenir?",
     "imageUrl": null,
     "options": [
@@ -1799,10 +1901,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Yavaşlar**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 54,
+    "id": 57,
     "questionText": "Aşağıdakilerden hangisi asenkron veri iletişiminde bulunmaz?",
     "imageUrl": null,
     "options": [
@@ -1833,10 +1935,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Clock**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 55,
+    "id": 58,
     "questionText": "Bir devrenin çıktısının aynı devreye giriş olarak verilmesine ne denir?",
     "imageUrl": null,
     "options": [
@@ -1867,10 +1969,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Geri besleme**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 56,
+    "id": 59,
     "questionText": "Aşağıdakilerden hangisi kontrol biriminin görevlerinden değildir?",
     "imageUrl": null,
     "options": [
@@ -1901,10 +2003,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: verileri iletmek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 57,
+    "id": 60,
     "questionText": "Veri yolu denetleyicisinin görevi nedir?",
     "imageUrl": null,
     "options": [
@@ -1935,10 +2037,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Veri yolu iletişimini sağlamak.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 58,
+    "id": 61,
     "questionText": "Verileri bölümlere ayırarak bir ağ üzerindeki trafik miktarını azaltan birim aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1969,10 +2071,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Brigde**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 59,
+    "id": 62,
     "questionText": "Bellek adres alanının bir kısmını kullanan G/Ç türü hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2003,10 +2105,10 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Bellek eşlemeli G/Ç**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 60,
+    "id": 63,
     "questionText": "D/A Dönüştürücünün çıkışında hangisi görülür?",
     "imageUrl": null,
     "options": [
@@ -2037,10 +2139,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: n-bit dijital bilgi girişlerine karşılık gelen analog voltaj**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 61,
+    "id": 64,
     "questionText": "Bir CPU’nun iki ana bileşeni hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2071,10 +2173,10 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: ALU - Control Unit**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 62,
+    "id": 65,
     "questionText": "Tüm gömülü sistemlerde bulunan ve sistemin başlatılmasını sağlayan öğe aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2100,10 +2202,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Frimware**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 63,
+    "id": 66,
     "questionText": "İki BCD rakamı kapladığı alan birimi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2134,10 +2236,10 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: 8 bit**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 64,
+    "id": 67,
     "questionText": "Tüm ….. uygulama kodunu başlatmadan önce kendi kendini sınamasını sağlayan bir ürün başlangıç yazılımı (firmware) bulunur.",
     "imageUrl": null,
     "options": [
@@ -2168,10 +2270,10 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: gömülü sistemlerde**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 65,
+    "id": 68,
     "questionText": "VMEbus üzerindeki en küçük adreslenebilir depolama birimi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2202,10 +2304,10 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Bayt**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 66,
+    "id": 69,
     "questionText": "Aşağıdaki bellek türlerinden hangisinin yeniden programlamak mümkün değildir?",
     "imageUrl": null,
     "options": [
@@ -2236,10 +2338,10 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: PROM**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 67,
+    "id": 70,
     "questionText": "101101012 sayısının 1’e tümleyeni aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2270,10 +2372,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: 010010102**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 68,
+    "id": 71,
     "questionText": "Aşağıdaki ifadelerden hangisi hata tespiti için kullanılır?",
     "imageUrl": null,
     "options": [
@@ -2304,10 +2406,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Eşlik biti**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 69,
+    "id": 72,
     "questionText": "DA139A2E sayısının Little Endian gösteriminde 2. baytı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2338,10 +2440,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: DA**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 70,
+    "id": 73,
     "questionText": "Çoklayıcı bir kanal birkaç ….. aygıta bağlanabilir.",
     "imageUrl": null,
     "options": [
@@ -2372,10 +2474,10 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: düşük ve orta hızlı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 71,
+    "id": 74,
     "questionText": "Aşağıdaki kavramlardan hangisi bir ağ bileşenidir?",
     "imageUrl": null,
     "options": [
@@ -2406,10 +2508,44 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Router**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 72,
+    "id": 75,
+    "questionText": "Ağ referans modellerinin en alt katmanı aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sunum",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Ağ",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Nakil",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Uygulama",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Fiziksel",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": ""
+  },
+  {
+    "id": 76,
     "questionText": "CPU ve diğer bileşenler arasındaki iletişimi aşağıdakilerden hangisi sağlamaktadır?",
     "imageUrl": null,
     "options": [
@@ -2440,10 +2576,10 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Veri yolu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 73,
+    "id": 77,
     "questionText": "İki veya daha fazla bilgisayarı kablo kullanmadan bağlayan ağ aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2474,10 +2610,44 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: WLAN**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 74,
+    "id": 78,
+    "questionText": "DA139A2E sayısının big Endian gösteriminde 3. Baytı aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "2E",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "A2",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "DA",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "9A",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": ""
+  },
+  {
+    "id": 79,
     "questionText": "Watchdog timer hata durumunda sistemi normal çalışmaya döndürmek için ne yapar?",
     "imageUrl": null,
     "options": [
@@ -2508,10 +2678,10 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: İşlemciyi sıfırlar.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 75,
+    "id": 80,
     "questionText": "Aşağıdaki yazmaçlardan hangisi kullanıcı tarafından programlanabilir?",
     "imageUrl": null,
     "options": [
@@ -2542,10 +2712,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: GPR**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 76,
+    "id": 81,
     "questionText": "Doğrudan eşlemede, yeni bir bloğun yerleştirilmesi gereken ….. konumunda önceden başka bir blok varsa veriler doğrudan üzerine yazılır.",
     "imageUrl": null,
     "options": [
@@ -2576,10 +2746,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: ön bellek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 77,
+    "id": 82,
     "questionText": "Yukarıdaki (mantıksal kapı) devrenin çıkışı aşağıdakilerin hangisinde yer almaktadır?",
     "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-14-15.57.55.png",
     "options": [
@@ -2610,10 +2780,10 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: A=1 B=1 (AND kapısı)**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 78,
+    "id": 83,
     "questionText": "Aşağıdakilerden hangisi işletim sisteminin temel işlevlerindendir?",
     "imageUrl": null,
     "options": [
@@ -2644,10 +2814,10 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Tüm kaynakların durumunu herhangi bir anda takip eder.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 79,
+    "id": 84,
     "questionText": "Aynı veri yolu üzerinde birden fazla Master cihaz olduğunda yetkilendirmeyi aşağıdaki birimlerden hangisi yapar?",
     "imageUrl": null,
     "options": [
@@ -2678,10 +2848,10 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Veri yolu denetleyicisi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 80,
+    "id": 85,
     "questionText": "Adres veri yolunun görevi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2712,10 +2882,44 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Verilerin okunacağı veya yazılacağı konumu iletmek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 81,
+    "id": 86,
+    "questionText": "101101012 sayısının 2’ye tümleyeni aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "010110112",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "110110102",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "100000012",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "110110112",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "010010112",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": ""
+  },
+  {
+    "id": 87,
     "questionText": "Dört adımlı bir basit kontrol döngüsünde işlemci şu anda 3. adımdadır. Kullanıcı tarafından 2. adımdaki işlem gerçekleştirilmek istendiğinde bu adım işlemci tarafından ne zaman çalıştırılır?",
     "imageUrl": null,
     "options": [
@@ -2746,10 +2950,10 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Bir sonraki döngüde 1.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 82,
+    "id": 88,
     "questionText": "Aşağıdakilerden hangisi geniş alan ağının kısaltmasıdır?",
     "imageUrl": null,
     "options": [
@@ -2780,10 +2984,44 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: WAN**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 83,
+    "id": 89,
+    "questionText": "1011011010002 sayısının tümleyeni (tersi) aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "1011011010012",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "0100100101112",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "0110100100112",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "0100100110112",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "0101100100112",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 90,
     "questionText": "CPU ile ilgili aşağıdakilerden hangisi doğrudur?",
     "imageUrl": null,
     "options": [
@@ -2814,10 +3052,44 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Her zaman master birim olarak görev almak zorunda değildir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 84,
+    "id": 91,
+    "questionText": "Ana bellek için yaygın olarak hangi tip RAM kullanılır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "ROM",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "RAM",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "SRAM",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "DRAM",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "PROM",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 92,
     "questionText": "Firmware aşağıdakilerden hangisi üzerinde saklanır?",
     "imageUrl": null,
     "options": [
@@ -2848,10 +3120,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: ROM**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 85,
+    "id": 93,
     "questionText": "Aşağıdakilerden hangisi Multibus II’nin özelliklerindendir?",
     "imageUrl": null,
     "options": [
@@ -2882,10 +3154,44 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Dağıtık bir tahkim şeması kullanır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 86,
+    "id": 94,
+    "questionText": "Yukarıdaki devrenin çıkışı aşağıdakilerin hangisinde yer almaktadır.",
+    "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-14-16.52.21.png",
+    "options": [
+      {
+        "letter": "A",
+        "text": "c",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "a",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "e",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "d",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "b",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 95,
     "questionText": "Bellek hiyerarşisinde diğerlerine göre en altta yer alan birim aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2916,10 +3222,10 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Sabit disk**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 87,
+    "id": 96,
     "questionText": "İki BCD rakamı ne kadar yer kaplar?",
     "imageUrl": null,
     "options": [
@@ -2950,10 +3256,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: 8 bit**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 88,
+    "id": 97,
     "questionText": "Aşağıdakilerden hangisi komut seti aritmetik talimatlarındandır?",
     "imageUrl": null,
     "options": [
@@ -2984,10 +3290,44 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: INCREMENT**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 89,
+    "id": 98,
+    "questionText": "4 katmanlı TCP/IP modelinin en alt katmanı aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nakil",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Sunum",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Ağ erişimi",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Fiziksel",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Ağ",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 99,
     "questionText": "Doğrudan eşlemede, yeni bir bloğun yerleştirilmesi gereken ….. konumunda önceden başka bir blok varsa veriler doğrudan üzerine yazılır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -3018,10 +3358,44 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: ön bellek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 90,
+    "id": 100,
+    "questionText": "Aşağıdakilerden hangisi işletim sisteminin görevlerinden değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ağ yazılım desteği",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Hata ayıklama",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Bellek yönetimi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Hata düzeltme",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Depolama yönetimi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 101,
     "questionText": "Aşağıdakilerden hangisi DMA sisteminin yapabileceği tüm işlemleri gerçekleştirebilen sınırlı kapasiteli bir işlemcidir?",
     "imageUrl": null,
     "options": [
@@ -3052,10 +3426,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Kanal CEVAPLI**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 91,
+    "id": 102,
     "questionText": "Aşağıdakilerden hangisi ön belleğin özelliklerindedir?",
     "imageUrl": null,
     "options": [
@@ -3086,10 +3460,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: İşlemciye en yakın konumdadır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   },
   {
-    "id": 92,
+    "id": 103,
     "questionText": "Yazılım mimarilerinin en basiti olan ve basit bir göreve adanmış bağımsız bir mikro denetleyici ile küçük cihazlarda kullanılan döngü aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -3120,6 +3494,6 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Basit kontrol döngüsü**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": ""
   }
 ]
