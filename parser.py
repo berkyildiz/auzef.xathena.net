@@ -179,7 +179,7 @@ def parse_file(filename):
             
         q['explanation'] = explanation
 
-    out_path = os.path.join('quiz-app', 'src', 'data', 'courses', 'benzetim.json')
+    out_path = os.path.join('src', 'data', 'courses', 'benzetim.json')
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump(questions, f, ensure_ascii=False, indent=2)

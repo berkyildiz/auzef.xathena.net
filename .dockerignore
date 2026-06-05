@@ -3,3 +3,7 @@ dist
 .git
 .gitignore
 *.md
+*.py
+*.js
+*.json
+benzetimtxt.txt
