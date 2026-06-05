@@ -15,6 +15,13 @@ const COURSES = [
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
     questionCount: 69,
     color: '#10b981' // Success/Emerald color
+  },
+  {
+    id: 'hukukuntemelkavramlari',
+    title: 'Hukukun Temel Kavramları',
+    description: 'Geçmiş dönem çıkmış sorular ve cevapları',
+    questionCount: 135,
+    color: '#f59e0b' // Amber/Orange color
   }
 ];
 

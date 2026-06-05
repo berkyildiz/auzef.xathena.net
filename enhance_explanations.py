@@ -49,5 +49,7 @@ def enhance_explanations(file_path):
         json.dump(questions, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
-    enhance_explanations("src/data/courses/benzetim.json")
-    print("Explanations enhanced successfully!")
+    import sys
+    file_path = sys.argv[1] if len(sys.argv) > 1 else "src/data/courses/benzetim.json"
+    enhance_explanations(file_path)
+    print(f"Explanations enhanced successfully for {file_path}!")
