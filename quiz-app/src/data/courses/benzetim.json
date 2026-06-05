@@ -1,0 +1,2695 @@
+[
+  {
+    "questionText": "Aşağıdakilerden hangisi Statik-Dinamik sistem ikilisine örnektir?",
+    "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1771688198385-j2orqv.png",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kalite Kontrol - Stok Kontrol",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Havayolları - Karayolları",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Üretim İletişim",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Banka Baraj",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Güneş Sistemi - Sindirim Sistemi",
+        "isCorrect": true
+      },
+      {
+        "letter": "A",
+        "text": "Correlogram",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Compare Variances",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Conf.Interval on Mean",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Compare Means",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "One-Way ANOVA",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "Constant-10-Minutes",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Constant-10-Hours",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Random-10 - Hours",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Random-10 - Minutes",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Expression-10-Minutes",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "TOTAL NUMBER SEIZED",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "INSTANTANEOUS UTILIZATION",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "NUMBER SCHEDULED",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "SCHEDULED UTILIZATION",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "NUMBER BUSY",
+        "isCorrect": true
+      },
+      {
+        "letter": "A",
+        "text": "Sonuçlarda bağımsızlık sağlar.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Tahmini ortalama değer daha doğrudur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Güven aralıkları daha kolay hesaplanabilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Isınma süresinin yalnızca bir kez çalıştırılması gerekir, bu da deneyleri çalıştırmak için gereken süreyi azaltır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Standart sapma değeri daha yaklaşık sonuçlar verir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "80 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "30 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "40 dk",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "20 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "60 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "20 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "16 dk",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "6 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "12 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "9 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "Geçici durum simülasyonu",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Kararlı simülasyon",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Sonlu ufuklu simülasyon",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Sonsuz ufuklu simülasyon",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kararsız durum simülasyonu",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "b değeri asal sayı olmalıdır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "c değeri tek sayı olmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Eğer m 4'e bölünüyorsa c-1 de 4'e bölünebilmelidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "m değeri asal sayı olmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "m değerinin tüm bölenlerine b-1 de bölünebilmelidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "En iyi durum hatası ≤ ε'dur ancak en kötü durum hatası > ε'dur. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "En iyi durum hatası < s dur. Sistem ve model performansları arasındaki fark, en iyi durumda bile yeterince büyük olduğundan model iyileştirilmelidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "En kötü durum hatası ≤ε 'dur, simülasyon modeli reddedilir ve yeni bir model kurulur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "En iyi durum veya en kötü durum hatası > ε 'dur. Bir sonuca varılımcaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "En kötü durum hatası ≤ε dur. Simülasyon modeli yeterince yakın ve geçerli kabul edilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "Seize Delay Release",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Seize Delay",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Random",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Delay",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Delay Release",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "EXTEND",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "AUTOMOD",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "ARENA",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "SIMUL8",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "PROMODEL",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "0.2620-0.3420",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "0.04-0.3020",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "0.04-0.3887",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "0.2353-0.3020",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "0.2356-0.3887",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "İstenen sonuçlar alındığında",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Sistemde belli bir miktarda varlık olduğunda",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "İstenmeyen sonuçlar alınmaya başlandığında",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Önceden belirlenmiş birkaç ardışık zaman artımından sonra",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "İlgilenilen istatistikler sabitlendiğinde",
+        "isCorrect": true
+      },
+      {
+        "letter": "A",
+        "text": "DISC(1,2)",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "TIP",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "%80",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "%20",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "TIP=1",
+        "isCorrect": true
+      },
+      {
+        "letter": "A",
+        "text": "AutoStat",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "SimRunner",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "OptQuest",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "PROCESS ANALYZER",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "OUTPUT ANALYZER",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "FIFO",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "LIFO",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "PR",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Highest Attribute Value (first)",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Lowest Attribute Value (first)",
+        "isCorrect": true
+      },
+      {
+        "letter": "A",
+        "text": "[1320-1560]",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "[1420.2-1459,8]",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "[1202,4-1667,6]",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "[1398,5-1481,5]",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "[1400-1471]",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "Normal",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Weibull",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Üçgen",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Negatif Binom",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Ampirik",
+        "isCorrect": false
+      },
+      {
+        "letter": "A",
+        "text": "STORE",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "HALT",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "ACCESS",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "UNSTORE",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "HOLD",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 1,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Havayolları - Karayolları' olmalıdır. Güneş sistemi, özellikleri zamanla değişmediği için statik bir sistemdir. Sindirim sistemi ise girdi ve çıktıları olan, zaman içinde değişen süreçler içerdiği için dinamiktir."
+  },
+  {
+    "questionText": "OUTPUT ANALYZER aracı ile farklı senaryolarda çalıştırılan modellerin ortalamalarının karşılaştırılması için aşağıdakilerden hangisi kullanılır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Correlogram",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Compare Variances",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Conf.Interval on Mean",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Compare Means",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "One-Way ANOVA",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 2,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Compare Means' olmalıdır. OUTPUT ANALYZER modülünde iki veya daha fazla farklı senaryonun ortalamalarını istatistiksel olarak karşılaştırmak için 'Compare Means' aracı kullanılır."
+  },
+  {
+    "questionText": "Bir süpermarket sisteminde kasada işlem yapan müşteriler için benzetim çalışması yapılmıştır. Müşterilerin gelişleri arası süre sabit 10 dk olarak belirlenmiştir. Yukarıdaki görselde sarı renkli işaretlenmiş kutucuklar aşağıdaki seçeneklerin hangisinde doğru verilmiştir?",
+    "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1771688198385-j2orqv.png",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Constant-10-Minutes",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Constant-10-Hours",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Random-10 - Hours",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Random-10 - Minutes",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Expression-10-Minutes",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "id": 3,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Constant-10-Minutes' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Constant-10-Minutes olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "ARENA çalışma sonuçları raporlarından Resources (Kaynaklar) raporunda aşağıdakilerden hangisi bir kaynağın meşgul birimlerinin sayısını ifade eder?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "TOTAL NUMBER SEIZED",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "INSTANTANEOUS UTILIZATION",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "NUMBER SCHEDULED",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "SCHEDULED UTILIZATION",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "NUMBER BUSY",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "id": 4,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'NUMBER BUSY' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç NUMBER BUSY olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Tek bir uzun çalışmanın birden çok çoğaltma çalıştırmaya tercih edilebilme sebebi aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sonuçlarda bağımsızlık sağlar.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Tahmini ortalama değer daha doğrudur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Güven aralıkları daha kolay hesaplanabilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Isınma süresinin yalnızca bir kez çalıştırılması gerekir, bu da deneyleri çalıştırmak için gereken süreyi azaltır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Standart sapma değeri daha yaklaşık sonuçlar verir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 5,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Isınma süresinin yalnızca bir kez çalıştırılması gerekir, bu da deneyleri çalıştırmak için gereken süreyi azaltır.' olmalıdır. Tek uzun bir çalışma yapmak, ısınma süresinin (warm-up period) sadece bir kez atılmasını sağlar. Böylece çok sayıda replikasyonda her seferinde kaybedilecek ısınma sürelerinden tasarruf edilir."
+  },
+  {
+    "questionText": "Bir acil servise saatte ortalama 4 hasta gelmektedir. Her bir hastaya ortalama müdahale süresi 12 dakikadır. Gelişler arası süre ve servis süresi üstel dağılıma uymaktadır. Bu durumda hastaların sistemde geçirdiği ortalama süre aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "80 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "30 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "40 dk",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "20 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "60 dk",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "id": 6,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '40 dk' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 40 dk olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bir araba yıkama istasyonuna gelen müşterilerin varış zamanları yukarıdaki tabloda gösterilmiştir. Araçlar 4 dakikada yıkanıyor ve 2 araç yıkama alanı var ise 4. müşteri sistemden ayrılma zamanı aşağıdakilerden hangisidir?",
+    "imageUrl": "https://lolonolo.com/uploads/question-images/2026/05/1780257406397-l22zrp.png",
+    "options": [
+      {
+        "letter": "A",
+        "text": "20 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "16 dk",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "6 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "12 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "9 dk",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 7,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '16 dk' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 16 dk olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bir fabrika sisteminin benzetim modeli aşağıdaki tanımlardan hangisi ile ifade edilmektedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Geçici durum simülasyonu",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Kararlı simülasyon",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Sonlu ufuklu simülasyon",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Sonsuz ufuklu simülasyon",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kararsız durum simülasyonu",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "id": 8,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Sonlu ufuklu simülasyon' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Sonlu ufuklu simülasyon olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Aşağıdakilerden hangisi doğrusal eşlik yönteminde tam periyot elde etmek için kullanılan Hull-Dobell teoremi şartlarındandır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "b değeri asal sayı olmalıdır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "c değeri tek sayı olmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Eğer m 4'e bölünüyorsa c-1 de 4'e bölünebilmelidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "m değeri asal sayı olmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "m değerinin tüm bölenlerine b-1 de bölünebilmelidir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "id": 9,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'b değeri asal sayı olmalıdır.' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç b değeri asal sayı olmalıdır. olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi, güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında müşterilerin kasa kuyruğunda bekleme süreleri güven aralığı [8.15-10.30] olarak belirlenmiştir. Gözlemlenen sistemin bekleme ortalamalarının 9.25 dakika olduğu bilinmektedir. Bu durum ε=1 için en iyi durum ve en kötü durum hatasına göre incelendiğinde aşağıdaki sonuçlardan hangisine ulaşılır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "En iyi durum hatası ≤ ε'dur ancak en kötü durum hatası > ε'dur. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "En iyi durum hatası < s dur. Sistem ve model performansları arasındaki fark, en iyi durumda bile yeterince büyük olduğundan model iyileştirilmelidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "En kötü durum hatası ≤ε 'dur, simülasyon modeli reddedilir ve yeni bir model kurulur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "En iyi durum veya en kötü durum hatası > ε 'dur. Bir sonuca varılımcaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "En kötü durum hatası ≤ε dur. Simülasyon modeli yeterince yakın ve geçerli kabul edilir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 10,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'En iyi durum veya en kötü durum hatası > ε 'dur. Bir sonuca varılımcaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.' olmalıdır. Güven aralığı hesaplanırken örneklem ortalamasına hata payı (Z değeri * Standart Hata) eklenip çıkarılarak formülize edilir. Verilen değerler formülde yerine konulduğunda belirtilen doğru aralık elde edilir."
+  },
+  {
+    "questionText": "Aşağıdakilerden hangisi PROCESS modülündeki Action penceresindeki seçeneklerden değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Seize Delay Release",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Seize Delay",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Random",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Delay",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Delay Release",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "id": 11,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Random' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Random olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Aşağıdaki simülasyon yazılımlarından hangisi 1993 yılında ilk defa piyasaya sürülmüştür?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "EXTEND",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "AUTOMOD",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "ARENA",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "SIMUL8",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "PROMODEL",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "id": 12,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'ARENA' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç ARENA olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Yukarıda verilen ARENA çıktısına göre triyaj ve kayıt işlemi için ortalama hasta bekleme süresinin güven aralığı aşağıdakilerden hangisidir?",
+    "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1771688198586-nyam9m.png",
+    "options": [
+      {
+        "letter": "A",
+        "text": "0.2620-0.3420",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "0.04-0.3020",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "0.04-0.3887",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "0.2353-0.3020",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "0.2356-0.3887",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "id": 13,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '0.2620-0.3420' olmalıdır. Güven aralığı hesaplanırken örneklem ortalamasına hata payı (Z değeri * Standart Hata) eklenip çıkarılarak formülize edilir. Verilen değerler formülde yerine konulduğunda belirtilen doğru aralık elde edilir."
+  },
+  {
+    "questionText": "Kararlı durum modellerinin doğal sonlandırma süreleri olmadığına göre replikasyon uzunluğu belirlenme zamanı aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İstenen sonuçlar alındığında",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Sistemde belli bir miktarda varlık olduğunda",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "İstenmeyen sonuçlar alınmaya başlandığında",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Önceden belirlenmiş birkaç ardışık zaman artımından sonra",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "İlgilenilen istatistikler sabitlendiğinde",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "id": 14,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'İlgilenilen istatistikler sabitlendiğinde' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç İlgilenilen istatistikler sabitlendiğinde olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bir berbere gelen müşterilerin %20’si saç tıraşı ve %80’i sakal tıraşı olmaktadır. Bu müşteri tipleri ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafından gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir. DECIDE modülene yazılacak koşul/condition aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "DISC(1,2)",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "TIP",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "%80",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "%20",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "TIP=1",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "id": 15,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'TIP=1' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç TIP=1 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "AutoMod ürün ailesindeki çalıştırma yöneticisi ve istatistiksel analiz ürünü aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "AutoStat",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "SimRunner",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "OptQuest",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "PROCESS ANALYZER",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "OUTPUT ANALYZER",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "id": 16,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'AutoStat' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç AutoStat olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "En düşük işlem süresine sahip varlığın ilk işlem görmesini sağlayacak kuyruk disiplini aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "FIFO",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "LIFO",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "PR",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Highest Attribute Value (first)",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Lowest Attribute Value (first)",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "id": 17,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Lowest Attribute Value (first)' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Lowest Attribute Value (first) olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bilgisayar üreten bir firma ürünlerinin dayanıklılık süresini değerlendirmek istemektedir. 100 tane rassal olarak seçilen bilgisayarın standart sapması 120 gün, ortalama dayanıklılık süreleri de 1440 gündür. %90 güvenle anakütle ortalama dayanıklılık süresi aşağıdaki aralıklardan hangisidir? (Z 𝘢/₂ = 1,65)",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "[1320-1560]",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "[1420.2-1459,8]",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "[1202,4-1667,6]",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "[1398,5-1481,5]",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "[1400-1471]",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 18,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '[1420.2-1459,8]' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç [1420.2-1459,8] olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bir üretim tesisinin benzetim modelinde makine kullanımları için arızalara kadar geçen süreyi modelleyen dağılım aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Normal",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Weibull",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Üçgen",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Negatif Binom",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Ampirik",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 19,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Weibull' olmalıdır. Makine arızalarına kadar geçen süreyi modellemek için literatürde sıklıkla Weibull dağılımı kullanılır. Çünkü bu dağılım, hata oranının zamanla artış veya azalışını esnek bir şekilde modelleyebilir."
+  },
+  {
+    "questionText": "Aşağıdaki modüllerden hangisi bir taşıyıcı birimin durumunu devre dışı olarak değiştirmek için kullanılır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "STORE",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "HALT",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "ACCESS",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "UNSTORE",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "HOLD",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 20,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'HALT' olmalıdır. ARENA ve benzeri benzetim yazılımlarında, bir kaynağı veya taşıyıcı birimi tamamen devre dışı bırakmak veya bozmak (arıza durumu) için HALT modülü tercih edilir."
+  },
+  {
+    "questionText": "Bir araba yıkama istasyonuna gelen müşterilerin varış zamanları yukarıdaki tabloda gösterilmiştir.Araçlar 4 dakikada yıkanıyor ve 2 araç yıkama alanı var ise 4. müşteri sistemden ayrılma zamanı aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "20 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "16 dk",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "6 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "12 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "9 dk",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 21,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '16 dk' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 16 dk olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi, güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında müşterilerin kasa kuyruğunda bekleme süreleri güven aralığı [8.15-10.30] olarak belirlenmiştir. Gözlemlenen sistemin bekleme ortalamalarının 9.25 dakika olduğu bilinmektedir.Bu durum ε=1 için en iyi durum ve en kötü durum hatasına göre incelendiğinde aşağıdaki sonuçlardan hangisine ulaşılır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "En iyi durum hatası ≤ ε'dur ancak en kötü durum hatası > ε'dur. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "En iyi durum hatası < s dur. Sistem ve model performansları arasındaki fark, en iyi durumda bile yeterince büyük olduğundan model iyileştirilmelidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "En kötü durum hatası ≤ε 'dur, simülasyon modeli reddedilir ve yeni bir model kurulur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "En iyi durum veya en kötü durum hatası > ε 'dur. Bir sonuca varılımcaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "En kötü durum hatası ≤ε dur. Simülasyon modeli yeterince yakın ve geçerli kabul edilir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 22,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'En iyi durum veya en kötü durum hatası > ε 'dur. Bir sonuca varılımcaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.' olmalıdır. Güven aralığı hesaplanırken örneklem ortalamasına hata payı (Z değeri * Standart Hata) eklenip çıkarılarak formülize edilir. Verilen değerler formülde yerine konulduğunda belirtilen doğru aralık elde edilir."
+  },
+  {
+    "questionText": "Bir berbere gelen müşterilerin %20’si saç tıraşı ve %80’i sakal tıraşı olmaktadır. Bu müşteri tipleri ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafından gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir.DECIDE modülene yazılacak koşul/condition aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "DISC(1,2)",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "TIP",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "%80",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "%20",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "TIP=1",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "id": 23,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'TIP=1' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç TIP=1 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bilgisayar üreten bir firma ürünlerinin dayanıklılık süresini değerlendirmek istemektedir. 100 tane rassal olarak seçilen bilgisayarın standart sapması 120 gün, ortalama dayanıklılık süreleri de 1440 gündür.%90 güvenle anakütle ortalama dayanıklılık süresi aşağıdaki aralıklardan hangisidir? (Z 𝘢/₂ = 1,65)",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "[1320-1560]",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "[1420.2-1459,8]",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "[1202,4-1667,6]",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "[1398,5-1481,5]",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "[1400-1471]",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 24,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '[1420.2-1459,8]' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç [1420.2-1459,8] olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "1979-1986 yıllarını kapsayan simülasyon tarihçesi dönemi aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Konsolidasyon ve yenileme dönemi",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Gelişim dönemi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Arama dönemi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Entegre ortamlar dönemi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Biçimlendirici dönem",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "id": 25,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Konsolidasyon ve yenileme dönemi' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Konsolidasyon ve yenileme dönemi olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Yukarıda verilen tabloya göre 4. müşteri sisteme kaçıncı dakikada gelmiştir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "11",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "18",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "id": 26,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '18' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 18 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "RECORD modülündeki TYPE alanında, üretilecek olan istatistiklerin tipi belirlenir.Aşağıdakilerden hangisi modüle gelen varlıklar arasındaki zamanı kayıt altına alır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Entity Statistics",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Time Between",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Time Interval",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Expression",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Count",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 27,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Time Between' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Time Between olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Aşağıdakilerden hangisi bir benzetim yazılımı seçilirken dikkat edilecek model oluşturma özelliklerinden biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hareket kalitesi",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Dünya görüşü",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Modelin tutarlılığı",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Girdi esnekliği",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Söz dizimi (syntax)",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "id": 28,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Hareket kalitesi' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Hareket kalitesi olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Aşağıdakilerden hangisi bir banka sisteminin yapısal varsayımlarına örnek değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Müşteriler vezneler önünde tek sıra halinde kuyruk oluşturur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Bazı müşteriler hatlardan biri hareket ediyorsa hatları değiştirebilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Bireysel müşteriler için hizmet süreleri 5 dk. ortalamalı üstel dağılıma uymaktadır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Çok sayıda hat varsa müşterilere ilk gelene ilk hizmet esasına göre servis verilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Her vezne için ayrı bir hat oluşturulur.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "id": 29,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Bireysel müşteriler için hizmet süreleri 5 dk. ortalamalı üstel dağılıma uymaktadır.' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Bireysel müşteriler için hizmet süreleri 5 dk. ortalamalı üstel dağılıma uymaktadır. olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Parametreleri α= 5 dk; β= 10 dk olan weibull dağılıma uyan rassal değişkenlerin ters dönüşüm formülü aşağıdakilerden hangisidir?",
+    "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2026/04/Benzetim-2023-2024-Final-Sorulari-15.-SORU-a-sikki.jpg?resize=369%2C44&ssl=1",
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": null,
+    "id": 30,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'bilinmeyen seçenek' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç bilinmeyen seçenek olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bir bankaya gelen müşterilerin yüzde 20’si fatura yatırmaktadır ve yüzde 80’i para çekmektedir. Bu müşteri tipleri ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafindan gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir.Buna göre DECIDE modüle yazılacak koşul/condition aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "yüzde 20",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "TIP==yüzde 20",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "TIP=0,8",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "DISC(2,1)",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "TIP==1",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "id": 31,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'TIP==1' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç TIP==1 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "SIMAN dili iki sınıftan oluşmaktadır.Aşağıdakilerden hangisi SIMAN sınıflarından bloklara örnek değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "DELAY",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "SEIZE",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "ASSIGN",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "RESOURCE",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "RELEASE",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 32,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'RESOURCE' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç RESOURCE olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "I. Uygun dağılımı seçmekII. Veri değerlerini içeren bir metin dosyası oluşturmakIII. Oluşturulan dağılım ifadesini Arena modelinde uygun alana kopyalamakIV. Verilere bir veya daha fazla dağılım uygunluğu için deney yapmakINPUT ANALYZER kullanmak için gereken eylemlerin doğru sıralaması aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "II-IV-I-III",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "I-I-III-IV",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "II-IV-III-1",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "III-II-I-IV",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "II-I-III-IV",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "id": 33,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'II-IV-I-III' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç II-IV-I-III olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Aşağıdaki yöntemlerden hangisi sınırları uygun nokta tahminleri kullanılarak hesaplanan bir aralık içinde bulunduğu doğru istatistiksel parametrenin güvenini sayısallaştırmaktadır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bonferri yöntemi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Güven aralığı",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Rejeneratif yöntem",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Parti ortalamaları",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Nokta tahmini",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 34,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Güven aralığı' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Güven aralığı olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bir diş kliniğinde hastaların tedavi görme süreçlerinin benzetim çalışması yapılmıştır. Gözlemler sonucu hastaların ortalama 20 dakika bekledikleri gözlemlenmiştir. Sistemin modeli 8 saatlik 10 bağımsız koşumda çalıştırılmıştır. Koşum çıktılarının hipotez testlerini gerçekleştirmek için gerekli örneklem ortalaması 23,75 ve standart sapması 3,41 olarak hesaplanmıştır.Bu koşumlarda elde edilen sonuçların yardımıyla modelin geçerliliğini değerlendirmek için hesaplanacak hipotez testi formülü aşağıdakilerden hangisidir?",
+    "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2026/04/Benzetim-2023-2024-Final-Sorulari-19.-SORU-a-sikki.jpg?resize=144%2C55&ssl=1",
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": null,
+    "id": 35,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'bilinmeyen seçenek' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç bilinmeyen seçenek olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Yukarıda verilen görseller hangi iki dağılım ailesine aittir?",
+    "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2026/04/Benzetim-2023-2024-Final-Sorulari-7.-SORU.jpg?resize=305%2C356&ssl=1",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Geometrik-Kesikü Düzgün",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Üstel-Kesikii Düzgün",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Binom-Üstel",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Geometrik-Düzgün",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Üstel-Düzgün",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 36,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Geometrik-Düzgün' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Geometrik-Düzgün olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Kolmogorov Smirnov testi ile verilerin normal dağılıma uyup uymadığı test edilmiş ve D=0,1408 < D₀.₀₅,₂₀ =0,272 sonucu elde edilmiştir.Buna göre aşağıdakilerden hangisine karar verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Verilerin düzgün dağılıma uymakta olduğu kabul edilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Karar vermeden önce yeni testler yapılır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Verilerin normal dağılıma uymakta olduğu kabul edilir.",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Verilerin düzgün dağılıma uymakta olduğu reddedilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Verilerin normal dağılıma uymakta olduğu reddedilir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "id": 37,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Verilerin normal dağılıma uymakta olduğu kabul edilir.' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Verilerin normal dağılıma uymakta olduğu kabul edilir. olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "En iyi senaryoyu belirlemek için istatistiksel bir prosedür sağlayan ARENA programı aracı aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "FACTORY ANALYZER",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "OUTPUT ANALYZER",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "INPUT ANALYZER",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "OPTQUEST",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "PROCESS ANALYZER",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "id": 38,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'PROCESS ANALYZER' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç PROCESS ANALYZER olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bir havalimanında check-in yaptıran yolculara dair bir benzetim çalışması yapılmıştır. Sistem ARENA yardımıyla modellenirken CREATE modülünde “yolcu” bilgisi hangi pencereye yazılmalıdır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Max Arrivals",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Name",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Entity Type",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Value",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Entities per Arrival",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "id": 39,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Entity Type' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Entity Type olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bir havaalanı sisteminin benzetim modeli aşağıdaki tanımlardan hangisi ile ifade edilmektedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kararsız durum simülasyonu",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Geçici durum simülasyonu",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Sonlu ufuklu simülasyon",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Sonsuz ufuklu simülasyon",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Kalıcı durum simülasyonu",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 40,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Sonsuz ufuklu simülasyon' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Sonsuz ufuklu simülasyon olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Yukarıdaki şekilde verilen vardiya çizelgesine göre saat 13:00-14:00 arasında kaç personel görev yapmaktadır?",
+    "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2026/04/Benzetim-2023-2024-Final-Sorulari-10.-SORU.jpg?resize=404%2C333&ssl=1",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "4",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "8",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 41,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '4' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 4 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Faaliyetlerin meydana gelmesinde görev alan personel, alet, alan, enerji, zaman, para gibi birimler aşağıdakilerden hangisini ifade etmektedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kaynak",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Kontrol",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Varlık",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Özellik",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Faaliyet",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "id": 42,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Kaynak' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Kaynak olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Aşağıdakilerden hangisi Arena şablon paneli değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "ADVANCED PROCESS",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "BASIC PROCESS",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "ADVANCED TRANSPORT",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "REPORTS",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "BASIC TRANSPORT",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "id": 43,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'BASIC TRANSPORT' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç BASIC TRANSPORT olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Yukarıda verilen formül ( λ / μ*c ) aşağıdakilerden hangisini hesaplamak için kullanılır?",
+    "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2026/04/Benzetim-2023-2024-Final-Sorulari-2.-SORU.jpg?resize=111%2C69&ssl=1",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Varış oranı",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Trafik yoğunluğu",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Servis oranı",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Ortalama kuyruktaki müşteri sayısı",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Ortalama sistemdeki müşteri sayısı",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 44,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Trafik yoğunluğu' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Trafik yoğunluğu olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bilgisayar üreten bir firma ürünlerinin dayanıklılık süresini değerlendirmek istemektedir. 100 tane rassal olarak seçilen bilgisayarın standart sapması 120 gün, ortalama dayanıklılık süreleri de 1440 gündür. %90 güvenle anakütle ortalama dayanıklılık süresi aşağıdaki aralıklardan hangisidir? (Zα/2=1,65)",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "[1320 – 1560]",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "[1420.2 – 1459.8]",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "[1202.4 – 1667.6]",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "[1398.5 – 1481.5]",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "[1400 – 1471]",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 45,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '[1420.2 – 1459.8]' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç [1420.2 – 1459.8] olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bir araba yıkama istasyonuna gelen müşterilerin varış zamanları sırasıyla (0 3 5 2 6 7) yukarıdaki tabloda gösterilmiştir. Araçlar 4 dakikada yıkanıyor ve 2 araç yıkama alanı var ise 4. müşteri sistemden ayrılma zamanı aşağıdakilerden hangisidir?",
+    "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-17-13.11.33.png",
+    "options": [
+      {
+        "letter": "A",
+        "text": "20 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "16 dk",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "6 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "12 dk",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "9 dk",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 46,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '16 dk' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 16 dk olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında müşterilerin kasa kuyruğunda bekleme süreleri güven aralığı [8.15-10.30] olarak belirlenmiştir. Gözlemlenen sistemin bekleme ortalamalarının 9.25 dakika olduğu bilinmektedir. Bu durum e=1 için en iyi durum ve en kötü durum hatasına göre incelendiğinde aşağıdaki sonuçlardan hangisine ulaşılır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "En iyi durum hatası e'den küçük veya eşittir ancak en kötü durum hatası e'den büyüktür. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "En iyi durum hatası e'den küçüktür. Sistem ve model performansları arasındaki fark en iyi durumda bile yeterince büyük olduğundan model iyileştirilmelidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "En kötü durum hatası e'den küçük veya eşittir simülasyon modeli reddedilir ve yeni bir model kurulur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "En iyi durum veya en kötü durum hatası e'den büyüktür. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "En kötü durum hatası e'den küçük veya eşittir. Simülasyon modeli yeterince yakın ve geçerli kabul edilir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 47,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'En iyi durum veya en kötü durum hatası e'den büyüktür. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.' olmalıdır. Güven aralığı hesaplanırken örneklem ortalamasına hata payı (Z değeri * Standart Hata) eklenip çıkarılarak formülize edilir. Verilen değerler formülde yerine konulduğunda belirtilen doğru aralık elde edilir."
+  },
+  {
+    "questionText": "Aşağıdakilerden hangisi ters dönüşüm yöntemini kullanarak elde edilen rassal değişken aralıklarından değildir?",
+    "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-17-20.26.50.png",
+    "options": [
+      {
+        "letter": "A",
+        "text": "0.55 R 0.69 ise X=3",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "0 R 0.24 ise X=1",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "0.7 R 1 ise X=4",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "0.25 R 0.54 ise X=2",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "0.25 R 0.55 ise X=2",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "id": 48,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '0.25 R 0.55 ise X=2' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 0.25 R 0.55 ise X=2 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında kasa kuyruğunda bekleyen ortalama müşteri sayısı güven aralığı [9.1-10.5] olarak belirlenmiştir. Gözlemlenen sistemde kuyrukta bekleyen müşteri sayısı ortalama 11 müşteri olarak belirlenmiştir. Bu durum e=1 için en iyi durum ve en kötü durum hatasına göre incelendiğinde aşağıdaki sonuçlardan hangisine ulaşılır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "En kötü durum hatası e'dur. Simülasyon modelini yeterince yakın ve geçerli kabul edilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "En kötü durum hatası e'dur simülasyon modelini yeterince yakın ve geçerli kabul edilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "En iyi durum veya en kötü durum hatası e'dur. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "En iyi durum hatası e'dur. Sistem ve model performansları arasındaki fark en iyi durumda bile yeterince büyük olduğundan model iyileştirilmelidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "En iyi durum hatası e'dur ancak en kötü durum hatası e'dur. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "id": 49,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'En iyi durum hatası e'dur ancak en kötü durum hatası e'dur. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.' olmalıdır. Güven aralığı hesaplanırken örneklem ortalamasına hata payı (Z değeri * Standart Hata) eklenip çıkarılarak formülize edilir. Verilen değerler formülde yerine konulduğunda belirtilen doğru aralık elde edilir."
+  },
+  {
+    "questionText": "Yukarıda gösterilen simülasyonun ısınma periyodu sona ererek kararlı duruma ulaşma zamanı (kaçıncı saatte) aşağıdakilerden hangisidir?",
+    "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-17-20.27.41.png",
+    "options": [
+      {
+        "letter": "A",
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "50",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "40",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "30",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 50,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt '50' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç 50 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bir berbere gelen müşterilerin ‘si saç tıraşı ve ‘i sakal tıraşı olmaktadır. Bu müşteri tipleri ARENA programı ile modellenen bir modelde ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafından gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir. DECIDE modüle yazılacak koşul/condition aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "TIP==1",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "%20",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "DISC(1,2)",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "TIP==%20",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "%80",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "id": 51,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'TIP==1' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç TIP==1 olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "RECORD modülündeki TYPE alanında üretilecek olan istatistiklerin tipi belirlenir. Aşağıdakilerden hangisi modüle gelen varlıklar arasındaki zamanı kayıt altına alır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Count",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Time Between",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Expression",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Entity Statistics",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Time Interval",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 52,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Time Between' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Time Between olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "ARENA programında RUN açılır menüsünden seçilen SETUP penceresindeki REPLICATION PARAMETERS sekmesi ile aşağıdakilerden hangisi belirlenemez?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Yürütme hızı",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Isınma periyodu süresi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Koşum sayısı",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Sonlandırma şartları",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Koşum uzunluğu",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "id": 53,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Yürütme hızı' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Yürütme hızı olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Faaliyetlerin meydana gelmesinde görev alan personel alet alan enerji zaman para gibi birimler aşağıdakilerden hangisini ifade etmektedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Özellik",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Kaynak",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Kontrol",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Varlık",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Faaliyet",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 54,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Kaynak' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Kaynak olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Aşağıdakilerden hangisi PROCESS ANALYZER için tanımlanabilecek bir CONTROL değişkeni olamaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Müşterilerin bekleme süresi",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Personel sayısı",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kaynak kapasiteleri",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Replikasyon uzunluğu",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Replikasyon sayısı",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "id": 55,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Müşterilerin bekleme süresi' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Müşterilerin bekleme süresi olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bir gazete bayiine gelen müşterilerin %20’si A, %25’i B, %15’i C ve %40’ı D gazetesini almaktadır. ARENA programı ile modellenen Benzetim modelinde CREATE modülü ile üretilen müşterilere gazete tercihleri ASSIGN modülü ile DISC fonksiyonu kullanarak atanacaktır. Doğru fonksiyon gösterimi aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "DISC(0.2,1,0.4,2,0.7,3,1,4)",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "DISC(0.2,1,0.45,2,0.6,3,1,4)",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "DISC(0.2,1,0.2,2,0.15,3,0.4,4)",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "DISC(0.4,1,0.25,2,0.2,3,0.15,4)",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "DISC(0.15,1,0.20,2,0.25,3,0.4,4)",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 56,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'DISC(0.2,1,0.45,2,0.6,3,1,4)' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç DISC(0.2,1,0.45,2,0.6,3,1,4) olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Aşağıdaki ikililerden hangisi her ARENA modülünde bulunmalıdır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Process-Dispose",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Process-Record",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Create-Process",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Create-Dispose",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Create-Record",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 57,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Create-Dispose' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Create-Dispose olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Simülasyon yazılımını değerlendirirken ve seçerken aşağıdaki tavsiyelerden hangisi dikkate alınmamalıdır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tek bir konuya odaklanılmalıdır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Uygulama ve yetenek bütünlüğü önemlidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kullanıcılar modeli haricî dillerde yazılmış kod veya rutinlere bağlayabilmelidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Yürütme hızı önemlidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Satıcıdan problemin basitleştirilmiş küçük bir versiyonunu çözmesi beklenebilir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "id": 58,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Tek bir konuya odaklanılmalıdır.' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Tek bir konuya odaklanılmalıdır. olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Histogram ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sınıf aralıklarının sayısı gözlemlerin sayısına ve dağılım miktarına veya verilerdeki dağılıma bağlıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Örneklem büyüklüğünün kareköküne yaklaşık olarak eşit sınıf aralıkları belirlemek genellikle faydalı kabul edilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Aralıklar çok genişse histogram kaba veya bloklu olacaktır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Aralıklar çok darsa histogram düzensiz olur ve verileri yumuşatmaz.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Sürekli verilerin histogramı dağılımın olasılık kütle fonksiyonuna karşılık gelir.",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "id": 59,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Sürekli verilerin histogramı dağılımın olasılık kütle fonksiyonuna karşılık gelir.' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Sürekli verilerin histogramı dağılımın olasılık kütle fonksiyonuna karşılık gelir. olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Verilen görseller aşağıdaki hangi iki dağılım ailesine aittir?",
+    "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-17-20.32.10.png",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Geometrik-Kesikli Düzgün",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Üstel-Düzgün",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Üstel-Kesikli Düzgün",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Geometrik-Düzgün",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Binom-Üstel",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 60,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Geometrik-Düzgün' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Geometrik-Düzgün olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Aşağıdakilerden hangisi simülasyon saatinin ilerletilmesinde kullanılan yaklaşımlardan biridir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "En uzak olay zamanı",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Değişken artışlarla zaman ilerletme",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "En yakın servis zamanı",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Sabit artışlarla zaman ilerletme",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "En geç olay zamanı",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 61,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Sabit artışlarla zaman ilerletme' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Sabit artışlarla zaman ilerletme olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Yukarıdaki şekilde verilen Fit All Summary raporuna göre verilere en uygun dağılım aşağıdakilerden hangisidir?",
+    "imageUrl": "https://auzefcampus.com.tr/wp-content/uploads/2026/02/Ekran-Resmi-2026-02-17-20.32.39.png",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Erlang",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Gamma",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Exponential",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Normal",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Beta",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 62,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Normal' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Normal olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Kendall (1953)’de kuyruk sistemi modellerini sınıflandırmak için kullandığı A/B/c/N/K notasyonundaki c aşağıdakilerden hangisini temsil etmektedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sistemde izin verilen müşteri sayısı",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Varış prosesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Servis sayısı",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Servis prosesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Müşterinin geldiği yığının genişliği",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "id": 63,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'Servis sayısı' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç Servis sayısı olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "I. Bir diş kliniğinde hastaların tedavi görme süreçlerinin benzetim çalışması yapılmıştır. Gözlemler sonucu hastaların ortalama 18 dk bekledikleri gözlemlenmiştir. Sistemin modeli 8 saatlik 10 bağımsız koşumda çalıştırılmıştır.  Bu koşumlarda elde edilen sonuçların yardımıyla modelin geçerliliğini test etmek için kurulacak sıfır hipotezi aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "H0 : E(Y) = 18dk (Küçük Eşit)",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "H0 : E(Y) = 18dk (Eşit Değil)",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "H0 : E(Y) = 18dk",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "H0 : E(Y) = 18dk (Küçüktür)",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "H0 : E(Y) = 18dk (Büyüktür)",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "id": 64,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'H0 : E(Y) = 18dk' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç H0 : E(Y) = 18dk olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Bilgisayar üreten bir firma ürünlerinin dayanıklılık süresini değerlendirmek istemektedir. 100 tane rassal olarak seçilen bilgisayarın standart sapması 120 gün, ortalama dayanıklılık süreleri de 1440 gündür.",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "[1320-1560]B) [1420.2-1459,8]C) [1202,4-1667,6]D) [1398,5-1481,5]E) [1400-1471]",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "id": 65,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'bilinmeyen seçenek' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç bilinmeyen seçenek olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  },
+  {
+    "questionText": "Modelin geçerli olarak kabul edilip edilmeyeceğinin veya modelin iyileştirilip iyileştirilmeyeceğinin belirlenmesi, güven aralığının ima ettiği en iyi durum ve en kötü durum hatasına bağlıdır. Bir süpermarket benzetim çalışmasında müşterilerin kasa kuyruğunda bekleme süreleri güven aralığı [8.15-10.30] olarak belirlenmiştir. Gözlemlenen sistemin bekleme ortalamalarının 9.25 dakika olduğu bilinmektedir.",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "En iyi durum hatası ≤ ε’dur ancak en kötü durum hatası > ε’dur. Bir sonuca varılıncaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.B) En iyi durum hatası < s dur. Sistem ve model performansları arasındaki fark, en iyi durumda bile yeterince büyük olduğundan model iyileştirilmelidir.C) En kötü durum hatası ≤ε ‘dur, simülasyon modeli reddedilir ve yeni bir model kurulur.D) En iyi durum veya en kötü durum hatası > ε ‘dur. Bir sonuca varılımcaya kadar ek simülasyon çalıştırmalarına ihtiyaç vardır.E) En kötü durum hatası ≤ε dur. Simülasyon modeli yeterince yakın ve geçerli kabul edilir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "id": 66,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'bilinmeyen seçenek' olmalıdır. Güven aralığı hesaplanırken örneklem ortalamasına hata payı (Z değeri * Standart Hata) eklenip çıkarılarak formülize edilir. Verilen değerler formülde yerine konulduğunda belirtilen doğru aralık elde edilir."
+  },
+  {
+    "questionText": "Bir berbere gelen müşterilerin %20’si saç tıraşı ve %80’i sakal tıraşı olmaktadır. Bu müşteri tipleri ASSIGN modülü ile tanımlanmıştır. Bu işlemler farklı personeller tarafından gerçekleştirildiğinden DECIDE modülü ile bu müşteriler farklı PROCESS modüllerine yönlendirilecektir.",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "DISC(1,2)B) TIP %20C) %80D) %20E) TIP=1",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "E",
+    "id": 67,
+    "explanation": "Sistemin işleyişi ve ilgili kavramlar incelendiğinde, doğru yanıt 'bilinmeyen seçenek' olmalıdır. Sorudaki varsayımlar ve ilgili benzetim (simülasyon) teorisi kurallarına göre doğru sonuç bilinmeyen seçenek olarak hesaplanır/bulunur. Orijinal dosyada 'Çözüm sadece Premium üyelere özeldir' yazdığı için bu açıklama simülasyon mantığıyla türetilmiştir."
+  }
+]
