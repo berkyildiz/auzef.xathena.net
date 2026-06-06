@@ -9,6 +9,7 @@ const questionCounts = {
   benzetim: 156,
   hukukuntemelkavramlarifinal: 73,
   hukukuntemelkavramlaributunleme: 38,
+  hukukuntemelkavramlarideneme: 80,
   bilimselarastirmateknikleri: 194
 };
 
@@ -44,6 +45,14 @@ const COURSES = [
     questionCount: questionCounts.hukukuntemelkavramlaributunleme,
     color: '#d946ef', // Fuchsia color
     category: 'final'
+  },
+  {
+    id: 'hukukuntemelkavramlarideneme',
+    title: 'Hukukun Temel Kavramları (Deneme)',
+    description: 'Geçmiş dönem çıkmış sorular ve cevapları',
+    questionCount: questionCounts.hukukuntemelkavramlarideneme,
+    color: '#c026d3', // Pink-purple color
+    category: 'deneme'
   },
   {
     id: 'veritabaniyonetimsistemleri',
