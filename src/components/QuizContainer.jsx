@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { ArrowLeft, RotateCcw, CheckCircle, Award, List } from 'lucide-react';
+import { ArrowLeft, RotateCcw, CheckCircle, Award, List, Menu, X } from 'lucide-react';
 import QuestionCard from './QuestionCard';
 
 export default function QuizContainer({ courseId, courseTitle, testConfig, onBack }) {
@@ -9,6 +9,7 @@ export default function QuizContainer({ courseId, courseTitle, testConfig, onBac
   const [isFinished, setIsFinished] = useState(false);
   const [showReport, setShowReport] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
+  const [isDrawerOpen, setIsDrawerOpen] = useState(false);
 
   useEffect(() => {
     import(`../data/courses/${courseId}.json`)
@@ -23,6 +24,18 @@ export default function QuizContainer({ courseId, courseTitle, testConfig, onBac
         setIsLoading(false);
       });
   }, [courseId, testConfig]);
+
+  // Lock body scroll when drawer is open on mobile
+  useEffect(() => {
+    if (isDrawerOpen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = 'auto';
+    }
+    return () => {
+      document.body.style.overflow = 'auto';
+    };
+  }, [isDrawerOpen]);
 
   const handleAnswer = (questionIndex, isCorrect, letter) => {
     if (isFinished) return;
@@ -58,16 +71,21 @@ export default function QuizContainer({ courseId, courseTitle, testConfig, onBac
   };
 
   const scrollToQuestion = (index) => {
-    const el = document.getElementById(`question-${index}`);
-    if (el) {
-      el.scrollIntoView({ behavior: 'smooth' });
-    }
+    setIsDrawerOpen(false); // Otomatik kapat
+    setTimeout(() => {
+      const el = document.getElementById(`question-${index}`);
+      if (el) {
+        // Sticky header payı bırakarak kaydır (80px)
+        const y = el.getBoundingClientRect().top + window.scrollY - 80;
+        window.scrollTo({ top: y, behavior: 'smooth' });
+      }
+    }, 100);
   };
 
   if (isLoading) {
     return (
       <div className="container" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: '60vh' }}>
-        <div style={{ fontSize: '1.25rem', color: 'var(--text-secondary)' }}>Sorular Yükleniyor...</div>
+        <div className="loader">Sorular Yükleniyor...</div>
       </div>
     );
   }
@@ -100,38 +118,38 @@ export default function QuizContainer({ courseId, courseTitle, testConfig, onBac
     else message = "Daha fazla pratik yapmalısın. Çözüm yollarını detaylıca okuman sana çok fayda sağlayacaktır. 💪";
 
     return (
-      <div className="container animate-fade-in" style={{ marginTop: '2rem' }}>
-        <div className="glass-panel results-container" style={{ textAlign: 'center', padding: '3rem 2rem' }}>
+      <div className="container animate-fade-in results-page">
+        <div className="glass-panel results-container">
           <Award size={64} style={{ color: 'var(--primary-color)', marginBottom: '1rem' }} />
-          <h2 style={{ fontSize: '2.5rem', marginBottom: '2rem', background: 'linear-gradient(45deg, var(--primary-color), var(--secondary-color))', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Sınav Tamamlandı!</h2>
+          <h2 className="results-title">Sınav Tamamlandı!</h2>
           
-          <div style={{ display: 'flex', justifyContent: 'center', gap: '2rem', marginBottom: '3rem', flexWrap: 'wrap' }}>
-            <div className="stat-card" style={{ padding: '1.5rem', background: 'var(--success-bg)', borderRadius: '12px', border: '1px solid var(--success-color)', minWidth: '120px' }}>
-              <div style={{ fontSize: '2rem', fontWeight: 'bold', color: 'var(--success-color)' }}>{score}</div>
-              <div style={{ color: 'var(--text-secondary)' }}>Doğru</div>
+          <div className="stats-grid">
+            <div className="stat-card success-card">
+              <div className="stat-number">{score}</div>
+              <div className="stat-label">Doğru</div>
             </div>
-            <div className="stat-card" style={{ padding: '1.5rem', background: 'var(--error-bg)', borderRadius: '12px', border: '1px solid var(--error-color)', minWidth: '120px' }}>
-              <div style={{ fontSize: '2rem', fontWeight: 'bold', color: 'var(--error-color)' }}>{wrongCount}</div>
-              <div style={{ color: 'var(--text-secondary)' }}>Yanlış</div>
+            <div className="stat-card error-card">
+              <div className="stat-number">{wrongCount}</div>
+              <div className="stat-label">Yanlış</div>
             </div>
-            <div className="stat-card" style={{ padding: '1.5rem', background: 'rgba(255, 255, 255, 0.05)', borderRadius: '12px', border: '1px solid var(--border-color)', minWidth: '120px' }}>
-              <div style={{ fontSize: '2rem', fontWeight: 'bold' }}>{emptyCount}</div>
-              <div style={{ color: 'var(--text-secondary)' }}>Boş</div>
+            <div className="stat-card neutral-card">
+              <div className="stat-number">{emptyCount}</div>
+              <div className="stat-label">Boş</div>
             </div>
           </div>
           
           <h3 style={{ fontSize: '2rem', marginBottom: '1rem' }}>Başarı Oranı: %{percentage}</h3>
-          <p style={{ fontSize: '1.2rem', color: 'var(--text-secondary)', marginBottom: '3rem', maxWidth: '600px', margin: '0 auto 3rem auto', lineHeight: '1.6' }}>{message}</p>
+          <p className="results-message">{message}</p>
           
-          <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap' }}>
-            <button className="btn btn-primary" onClick={() => { setShowReport(false); }}>
-              <List size={18} /> Tüm Soruları ve Çözümleri İncele
+          <div className="results-actions">
+            <button className="btn btn-primary" onClick={() => { setShowReport(false); window.scrollTo(0,0); }}>
+              <List size={18} /> <span className="btn-text">Soruları İncele</span>
             </button>
             <button className="btn btn-outline" onClick={restartQuiz}>
-              <RotateCcw size={18} /> Sınavı Sıfırla
+              <RotateCcw size={18} /> <span className="btn-text">Sıfırla</span>
             </button>
             <button className="btn btn-outline" onClick={onBack}>
-              <ArrowLeft size={18} /> Testlere Dön
+              <ArrowLeft size={18} /> <span className="btn-text">Çıkış</span>
             </button>
           </div>
         </div>
@@ -141,50 +159,67 @@ export default function QuizContainer({ courseId, courseTitle, testConfig, onBac
 
   return (
     <div className="quiz-layout">
+      {/* Global Top Edge Progress Bar */}
+      <div className="global-progress-bg">
+        <div className="global-progress-fill" style={{ width: `${progressPercentage}%` }}></div>
+      </div>
+      
+      {/* Drawer Overlay Backdrop */}
+      {isDrawerOpen && (
+        <div className="drawer-overlay animate-fade-in" onClick={() => setIsDrawerOpen(false)}></div>
+      )}
+
       {/* Sticky Header with Breadcrumbs */}
       <div className="quiz-sticky-header">
-        <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+        <div className="container header-container">
           
-          <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
-            <button className="btn btn-outline" style={{ padding: '0.5rem 0.75rem', display: 'flex', alignItems: 'center', justifyContent: 'center' }} onClick={onBack} title="Testlere Dön">
-              <ArrowLeft size={18} /> 
+          <div className="header-left">
+            <button className="btn btn-icon btn-outline" onClick={onBack} title="Testlere Dön">
+              <ArrowLeft size={20} /> 
             </button>
-            <div className="breadcrumbs hide-mobile" style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>
+            <div className="breadcrumbs hide-mobile">
               {courseTitle || courseId} / <strong>{testConfig.title}</strong>
+            </div>
+            <div className="mobile-title show-mobile">
+              {testConfig.title}
             </div>
           </div>
 
-          <div style={{ flex: 1, margin: '0 2rem', maxWidth: '400px' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '0.5rem', fontSize: '0.85rem' }}>
+          <div className="header-center hide-mobile">
+            <div className="progress-text">
               <span>İlerleme ({answeredCount}/{totalQuestions})</span>
               <span>%{Math.round(progressPercentage)}</span>
             </div>
-            <div className="progress-bar-bg" style={{ height: '8px' }}>
-              <div className="progress-bar-fill" style={{ width: `${progressPercentage}%` }}></div>
-            </div>
           </div>
 
-          <div style={{ display: 'flex', gap: '1rem' }}>
+          <div className="header-right">
             {isFinished ? (
-              <button className="btn btn-primary" onClick={() => setShowReport(true)}>
-                Raporu Görüntüle
+              <button className="btn btn-primary btn-sm" onClick={() => setShowReport(true)}>
+                <span className="hide-mobile">Raporu Görüntüle</span>
+                <Award className="show-mobile icon-only" size={20} />
               </button>
             ) : (
-              <button className="btn btn-primary" onClick={finishQuiz}>
-                Sınavı Bitir
+              <button className="btn btn-primary btn-sm" onClick={finishQuiz}>
+                <span className="hide-mobile">Sınavı Bitir</span>
+                <CheckCircle className="show-mobile icon-only" size={20} />
               </button>
             )}
+            
+            {/* Mobile Drawer Toggle */}
+            <button className="btn btn-icon btn-outline drawer-toggle show-mobile" onClick={() => setIsDrawerOpen(true)}>
+              <Menu size={20} />
+            </button>
           </div>
         </div>
       </div>
 
-      <div className="container" style={{ display: 'flex', gap: '2rem', marginTop: '100px', alignItems: 'flex-start' }}>
+      <div className="container layout-container">
         
-        {/* Soru Listesi (Yukarıdan Aşağı) */}
-        <div className="questions-list-container" style={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
+        {/* Soru Listesi */}
+        <div className="questions-list-container">
           {questions.map((q, idx) => (
             <QuestionCard 
-              key={q.id}
+              key={q.id || idx}
               questionIndex={idx}
               question={q} 
               userAnswers={userAnswers}
@@ -197,17 +232,23 @@ export default function QuizContainer({ courseId, courseTitle, testConfig, onBac
           
           {/* En Altta Sınavı Bitir Butonu */}
           {!isFinished && (
-            <div style={{ display: 'flex', justifyContent: 'center', marginTop: '1rem', marginBottom: '5rem' }}>
-              <button className="btn btn-primary" style={{ padding: '1rem 3rem', fontSize: '1.2rem' }} onClick={finishQuiz}>
-                Sınavı Bitir ve Raporu Gör <CheckCircle size={20} style={{ marginLeft: '0.5rem' }} />
+            <div className="finish-container">
+              <button className="btn btn-primary btn-large" onClick={finishQuiz}>
+                Sınavı Bitir ve Raporu Gör <CheckCircle size={22} style={{ marginLeft: '0.5rem' }} />
               </button>
             </div>
           )}
         </div>
 
-        {/* Sağ Taraf - Navigasyon Izgarası */}
-        <div className="question-navigator glass-panel" style={{ position: 'sticky', top: '100px' }}>
-          <h3 style={{ marginTop: 0, marginBottom: '1rem', fontSize: '1.1rem', textAlign: 'center' }}>Navigasyon</h3>
+        {/* Sağ Taraf - Navigasyon Izgarası (Desktop) / Drawer (Mobile) */}
+        <div className={`question-navigator glass-panel ${isDrawerOpen ? 'drawer-open' : ''}`}>
+          <div className="drawer-header show-mobile">
+            <h3 style={{ margin: 0 }}>Harita ({answeredCount}/{totalQuestions})</h3>
+            <button className="btn btn-icon btn-ghost" onClick={() => setIsDrawerOpen(false)}>
+              <X size={24} />
+            </button>
+          </div>
+          <h3 className="hide-mobile" style={{ marginTop: 0, marginBottom: '1rem', fontSize: '1.1rem', textAlign: 'center' }}>Navigasyon</h3>
           <div className="navigator-grid">
             {questions.map((_, idx) => {
               const ans = userAnswers[idx];
