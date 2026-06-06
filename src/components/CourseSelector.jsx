@@ -8,6 +8,7 @@ const questionCounts = {
   bilgisayarorganizasyonu: 94,
   benzetim: 156,
   hukukuntemelkavramlarifinal: 73,
+  hukukuntemelkavramlaributunleme: 38,
   bilimselarastirmateknikleri: 194
 };
 
@@ -34,6 +35,14 @@ const COURSES = [
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
     questionCount: questionCounts.hukukuntemelkavramlarifinal,
     color: '#8b5cf6', // Purple color
+    category: 'final'
+  },
+  {
+    id: 'hukukuntemelkavramlaributunleme',
+    title: 'Hukukun Temel Kavramları (Bütünleme)',
+    description: 'Geçmiş dönem çıkmış sorular ve cevapları',
+    questionCount: questionCounts.hukukuntemelkavramlaributunleme,
+    color: '#d946ef', // Fuchsia color
     category: 'final'
   },
   {

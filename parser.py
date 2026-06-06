@@ -362,6 +362,7 @@ def main():
             ('benzetimtxt.txt', 'benzetim.json'),
             ('bilgisistemleriprojeyonetimi.txt', 'bilgisistemleriprojeyonetimi.json'),
             ('hukukuntemelkavramlarifinal.txt', 'hukukuntemelkavramlarifinal.json'),
+            ('hukukuntemelkavramlaributunleme.txt', 'hukukuntemelkavramlaributunleme.json'),
             ('veritabaniyonetimsistemleri.txt', 'veritabaniyonetimsistemleri.json'),
             ('bilgisayarorganizasyonu.txt', 'bilgisayarorganizasyonu.json'),
             ('bilimselarastirmateknikleri.txt', 'bilimselarastirmateknikleri.json'),
