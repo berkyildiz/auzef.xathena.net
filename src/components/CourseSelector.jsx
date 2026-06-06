@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { BookOpen, ChevronRight } from 'lucide-react';
 
 const questionCounts = {
-  buyukveri: 43,
+  buyukveri: 37,
   bilgisistemleriprojeyonetimi: 64,
   veritabaniyonetimsistemleri: 20,
   bilgisayarorganizasyonu: 62,

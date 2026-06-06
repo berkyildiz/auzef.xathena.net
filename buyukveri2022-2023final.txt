@@ -1,0 +1,58 @@
+<td>
+<h4>1- “İnsan davranış kalıplarını ve mekansal ifadesini, matematik ve geometri bakımından, yani konumsal analiz açısından açıklamaya çalışan bir analiz türüdür.”<br>
+Yukarıda bahsi geçen analiz yöntemi hangisinde verilmiştir?</h4>
+<p id="td1">Cevap : Mekansal analiz</p>
+<h4>2- Kişisel veri işlemesine ilişkin aşağıda verilen ilkelerden hangisi yanlıştır?</h4>
+<p id="td1">Cevap : Veri sahiplerinin sisteme işlenen verileri düzeltme ve değiştirme hakkının olmaması.</p>
+<h4>3- Hangisi veri mahremiyeti ile ilgili doğru bir bilgidir?</h4>
+<p id="td1">Cevap : Veri paylaşımının kötü amaçlı kullanımını önlemek için yapılır.</p>
+<h4>4- Açık verinin kullanımı ile sağlanan faydalar ve örneklerin eşleşmesinde hangisi yanlıştır?</h4>
+<p id="td1">Cevap : Toplu taşıma aracı kullanan vatandaşların yoldaki problemler ve gecikmeler hakkında bilgi sahibi olması –Güvenliğe katkı</p>
+<h4>5- “Karıştırma ve permütasyon olarak da bilinir, veri kümesi öz nitelik değerlerini orijinal kayıtlara karşılık gelmeyecek şekilde yeniden düzenlemek maksadıyla kullanılan bir tekniktir.”<br>
+Yukarıda açıklanan veriyi anonimleştirme tekniği hangisidir?</h4>
+<p id="td1">Cevap : Veri değiştirme</p>
+<h4>6- Hangisi bulut bilişimin veri etkileşiminde olduğu bir bileşen değildir?</h4>
+<p id="td1">Cevap : Anlamlılık</p>
+<h4>7- “Bilginin yetkisi olmayan kişilerin eline geçmesinin engellenmesidir. Bir başka deyişle bilgiye erişim yetkisi bulunmayan kişilerin bilgiye erişip değiştirmesini veya herhangi bir şekilde kullanmasını kısıtlamaktır.”<br>
+Açıklaması verilen bilgi güvenliği unsuru hangisinde doğru verilmiştir?</h4>
+<p id="td1">Cevap : Gizlilik</p>
+<h4>8- Hangisi işletmelerin müşterilerden elde ettiği büyük veri kaynaklarından biri değildir?</h4>
+<p id="td1">Cevap : Fiyat</p>
+<h4>9- Hangisi sağlık hizmetlerindeki büyük veri kaynaklarının gruplandırılması içerisinde yer almaz?</h4>
+<p id="td1">Cevap : Kronolojik veriler</p>
+<h4>10- I. Yüksek riskli hastaları belirleme ve yardım etme<br>
+II. Gereksiz acil servis ziyaretlerinin önlenmesi<br>
+III. Sağlık verisinin ekonomik değerinin azaltılması<br>
+Sağlık hizmetlerinde büyük verinin analitiğinin faydaları ile ilgili yukarıda verilen ifadelerden hangisi ya da hangileri doğrudur?</h4>
+<p id="td1">Cevap : I ve II</p>
+<h4>11- Hangisi T.CSağlık Bakanlığı’nın büyük veri ortamına verdiği isimdir?</h4>
+<p id="td1">Cevap : Açık veri portalı</p>
+<h4>12- Hangisi makine öğrenmesi tanımı olarak verilebilir?</h4>
+<p id="td1">Cevap : Bilgisayara açıkça kod yazmadan öğrenme kabiliyetini kazandıran çalışma alanı</p>
+<h4>13- &gt;&gt;reduceByKey<br>
+Yukarıdaki komut hangi işlemi gerçekleştirmek için yazılmıştır?</h4>
+<p id="td1">Cevap : Kelimelerin benzerliğine göre referanslarını bulmak için</p>
+<h4>14- Hangisi ‘’Spark Stereaming’’ bileşeni için doğru bir ifadedir?</h4>
+<p id="td1">Cevap : Gerçek zamanlı akış verilerini işlemek için kullanılan Spark bileşenidir.</p>
+<h4>15- Hangisi PySpark için doğru bir tanımlmadır?</h4>
+<p id="td1">Cevap : Python ile Spark işbirliği sonucu ortaya çıkmış olup Python kütüphanesinin ismidir.</p>
+<h4>16- Hangisi Konvolüsyonel Sinir Ağları (CNN)’nın derinliğini ayarlamak için yapılması gereken işlemdir?</h4>
+<p id="td1">Cevap : Sırasıyla konvolüsyon katmanı, ReLU katmanı ve Pooling katmanlarının tekrarlanması ile derinlik ayarlanır.</p>
+<h4>17- Hangisi Apple’ın yeni sağlık uygulaması ResearchKit için verilmiş yanlış bir bilgidir?</h4>
+<p id="td1">Cevap : Bu uygulama, yaklaşık 770 milyon tüketicinin verisine erişmekte, toplamakta ve yönetmekte ve ekonomik durumlarını analiz etmektedir.</p>
+<h4>18- Hangisi büyük verinin tarihsel gelişiminde önemli bir dönüm noktası olmuştur?</h4>
+<p id="td1">Cevap : Smart veri ile büyük veriyi analiz etmek ve raporlayabilmek</p>
+<h4>19- Hangisi semantik işleme adımlarından biri değildir?</h4>
+<p id="td1">Cevap : özellik çıkarma</p>
+<h4>20- &gt;&gt;word_freq.filter(lambda x:x[1][0:2]=0’’AN).take(10)<br>
+Yukarıdaki komut aşağıdaki hangi işlemi gerçekleştirmek için yazılmıştır?</h4>
+<p id="td1">Cevap : İlk iki karakteri’’ AN’’ olan 10 adet kelimeyi görüntülemek.</p>
+<h4>21- “Tek başına çok fazla işlem gücü olmayan bir veya daha fazla bilgisayar/sunucu içeren bir mamirinin üzerindeki bilgisayar/sunucu sayısını arttırılarak daha güçlü işlem gücüne sahip bir sisteme dönüştürülmesine ….. denir.”<br>
+Yukarıdaki cümlede verilen boşluğa aşağıdaki cümlelerden hangisi gelmelidir?</h4>
+<p id="td1">Cevap : Yatay ölçekleme</p>
+<h4>22- “Bilgi güvenliğindeki ihlallerin tespit edilmesi üzerine kurum ve kuruluşlara kanunlar çerçevesinde yasal yükümlülükler getirilmiştir.”<br>
+Hangisi bu yükümlülüklerin amaçlarından değildir?</h4>
+<p id="td1">Cevap : Kötü amaçlı faaliyetler yürüten tarafların hukuki anlamda ellerinin güçlendirilmesi</p>
+<h4>23- Hangisi gerçek zamanlı veri işleme bileşenlerinden değildir?</h4>
+<p id="td1">Cevap : NoSQL</p>
+</td>
