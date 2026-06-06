@@ -4,7 +4,7 @@ import { BookOpen, ChevronRight } from 'lucide-react';
 const questionCounts = {
   buyukveri: 43,
   bilgisistemleriprojeyonetimi: 64,
-  veritabaniyonetimsistemleri: 71,
+  veritabaniyonetimsistemleri: 20,
   bilgisayarorganizasyonu: 94,
   benzetim: 156,
   hukukuntemelkavramlarifinal: 73,

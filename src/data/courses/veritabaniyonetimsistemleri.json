@@ -1,1638 +1,6 @@
 [
   {
     "id": 1,
-    "questionText": "Herhangi bir programlama dilindeki IF...THEN...ELSE deyimine SQL'de karşılık gelen deyim aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "NEXT_DAY()",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "INITCAP()",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "MOD()",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "NVL()",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "DECODE()",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 2,
-    "questionText": "Aşağıdaki komutlardan hangisi Tablo1 tablosunda Ad alanı Rüya olan kayıtların hepsinin PersonelNo alanını 50 olarak değiştirir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Drop Tablo 1 Set [PersonelNo]=50 Where Ad=Rüya",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Delete Tablo 1 Set (PersonelNo]=50 WhereAd=Rüya",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Update Tablo 1 Set [PersonelNo]=50 Where Ad=Rüya",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Insert Into Tablo 1 Set [PersonelNo]=50 Where Ad=Rüya",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Select Tablo 1 Set (PersonelNo]=50 Where Ad=Rüya",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 3,
-    "questionText": "SELECT Adı, Ücret FROM PERSONEL WHERE Ücret > (SELECT AVG(Ücret) FROM PERSONEL); Yukarıdaki SQL sorgusu aşağıdaki işlemlerden hangisini gerçekleştirir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Herkesin ücretinin ortalamasını bulur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Belli personellerin ücretinin ortalamasını bulur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Belli personellerin ücretinin toplamını bulur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Herkesin ücretinin ortalamasından daha fazla ücret alan personelleri bulur, adlarını ve ücretlerini döndürür.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Herkesin ücretinin ortalamasından daha az ücret alan personelleri bulur.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 4,
-    "questionText": "Bir ilişkisel olmayan veri tabanı yapısı olan Arama Veri Tabanı Yönetim Sistemleri ile ilgili aşağıdakilerden hangisi doğrudur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Sosyal ağlarda en sıklıkla kullanılan ilişkisel olmayan veri tabanı yapısıdır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Oyun teknolojisi uygulamalarının puan tabloları bu yapı ile oluşturulur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Yüksek oranda yatay ölçeklendirmeye imkan tanır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Uygulama kodunda veriler genellikle bir nesne ile ifade edilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Sistemlerin içerisinde günlük adı verilen yapılar bulunur.",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 5,
-    "questionText": "Aşağıdakilerden hangisi temel veri tabanı nesnelerinden biri değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Görünümler",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Varlıklar",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Tablolar",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Sorgular",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "İndeksler",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 6,
-    "questionText": "Aşağıdakilerden hangisi Ali isimli bir kullanıcının şifresini 1a2b3c4d5e6f olarak değiştirmek için kullanılan bir sorgudur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "ALTER USER Ali IDENTIFIED BY 1a2b3c4d5e6f;",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "CREATE USER Ali IDENTIFIED BY 1a2b3c4d5e6f;",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "GRANT CREATE USER Ali IDENTIFIED BY 1a2b3c4d5e6f;",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "REVOKE USER Ali IDENTIFIED BY 1a2b3c4d5e6f;",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "GRANT USER Ali IDENTIFIED BY 1a2b3c4d5e6f;",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 7,
-    "questionText": "İlişkisel cebir içerisinde yer alan aşağıdaki işlemlerden hangisi klasik cebir içerisinde mevcut değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Karteyzen Çarpım",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Birleşme",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Fark",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Doğal Birleştirme",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Kesişme",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 8,
-    "questionText": "Alt sorgu kullanımları ile ilgili aşağıdakilerden hangisi yanlıştır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Alt sorgu parantez işaretleri arasında yer alır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Alt sorgu, ana sorgu içindeki karşılaştırma operatörünün sağında yer alır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Alt sorgular içerisinde ORDER BY deyimi yerine farklı ifadeler kullanılmaktadır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Alt sorgular içerisinde WHERE deyimi yerine farklı ifadeler kullanılmaktadır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "FROM sözcüğü içinde tanımlanan alt sorgular karşılaştırma operatörünün sağında ve solunda yer alabilir.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 9,
-    "questionText": "Aşağıdakilerden hangisi bir veri tabanındaki bir tablonun ismi olamaz?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "LOKASYONLAR",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "DERSLER",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "PERSONELLER",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "İSTANBUL'UN GÜZELLİKLERİ",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "SIPARISLER",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 10,
-    "questionText": "Yukarıdaki SQL sorgusu aşağıdakilerden hangisi gerçekleştirilir?",
-    "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1772253553082-r4bwko.jpg",
-    "options": [
-      {
-        "letter": "A",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, bölümünün toplam ücreti 5000'den fazla olanlar seçilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, ücretleri toplanır, bölümünün toplam ücreti 5000'den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, bölümünün toplam ücreti 5000'den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Pazarlamacı olan personelin ücretleri toplanır, bölümünün toplam ücreti 5000'den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 11,
-    "questionText": "SQL'deki bazı grup fonksiyonları, uygulandığı alandaki tüm verileri kullanıp bir sonuç oluştururken bazı fonksiyonlar uygulandığı alanlar arasından bir değer seçmektedir. Aşağıdakilerden hangisi alanlardaki veriler arasında bir değer seçen grup fonksiyonudur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "VARIANCE() Fonksiyonu",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "SUM() Fonksiyonu",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "COUNT() Fonksiyonu",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "STDDEV() Fonksiyonu",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "AVG() Fonksiyonu",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 12,
-    "questionText": "Karakter türü bilgi içinde arama yapmak için yazılmış olan LIKE 'RU%' sorgusunun amacı aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "RU ile başlayan tüm verileri bulur.",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "RU değerinin yüzde kaç olduğunu hesaplar.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "İçinde RU bulunan tüm verileri bulur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "RU ile biten tüm verileri bulur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "İçinde RU bulunmayan tüm verileri bulur.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 13,
-    "questionText": "SQL kavramının İngilizce ve Türkçe açılımı aşağıdaki seçeneklerin hangisinde doğru bir şekilde verilmiştir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Source Query Language - Kaynak Sorgulama Dili",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Structured Question Language - Yapısal Sorgulama Dili",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Stong Query Language - Güçlü Sorgulama Dili",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Stong Question Language – Güçlü Sorgulama Dili",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Structured Query Language - Yapısal Sorgulama Dili",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 14,
-    "questionText": "SELECT MONTHS_BETWEEN (SYSDATE, İşeGirişTarihi) AS AY FROM PERSONEL; Yukarıdaki SQL sorgusu aşağıdakilerden hangisini gerçekleştirmek için kullanılır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Personel tablosundaki kayıtların tüm bilgilerini bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Personel tablosunda gerçekleştirilen işlemlerin tarihini bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Personel tablosundaki kayıtların çalıştıkları süreyi ay cinsinden bulmak",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Personel tablosundaki kayıtların işten çıktıkları tarihi bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Personel tablosundaki kayıtların İşeGiriş Tarihi bilgisini bulmak",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 15,
-    "questionText": "Aşağıdakilerden hangisi veri tabanı tablolarını birleştirmek için kullanılan bir birleştirme türü değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Dış birleştirme",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Eşiti olmayan birleştirme",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Belirsiz birleştirme",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Eşiti olan birleştirme",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Küme operatörünü kullanarak birleştirme",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 16,
-    "questionText": "Aşağıdakilerden hangisi bir ilişkisel olmayan veri tabanı yapısıdır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "MongoDB",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "PostgreSQL",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "SQL Server",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "MySQL",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Oracle",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 17,
-    "questionText": "Aşağıdaki veri tabanı yönetim sistemlerinin hangisinde COMMIT ve ROLLBACK işlemlerine ihtiyaç duyulmaz?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Çok kullanıcılı veri tabanı yönetim sistemleri",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Masaüstü veri tabanı yönetim sistemleri",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Web veri tabanı yönetim sistemleri",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "İlişkisel veri tabanı yönetim sistemleri",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Tek kullanıcılı veri tabanı yönetim sistemleri",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 18,
-    "questionText": "Veri tabanı tablolarında geçişli bağımlılıkların kaldırıldığı normalleşme formu aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "BCNF",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "3NF",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "4NF",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "2NF",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "INF",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 19,
-    "questionText": "GRANT CREATE TABLE TO Ruya; Yukarıdaki SQL sorgusunun anlamı aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Ruya kullanıcısına tablo oluşturma yetkisi verir.",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Ruya kullanıcısına tablo silme yetkisi verir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Ruya kullanıcısına tablo güncelleme yetkisi verir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Ruya dışındaki bütün kullanıcılara tablo silme yetkisi verir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Ruya dışındaki bütün kullanıcılara tablo oluşturma yetkisi verir.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 20,
-    "questionText": "Alanları PersonelNo, Adı, Görevi, Ücret, BölümNo olan bir PERSONEL tablosu ve alanları BölümNo, Bölüm Adı, Konum olan bir BÖLÜM tablosu arasındaki ilişki aşağıdakilerden hangisi ile kurulur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "İki tablodaki en çok veriye sahip olan alan üzerinde işlem yapılarak",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "İki tabloda ortak olan BölümNo alanından faydalanılarak",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "İki tablodaki bütün alanlar birleştirilerek",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "İki tablodaki herhangi bir alan üzerinde işlem yapılarak",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "İki tablodaki en az veriye sahip olan alan üzerinde işlem yapılarak",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 21,
-    "questionText": "Kontrol kısıtlayıcı olarak da adlandırılan, veri girişlerinin belirtilen kriterlere göre yapılmasını sağlayan veri kısıtlama türünde kullanılan ifade aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "UNIQUE",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "NOT NULL",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "CHECK",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "PRIMARY",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "FOREIGN",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 22,
-    "questionText": "Aşağıdaki grup fonksiyonlarının hangisinin uygulanacağı alanın sayısal veri içermesine gerek yoktur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "AVG() Fonksiyonu",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "MAX() Fonksiyonu",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "STDDEV() Fonksiyonu",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "COUNT() Fonksiyonu",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "SUM() Fonksiyonu",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 23,
-    "questionText": "CREATE ROLE rol_adı ; Yukarıdaki sorgu kim veya kimler tarafından oluşturulabilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Veri Tabanı Yönetim Sistemi'ndeki diğer roller",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Veri Tabanı Yönetim Sistemi'ndeki kullanıcılar",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Veri Tabanı Yönetim Sistemi oluşturucusu",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Veri Tabanı Yönetim Sistemi sahibi",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Veri Tabanı Yönetim Sistemi yöneticisi",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 24,
-    "questionText": "SQL'deki TO_CHAR ve TO_NUMBER fonksiyonlarının kullanımı ile ilgili aşağıdakilerden hangisi yanlıştır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "İhtiyaca göre farklı formatta dönüştürmeler gerçekleştirilebilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Kategori olarak dönüştürme fonksiyonları olarak ifade edilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Bu fonksiyonların kullanımı sonucunda veri tabanı tablosundaki kaydın değeri değişmez, sadece görüntüleme biçimi değişir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Her fonksiyonun kullanılabileceği belli veri türleri vardır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Bu fonksiyonlar WHERE, ORDER BY vb. deyimlerden farklı deyimler ile beraber kullanılır.",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 25,
-    "questionText": "Yukarıdaki sorgu ile aşağıdaki işlemlerden hangisi gerçekleştirilir?",
-    "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1772252894600-h5n1mz.jpg",
-    "options": [
-      {
-        "letter": "A",
-        "text": "PersonelNo 155 veya 300 olan personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "PersonelNo 155 ve 300 olan personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "PersonelNo 155 olan personelle aynı göreve sahip olan ve \"300\" numaralı personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "PersonelNo 300 olan personelle aynı göreve sahip olan ve \"155\" numaralı personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "PersonelNo 155 veya 300 olan personelin ücretinden daha az ücret alan personeli listeler.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 26,
-    "questionText": "SELECT Adı, Ücret, NVL (Komisyon, 0) FROM PERSONEL; Yukarıdaki SQL sorgusu aşağıdakilerden hangisini gerçekleştirmek için kullanılır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Personel tablosundaki değeri NULL olan tüm verileri bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Personel tablosundaki Komisyon verilerini bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Personel tablosundaki değeri NULL olmayan Komisyon verilerini bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Personel tablosundaki değeri NULL olan Komisyon verilerini bulmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Personel tablosundaki Komisyon verilerini NULL olan kayıtlarda 0 yazarak Adı, Ücret ve Komisyon değerlerini elde etmek",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 27,
-    "questionText": "İki veya daha fazla veri tabanı tablosunun tüm olası eşleştirmelerini bir araya getiren cebirsel işlem aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Doğal Birleşim",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Birleşim",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Kartezyen Çarpım",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Kesişim",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Fark",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 28,
-    "questionText": "En fazla ücret alan personelinin ücreti \"30\" numaralı bölümün ortalama ücretinden daha fazla olan bölümleri öğrenmek için gerçekleştirilen bir sorguda (tablo ve alan adlarının önemsenmediği durumda) aşağıdaki sorgu parçalarının hangisi bulunmaz?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "FROM PERSONEL GROUP BY BölümNo",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "WHERE BölümNo;",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "(SELECT AVG(Ücret) FROM PERSONEL)",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "SELECT BölümNo, MAX(Ücret) AS \"EN YÜKSEK ÜCRET\"",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "HAVING MAX (Ücret) >",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 29,
-    "questionText": "Transaction işlemindeki SQL komutu tarafından yapılmış olan tüm değişiklikleri geri almak için kullanılan komut aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Alter",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Rollback",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Select",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Where",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Commit",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 30,
-    "questionText": "Aşağıdakilerden hangisi Yolcular ismindeki bir tablodaki tüm kayıtları getiren SQL sorgusudur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Select ALL Yolcular;",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Select Yolcular;",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Select * From Yolcular;",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Select * Yolcular;",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Select ALL From Yolcular;",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 31,
-    "questionText": "Aşağıdakilerden hangisi veri tabanı yönetim sistemi kullanıcılarının veri tabanı yönetim sistemi nesnelerine hangi yetkilerle erişebileceklerini belirlemek için kullanılmaz?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "INSERT",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "WHERE",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "DELETE",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "ALTER",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "UPDATE",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 32,
-    "questionText": "Yukarıda verilen sorguda kullanılan anahtar kelimeler ile ilgili aşağıdakilerden hangisi yanlıştır?",
-    "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1772252955327-n2kupl.jpg",
-    "options": [
-      {
-        "letter": "A",
-        "text": "ORDER BY; verilerin sıralanacağını belirtmek için kullanılır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "WHERE; hangi koşula uyan verilerin seçileceğini belirlemek için kullanılır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "FROM; hangi tablodan veri seçileceğini belirtmek için kullanılır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "DESC; verilerin azalan şekilde sıralanması için kullanılır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "DISTINCT; verilerin gruplanmasını sağlamak için kullanılır.",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 33,
-    "questionText": "Aşağıdakilerden hangisi çoka-çok ilişki örneği olabilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Ders - Öğrenci",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Bilgisayar - Harddisk",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Karı - Koca",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Anne - Çocuk",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Ev - Mutfak",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 34,
-    "questionText": "Aşağıdaki veri türlerinden hangisi üzerinde TO_DATE() fonksiyonu kullanılarak tarih verisine dönüştürme gerçekleştirmek mümkündür?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Köprü",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Resim",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Ses",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Metinsel",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Sayısal",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 35,
-    "questionText": "Tablo1 ismindeki bir veri tabanı tablosunda Koşull ismindeki koşulu sağlayan satırların silinmesini sağlayan SQL komutu aşağıdakilerden hangisi olabilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Delete From Tablo 1  Where Koşul 1",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Delete Koşul 1 Select Tablo 1",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Delete Koşul 1 Where Tablo 1",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Select Koşul 1 Delete Tablo 1",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Select From Tablo 1 Where Koşull",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 36,
-    "questionText": "Gruplanan ya da hesaplanan alanların sınırlanması için kullanılan SQL deyimi aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "GROUP BY",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "ORDER BY",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "FROM",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "WHERE",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "DISTINCT",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 37,
-    "questionText": "Bir veri tabanı tablosunda bir alana girilen verinin tekrarsız olmasını sağlamak için kullanılan veri kısıtlama türündeki ifade aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "UNIQUE",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "FOREIGN",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "CHECK",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "PRIMARY",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "NOT NULL",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 38,
-    "questionText": "Yukarıdaki tabloda verilen alanlardan hangisi bir kayıtta birden çok değer alabilir?",
-    "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1772253060129-xtx1p9.jpg",
-    "options": [
-      {
-        "letter": "A",
-        "text": "OgrenciNo",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Danisman",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "NotOrtalamasi",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "AldigiDersler",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "AdSoyad",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 39,
-    "questionText": "Bir veri tabanı tablosunda yer alan bazı özniteliklerin başka bir öznitelik aracılığıyla üçüncü bir özniteliğe bağlı olması durumuna verilen ad aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Döngüsel bağımlılık",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Dış bağımlılık",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Kısmî bağımlılık",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Geçişli bağımlılık",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Değerli bağımlılık",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 40,
-    "questionText": "Bir veri tabanının temelini oluşturan ve bilgilerin tutulduğu nesne aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Form",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Görünüm",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Dizin",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "İndeks",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Tablo",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 41,
-    "questionText": "Bir veri tabanında depolanacak verileri kısıtlayan koşullar aşağıdakilerden hangisi ile ifade edilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Veri kısıtlamaları",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Alan kısıtlamaları",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Anahtar kısıtlamaları",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Tablo kısıtlamaları",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Bütünlük kısıtlamaları",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 42,
-    "questionText": "UPDATE PERSONEL SET BölümNo=10 WHERE PersonelNo=300 sorgusu aşağıdakilerden hangisini yapar?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "300 numaralı personelin BölümNo’sunu 10 olarak değiştirir.",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "10 ve 300 numaralı personelleri birbiriyle değiştirir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "300 numaralı tüm personelin PersonelNo’sunu 10 olarak değiştirir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "300 numaralı bölümün BölümNo’sunu 10 olarak değiştirir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "300 numaralı personelin PersonelNo’sunu 10 olarak değiştirir.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 43,
-    "questionText": "Personel arasında görevi MEMUR olanlara %10, ŞEF olanlara %15, MÜDÜR olanlara ise %20 zam yapılması için gerçekleştirilecek olan SQL sorgusu aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "SELECT Adı, Görevi, Ücret DECODE(Görevi, Ücret*1,10, Ücret*1,15, Ücret*1,20) FROM PERSONEL;",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "SELECT Adı, Görevi, Ücret DECODE(Görevi, ‘Memur’, ‘Şef’, ‘Müdür’, Ücret*1,10, Ücret*1,15, Ücret*1,20, Ücret) FROM PERSONEL;",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "SELECT Adı, Görevi, Ücret DECODE(Görevi, ‘Memur’, Ücret*1,10, ‘Şef’, Ücret*1,15, ‘Müdür’, Ücret*1,20, Ücret) FROM PERSONEL;",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "SELECT Adı, Görevi, Ücret DECODE(Memur, Ücret*1,10, Şef, Ücret*1,15, Müdür, Ücret*1,20, Ücret) FROM PERSONEL;",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "SELECT Adı, Görevi, Ücret DECODE(‘Memur’, ‘Şef’, ‘Müdür’, Ücret*1,10, Ücret*1,15, Ücret*1,20, Ücret) FROM PERSONEL;",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 44,
-    "questionText": "İsmi Tablo1, içerdiği alanlar Alan1, Alan2 ve Alan3 olan bir tablodaki bütün verilerin silinmesi için aşağıdaki komutlardan hangisi kullanılmalıdır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Truncate Table Tablo1;",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Truncate Alan1, Alan2, Alan3;",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Truncate Tablo1;",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Truncate Tablo1 (Alan1, Alan2, Alan3);",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Truncate Tablo1 (Table Alan1, Alan2, Alan3);",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 45,
-    "questionText": "Aşağıdakilerden hangisi Select Adı & ‘Personeli’ & Ücret & ‘TL Ücret Alıyor…’ As Adı_Ücreti From Personel şeklinde verilen bir sorgunun sonucunda oluşan tabloda yer alan bir kayıt olabilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Rüya personeli 12500 TL ücret",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Erdem personeli 5000 TL ücret alıyor…",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Emel personeli ücret alıyor…",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Selçuk 7000 TL ücret alıyor…",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Yusuf personeli 2500 alıyor…",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 46,
-    "questionText": "Tablo ve görünüm oluşturma yetkilerine sahip olan bir YÖNETİCİ rolü oluşturmak ve veri tabanı yönetim sistemindeki Ali ve Ayşe kullanıcılarına bu rol yetkisini vermek için aşağıdaki işlemlerden hangisi gerçekleştirilmez?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "YÖNETİCİ ismiyle oluşturulan rolün işlemleri başarıyla gerçekleştirip gerçekleştirilemediğine bakılır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "YÖNETİCİ ismiyle oluşturulan role, tablo oluşturma yetkisi verilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "YÖNETİCİ ismiyle oluşturulan role, görünüm oluşturma yetkisi verilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "YÖNETİCİ rolüne verilen yetkiler Ali ve Ayşe kullanıcılara verilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "YÖNETİCİ isimli rol tanımlanır.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 47,
-    "questionText": "Veri tabanındaki bir tablonun bir kaydı ile diğer tablonun bir kaydı eşleştirilirse bu iki tablo arasındaki ilişki nasıl bir ilişki olur?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Bire bir ilişki",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Çoka bir ilişki",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Belirsiz ilişki",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Çoka çok ilişki",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Bire çok ilişki",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 48,
-    "questionText": "SELECT Görevi, SUM(Ücret) FROM PERSONEL WHERE Görevi <> ‘PAZARLAMACI’ GROUP BY Görevi HAVING SUM(Ücret)> 5000 ORDER BY SUM(Ücret); Yukarıdaki sorgu aşağıdakilerden hangisini yapar?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Pazarlamacı olan personelin ücretleri toplanır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, ücretleri toplanır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 49,
     "questionText": "SELECT Adı, Ücret FROM PERSONEL WHERE Ücret > (SELECT AVG(Ücret) FROM PERSONEL); sorgusu aşağıdakilerden hangisini yapar?",
     "imageUrl": null,
     "options": [
@@ -1663,44 +31,146 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "**Doğru Cevap: Herkesin ücretinin ortalamasından daha fazla ücret alan personelleri bulur.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 50,
-    "questionText": "SELECT Adı, Ücret FROM PERSONEL WHERE Ücret = (SELECT MIN (Ücret) FROM PERSONEL); sorgusunda hangi kısım alt sorgudur?",
+    "id": 2,
+    "questionText": "SELECT Görevi, SUM(Ücret) FROM PERSONEL WHERE Görevi <> ‘PAZARLAMACI’ GROUP BY Görevi HAVING SUM(Ücret)> 5000 ORDER BY SUM(Ücret); Yukarıdaki sorgu aşağıdakilerden hangisini yapar?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "SELECT MIN (Ücret) FROM PERSONEL",
-        "isCorrect": true
+        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir.",
+        "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "SELECT Adı, Ücret FROM PERSONEL",
+        "text": "Pazarlamacı olan personelin ücretleri toplanır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
         "isCorrect": false
       },
       {
         "letter": "C",
-        "text": "MIN (Ücret) FROM PERSONEL",
+        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
         "isCorrect": false
       },
       {
         "letter": "D",
-        "text": "SELECT Adı, Ücret FROM PERSONEL WHERE Ücret",
+        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, ücretleri toplanır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Pazarlamacı dışında görevi olan personeli görevlerine göre gruplandırır, ücretleri toplanır, bölümünün toplam ücreti 5000’den fazla olanlar seçilir, sonuçlar en düşük ücret toplamından büyüğe doğru sıralanır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 3,
+    "questionText": "Aşağıdakilerden hangisi veri tabanı tablolarını birleştirmek için kullanılan bir birleştirme türü değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Eşiti olmayan birleştirme",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Belirsiz birleştirme",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Eşiti olan birleştirme",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Küme operatörünü kullanarak birleştirme",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "FROM PERSONEL WHERE Ücret",
+        "text": "Dış birleştirme",
         "isCorrect": false
       }
     ],
-    "correctAnswer": "A",
-    "explanation": ""
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Belirsiz birleştirme**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 51,
+    "id": 4,
+    "questionText": "SQL’deki TO_CHAR ve TO_NUMBER fonksiyonlarının kullanımı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Her fonksiyonun kullanılabileceği belli veri türleri vardır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Bu fonksiyonların kullanımı sonucunda veri tabanı tablosundaki kaydın değeri değişmez, sadece görüntüleme biçimi değişir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kategori olarak dönüştürme fonksiyonları olarak ifade edilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Bu fonksiyonlar WHERE, ORDER BY vb. deyimlerden farklı deyimler ile beraber kullanılır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "İhtiyaca göre farklı formatta dönüştürmeler gerçekleştirilebilir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Bu fonksiyonlar WHERE, ORDER BY vb. deyimlerden farklı deyimler ile beraber kullanılır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 5,
+    "questionText": "İsmi Tablo1, içerdiği alanlar Alan1, Alan2 ve Alan3 olan bir tablodaki bütün verilerin silinmesi için aşağıdaki komutlardan hangisi kullanılmalıdır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Truncate Table Tablo1;",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Truncate Alan1, Alan2, Alan3;",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Truncate Tablo1;",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Truncate Tablo1 (Alan1, Alan2, Alan3);",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Truncate Tablo1 (Table Alan1, Alan2, Alan3);",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Truncate Tablo1 (Alan1, Alan2, Alan3);**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 6,
     "questionText": "Alanları Adı, Soyadı ve İşeGirişTarihi şeklinde olan bir Personel tablosundaki personeller arasında o iş yerinde en az sürede çalışandan en çok sürede çalışana doğru bir sıralama işlemi gerçekleştiren SQL sorgusu aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1731,10 +201,248 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "**Doğru Cevap: SELECT * FROM Personel ORDER BY İşeGirişTarihi DESC;**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 52,
+    "id": 7,
+    "questionText": "Bir veri tabanında depolanacak verileri kısıtlayan koşullar aşağıdakilerden hangisi ile ifade edilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Veri kısıtlamaları",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Alan kısıtlamaları",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Anahtar kısıtlamaları",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Tablo kısıtlamaları",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Bütünlük kısıtlamaları",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Bütünlük kısıtlamaları**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 8,
+    "questionText": "Bir veri tabanının temelini oluşturan ve bilgilerin tutulduğu nesne aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Form",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Görünüm",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Dizin",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "İndeks",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Tablo",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Tablo**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 9,
+    "questionText": "Veri tabanı tablolarında geçişli bağımlılıkların kaldırıldığı normalleşme formu aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "4NF",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "1NF",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "3NF",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "2NF",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "BCNF",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: 3NF**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 10,
+    "questionText": "Tablo ve görünüm oluşturma yetkilerine sahip olan bir YÖNETİCİ rolü oluşturmak ve veri tabanı yönetim sistemindeki Ali ve Ayşe kullanıcılarına bu rol yetkisini vermek için aşağıdaki işlemlerden hangisi gerçekleştirilmez?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "YÖNETİCİ ismiyle oluşturulan rolün işlemleri başarıyla gerçekleştirip gerçekleştirilemediğine bakılır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "YÖNETİCİ ismiyle oluşturulan role, tablo oluşturma yetkisi verilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "YÖNETİCİ ismiyle oluşturulan role, görünüm oluşturma yetkisi verilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "YÖNETİCİ rolüne verilen yetkiler Ali ve Ayşe kullanıcılara verilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "YÖNETİCİ isimli rol tanımlanır.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: YÖNETİCİ ismiyle oluşturulan rolün işlemleri başarıyla gerçekleştirip gerçekleştirilemediğine bakılır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 11,
+    "questionText": "Veri tabanındaki bir tablonun bir kaydı ile diğer tablonun bir kaydı eşleştirilirse bu iki tablo arasındaki ilişki nasıl bir ilişki olur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bire bir ilişki",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Çoka bir ilişki",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Belirsiz ilişki",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Çoka çok ilişki",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Bire çok ilişki",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Bire bir ilişki**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 12,
+    "questionText": "Aşağıdakilerden hangisi Ali isimli bir kullanıcının şifresini 1a2b3c4d5e6f olarak değiştirmek için kullanılan bir sorgudur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "CREATE USER Ali IDENTIFIED BY 1a2b3c4d5e6f;",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "GRANT USER Ali IDENTIFIED BY 1a2b3c4d5e6f;",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "GRANT CREATE USER Ali IDENTIFIED BY 1a2b3c4d5e6f;",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "REVOKE USER Ali IDENTIFIED BY 1a2b3c4d5e6f;",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "ALTER USER Ali IDENTIFIED BY 1a2b3c4d5e6f;",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: ALTER USER Ali IDENTIFIED BY 1a2b3c4d5e6f;**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 13,
+    "questionText": "SELECT Adı, Ücret FROM PERSONEL WHERE Ücret = (SELECT MIN (Ücret) FROM PERSONEL); sorgusunda hangi kısım alt sorgudur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "SELECT MIN (Ücret) FROM PERSONEL",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "SELECT Adı, Ücret FROM PERSONEL",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "MIN (Ücret) FROM PERSONEL",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "SELECT Adı, Ücret FROM PERSONEL WHERE Ücret",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "FROM PERSONEL WHERE Ücret",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: SELECT MIN (Ücret) FROM PERSONEL**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 14,
     "questionText": "İlişkisel cebir işlemleri ile ilgili aşağıdakilerden hangisi doğrudur?",
     "imageUrl": null,
     "options": [
@@ -1765,10 +473,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": ""
+    "explanation": "**Doğru Cevap: İki veya daha çok tabloda ortak olan alanlar içerisinde belli bir kurala uyan elemanları bulmak için seçim + kesişme işlemi birlikte kullanılır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 53,
+    "id": 15,
     "questionText": "Aşağıdaki SQL sorgularından hangisi yanlış yazılmıştır?",
     "imageUrl": null,
     "options": [
@@ -1799,618 +507,176 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "**Doğru Cevap: SELECT BölümNo, COUNT(*) FROM PERSONEL;**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 54,
-    "questionText": "Birden daha fazla SQL sorgusunun arka arkaya tek bir sorgu gibi çalıştırılmasını sağlayan kavram aşağıdakilerden hangisidir?",
+    "id": 16,
+    "questionText": "Aşağıdakilerden hangisi Select Adı & ‘Personeli’ & Ücret & ‘TL Ücret Alıyor…’ As Adı_Ücreti From Personel şeklinde verilen bir sorgunun sonucunda oluşan tabloda yer alan bir kayıt olabilir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "TRANSACTION",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "COMMIT",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "ROLLBACK",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "DML",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "CREATE",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 55,
-    "questionText": "Bir veri kümesinde bir özniteliğin alabileceği değerlerin tümünün oluşturduğu kümeye ne ad verilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Varlık",
+        "text": "Rüya personeli 12500 TL ücret",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "İlişki",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Etki alanı",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Anahtar",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Satır",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "id": 56,
-    "questionText": "Aşağıdakilerden hangisi bir alt sorgu çeşidi değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Çok sütunlu alt sorgu",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Belirsiz alt sorgu",
+        "text": "Erdem personeli 5000 TL ücret alıyor…",
         "isCorrect": true
       },
       {
         "letter": "C",
-        "text": "Tek satırlı alt sorgu",
+        "text": "Emel personeli ücret alıyor…",
         "isCorrect": false
       },
       {
         "letter": "D",
-        "text": "Tek sütunlu alt sorgu",
+        "text": "Selçuk 7000 TL ücret alıyor…",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "Çok satırlı alt sorgu",
+        "text": "Yusuf personeli 2500 alıyor…",
         "isCorrect": false
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "**Doğru Cevap: Erdem personeli 5000 TL ücret alıyor…**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 57,
-    "questionText": "Aşağıdakilerden hangisi SQL'de bir matematiksel fonksiyondur?",
+    "id": 17,
+    "questionText": "Aşağıdaki veri tabanı yönetim sistemlerinin hangisinde COMMIT ve ROLLBACK işlemlerine ihtiyaç duyulmaz?<",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "NEXT_DAY()",
+        "text": "Web veri tabanı yönetim sistemleri",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "INITCAP()",
+        "text": "İlişkisel veri tabanı yönetim sistemleri",
         "isCorrect": false
       },
       {
         "letter": "C",
-        "text": "NVL()",
+        "text": "Çok kullanıcılı veri tabanı yönetim sistemleri",
         "isCorrect": false
       },
       {
         "letter": "D",
-        "text": "DECODE()",
+        "text": "Masaüstü veri tabanı yönetim sistemleri",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "MOD()",
+        "text": "Tek kullanıcılı veri tabanı yönetim sistemleri",
         "isCorrect": true
       }
     ],
     "correctAnswer": "E",
-    "explanation": ""
+    "explanation": "**Doğru Cevap: Tek kullanıcılı veri tabanı yönetim sistemleri**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 58,
-    "questionText": "Aşağıdakilerden hangisi INDEKS oluşturmayı engelleyen bir durum değildir?",
+    "id": 18,
+    "questionText": "Alanları PersonelNo, Adı, Görevi, Ücret, BölümNo olan bir PERSONEL tablosu ve alanları BölümNo, Bölüm Adı, Konum olan bir BÖLÜM tablosu arasındaki ilişki nasıl kurulur?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "Sorgudan elde edilen sonuç satırlarının tüm tablonun %2-4'ünden daha fazla olması",
+        "text": "İki tablodaki en çok veriye sahip olan alan üzerinde işlem yapılarak",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "Alanın çok sayıda NULL değer içermesi",
+        "text": "İki tabloda ortak olan BölümNo alanından faydalanılarak",
         "isCorrect": true
       },
       {
         "letter": "C",
-        "text": "Tablonun sık sık güncelleştirilmesi",
+        "text": "İki tablodaki herhangi bir alan üzerinde işlem yapılarak",
         "isCorrect": false
       },
       {
         "letter": "D",
-        "text": "İlgili alanların sorgularda sık sık kullanılmaması",
+        "text": "İki tablodaki en az veriye sahip olan alan üzerinde işlem yapılarak",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "Tablonun çok küçük olması",
+        "text": "İki tablodaki bütün alanlar birleştirilerek",
         "isCorrect": false
       }
     ],
     "correctAnswer": "B",
-    "explanation": ""
+    "explanation": "**Doğru Cevap: İki tabloda ortak olan BölümNo alanından faydalanılarak**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 59,
-    "questionText": "SELECT SUM(Ücret) FROM PERSONEL WHERE Görevi ='Şef'; şeklindeki bir sorgu, aşağıdaki değerlerin hangisini elde etmek için kullanılır?",
+    "id": 19,
+    "questionText": "Personel arasında görevi MEMUR olanlara %10, ŞEF olanlara %15, MÜDÜR olanlara ise %20 zam yapılması için gerçekleştirilecek olan SQL sorgusu aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "Görevi Şef olan kişilerin Ücret alanlarının ortalaması",
+        "text": "SELECT Adı, Görevi, Ücret DECODE(Görevi, Ücret*1,10, Ücret*1,15, Ücret*1,20) FROM PERSONEL;",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "Görevi Şef olmayan kişilerin Ücret alanlarının ortalaması",
+        "text": "SELECT Adı, Görevi, Ücret DECODE(Görevi, ‘Memur’, ‘Şef’, ‘Müdür’, Ücret*1,10, Ücret*1,15, Ücret*1,20, Ücret) FROM PERSONEL;",
         "isCorrect": false
       },
       {
         "letter": "C",
-        "text": "Görevi Şef olmayan kişilerin Ücret alanlarının toplamı",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Tüm tabloda yer alan kişilerin Ücret alanlarının toplamı",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Görevi Şef olan kişilerin Ücret alanlarının toplamı",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 60,
-    "questionText": "Bir veri tabanı tablosunda bir özniteliğin bağlı olduğu anahtar ile benzersiz olarak belirlenmesi durumuna ne ad verilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Döngüsel bağımlılık",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Kısmi bağımlılık",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Tam fonksiyonel bağımlılık",
+        "text": "SELECT Adı, Görevi, Ücret DECODE(Görevi, ‘Memur’, Ücret*1,10, ‘Şef’, Ücret*1,15, ‘Müdür’, Ücret*1,20, Ücret) FROM PERSONEL;",
         "isCorrect": true
       },
       {
         "letter": "D",
-        "text": "Değerli bağımlılık",
+        "text": "SELECT Adı, Görevi, Ücret DECODE(Memur, Ücret*1,10, Şef, Ücret*1,15, Müdür, Ücret*1,20, Ücret) FROM PERSONEL;",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "Geçişli bağımlılık",
+        "text": "SELECT Adı, Görevi, Ücret DECODE(‘Memur’, ‘Şef’, ‘Müdür’, Ücret*1,10, Ücret*1,15, Ücret*1,20, Ücret) FROM PERSONEL;",
         "isCorrect": false
       }
     ],
     "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "**Doğru Cevap: SELECT Adı, Görevi, Ücret DECODE(Görevi, ‘Memur’, Ücret*1,10, ‘Şef’, Ücret*1,15, ‘Müdür’, Ücret*1,20, Ücret) FROM PERSONEL;**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
-    "id": 61,
-    "questionText": "Yukarıdaki şekilde \"?\" yerine hangi ilişkisel cebir işlemi gelmelidir?",
-    "imageUrl": "https://lolonolo.com/uploads/question-images/2026/02/1772251956693-rnw3j1.jpg",
-    "options": [
-      {
-        "letter": "A",
-        "text": "Seçim",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Atma",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Fark",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Kesişim",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Birleşim",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 62,
-    "questionText": "SELECT Adı, Görevi Ücret FROM PERSONELWHERE Görevi = (SELECT GöreviFROM PERSONEL WHERE PersonelNo=155) AND Ücret> (SELECT Ücret FROM PERSONEL WHERE PersonelNo=300);sorgusu ne iş yapar?",
+    "id": 20,
+    "questionText": "UPDATE PERSONEL SET BölümNo=10 WHERE PersonelNo=300 sorgusu aşağıdakilerden hangisini yapar?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "PersonelNo 155 veya 300 olan personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "PersonelNo 155 olan personelle aynı göreve sahip olan ve \"300\" numaralı personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "PersonelNo 300 olan personelle aynı göreve sahip olan ve \"155\" numaralı personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "PersonelNo 155 veya 300 olan personelin ücretinden daha az ücret alan personeli listeler.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "PersonelNo 155 ve 300 olan personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "id": 63,
-    "questionText": "GRANT CREATE TABLE TO Ruya; sorgusu ne anlama gelmektedir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Ruya kullanıcısına tablo oluşturma yetkisi verir.",
+        "text": "300 numaralı personelin BölümNo’sunu 10 olarak değiştirir.",
         "isCorrect": true
       },
       {
         "letter": "B",
-        "text": "Ruya kullanıcısına tablo güncelleme yetkisi verir.",
+        "text": "10 ve 300 numaralı personelleri birbiriyle değiştirir.",
         "isCorrect": false
       },
       {
         "letter": "C",
-        "text": "Ruya dışındaki bütün kullanıcılara tablo oluşturma yetkisi verir.",
+        "text": "300 numaralı tüm personelin PersonelNo’sunu 10 olarak değiştirir.",
         "isCorrect": false
       },
       {
         "letter": "D",
-        "text": "Ruya kullanıcısına tablo silme yetkisi verir.",
+        "text": "300 numaralı bölümün BölümNo’sunu 10 olarak değiştirir.",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "Ruya dışındaki bütün kullanıcılara tablo silme yetkisi verir.",
+        "text": "300 numaralı personelin PersonelNo’sunu 10 olarak değiştirir.",
         "isCorrect": false
       }
     ],
     "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 64,
-    "questionText": "İki veya daha çok veri tabanı tablosundaki ortak satırların bulunması için kullanılan komut aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "MINUS",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "INTO",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "UNION",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "LIKE",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "INTERSECT",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": ""
-  },
-  {
-    "id": 65,
-    "questionText": "Aşağıdakilerden hangisi ilişkisel veri tabanları ile ilişkisel olmayan veri tabanları arasındaki kesin farklardan biri değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Kullanıldıkları işler",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Verilerin ifade ediliş biçimleri",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Kullandıkları ölçekler",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "En uygun iş yükleri",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Performansları",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "id": 66,
-    "questionText": "İlişkisel veri tabanlarında yapılan aşağıdaki işlemlerden hangisinin sonucu doğru verilmiştir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "100+NULL = 130",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "(10xNULL)+100+NULL = 100",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "(10x3)+100 = NULL",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "(10x3)+100+NULL = NULL",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "(10x3)+100+NULL = 130",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 67,
-    "questionText": "SELECT BölümNo, AVG(Ücret) FROM PERSONEL;WHERE AVG(Ücret) >2000GROUP BY BölümNo; Yukarıda verilen SQL sorgusu içerisinde yer alan hata aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "BölümNo alanı hem Select hem Group By deyiminde kullanılamaz.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Ücret alanı hem Select hem Where deyiminde kullanılamaz.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "AVG() fonksiyonu ile karşılaştırılma ifadesi kullanılamaz.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Group By ile Where deyimi beraber kullanılamaz.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Hem From hem Where aynı sorguda kullanılamaz.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 68,
-    "questionText": "Aşağıdaki karşılaştırma deyimlerinden hangileri bir değerin tabloda var olup olmadığını tespit etmek için kullanılır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "LIKE/IN",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "GROUP BY / HAVING",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "BETWEEN / AND",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "IS NULL / IS NOT NULL",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "WHERE/ ORDER BY",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 69,
-    "questionText": "Veri tabanlarındaki view yapısı ile ilgili aşağıdakilerden hangisi söylenemez?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Farklı tablolardan verileri birleştirebilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Tablolara benzer şekilde oluşturulur ve kaldırılır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "İndekslenebilir yapılardır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Tablolardan daha çok bellek alanı kaplar.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Tablolarda belirli kolonların gizlenmesini sağlamak için kullanılabilir.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 70,
-    "questionText": "SELECT Adı GöreviÜcret FROM PERSONELWHERE Görevi = (SELECT GöreviFROM PERSONEL WHERE PersonelNo=155) AND Ücret> (SELECT Ücret FROM PERSONEL WHERE PersonelNo 300) Yukarıdaki sorgu ile aşağıdaki işlemlerden hangisi gerçekleştirilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "PersonelNo 155 veya 300 olan personelin ücretinden daha az ücret alan personeli listeler.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "PersonelNo 300 olan personelle aynı göreve sahip olan ve \"155\" numaralı personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "PersonelNo 155 ve 300 olan personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "PersonelNo 155 olan personelle aynı göreve sahip olan ve \"300\" numaralı personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "PersonelNo 155 veya 300 olan personelin ücretinden daha fazla ücret alan personeli listeler.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "id": 71,
-    "questionText": "SELECT [DISTINCT (* sütun ) FROM tabl [WHERE koşul] [ORDER BY [sütunifade [A SC DESC ]; Yukarıda verilen sorguda kullanılan anahtar kelimeler ile ilgili aşağıdakilerden hangisi yanlıştır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "FROM; hangi tablodan veri seçileceğini belirtmek için kullanılır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "DESC; verilerin azalan şekilde sıralanması için kullanılır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "DISTINCT; verilerin gruplanmasını sağlamak için kullanılır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "WHERE; hangi koşula uyan verilerin seçileceğini belirlemek için kullanılır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "ORDER BY; verilerin sıralanacağını belirtmek için kullanılır.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": ""
+    "explanation": "**Doğru Cevap: 300 numaralı personelin BölümNo’sunu 10 olarak değiştirir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   }
 ]
