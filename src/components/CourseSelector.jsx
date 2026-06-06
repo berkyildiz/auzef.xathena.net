@@ -5,7 +5,7 @@ const questionCounts = {
   buyukveri: 43,
   bilgisistemleriprojeyonetimi: 64,
   veritabaniyonetimsistemleri: 20,
-  bilgisayarorganizasyonu: 94,
+  bilgisayarorganizasyonu: 62,
   benzetim: 156,
   hukukuntemelkavramlarifinal: 73,
   hukukuntemelkavramlaributunleme: 38,
