@@ -3,6 +3,7 @@ import { BookOpen, ChevronRight } from 'lucide-react';
 
 const questionCounts = {
   buyukveri: 37,
+  buyukveri2022_2023final: 23,
   bilgisistemleriprojeyonetimi: 64,
   veritabaniyonetimsistemleri: 20,
   bilgisayarorganizasyonu: 62,
@@ -85,6 +86,14 @@ const COURSES = [
     questionCount: questionCounts.buyukveri,
     color: '#06b6d4', // Cyan color
     category: 'deneme'
+  },
+  {
+    id: 'buyukveri2022-2023final',
+    title: 'Büyük Veri (2022-2023 Final)',
+    description: 'Geçmiş dönem çıkmış sorular ve AI Çeldiricileri',
+    questionCount: questionCounts.buyukveri2022_2023final,
+    color: '#38bdf8', // Light blue color
+    category: 'final'
   }
 ];
 
