@@ -1,0 +1,2484 @@
+[
+  {
+    "id": 1,
+    "questionText": "Uluslararası antlaşmalara ilişkin aşağıdaki bilgilerden hangisi doğrudur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Uluslararası antlaşmalar, normlar hiyerarşisinde cumhurbaşkanlığı kararnamelerinden sonra gelmektedir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Uluslararası antlaşmalar, taraflarca imzalandıkları gün yürürlüğe girer.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Uluslararası antlaşmaların Anayasaya aykırılığı iddiası ile 90 gün içinde Anayasa Mahkemesine başvurulabilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Usulüne uygun yürürlüğe giren uluslararası antlaşmalardan temel hak ve özgürlüklere ilişkin olanlar yasalardan üstündür.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Her uluslararası antlaşma TBMM tarafından onaylanmak zorundadır.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Usulüne uygun yürürlüğe giren uluslararası antlaşmalardan temel hak ve özgürlüklere ilişkin olanlar yasalardan üstündür.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 2,
+    "questionText": "Aşağıdakilerden hangisi boşanma davasının sonuçları arasında yer almaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Çocukların velayeti",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Nafaka bağlanması",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Veraset ilamı",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Malların tasfiyesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kadının bir süre evlenememesi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Veraset ilamı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 3,
+    "questionText": "Ödenmeyen vergilerin devlet zoruyla tahsili hususlarını inceleyen vergi dalı aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vergi icra hukuku",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Uluslararası vergi hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Vergi tazminat hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Vergi ceza hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Vergi yargılama hukuku",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Vergi icra hukuku**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 4,
+    "questionText": "Hakkın doğmasına engel olan veya hakkı sona erdiren maddi olayların ileri sürülmesine ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İkrah",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "İtiraz",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Muvazaa",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Talep",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Defi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: İtiraz**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 5,
+    "questionText": "Taciri tanıtmaya ve diğer tacirlerden ayırt etmeye yarayan unsur aşağıdakilerden hangisi dir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İşletme adı",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Reklam",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Cari hesap",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Ticaret unvanı",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Marka",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Ticaret unvanı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 6,
+    "questionText": "Bir senedin sahteliğine ilişkin açılan davaya ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İnşai dava",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Eda davası",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "İfa davası",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Olumsuz tespit davası",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "İstihkak davası",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Olumsuz tespit davası**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 7,
+    "questionText": "Uyuşmazlık Mahkemesi Başkanını seçmek aşağıdaki organlardan hangisinin yetki ve görev alanına girmektedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hâkimler ve Savcılar Kurulu",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Anayasa Mahkemesi",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Danıştay",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "TBMM",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Cumhurbaşkanı",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Anayasa Mahkemesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 8,
+    "questionText": "Ticari bir işletmeyi bir ticaret unvanı altında işletmek amacıyla gerçek kişiler arasında kurulan ve ortakların sorumluluğu şirket alacaklarına karşı sınırlanmamış olan şirkete ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kooperatif",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Anonim şirket",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Komandit şirket",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Limited şirket",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kollektif şirket",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Kollektif şirket**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 9,
+    "questionText": "Aşağıdakilerden hangisi 1982 Anayasası’nın 2. maddesinde belirtilen nitelikler arasında yer almaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cumhuriyetçilik",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Üniter devlet",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "İnsan haklarına saygılı devlet",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Atatürk milliyetçiliğine bağlı devlet",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Laik devlet",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Üniter devlet**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 10,
+    "questionText": "Aşağıdakilerden hangisi hukukta yer alan yorum türlerinden biridir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Öznel yorum",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Dogmatik yorum",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kişisel yorum",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Analitik yorum",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Yasama yorumu",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Yasama yorumu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 11,
+    "questionText": "Somut norm denetimini yapma görevi aşağıdaki organlardan hangisine aittir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Anayasa Mahkemesi",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Hâkimler Savcılar Kurulu",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kamu Denetçiliği Kurumu",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Uyuşmazlık Mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Danıştay",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Anayasa Mahkemesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 12,
+    "questionText": "Aşağıdakilerden hangisi Vergi Hukukunun alt dallarından biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vergi Usul Hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Vergi İcra Hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Vergi İflas Hukuku",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Vergi Yargılama Hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Vergi Ceza Hukuku",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Vergi İflas Hukuku**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 13,
+    "questionText": "Tüzel kişilerin fiil ehliyeti ne zaman kazanılır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tüzel kişiliğin tescil ettirildiği an",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Fesih bildirimi ile birlikte",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Harç yatırıldığı an",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Hiçbir zaman",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Gerekli organlara sahip olunduğu an",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Gerekli organlara sahip olunduğu an**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 14,
+    "questionText": "Adli yargı kaç derecelidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "3",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: 3**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 15,
+    "questionText": "Fransız İnsan ve Yurttaş Halkları Bildirgesi hangi olayın bir ürünüdür?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sanayi Devrimi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Amerikan Bağımsızlık Savaşı",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Büyük Fransız Devrimi",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Rönesans",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Reform hareketleri",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Büyük Fransız Devrimi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 16,
+    "questionText": "Aşağıdakilerden hangisi ceza hukukunda geçerli olan yaptırım türlerinden biridir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hapis cezası",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Kınama",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Aynen iade",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Butlan",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kısas",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Hapis cezası**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 17,
+    "questionText": "Aşağıdakilerden hangisi medeni hukukun bir alt dalı olarak kabul edilemez?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Aile Hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Miras Hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Eşya Hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Sigorta Hukuku",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Kişiler Hukuku",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Sigorta Hukuku**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 18,
+    "questionText": "Anayasamıza göre milletvekili seçilebilme yaşı kaçtır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "22",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "20",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "18",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "21",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "25",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: 18**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 19,
+    "questionText": "Avrupa İnsan Hakları Mahkemesi’ne bireysel başvuru süresi kaç aydır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "5 ay",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "4 ay",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "12 ay",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "3 ay",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "1 ay",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: 4 ay**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 20,
+    "questionText": "Aşağıdakilerden hangisi işlenen fiili hukuka aykırı olmaktan çıkaran durumlardan biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Haksız tahrik",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Meşru müdafaa",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Rıza",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Üstün hukuksal yarar",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Zorunluluk",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Haksız tahrik**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 21,
+    "questionText": "Aşağıdakilerden hangisi TBMM’nin görevleri arasında yer almaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Yasa koymak, değiştirmek, kaldırmak",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Uluslararası antlaşmaların onaylanmasını uygun bulmak",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Genel ve özel af ilanına karar vermek",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Para basılmasına ve savaş ilanına karar vermek",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Cumhurbaşkanını seçmek",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Cumhurbaşkanını seçmek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 22,
+    "questionText": "Aşağıdakilerden hangisi hukuksal yaptırımlar arasında yer almaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Para cezası",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Manevi tazminat",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Maddi tazminat",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Toplumsal dışlama",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Hapis cezası",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Toplumsal dışlama**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 23,
+    "questionText": "Aşağıdakilerden hangisi meşru müdafaanın şartları arasında yer almaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Saldırı insan dışı varlıktan kaynaklanmalıdır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Saldırı bir hakka yönelik olmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Saldırıyla savunma arasında denge bulunmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Saldırı başlamış yahut başlamak üzere olmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Saldırı hukuka aykırı olmalıdır.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Saldırı insan dışı varlıktan kaynaklanmalıdır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 24,
+    "questionText": "Kişilerin özel nitelikli iş ilişkilerine ait hukuksal düzenlemeler çerçevesinde, aralarında çıkan uyuşmazlıkların çözülmesini ve hakların tanınmasını sağlamak üzere, başvurdukları yargı yerlerinde uyulması gerekli usulleri düzenleyen hukuk dalıdır. Yukarıda tanımı verilen hukuk dalı aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Deniz ticareti hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Ticaret hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Medeni hukuk",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "İcra iflas hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Medeni usul hukuku",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Medeni usul hukuku**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 25,
+    "questionText": "Derneklerde denetim kurulu yedek üyeleri en az kaç kişiden oluşur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "11",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "5",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "7",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: 3**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 26,
+    "questionText": "Örf ve âdet hukuku ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Örf ve âdet hukuku, bir toplumda süregelen alışkanlıkların toplum tarafından bu yolda davranmaya yönelik inanç hâline gelmesi ile oluşur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Yazılı kaynaklarda hüküm bulunmaması hâlinde örf ve âdet hukukuna başvurulur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Örf ve âdet hukuku, vergi hukukuna kaynaklık edemez.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Örf ve âdet hukuku bağlayıcı olmadığından hâkim dilerse örf ve âdet hukukuna başvurmayabilir.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Örf ve âdet hukuku, ceza hukukuna kaynaklık edemez.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Örf ve âdet hukuku bağlayıcı olmadığından hâkim dilerse örf ve âdet hukukuna başvurmayabilir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 27,
+    "questionText": "Aşağıdakilerden hangisi kamu hukuku dalları içinde yer alır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Medeni hukuk",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Borçlar hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "İcra ve iflas hukuku",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Vergi hukuku",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Milletlerarası özel hukuk",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Vergi hukuku**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 28,
+    "questionText": "Kanunların yürürlükten kalkması ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kanunlar, belirli süreliğine yürürlüğe girmişse öngörülen sürenin dolması ile yürürlükten kalkar.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Aynı konuyu düzenleyen sonraki tarihli genel kanun, her koşulda önceki tarihli özel kanunu yürürlükten kaldırır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Anayasa Mahkemesi tarafından anayasaya aykırılığı tespit edilen kanun yürürlükten kalkar.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Aynı konuyu düzenleyen sonraki tarihli özel kanun, önceki tarihli genel kanunun özel kanun ile düzenlenmiş kısımlarını yürürlükten kaldırır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Aynı konuyu düzenleyen sonraki tarihli genel kanun, önceki tarihli genel kanunu yürürlükten kaldırır.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Aynı konuyu düzenleyen sonraki tarihli genel kanun, her koşulda önceki tarihli özel kanunu yürürlükten kaldırır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 29,
+    "questionText": "Aşağıdakilerden hangisi sözleşmeyi geçersiz hâle getiren durumlar arasında yer almaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sözleşmenin kişilik haklarına aykırı olması",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Sözleşmenin yasanın emredici hükümlerine aykırı olması",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Sözleşmenin ahlaka ve adaba aykırı olması",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Yazılı yapılması gereken sözleşmenin çok ayrıntılı bir biçimde düzenlenmesi",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Sözleşmenin konusunun imkânsız olması",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Yazılı yapılması gereken sözleşmenin çok ayrıntılı bir biçimde düzenlenmesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 30,
+    "questionText": "Aşağıdakilerden hangisi nispi haklar arasında yer almaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Haksız fiil sonucu ortaya çıkan zararın tazminini talep hakkı",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Ön alım hakkı",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Hizmet sözleşmesinden doğan alacak hakkı",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Satım sözleşmesinden doğan alacak hakkı",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kişilik hakkı",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Kişilik hakkı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 31,
+    "questionText": "Aşağıdakilerden hangisi bir hukuk devletinin sahip olması gereken nitelikler arasında yer almaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sosyal devlet",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Güçler ayrılığı",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Temel hak ve özgürlüklerin güvence altına alınması",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Bağımsız ve tarafsız yargı",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Evrensel hukuk ilkelerine saygı",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Sosyal devlet**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 32,
+    "questionText": "Aşağıdakilerden hangisi çekişmesiz yargı işine örnek olarak gösterilebilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İtirazın iptali davası",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Gaiplik kararı",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Nafaka davası",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Boşanma davası",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "İşçi alacakları davası",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Gaiplik kararı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 33,
+    "questionText": "Sanığa isnat edilen suçla ilgili yaş küçüklüğü, akıl hastalığı, sağır ve dilsizlik durumu veya geçici nedenlerin bulunması durumunda hangi karar verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mahkûmiyet",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Ceza verilmesine yer olmadığı",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Davanın düşmesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Davanın reddi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Beraat",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Ceza verilmesine yer olmadığı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 34,
+    "questionText": "Ortak bir işte ve kanunun açık olarak düzenlediği durumlarda oy hakkına sahip birden çok kişinin belirli yeter sayıları ile vardıkları çözümlere ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Karar",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Muvazaa",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "İrade açıklaması",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Sözleşme",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Taahhüt",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Karar**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 35,
+    "questionText": "Uyuşmazlık Mahkemesi başkanını seçme görev ve yetkisi aşağıdaki organlardan hangisine aittir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cumhurbaşkanı",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Yargıtay",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Anayasa Mahkemesi",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Uyuşmazlık Mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Danıştay",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Anayasa Mahkemesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 36,
+    "questionText": "Somut norm denetimine başvurulması hâlinde Anayasa Mahkemesi kaç ay içerisinde karar vermelidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "3 ay",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "9 ay",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "5 ay",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "6 ay",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "4 ay",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: 5 ay**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 37,
+    "questionText": "Bir davaya yer itibarıyla hangi mahkemenin bakacağını ifade eden kavram aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Yetki",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "İstinabe",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Görev",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Replik",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Düplik",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Yetki**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 38,
+    "questionText": "İş Kanunu’na göre işveren adına hareket eden ve işin, iş yerinin veya işletmenin yönetiminde görev alan kişilere ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İşveren vekili",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Tacir yardımcısı",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Müdür",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Müfettiş",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Şef",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: İşveren vekili**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 39,
+    "questionText": "Aşağıdakilerde hangisi adli yargıda çözümlenecek dava türlerinden biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İşçi alacakları davası",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Nafaka davası",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Manevi tazminat davası",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Kamulaştırma davası",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Boşanma davası",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Kamulaştırma davası**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 40,
+    "questionText": "Aşağıdakilerden hangisi emredici hukuk kurallarının özelliklerinden biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Genel ahlak ve adabın korunması için getirilmiştir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Uyulması zorunlu kurallardır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kişiler kuralın tersi yönde işlem yapabilir, hareket edebilirler.",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Emredici kurallar hukukun her dalında bulunabilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Toplumda zayıf durumda olanları korumak için getirilmiştir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Kişiler kuralın tersi yönde işlem yapabilir, hareket edebilirler.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 41,
+    "questionText": "Gerçek kişilik aşağıdaki durumların hangisi gerçekleştiğinde sona ermez?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ölüm karinesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Gaiplik",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Birlikte ölüm karinesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Akıl sağlığının yitirilmesi",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Ölüm",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Akıl sağlığının yitirilmesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 42,
+    "questionText": "Aşağıdakilerden hangisi Türkiye Cumhuriyeti tarihinde kabul edilen anayasalardan biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "1961 Anayasası",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "1982 Anayasası",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "1924 Anayasası",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "1921 Anayasası",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "1980 Anayasası",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: 1980 Anayasası**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 43,
+    "questionText": "Türk hukukunda olağan hâllerde evlenme yaşı aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kadınlar ve erkekler bakımından 16 yaşın tamamlanması",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Kadınlar bakımından 13, erkekler bakımından 14 yaşın tamamlanması",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kadınlar bakımından 15, erkekler bakımından 17 yaşın tamamlanması",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Kadınlar bakımından 17, erkekler bakımından 21 yaşın tamamlanması",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kadınlar ve erkekler bakımından 17 yaşın tamamlanması",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Kadınlar ve erkekler bakımından 17 yaşın tamamlanması**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 44,
+    "questionText": "Aşağıdakilerden hangisi eda davalarından biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tazminat davası",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Borcun ifası davası",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Geri alım davası",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Saldırının durdurulması davası",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Boşanma davası",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Boşanma davası**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 45,
+    "questionText": "Kira uyuşmazlıklarıyla ilgili tüm davalara bakmakla görevli mahkeme aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tüketici Mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Sulh Hukuk Mahkemesi",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Yargıtay",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Asliye Hukuk Mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Asliye Ticaret Mahkemesi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Sulh Hukuk Mahkemesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 46,
+    "questionText": "Aşağıdakilerden hangisi özel hukuk haklarından biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Taşınmaz yükü (gayrimenkul mükellefiyeti)",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Mülkiyet hakkı",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Rehin hakkı",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Seçme hakkı",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "İntifa hakkı",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Seçme hakkı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 47,
+    "questionText": "1921 tarihli Teşkilatı Esasiye Kanunu, yasama / yürütme ilişkileri bağlamında hangi sistemi benimsemiştir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Monarşi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Yarı Başkanlık Sistemi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Otokrasi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Meclis Hükümeti Sistemi",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Başkanlık Sistemi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Meclis Hükümeti Sistemi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 48,
+    "questionText": "Hesap mahkemesi de denilen organ aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sayıştay",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Uyuşmazlık Mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Danıştay",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Yargıtay",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kamu Denetçiliği Kurumu",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Sayıştay**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 49,
+    "questionText": "Aşağıdakilerden hangisi uluslararası hukukun kendine has yaptırımları arasında yer almaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İktisadi ve diplomatik ilişkilerin kesilmesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Para cezası",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Abluka",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Ambargo",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Sınırların kapatılması",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Para cezası**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 50,
+    "questionText": "Kanun önerme yetkisi kime / kimlere ait bir yetkidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kamu Denetçiliği Kurumuna",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Cumhurbaşkanına",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Milletvekillerine",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Vatandaşlara",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Bakanlara",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Milletvekillerine**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 51,
+    "questionText": "Aşağıdakilerden hangisi miras hukukunun konusunu oluşturur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nafaka",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Ölüme bağlı tasarruflar",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Evlenme",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Hısımlık",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Nişanlanma",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Ölüme bağlı tasarruflar**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 52,
+    "questionText": "Temel işlevi, idari yargı kolunda çözüme bağlanan işler ve davalar bakımından ülkede hukukun aynı biçimde uygulanmasını ve hukuk birliğini sağlamak olan mahkeme hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Uyuşmazlık Mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Anayasa Mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Danıştay",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Yargıtay",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Avrupa İnsan Hakları Mahkemesi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Danıştay**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 53,
+    "questionText": "Vergi hukukunda uzlaşma kurumuna başvurma yolu kaç gündür?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "7 gün",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "15 gün",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "45 gün",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "60 gün",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "30 gün",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: 30 gün**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 54,
+    "questionText": "Eda davası, yapmaya veya vermeye dayanıyorsa buna ne davası denir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İstirdat",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "İfa",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Tespit",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "İnşaî",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Ceza",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: İfa**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 55,
+    "questionText": "Ayırt etme gücü bulunmayan birinin yaptığı hukuki işlemlerin yaptırımı aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nispi butlan",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "İptal edilebilme",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Mutlak butlan",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Adli para cezası",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Yokluk",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Mutlak butlan**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 56,
+    "questionText": "Aşağıdakilerden hangisi adli yargıda genel görevli hukuk mahkemesidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sulh hukuk mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Tüketici mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Yargıtay",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Asliye ticaret mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Asliye hukuk mahkemesi",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Asliye hukuk mahkemesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 57,
+    "questionText": "Henüz ergin olmamış veya ergin olmakla birlikte kısıtlanmış olan çocuklar üzerinde Türk Medeni Kanunu tarafından ana ve babaya tanınan hakka ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vesayet",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Soybağı",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Evlat edinme",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Veraset",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Velayet",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Velayet**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 58,
+    "questionText": "Aşağıdaki organlardan hangisi 2014’ten önceki kararlarında Sayıştayı bir yargı organı olarak kabul etmemiştir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Devlet Denetleme Kurulu",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Milli Güvenlik Kurulu",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "TBMM",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Anayasa Mahkemesi",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Yargıtay",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Anayasa Mahkemesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 59,
+    "questionText": "Davacının karşı tarafı bir şey yapmaya, bir şey vermeye veya bir şeyi yapmaktan kaçınmaya mahkûm etmesini amaçlayan davaya ne denir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Eda",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Belirsiz alacak",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Inşai",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Topluluk",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Tespit",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Eda**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 60,
+    "questionText": "Gemide bir suç işlenmesi ve kaçma, delilleri yok etme veya delil toplamaya engel olma tehlikesinin bulunması durumlannda sanığı tutuklama yetkisine sahip olan kişi kimdir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Deniz polisi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Kaptan",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Kıyı emniyeti",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Donatan",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Sahil güvenlik",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Kaptan**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 61,
+    "questionText": "Hukuk kurallarının yorumlanmasında metne sıkı sıkıya bağlı kalınmasını savunan yorum yöntemi aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Amaçsal/gai/teleolojik yorum yöntemi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Tarihsel yorum yöntemi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Sistematik yorum yöntemi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Lafzi/sözel/gramatik yorum yöntemi",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Nesnel/objektif yorum yöntemi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Lafzi/sözel/gramatik yorum yöntemi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 62,
+    "questionText": "Ahlak kuradan ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İnsanın vicdanı tarafından korunmaktadır",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Tanrı ile insan arasındaki ilişkileri düzenler.",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Bazı ahlak kuralları hukuk kuralı hâline gelebilir, bu takdirde yaptırımı maddidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Yaptırımı kişinin kendi vicdanıdır",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Öznel ahlak kuralları ve nesnel ahlak kuralları olmak üzere iki türlüdür.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Tanrı ile insan arasındaki ilişkileri düzenler.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 63,
+    "questionText": "Kişilerle devlet arasındaki ilişkileri düzenleyen hukuk kurallarından doğan haklara ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kişilik hakları",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "özel haklar",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Mutlak haklar",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Kamu hakları",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Nispi haklar",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Kamu hakları**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 64,
+    "questionText": "Aşağıdakilerden hangisi yönetmelik çıkaramaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Üniversiteler",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Siyasi partiler",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Cumhurbaşkanı",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Bakanlıklar",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Belediyeler",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Siyasi partiler**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 65,
+    "questionText": "Halkın devlet yönetimine katılması esasını temel alan anayasa ilkesi aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Insan haklanna saygılı devlet",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Hukuk devleti",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Sosyal devlet",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Laik devlet",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Demokratik devlet",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Demokratik devlet**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 66,
+    "questionText": "İflasa hangi mahkeme karar verir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Asliye ticaret mahkemesi",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "İcra mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Sulh hukuk mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Asliye hukuk mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "iş mahkemesi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Asliye ticaret mahkemesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 67,
+    "questionText": "Vergi kanunlarına göre verginin ödenmesi bakımından alacaklı vergi dairesine karşı muhatap olan kişiye ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kanuni mükellef",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Vergi mükellefi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Vergi sorumlusu",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Vasi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kanuni mümessil",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Vergi sorumlusu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 68,
+    "questionText": "Aşağıdakilerden hangisi edimin şartlarından biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Edimin konusu kanuna uygun olmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Konusu ahlaka ve adaba uygun olmalıdır",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Mutlaka parayla ölçülebilen bir değer olmalıdır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Edimin ifası mümkün olmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Konusu belli ya da belirlenebilir olmalıdır",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Mutlaka parayla ölçülebilen bir değer olmalıdır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 69,
+    "questionText": "Aralarında var olan bore ilişkisi dolayısıyla alacaklının borçludan isteyebileceği, borçlunun da yerine getirmekle yükümlü bulunduğu davranış biçimine ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Alacak",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "İş",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Çalışma",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Sözleşme",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Edim",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Edim**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 70,
+    "questionText": "Nafaka yükümlülüğü aşağıdaki toplumsal düzen kurallarından hangisi tarafından düzenlenmiştir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hukuk kuralları",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Görgü kuralları",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "İdare kuralları",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Din kuralları",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Ahlak kuralları",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Hukuk kuralları**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 71,
+    "questionText": "Bir yükseköğretim kurumunun yetkili kurulu, bir öğrencinin sınavlara girmesine hukuka aykırı biçimde engel olursa öğrenci bu işlemin İptali için hangi mahkemeye başvurur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Anayasa Mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Sulh hukuk mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "idare mahkemesi",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Vergi mahkemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Yargıtay",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: idare mahkemesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 72,
+    "questionText": "Bir kimsenin sahip olduğu hakkı devretmeksizin bu hak üzerinde bir başkasına kimi yeni haklar kazandırmasına ne denir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Aslen kazanma",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Olağanüstü zaman aşımıyla kazanma",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Olağan zaman aşımı yoluyla kazanma",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Tesisen kazanma",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Devren kazanma",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Tesisen kazanma**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 73,
+    "questionText": "Yürütme yetkisi kime aittir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cumhurbaşkanı",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "TBMM başkanı",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "İçişleri Bakanı",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Milli Savunma Bakanı",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "TBMM",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Cumhurbaşkanı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  }
+]

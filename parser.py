@@ -361,7 +361,7 @@ def main():
         pairs = [
             ('benzetimtxt.txt', 'benzetim.json'),
             ('bilgisistemleriprojeyonetimi.txt', 'bilgisistemleriprojeyonetimi.json'),
-            ('hukukuntemelkavramlari.txt', 'hukukuntemelkavramlari.json'),
+            ('hukukuntemelkavramlarifinal.txt', 'hukukuntemelkavramlarifinal.json'),
             ('veritabaniyonetimsistemleri.txt', 'veritabaniyonetimsistemleri.json'),
             ('bilgisayarorganizasyonu.txt', 'bilgisayarorganizasyonu.json'),
             ('bilimselarastirmateknikleri.txt', 'bilimselarastirmateknikleri.json'),
