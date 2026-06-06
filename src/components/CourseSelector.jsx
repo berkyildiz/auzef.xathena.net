@@ -11,7 +11,7 @@ const questionCounts = {
   hukukuntemelkavramlarifinal: 73,
   hukukuntemelkavramlaributunleme: 38,
   hukukuntemelkavramlarideneme: 80,
-  bilimselarastirmateknikleri: 194
+  bilimselarastirmateknikleri: 117
 };
 
 const COURSES = [
