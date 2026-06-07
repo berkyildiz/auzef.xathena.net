@@ -31,7 +31,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Bu hükmün bir alan adı uyuşmazlığına uygulanması için öncelikle markayla örtüşen ibarenin internet ortamında ticari etki yaratacak şekilde alan adı olarak kullanılması gerekir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Bu hükmün bir alan adı uyuşmazlığına uygulanması için öncelikle markayla örtüşen ibarenin internet ortamında ticari etki yaratacak şekilde alan adı olarak kullanılması gerekir.**\n\n**Çözüm ve Açıklama:**\nSınai Mülkiyet Kanunu (SMK) m. 7'ye göre, tescilli bir markayla aynı veya benzer olan bir ibarenin 'ticari etki yaratacak şekilde' alan adı, yönlendirici kod veya anahtar sözcük olarak kullanılması marka hakkına tecavüz sayılabilir. Sırf isim benzerliği veya ticari olmayan günlük kullanım her zaman ihlal oluşturmaz; ticari etki şartı aranır."
   },
   {
     "id": 2,
@@ -65,7 +65,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Alan Adları Yönetmeliğinde alan adları belgeli ve belgesiz alan adları diye ikiye ayrılmıştır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Alan Adları Yönetmeliğinde alan adları belgeli ve belgesiz alan adları diye ikiye ayrılmıştır.**\n\n**Çözüm ve Açıklama:**\nTürkiye'de BTK ve TRABİS mevzuatına göre alan adları 'belgeli' (edu.tr, gov.tr, pol.tr gibi tahsisi için resmi kurum belgesi gerekenler) ve 'belgesiz' (com.tr, net.tr, org.tr gibi ilk gelen alır prensibiyle belgesiz tahsis edilenler) olarak ikiye ayrılmaktadır."
   },
   {
     "id": 3,
@@ -99,7 +99,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Reklamların karşılaştırma içermemesi ilkesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Reklamların karşılaştırma içermemesi ilkesi**\n\n**Çözüm ve Açıklama:**\nReklam hukukunda (Ticari Reklam ve Haksız Rekabet Yönetmeliği) 'karşılaştırma içermemesi' diye mutlak bir ilke veya yasak yoktur. Aksine, rakipleri kötülemeden, dürüstlük kurallarına uygun olarak aynı nitelikteki ürünleri kıyaslayan karşılaştırmalı reklamların yapılmasına belirli şartlar altında izin verilmektedir."
   },
   {
     "id": 4,
@@ -133,7 +133,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Hukuki işlem**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Hukuki işlem**\n\n**Çözüm ve Açıklama:**\nHukuk düzeninin sonuç bağladığı ve kişilerin belirli bir hukuki sonuç doğurmaya yönelik irade açıklamalarına 'Hukuki İşlem' denir (Örn: Sözleşme yapmak, vasiyetname düzenlemek). Haksız fiil ise irade dışı doğan ve kanunun sonuç bağladığı hukuka aykırı fiillerdir."
   },
   {
     "id": 5,
@@ -167,7 +167,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: CMK m. 134’de öngörülen koruma tedbirlerini almaya asıl yetkili organ cumhuriyet savcısıdır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: CMK m. 134’de öngörülen koruma tedbirlerini almaya asıl yetkili organ cumhuriyet savcısıdır.**\n\n**Çözüm ve Açıklama:**\nCMK m. 134 kapsamındaki bilgisayarlarda arama, kopyalama ve el koyma koruma tedbirine karar vermeye ASIL YETKİLİ organ 'Hâkim'dir. Cumhuriyet Savcısı ancak gecikmesinde sakınca bulunan hallerde karar verebilir. 'Asıl yetkili organ cumhuriyet savcısıdır' ifadesi bu nedenle yanlıştır."
   },
   {
     "id": 6,
@@ -201,7 +201,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Bir bilgisayar programının fikir ve sanat eserleri hukukunda korunabilmesi için diğer koşullar yanında programcının hususiyetinin taşıması da gerekir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Bir bilgisayar programının fikir ve sanat eserleri hukukunda korunabilmesi için diğer koşullar yanında programcının hususiyetinin taşıması da gerekir.**\n\n**Çözüm ve Açıklama:**\nFikir ve Sanat Eserleri Kanunu (FSEK) uyarınca bir fikri ürünün (örneğin bir bilgisayar programının) eser sayılarak korunabilmesi için, onu yaratan kişinin 'hususiyetini' (yaratıcılığını, ona özgü izleri) taşıması zorunludur. Mutlak yenilik veya buluş basamağı aranmaz, bunlar patent hukukunun kavramlarıdır."
   },
   {
     "id": 7,
@@ -235,7 +235,7 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Banka veya kredi kartlarının kötüye kullanılması suçu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Banka veya kredi kartlarının kötüye kullanılması suçu**\n\n**Çözüm ve Açıklama:**\nTürk Ceza Kanunu'nda (TCK) 'Bilişim Alanında Suçlar' başlığı altında üç ana suç düzenlenmiştir: Bilişim sistemine girme suçu (m. 243), Sistemi engelleme, bozma, verileri yok etme veya değiştirme suçu (m. 244) ve Banka veya kredi kartlarının kötüye kullanılması suçu (m. 245)."
   },
   {
     "id": 8,
@@ -269,7 +269,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: İşletme hakkı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: İşletme hakkı**\n\n**Çözüm ve Açıklama:**\nFSEK kapsamında eser sahibinin mali hakları kanunda sınırlı sayıda sayılmıştır: İşleme, Çoğaltma, Yayma, Temsil ve Umuma İletim hakları. 'İşletme hakkı' adında kanunda tanımlanmış bir mali telif hakkı bulunmamaktadır."
   },
   {
     "id": 9,
@@ -303,7 +303,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Tüketici, cayma hakkı konusunda gerektiği şekilde bilgilendirilmezse, cayma hakkını kullanmak için kanunda belirtilen cayma hakkı süresiyle bağlı değildir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Tüketici, cayma hakkı konusunda gerektiği şekilde bilgilendirilmezse, cayma hakkını kullanmak için kanunda belirtilen cayma hakkı süresiyle bağlı değildir.**\n\n**Çözüm ve Açıklama:**\nTüketicinin Korunması Hakkında Kanun'a göre mesafeli sözleşmelerde tüketici 14 günlük cayma hakkına sahiptir. Eğer satıcı/sağlayıcı, tüketiciyi bu cayma hakkı konusunda kanuna uygun şekilde bilgilendirmezse, tüketici 14 günlük süre ile bağlı olmaz (Cayma süresi 1 yıl uzar)."
   },
   {
     "id": 10,
@@ -337,7 +337,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Suçta ve cezada kanunilik ilkesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Suçta ve cezada kanunilik ilkesi**\n\n**Çözüm ve Açıklama:**\nCeza hukukunun en temel ilkesi olan 'Suçta ve cezada kanunilik ilkesi' (TCK m.2), kimsenin işlendiği zaman yürürlükte bulunan kanunun suç saymadığı bir fiilden dolayı cezalandırılamamasını ve ceza türlerinin kanunda açık, net ve belirli bir şekilde gösterilmesini zorunlu kılar."
   },
   {
     "id": 11,
@@ -371,7 +371,7 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Kişilik haklarını**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Kişilik haklarını**\n\n**Çözüm ve Açıklama:**\nKişinin hayatı, bedeni, sağlığı, resmi, ismi, özel hayatının gizliliği, onuru gibi doğrudan kendi şahsına sıkı sıkıya bağlı olan ve herkese karşı ileri sürülebilen mutlak hakların tümüne 'Kişilik Hakları' denir."
   },
   {
     "id": 12,
@@ -405,7 +405,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Çatı link**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Çatı link**\n\n**Çözüm ve Açıklama:**\nBilişim terminolojisinde; derin link (deep link), frame (çerçeve) link, embedding (gömülü) link, inpage (iç) link gibi yönlendirme türleri mevcuttur. Ancak literatürde veya hukuki metinlerde 'Çatı link' adı verilen bir link verme türü tanımlanmamıştır."
   },
   {
     "id": 13,
@@ -439,7 +439,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: İçerik sağlayıcı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: İçerik sağlayıcı**\n\n**Çözüm ve Açıklama:**\n5651 sayılı İnternet Kanunu'na göre 'İnternet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten, değiştiren ve sağlayan gerçek veya tüzel kişiye' İçerik Sağlayıcı denir."
   },
   {
     "id": 14,
@@ -473,7 +473,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Ticari reklam**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Ticari reklam**\n\n**Çözüm ve Açıklama:**\nBir mal veya hizmetin satışını/kiralanmasını sağlamak veya hedef kitleyi ikna etmek amacıyla yapılan, ticaret, iş veya zanaatla doğrudan bağlantılı olan pazarlama iletişimlerine 'Ticari Reklam' adı verilir."
   },
   {
     "id": 15,
@@ -507,7 +507,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Kendi ağları üzerinde sürekli ve her konuda iç denetim yapacak şekilde en son teknikle geliştirilmiş yapay zekalı program filtreleri kullanma yükümlülüğü**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Kendi ağları üzerinde sürekli ve her konuda iç denetim yapacak şekilde en son teknikle geliştirilmiş yapay zekalı program filtreleri kullanma yükümlülüğü**\n\n**Çözüm ve Açıklama:**\nİnternet Kanunu uyarınca sosyal ağ sağlayıcılarının yurt içinde temsilci bulundurma, reklam kütüphanesi oluşturma ve çocukları korumaya yönelik ayrıştırılmış hizmet sunma yükümlülükleri yasalaşmıştır. Fakat 'sürekli yapay zekalı program filtreleri kullanma' gibi bir zorunluluk kanunda doğrudan tanımlanmamıştır."
   },
   {
     "id": 16,
@@ -541,7 +541,7 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Benimseme ölçütü**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Benimseme ölçütü**\n\n**Çözüm ve Açıklama:**\nSosyal medyada veya internet sitelerinde başkasına ait bir içeriğe yer verilirken, kişinin sunuş biçimiyle bu içeriği onayladığı, desteklediği ve kullanıcıları yönlendirmeyi amaçladığının açıkça belli olmasına hukukta 'Benimseme ölçütü' adı verilmektedir."
   },
   {
     "id": 17,
@@ -575,7 +575,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Başkasının içeriğine link veren bağlantı sağladığı içeriği benimsediği ve kullanıcının söz konusu içeriğe ulaşmasını amaçladığı açıkça belli ise genel hükümlere göre sorumlu olur.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Başkasının içeriğine link veren bağlantı sağladığı içeriği benimsediği ve kullanıcının söz konusu içeriğe ulaşmasını amaçladığı açıkça belli ise genel hükümlere göre sorumlu olur.**\n\n**Çözüm ve Açıklama:**\nSadece link vermek kural olarak sorumluluk doğurmaz; ancak kişi, bağlantı verdiği hukuka aykırı veya zarar verici içeriği 'benimsediğini' ve hedef kitlesine bilerek sunmak istediğini belli edecek şekilde hareket etmişse (benimseme ölçütü), ortaya çıkan zarardan özel hukuk (genel hükümler) çerçevesinde sorumlu tutulabilir."
   },
   {
     "id": 18,
@@ -609,7 +609,7 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Kamu hukuku ve özel hukuk ayrımı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Kamu hukuku ve özel hukuk ayrımı**\n\n**Çözüm ve Açıklama:**\nHukuk sisteminin en büyük ayrımı olan 'Kamu Hukuku' ve 'Özel Hukuk' tasnifi literatürde iki ana teoriyle açıklanır: 1. Menfaat Teorisi (Kamunun yararı mı, özel şahsın yararı mı gözetiliyor?), 2. Özne Teorisi (Devlet üstün güç olarak mı masada, yoksa eşit taraflar mı var?)."
   },
   {
     "id": 19,
@@ -643,7 +643,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Şeffaflık ilkesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Şeffaflık ilkesi**\n\n**Çözüm ve Açıklama:**\nKişisel Verilerin Korunması (KVKK) süreçlerinde, verisi işlenen kişinin; verilerinin ne için, nasıl ve kim tarafından işlendiğini açıkça bilebilmesi, aydınlatma yükümlülüğünün yerine getirilmesi hukuktaki 'Şeffaflık İlkesi' ile ifade edilir."
   },
   {
     "id": 20,
@@ -677,6 +677,6 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: A’nın kullanılmış cep telefonunu bit pazarında B’ye C'nin aracılığıyla 2000 TL’ye satıp parasını peşin alması**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: A’nın kullanılmış cep telefonunu bit pazarında B’ye C'nin aracılığıyla 2000 TL’ye satıp parasını peşin alması**\n\n**Çözüm ve Açıklama:**\nMesafeli sözleşme, tarafların fiziksel olarak karşı karşıya gelmeden, uzaktan iletişim araçları (internet, telefon, e-posta) kullanarak kurdukları sözleşmelerdir. Bit pazarında iki kişinin yüz yüze gelerek peşin para ile telefon alıp satması, fiziksel bir işlem olduğu için mesafeli sözleşme kavramına girmez."
   }
 ]
