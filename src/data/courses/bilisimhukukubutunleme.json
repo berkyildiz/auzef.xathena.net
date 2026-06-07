@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "questionText": "Alan adı uyuşmazlıklarına da uygulanabilen Sınai Mülkiyet Kanunu m. 7 III hükmü açısından aşağıdakilerden hangisi doğrudur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bu hükümde patent hakkı sahibine patentine aykırı alan adlarını engelleme yetkisi verildiğinden, bu hüküm patent hakkı ve alan adı uyuşmazlıklarını da düzenlemektedir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Bu maddeyle aynı zamanda eser koruması ve eser sahibinin hakları düzenlendiğinden eser sahibi bu hükme dayanarak eseriyle örtüşen alan adlarını engelleme yoluna gidebilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Bu hükme göre bir kişinin markasıyla örtüşen işareti alan adı olarak ilk önce kaydettiren diğer kişi üstün bir hakka bulunmasa bile her durumda ve hukuka uygun şekilde alan adının sahibi olur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Bu hükmün bir alan adı uyuşmazlığına uygulanması için öncelikle markayla örtüşen ibarenin internet ortamında ticari etki yaratacak şekilde alan adı olarak kullanılması gerekir.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Bu hüküm, bir kişinin isminin bir başkası tarafından alan adı olarak kaydettirilip kullanılması nedeniyle ortaya çıkan bir uyuşmazlığa da doğrudan ve birebir uygulanır.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Bu hükmün bir alan adı uyuşmazlığına uygulanması için öncelikle markayla örtüşen ibarenin internet ortamında ticari etki yaratacak şekilde alan adı olarak kullanılması gerekir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 2,
+    "questionText": "Hukukumuzda alan adı sistemi açısından aşağıdakilerden hangisi doğrudur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Alan adlarının verilmesi ve sistemin yürütülmesi açısından hukukumuzda güncel olarak yetkili kurum ODTÜ nic.tr’dir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Alan adlarına dair temel çerçeveyi düzenlemek ve uyuşmazlıkları çözmek için hukukumuzda Alan Adları Kanunu kabul edilmiştir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Türkiye’de verilen alan adları (com.tr, edu.tr, net.tr vs.) ICANN ve onun bir kuruluşu olan IANA tarafından doğrudan verilmektedir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Alan Adları Yönetmeliğinde alan adları belgeli ve belgesiz alan adları diye ikiye ayrılmıştır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Alan adlarına dair yönetmelikte belgeli alan adları için ilk gelen ilk alır kuralı açıkça düzenlenmiştir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Alan Adları Yönetmeliğinde alan adları belgeli ve belgesiz alan adları diye ikiye ayrılmıştır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 3,
+    "questionText": "Aşağıdakilerden hangisi reklam hukuku kapsamında geçerli ilkelerden değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Reklamların genel ahlak kurallarına aykırı ifade ve görüntüler içermemesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Her türlü iletişim aracında sesli, yazılı ve görsel olarak örtülü reklam yapılmasının yasak olması",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Küçükleri koruyucu, bunları şiddete itecek ve farklı şekillerde sömürülmelerini engelleyecek tarzda reklam yapılması",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Reklamların karşılaştırma içermemesi ilkesi",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Reklamların insan onuru ve kişilik haklarını zedeleyici biçimde yapılmaması",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Reklamların karşılaştırma içermemesi ilkesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 4,
+    "questionText": "“Belirli bir hukuki sonuç doğurmaya yönelik ve hukuk düzeni tarafından tanınan irade açıklaması.” Yukarıda yer alan cümle tam olarak aşağıdakilerden hangisini tanımlamaktadır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hukuki işlem",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Haksız fiil",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "E-ticaret",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Vekaletsiz iş görme",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Tüketici işlemi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Hukuki işlem**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 5,
+    "questionText": "Bilişim ceza hukukundaki koruma tedbirleri açısından aşağıdakilerden hangisi yanlıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "CMK m. 134’de öngörülen koruma tedbirlerini almaya asıl yetkili organ cumhuriyet savcısıdır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "5651 Sayılı Kanun’da (kısaca İnternet Kanunu) diğer bazı tedbirler yanında erişime engelleme tedbiri de öngörülmüştür.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Ceza Yargılaması Hukukunda düzenlen (CMK m. 134) ve bilişim ceza hukuku kapsamına giren koruma tedbirlerinden en önde geleni bilgisayarlarda, bilgisayar programlarında ve kütüklerinde arama ve kopyalama yapma veya bunlara el koymayla ilgilidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Ceza Muhakemeleri Kanunu m. 134 çerçevesinde bilgisayar veya bilgisayar kütüklerine el koyma işlemi sırasında, sistemdeki bütün verilerin yedeklemesi yapılır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "5651 Sayılı Kanunda öngörülen ve ceza hukukuna dair koruma tedbiri kararları, ilgili suçun işlenmeye devam edilmesini engellemeye yöneliktirler.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: CMK m. 134’de öngörülen koruma tedbirlerini almaya asıl yetkili organ cumhuriyet savcısıdır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 6,
+    "questionText": "Bir bilgisayar programının fikri mülkiyet hukuku kapsamında korunabilmesi açısından aşağıdakilerden hangisi gerekli bir unsurdur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bir bilgisayar programının patent hukuku kapsamında korunabilmesi için yeni olması yeterlidir, ayrıca buluş basamağını aşması gerekmez, çünkü bilgisayar programlarında bu koşul işin niteliği gereği önemsizdir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Bir bilgisayar programının fikir ve sanat eserleri hukukunda korunabilmesi için diğer koşullar yanında programcının hususiyetinin taşıması da gerekir.",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Bilgisayar programının eser olarak korunabilmesi için her yönüyle özgün (orijinal) olması ve ortalamanın üstünü belirgin şekilde aşması gerekir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Bilgisayar programının muhakkak en yeni programlama dilinde yazılmış olması gerekir, çünkü ancak yeni programlar korunabilirler.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Bir programcının her yönüyle kurguladığı ve kafasında bütün ayrıntılarını oluşturduğu program, henüz dışarıdan algılanabilir şekilde açıklanmamış/ortaya konulmamış olsa bile FSEK kapsamında korunan bir üründür.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Bir bilgisayar programının fikir ve sanat eserleri hukukunda korunabilmesi için diğer koşullar yanında programcının hususiyetinin taşıması da gerekir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 7,
+    "questionText": "Aşağıdakilerden hangisi TCK’da “bilişim alanındaki suçlar” başlığı altında düzenlenen suçlardandır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bir mağazadan bilgisayar ve bilgisayar programı çalmak",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Kaçakçılık yapmak için internet üzerinden haberleşmek",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Bir kişinin evine gizlice kamera yerleştirilip kişinin izlenmesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Banka soymak için internetten silah satın almak",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Banka veya kredi kartlarının kötüye kullanılması suçu",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Banka veya kredi kartlarının kötüye kullanılması suçu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 8,
+    "questionText": "Aşağıdakilerden hangisi fikir ve sanat eserleri hukukunda korunan bir eser üzerindeki fikri haklardan değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Umuma iletim hakkı",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Yayma hakkı",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "İşletme hakkı",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Çoğaltma hakkı",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Eser sahibi olarak anılma hakkı",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: İşletme hakkı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 9,
+    "questionText": "Tüketicinin Korunmasına Dair Kanunda mesafeli sözleşmeler için getirilmiş cayma hakkı itibariyle aşağıdakilerden hangisi doğrudur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cayma hakkı açısından getirilmiş olan süre normalde otuz iki gündür.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Mesafeli sözleşmeler itibariyle cayma hakkının bir istisnası yoktur ve her durumda uygulanmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Tüketici, cayma hakkı konusunda gerektiği şekilde bilgilendirilmezse, cayma hakkını kullanmak için kanunda belirtilen cayma hakkı süresiyle bağlı değildir.",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Cayma hakkının kullanıldığına dair her zaman noter üzerinden yapılması zorunlu olan bildirimin süresi içinde satıcı veya sağlayıcıya yöneltilmiş olması yeterlidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Cayma hakkını kullanabilmek için asıl olarak bir gerekçe gösterilmesi gerekir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Tüketici, cayma hakkı konusunda gerektiği şekilde bilgilendirilmezse, cayma hakkını kullanmak için kanunda belirtilen cayma hakkı süresiyle bağlı değildir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 10,
+    "questionText": "Ceza hukuku kapsamında, kanunda suç ve cezanın belirtilmiş olmasını, suç tanımlamalarının ve ceza belirlenmesinin açık (belirli, net) olmasını ifade eden ilke aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Suçta ve cezada kanunilik ilkesi",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Somut ceza ilkesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Şeffaflık ilkesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Suçun maddi ve manevi unsuru ilkesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kusura dayalı ceza ilkesi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Suçta ve cezada kanunilik ilkesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 11,
+    "questionText": "“Kişinin doğumla kazandığı bağımsız varlığını ve bütünlüğünü oluşturan; hayat, beden ve ruh tamlığı, vicdan, din, düşünce ve çalışma özgürlüğü, onuru, ismi, resmi, sırları ile aile bütünlüğü, sosyal ve duygusal değerlerinin tümü ….. oluşturur.” Yukarıda yer alan ve bir Yargıtay kararından alınan cümledeki boş olan yere aşağıdaki şıklardan hangisi gelmelidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mutlak değerleri",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Fikri hakları",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Temel hak ve özgürlükleri",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Kısmi mutlak hakları",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kişilik haklarını",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Kişilik haklarını**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 12,
+    "questionText": "Aşağıdakilerden hangisi bir link verme türü değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Çatı link",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Embedding (gömülü) link",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "İç link (inpagelink)",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Frame (çerçeve) link",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Derin link",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Çatı link**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 13,
+    "questionText": "5651 Sayılı Kanun’da (kısaca İnternet Kanunu) yer alan ve şu cümle “İnternet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten, değiştiren ve sağlayan gerçek veya tüzel kişi.” aşağıdakilerden hangisini tanımlamaktadır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Yer sağlayıcı",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "İçerik sağlayıcı",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Toplu kullanım sağlayıcı",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Aracı hizmet sağlayıcı",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Erişim sağlayıcı",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: İçerik sağlayıcı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 14,
+    "questionText": "Ticaret, iş, zanaat veya bir meslekle bağlantılı olarak, bir mal veya hizmetin satışını ya da kiralanmasını sağlamak, hedef kitleyi oluşturanları bilgilendirmek veya ikna etmek amacıyla reklam verenler tarafından herhangi bir mecrada yazılı, görsel, işitsel ve benzeri yollarla gerçekleştirilen pazarlama iletişimi niteliğindeki duyurular. Yukarıda yer alan ifadede aşağıdakilerden hangisi anlatılmaktadır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Multimedya tipi reklam",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Toplu reklam",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Ticari reklam",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Siyasi reklam",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Duyurum niteliğindeki reklam",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Ticari reklam**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 15,
+    "questionText": "Aşağıdakilerden hangisi İnternet Kanununda özellikle yurt dışı kaynaklı ve erişimi yüksek sosyal ağ sağlayıcılara getirilen yükümlülüklerden değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kendi üzerinden gerçekleştirilen reklam ve reklam süreçlerine dair (reklam veren, reklam süresi hedef kitle gibi bilgileri içeren) bir reklam kütüphanesi oluşturarak bunu internet sitesi üzerinden yayınlama ve reklam raporu verme yükümlülüğü",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Küçüklere özgü ayrıştırılmış hizmet sunma konusunda gerekli tedbirleri alma yükümlülüğü",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kendi ağları üzerinde sürekli ve her konuda iç denetim yapacak şekilde en son teknikle geliştirilmiş yapay zekalı program filtreleri kullanma yükümlülüğü",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Özel hayatın korunması başta olmak üzere kişilik hakkı ihlallerine dair kendisine yapılan başvurulara zamanında cevap verme yükümlülüğü",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Türkiye’den günlük erişimi bir milyondan fazla olan yurt dışı kaynaklı sosyal ağ sağlayıcıları yurt içinde temsilci bulundurma yükümlülüğü",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Kendi ağları üzerinde sürekli ve her konuda iç denetim yapacak şekilde en son teknikle geliştirilmiş yapay zekalı program filtreleri kullanma yükümlülüğü**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 16,
+    "questionText": "Sunuş biçiminden, bağlantı sağladığı içeriği benimsediği ve kullanıcının söz konusu içeriğe ulaşmasını amaçladığı açıkça belli olma. Sosyal medya üzerinden gerçekleşen paylaşımların hukuken değerlendirilmesi çerçevesinde önem taşıyacak olan bir ölçütü ifade eden yukarıdaki cümle aşağıdakilerden hangi ölçüte karşılık gelmektedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Dönüştürme ölçütü",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Çok amaç gütme ölçütü",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Ulaştırma ölçütü",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Hedef kitle ölçütü",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Benimseme ölçütü",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Benimseme ölçütü**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 17,
+    "questionText": "İnternet ortamında başkasının içeriğine link vererek bağlantı sağlayan kişi için özel hukuk sorumluluğu açısından aşağıdakilerden hangisi geçerlidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Link vermek internet açısından olağan ve hatta neredeyse vazgeçilmez bir durum olduğundan ticari amaçla hareket edilse dahi link vermek sorumluluk doğurmaz.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Başkasının içeriğine derin link vermek için her zaman izin almak gerekirken ana sayfaya link vermek ise serbesttir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Başkasının içeriğine link veren ticari amaçla hareket etmese dahi normalde sorumlu olur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Başkasının içeriğine link veren bağlantı sağladığı içeriği benimsediği ve kullanıcının söz konusu içeriğe ulaşmasını amaçladığı açıkça belli ise genel hükümlere göre sorumlu olur.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Başkasının içeriğine frame (çerçeve) link veren her durumda sorumlu olurken normal link veren kişi sorumlu olmaz.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Başkasının içeriğine link veren bağlantı sağladığı içeriği benimsediği ve kullanıcının söz konusu içeriğe ulaşmasını amaçladığı açıkça belli ise genel hükümlere göre sorumlu olur.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 18,
+    "questionText": "“Menfaat teorisi, hangi tür çıkarın (genelin, kamunun veya özelin, kişilerin) dikkate alındığına bakarken, bazı alanlarda yeterince ikna edici değildir. Örneğin aile hukukunda kamunun çıkarının da korunduğu bir alan mevcuttur. Buna karşılık özne teorisi, hukuki ilişkinin taraf ya da taraflarını esas almakta ve buna göre hukuka dair bir tasnif gerçekleştirmektedir.” Yukarıda yer alan metindeki açıklama, şıklarda belirtilen hangi hususa dair bir açıklamadır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kamu adaleti ve sosyal adalet ayrımı",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Hukuk düzeninin karmaşık yapısı",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kurallar hiyerarşisi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Maddi hukuk şekli hukuk ayrımı",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kamu hukuku ve özel hukuk ayrımı",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Kamu hukuku ve özel hukuk ayrımı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 19,
+    "questionText": "Kişisel verilerin işlenmesi süreci açısından, bu sürecin, verisi işlenen kişi penceresinden (işleme sürecinin, neyin ve kim tarafından işlendiğinin vs.) açık/belirli olmasını, bu süreçte veri üzerindeki hakimiyetinin korunmasını ve sürece dair bilgilenme imkânı verilmesini ifade eden ilke aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kişisel verilerin doğru ve gerektiğinde güncel olması ilkesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Şeffaflık ilkesi",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Amaca bağlılık ilkesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Hukuka ve dürüstlük kuralına uygunluk ilkesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Güvenilirlik ve gizlilik ilkesi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Şeffaflık ilkesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 20,
+    "questionText": "Aşağıdakilerden hangisi bir mesafeli sözleşme örneği değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "A’nın tam da bu amaçla programladığı ve internetten program çerçevesinde sipariş verebilen bilgisayarının A’nın istediği gibi bir ürünü pazarlayan bir web sitesine gece A uyurken sipariş vermesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "A’nın kullanılmış cep telefonunu bit pazarında B’ye C'nin aracılığıyla 2000 TL’ye satıp parasını peşin alması",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "İki yapay zeka sisteminin programlanma şekillerine uygun olarak sözleşme yapmaları",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "A’nın evinde bulunan akıllı buzdolabının, buzdolabındaki sütün çok az kaldığını fark edip internet üzerinden otomatik olarak anlaşmalı marketten süt siparişi vermesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "A’nın değerli bir kol saatini WhattsApp üzerinden görüşerek B’ye satması",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: A’nın kullanılmış cep telefonunu bit pazarında B’ye C'nin aracılığıyla 2000 TL’ye satıp parasını peşin alması**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  }
+]

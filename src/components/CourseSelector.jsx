@@ -12,7 +12,8 @@ const questionCounts = {
   hukukuntemelkavramlaributunleme: 38,
   hukukuntemelkavramlarideneme: 80,
   bilimselarastirmateknikleri: 117,
-  bilisimhukuku: 39
+  bilisimhukuku: 39,
+  bilisimhukukubutunleme: 20
 };
 
 const COURSES = [
@@ -102,6 +103,14 @@ const COURSES = [
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
     questionCount: questionCounts.bilisimhukuku,
     color: '#ec4899', // Pink color
+    category: 'final'
+  },
+  {
+    id: 'bilisimhukukubutunleme',
+    title: 'Bilişim Hukuku (Bütünleme)',
+    description: 'Geçmiş dönem çıkmış sorular ve cevapları',
+    questionCount: questionCounts.bilisimhukukubutunleme,
+    color: '#a855f7', // Purple color
     category: 'final'
   }
 ];
