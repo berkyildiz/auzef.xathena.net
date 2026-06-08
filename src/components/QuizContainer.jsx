@@ -1,28 +1,14 @@
+"use client";
 import { useState, useEffect } from 'react';
 import { ArrowLeft, RotateCcw, CheckCircle, Award, Menu, X } from 'lucide-react';
 import QuestionCard from './QuestionCard';
+import Link from 'next/link';
 
-export default function QuizContainer({ courseId, courseTitle, testConfig, onBack }) {
-  const [questions, setQuestions] = useState([]);
+export default function QuizContainer({ courseId, courseTitle, testConfig, questions }) {
   const [userAnswers, setUserAnswers] = useState({});
   const [revealedQuestions, setRevealedQuestions] = useState({});
   const [isFinished, setIsFinished] = useState(false);
-  const [isLoading, setIsLoading] = useState(true);
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
-
-  useEffect(() => {
-    import(`../data/courses/${courseId}.json`)
-      .then((module) => {
-        const data = [...module.default];
-        const slice = data.slice(testConfig.startIndex, testConfig.endIndex);
-        setQuestions(slice);
-        setIsLoading(false);
-      })
-      .catch((err) => {
-        console.error("Sorular yüklenirken hata oluştu:", err);
-        setIsLoading(false);
-      });
-  }, [courseId, testConfig]);
 
   // Lock body scroll when drawer is open on mobile
   useEffect(() => {
@@ -79,21 +65,15 @@ export default function QuizContainer({ courseId, courseTitle, testConfig, onBac
     }, 100);
   };
 
-  if (isLoading) {
-    return (
-      <div className="container" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: '60vh' }}>
-        <div className="loader">Sorular Yükleniyor...</div>
-      </div>
-    );
-  }
-
-  if (questions.length === 0) {
+  if (!questions || questions.length === 0) {
     return (
       <div className="container" style={{ textAlign: 'center', marginTop: '4rem' }}>
         <h2>Henüz soru eklenmemiş.</h2>
-        <button className="btn btn-outline" style={{ marginTop: '2rem' }} onClick={onBack}>
-          <ArrowLeft size={18} /> Testlere Dön
-        </button>
+        <Link href={`/ders/${courseId}`}>
+          <button className="btn btn-outline" style={{ marginTop: '2rem' }}>
+            <ArrowLeft size={18} /> Testlere Dön
+          </button>
+        </Link>
       </div>
     );
   }
@@ -124,9 +104,11 @@ export default function QuizContainer({ courseId, courseTitle, testConfig, onBac
         <div className="container header-container">
           
           <div className="header-left">
-            <button className="btn btn-icon btn-outline" onClick={onBack} title="Testlere Dön" style={{ padding: '0.4rem' }}>
-              <ArrowLeft size={20} /> 
-            </button>
+            <Link href={`/ders/${courseId}`}>
+              <button className="btn btn-icon btn-outline" title="Testlere Dön" style={{ padding: '0.4rem' }}>
+                <ArrowLeft size={20} /> 
+              </button>
+            </Link>
             <div className="breadcrumbs hide-mobile" style={{ fontSize: '0.9rem' }}>
               {courseTitle || courseId} / <strong>{testConfig.title}</strong>
             </div>

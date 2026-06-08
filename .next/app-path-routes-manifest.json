@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/ders/[courseId]/page": "/ders/[courseId]",
+  "/ders/[courseId]/test/[testId]/page": "/ders/[courseId]/test/[testId]",
+  "/page": "/",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml"
+}

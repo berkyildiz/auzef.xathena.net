@@ -1,0 +1,57 @@
+[
+  {
+    "route": "/ders/[courseId]/test/[testId]",
+    "firstLoadUncompressedJsBytes": 532045,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\05-c3ty_6dwfk.js",
+      ".next\\static\\chunks\\14mrh2-p_w84d.js",
+      ".next\\static\\chunks\\0kstvo1-x2hjq.js",
+      ".next\\static\\chunks\\3z5q_p4msz2ha.js",
+      ".next\\static\\chunks\\15orcrkp-_9ct.js",
+      ".next\\static\\chunks\\3n7dm2ojtyzwn.js",
+      ".next\\static\\chunks\\082obv3v03b-9.js",
+      ".next\\static\\chunks\\turbopack-16rh89gv7wcpw.js"
+    ]
+  },
+  {
+    "route": "/",
+    "firstLoadUncompressedJsBytes": 521126,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\05-c3ty_6dwfk.js",
+      ".next\\static\\chunks\\14mrh2-p_w84d.js",
+      ".next\\static\\chunks\\02ano3d0-_59t.js",
+      ".next\\static\\chunks\\3z5q_p4msz2ha.js",
+      ".next\\static\\chunks\\15orcrkp-_9ct.js",
+      ".next\\static\\chunks\\3n7dm2ojtyzwn.js",
+      ".next\\static\\chunks\\082obv3v03b-9.js",
+      ".next\\static\\chunks\\turbopack-16rh89gv7wcpw.js"
+    ]
+  },
+  {
+    "route": "/ders/[courseId]",
+    "firstLoadUncompressedJsBytes": 521126,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\05-c3ty_6dwfk.js",
+      ".next\\static\\chunks\\14mrh2-p_w84d.js",
+      ".next\\static\\chunks\\02ano3d0-_59t.js",
+      ".next\\static\\chunks\\3z5q_p4msz2ha.js",
+      ".next\\static\\chunks\\15orcrkp-_9ct.js",
+      ".next\\static\\chunks\\3n7dm2ojtyzwn.js",
+      ".next\\static\\chunks\\082obv3v03b-9.js",
+      ".next\\static\\chunks\\turbopack-16rh89gv7wcpw.js"
+    ]
+  },
+  {
+    "route": "/_not-found",
+    "firstLoadUncompressedJsBytes": 514101,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\05-c3ty_6dwfk.js",
+      ".next\\static\\chunks\\14mrh2-p_w84d.js",
+      ".next\\static\\chunks\\3z5q_p4msz2ha.js",
+      ".next\\static\\chunks\\15orcrkp-_9ct.js",
+      ".next\\static\\chunks\\3n7dm2ojtyzwn.js",
+      ".next\\static\\chunks\\082obv3v03b-9.js",
+      ".next\\static\\chunks\\turbopack-16rh89gv7wcpw.js"
+    ]
+  }
+]
