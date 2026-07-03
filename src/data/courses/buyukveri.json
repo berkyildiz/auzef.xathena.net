@@ -1,482 +1,6 @@
 [
   {
     "id": 1,
-    "questionText": "Aşağıdakilerden hangisi bulut bilişimin veri etkileşiminde olduğu bir bileşen değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Dayanıklılık",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Süreklilik",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Anlamlılık",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Erişim",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Gizlilik",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Anlamlılık**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 2,
-    "questionText": "I. Klinik referanslar II. Genomik veriler III. Statik veriler IV. Yayınlar Sağlık hizmetlerinde birçok kaynaktan çok sayıda veri üretilmektedir. Yukarıda verilenlerden hangileri sağlık hizmetlerindeki büyük veri kaynaklarındandır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "I ve III",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "I, II ve IV",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Il ve III",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "I ve IV",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "I, II ve III",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: I, II ve IV**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 3,
-    "questionText": "…….. büyük veri analizlerini iletmek, anlamak ve geliştirmek için resimler, diyagramlar ya da animasyonlar oluşturmak için kullanan bir tekniktir. Yukarıdaki cümlede verilen boşluğa aşağıdakilerden hangisi gelmelidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Zaman serisi analizi",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Optimizasyon",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Doğal dil işleme",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Sinyal işleme",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Büyük veri görselleştirme",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Büyük veri görselleştirme**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 4,
-    "questionText": "Aşağıdakilerden hangisi yapay zekânın veriden elde ettiği amaçlardan biri değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Tahminde bulunma",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Kümeleme",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Sınıflandırma",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Bölütleme",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Yakımsama, optimizasyon",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Bölütleme**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 5,
-    "questionText": "Aşağıdakilerden hangisi Kişisel Verileri Koruma Kurulu’nun görev ve yetkilerinden değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Veri sorumluları sicilinin tutulmasını sağlamak",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Özel nitelikli kişisel verilerin işlenmesi için aranan yeterli önlemleri belirlemek",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Veri sorumlusunun ve temsilcisinin görev, yetki ve sorumluluklarına ilişkin düzenleyici işlem yapmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Veri güvenliğine ilişkin yükümlülükleri belirlemek amacıyla düzenleyici işlem yapmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Anonimleşen verilerden kimlik bilgilerinin belirlenmesini sağlamak",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Anonimleşen verilerden kimlik bilgilerinin belirlenmesini sağlamak**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 6,
-    "questionText": "Herkesin özgürce ve yeniden kullanabileceği ve yeniden dağıtılabilen, yalnızca nitelik ve paylaşım gereksinimine tabi olan veridir. Tanımı verilen veri çeşidi aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Gri veri",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Karanlık veri",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Semantik veri",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Açık veri",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Büyük veri",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Açık veri**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 7,
-    "questionText": "Aşağıdakilerden hangisi mahremiyet yaklaşımlarında ele alınan boyutlardan biridir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Erişilebilirlik mahremiyeti",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Boyut mahremiyeti",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Gizlilik mahremiyeti",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Açıklık mahremiyeti",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Bilgi mahremiyeti",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Bilgi mahremiyeti**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 8,
-    "questionText": "Aşağıdakilerden hangisi Apache Spark ile bir büyük veri analizi süreci için hatalı bir bilgi içermektedir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "SparkContext komutu ile projenin içindeki değişkenlerin içeriği görüntülenir.",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Init() komutu ile yüklenen kütüphaneler çalışır hale getirilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Pip install komutu ile Python'a yeni kütüphaneler yüklenir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Import komutu ile yüklü kütüphaneler projeye dâhil edilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "SparkSession.builder komutu sayesinde yerel bilgisayarda çok çekirdekli bir uygulama başlatılabilir.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: SparkContext komutu ile projenin içindeki değişkenlerin içeriği görüntülenir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 9,
-    "questionText": "“Semantik web sayesinde makinelerin etkileşiminin yanında …….. etkileşiminin de üst seviyeye ulaşması beklenmektedir.” Yukarıdaki cümlede verilen boşluğa aşağıdakilerden hangisi gelmelidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "İnsan - İnsan",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Web Makine",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Makine İnsan",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Makine Makine",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Web - İnsan",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Makine İnsan**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 10,
-    "questionText": "Python ortamında kullanılan “map” komutu aşağıdaki hangi işlemi gerçekleştirmek için kullanılır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Tüm harfleri sıralamak için",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Özelliklerin frekans değerlerini büyükten küçüğe sıralamak için",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Kelimelerin benzerliğine göre frekanslarını bulmak için",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Tüm özellikleri haritalamak, yeni özellik ekleme, çıkarma, revize etmek için",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Modelin tüm parametrelerini görüntülemek için",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Tüm özellikleri haritalamak, yeni özellik ekleme, çıkarma, revize etmek için**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 11,
-    "questionText": "Aşağıdakilerden hangisi işletmelerin büyük veri kaynaklarından biri değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Personel",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Müşteri",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Doküman",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Web ve mobil uygulama",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Ürün",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Personel**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 12,
-    "questionText": "Aşağıdakilerden hangisi Konvolüsyonel Sinir Ağları (CNN) için kesinlikle yanlış bir ifadedir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "İleri beslemeli gelişmiş bir yapay sinir ağıdır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Hayvan görsel korteksinden ilham almıştır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Derin sinir ağlarının başında gelmektedir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Geri beslemeli bir yapay sinir ağıdır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Girişleri iki veya üç boyutlu görüntü olarak varsaymaktadır.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Geri beslemeli bir yapay sinir ağıdır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 13,
-    "questionText": "Nicel ve nitel analiz yöntemleri arasındaki temel fark aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Nitel veri küçük veri kümelerini, nicel veri büyük veri kümelerini analiz eder.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Betimsel istatistik nitel analizde, kavramsal istatistik nicel analizde kullanılır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "İki yöntem de analiz için farklı teknolojiler kullanır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Nitel analiz, nicel analizden daha kesin sonuçlar üretir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Nicel analiz sayısal verilerle, nitel analiz soyut verilerle yapılan analizdir.",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Nicel analiz sayısal verilerle, nitel analiz soyut verilerle yapılan analizdir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 14,
-    "questionText": "Sağlık hizmetleri verileri, kamuya açık hale getirilmemesi için yetkisiz erişime karşı güvence altına alınması gereken son derece hassas verilerdir ve ayrıca sağlık hizmeti sahtekarlığı da saldırganlardan önlenebilir. Bu nedenle, …….. sağlık alanındaki en önemli ve zorlu görevlerden biridir. Yukarıdaki cümlede verilen boşluğa aşağıdaki cümlelerden hangisi gelmelidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Verinin hacmi",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Verinin toplanması",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Veri güvenliği",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Verinin hızı",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Verinin ekonomik değeri",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Veri güvenliği**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 15,
     "questionText": "Aşağıdakilerden hangisi bilgi güvenliğinin ana unsurlardan biri değildir?",
     "imageUrl": null,
     "options": [
@@ -507,758 +31,10 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Sürdürülebilirlik**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Sürdürülebilirlik**"
   },
   {
-    "id": 16,
-    "questionText": "Aşağıdakilerden hangisi veri gelişimi sırasında kullanılan isimlerden biri değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Smart Veri",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Gri Veri",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Kapsamlı Veri",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Büyük Veri",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Veri",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Gri Veri**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 17,
-    "questionText": "Aşağıdakilerden hangisi PySpark için doğru bir tanımlamadır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Python ile Spark iş birliği sonucu ortaya çıkmış olup Python kütüphanesinin ismidir.",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Apache Spark tarafından oluşturulmuş son versiyondur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Gerçek zamanlı verileri işlemek amacıyla oluşturulmuş bir R dili kütüphanesidir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Büyük verideki gizli örüntüleri analiz etmek için oluşturulmuş bir veri tabanı uygulamasıdır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Rastgele dağıtılmış veri kümelerini işlemek için oluşturulmuş bir teknolojidir.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Python ile Spark iş birliği sonucu ortaya çıkmış olup Python kütüphanesinin ismidir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 18,
-    "questionText": "Dolandırıcılıktan teröre kadar değişen güvenlik sorunlarını çözmek için büyük veri analitiği yöntemlerini kullanarak çözümler üretmektedir. Sistemlerini CIA destekleriyle geliştirmiş ve ABD hükümeti ve güvenlik kurumları tarafından yaygın bir şekilde kullanılmaktadır. Yukarıda verilen bilgiler hangi kurumun büyük veri uygulaması sayesinde gerçekleştirilmiştir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Palantir Technologies",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Amerikan Kroger Şirketi",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Commonbond Platformu",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "CERN Büyük Hadron Çarpıştırıcısı",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Tennessee Valley Authority (Tennessee Vadisi Yönetimi)",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Palantir Technologies**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 19,
-    "questionText": "Aşağıdakilerden hangisi Apache Spark mimarisinde yer alan bir bileşendir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Task spliter (İşlem bölütleme)",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Cluster manager (Küme yönetimi)",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Session runner (Oturum yürütücü)",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "System program (Sistem programı)",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "OS session (İşletim sistemi oturumu)",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Session runner (Oturum yürütücü)**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 20,
-    "questionText": "Karıştırma ve permütasyon olarak da bilinir, veri kümesi öznitelik değerlerini orijinal kayıtlara karşılık gelmeyecek şekilde yeniden düzenlemek maksadıyla kullanılan bir tekniktir. Yukarıda açıklanan veriyi anonimleştirme tekniği aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Veriyi Maskeleme",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Veri Değiştirme",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Genelleme",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Takma Adlandırma",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Veri Bozulması",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Veri Değiştirme**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 21,
-    "questionText": ">> reduceByKey Yukarıdaki Python komutu aşağıdaki işlemlerden hangisini gerçekleştirmek için yazılmıştır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Kelimelerin frekans değerlerini büyükten küçüğe sıralamak için",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Kelimelerin uzunluklarına göre sıralamaları bulmak için",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Küçük harften oluşan kelimeleri büyük barfe dönüştürmek için",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Büyük harften oluşan kelimeleri küçük harfe dönüştürmek için",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Kelimelerin benzerliğine göre frekanslarını bulmak için",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Kelimelerin benzerliğine göre frekanslarını bulmak için**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 22,
-    "questionText": "Aşağıdakilerden hangisi Kişisel Verileri Koruma Kurumunun (KVKK) büyük verideki ihlallerin azaltılmasına yönelik önerdiği teknik önlemlerden biri değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Saldırı tespit ve önleme sistemleri oluşturulmalıdır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Yetkilendirme matrisi oluşturulmalıdır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Ağ ortamının güvenliği sağlanmalıdır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Veriler üzerinde analiz işlemleri engellenmelidir.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Sızma testleri yapılarak kurum güvenliği test edilmelidir.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Veriler üzerinde analiz işlemleri engellenmelidir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 23,
-    "questionText": "Aşağıdakilerden hangisi Pyspark ortamında sayfalama amacıyla kullanılır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "take() komutu",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "init() komutu",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "file() komutu",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "lambda() komutu",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "page() komutu",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: take() komutu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 24,
-    "questionText": "Büyük veri analizinde kullanılan temel iki yöntem aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Çevrim İçi Veri Analizi - Çevrim Dışı Veri Analizi",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Nicel Veri Analizi - Nitel Veri Analizi",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Erişilebilir Veri Analizi Erişimsiz Veri Analizi",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Kapsamlı Veri Analizi - Sınırlı Veri Analizi",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Sayısal Veri Analizi - Sözel Veri Analizi",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Nicel Veri Analizi - Nitel Veri Analizi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 25,
-    "questionText": "Aşağıdakilerden hangisi mahremiyet koruma modellerinden biri olan yukarıdan aşağıya özelleştirme döngüsü aşamalarından biri değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Bilgi kaybının hesaplanması",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "En iyi genelleştirme yönteminin belirlenmesi",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "En iyi bölütleyen boyutunun bulunması",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "En iyi genelleştirmenin bulunması",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Mevcut verinin anonimlik gereksinimini karşılayıp karşılamadığının belirlenmesi",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: En iyi bölütleyen boyutunun bulunması**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 26,
-    "questionText": "Aşağıdakilerden hangisi yapay zekâyı modellemede kullanılan yöntemlerden biri değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Görselleştirme",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Simülasyon",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Hipotez testi",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Veri madenciliği",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Optimizasyon",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Hipotez testi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 27,
-    "questionText": "Sosyal ve ekonomik yönden toplum faydasını amaçlayan açık veriler, toplumsal ve kurumsal yapıların ihtiyaçlarına cevap veren yenilikçi çözümler sunmalıdır. Yukarıda bahsedilen özellik açık verinin hangi ilkesi ile ilgilidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "İnovasyon odaklılık",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "İşlenebilirlik",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Kapsayıcılık",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Güncellik",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Yeniden kullanılabilirlik",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: İnovasyon odaklılık**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 28,
-    "questionText": "Aşağıdakilerden hangisi veri miktarının artmasına bağlı olarak performans değişimi ile ilgili yanlış bir bilgidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Veri miktarının azalması orta ölçekli sinir ağlarının performansını etkilememektedir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Veri miktarı artıkça derin sinir ağlarının performansı azalır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Büyük veri ile en yüksek performans derin sinir ağları ile elde edilmektedir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Veri miktarının artması sığ sinir ağlarını geleneksel öğrenme algoritmalarından daha performanslı hâle getirir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Veri miktarı azaldıkça geleneksel öğrenme algoritmalarının performansı yükselir.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Veri miktarı artıkça derin sinir ağlarının performansı azalır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 29,
-    "questionText": "I. Makine tarafından oluşturulan veriler II. İnsan tarafından üretilen veriler III. Davranış verileri IV. Kronolojik veriler Yukarıdakilerden hangilerinde sağlık hizmetlerindeki büyük veri kaynakları doğru şekilde gruplandırılmıştır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "I, II ve IV",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "I ve III",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "1 ve IV",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "I, II ve III",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "II ve II",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: I, II ve III**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 30,
-    "questionText": "Aşağıdakilerden hangisi kapsamlı bir büyük veri analiz aşamalarından biri değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Sınıf belirleme",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Doğru teknolojiyi entegre etme",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "İhtiyaçları belirleme",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Soruları belirleme",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Verileri temizleme",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Sınıf belirleme**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 31,
-    "questionText": "Aşağıdakilerden hangisi ülkemizde özel sektör tarafından gerçekleştirilen başarılı büyük veri uygulamalarından biri olan EnerjiSA ile ilgili yanlış bir bilgidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Müşteri verilerine yönelik tek bir havuz oluşturmak üzere çözüm ortağıyla birlikte kayıtları birleştirip temizlemiş ve bu şekilde çift kopyalar azaltılarak daha az kayıt elde edilmiştir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Elde edilen müşteri verileri, Milli Eğitim Bakanlığı ve Savunma Sanayii gibi dış kuruluşların verileriyle eşleştirilerek zenginleştirilmiş, müşteri bilgilerinin tamlık oranı artırılmıştır.",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Elektrik dağıtımı ve satışından oluşan iki ana iş kolu bulunan enerji şirketidir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "14 ilde 10.1 milyon müşteriye ulaşarak yaklaşık 21 milyonu aşkın kullanıcıya dağıtım hizmeti sağlamaktadır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Çeşitli uygulamalar ile dijital dönüşümünü gerçekleştiren EnerjiSA, sanal gerçeklik uygulamalarıyla da teknolojik etkinliğini artırmıştır.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Elde edilen müşteri verileri, Milli Eğitim Bakanlığı ve Savunma Sanayii gibi dış kuruluşların verileriyle eşleştirilerek zenginleştirilmiş, müşteri bilgilerinin tamlık oranı artırılmıştır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 32,
-    "questionText": "Sağlık Bakanlığının büyük veriyi yönetmek için oluşturduğu altyapı çözümlerinden ……, sağlık sektöründe yer alan kurum ve kuruluşların kaynaklarını ve sağlıkla ilgili anonim verileri ortak kullanabilmeleri ve güvenli yollardan hızlı veri iletişimi yapabilmeleri amacıyla oluşturulan sağlık özel ağıdır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Sağlıkta Dönüşüm Programı (SDP)",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Sağlıkta Tasarruf Programı (STP)",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Sağlıkta Büyük Veri Ağı (SBVA)",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Sağlık Bilişim Ağı (SBA)",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Sağlıkta Yapay Zekâ Programı (SYZP)",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Sağlık Bilişim Ağı (SBA)**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 33,
-    "questionText": "I. Bütünlük II. Pazarlanabilirlik III. Gizlilik IV. Erişilebilirlik V. Saklanabilirlik Yukarıdakilerden hangileri bilgi güvenliğinin ana unsurlarındandır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "II-V",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "I-III",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "1-II-V",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "II-IV-V",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "I-III-IV",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: I-III-IV**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 34,
-    "questionText": "Anonimleştirme işleminin temel amacı aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Verileri depolamak",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Veri kayıplarını en aza indirmek",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Veriyi çeşitli katma değerler elde etmek adına paylaşılabilir kılmak",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Verileri eşleştirmek",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Mahremiyet duyarlı verilerin korunmasını sağlamak",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Veriyi çeşitli katma değerler elde etmek adına paylaşılabilir kılmak**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 35,
-    "questionText": "Aşağıdakilerden hangisi büyük veri teknolojilerinin bilinirlik seviyelerini belirleyen kategorilerden biri değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Analitik çözümlerin bilinirliği",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Kurumsal olarak büyük verinin bilinirliği",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Yönetim stratejilerinin bilinirliği",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Verideki anlamlı örüntülerin bilinirliği",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Veri yönetimi",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Verideki anlamlı örüntülerin bilinirliği**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 36,
-    "questionText": "Büyük verinin tarihsel gelişimi hangi olaylara dayanmaktadır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Veri toplama merkezlerinin gelişimine",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "İstatistik yöntemlerle veriden anlamlı sonuçlar çıkarmaya",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Laboratuvarlarda deneysel çalışmalardan elde edilen verilerin toplanmasına",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "İşletim sistemleri ve veri tabanları yazılımlarının gelişmesine",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Bilgisayar yazılım algoritmalarının gelişimine",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: İstatistik yöntemlerle veriden anlamlı sonuçlar çıkarmaya**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 37,
-    "questionText": "…… varlıkları ilişkileriyle birlikte tanımlayan felsefecilerin kullandığı bir sözcüktür ve semantik web, en temel bileşenidir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Akıllı ajanlar",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Eliminasyon",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Arka plan çıkarma",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Modelleme",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Ontoloji",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Ontoloji**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 38,
+    "id": 2,
     "questionText": "Sağlık hizmetleri verileri, kamuya açık hale getirilmemesi için yetkisiz erişime karşı güvence altına alınması gereken son derece hassas verilerdir ve ayrıca sağlık hizmeti sahtekarlığı da saldırganlardan önlenebilir. Bu nedenle, …….. sağlık alanındaki en önemli ve zorlu görevlerden biridir.Yukarıdaki cümlede verilen boşluğa aşağıdaki cümlelerden hangisi gelmelidir?",
     "imageUrl": null,
     "options": [
@@ -1292,7 +68,109 @@
     "explanation": "**Doğru Cevap: Veri güvenliği**"
   },
   {
-    "id": 39,
+    "id": 3,
+    "questionText": "Aşağıdakilerden hangisi mahremiyet yaklaşımlarında ele alınan boyutlardan biridir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Erişilebilirlik mahremiyeti",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Boyut mahremiyeti",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Gizlilik mahremiyeti",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Açıklık mahremiyeti",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Bilgi mahremiyeti",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Bilgi mahremiyeti**"
+  },
+  {
+    "id": 4,
+    "questionText": "Aşağıdakilerden hangisi Apache Spark mimarisinde yer alan bir bileşendir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Task spliter (İşlem bölütleme)",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Cluster manager (Küme yönetimi)",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Session runner (Oturum yürütücü)",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "System program (Sistem programı)",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "OS session (İşletim sistemi oturumu)",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Session runner (Oturum yürütücü)**"
+  },
+  {
+    "id": 5,
+    "questionText": "Nicel ve nitel analiz yöntemleri arasındaki temel fark aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nitel veri küçük veri kümelerini, nicel veri büyük veri kümelerini analiz eder.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Betimsel istatistik nitel analizde, kavramsal istatistik nicel analizde kullanılır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "İki yöntem de analiz için farklı teknolojiler kullanır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Nitel analiz, nicel analizden daha kesin sonuçlar üretir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Nicel analiz sayısal verilerle, nitel analiz soyut verilerle yapılan analizdir.",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Nicel analiz sayısal verilerle, nitel analiz soyut verilerle yapılan analizdir.**"
+  },
+  {
+    "id": 6,
     "questionText": "I. Klinik referanslarII. Genomik verilerIII. Statik verilerIV. YayınlarSağlık hizmetlerinde birçok kaynaktan çok sayıda veri üretilmektedir. Yukarıda verilenlerden hangileri sağlık hizmetlerindeki büyük veri kaynaklarındandır?",
     "imageUrl": null,
     "options": [
@@ -1326,7 +204,41 @@
     "explanation": "**Doğru Cevap: I, II ve IV**"
   },
   {
-    "id": 40,
+    "id": 7,
+    "questionText": "Aşağıdakilerden hangisi veri gelişimi sırasında kullanılan isimlerden biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Smart Veri",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Gri Veri",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Kapsamlı Veri",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Büyük Veri",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Veri",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Gri Veri**"
+  },
+  {
+    "id": 8,
     "questionText": "…….. büyük veri analizlerini iletmek, anlamak ve geliştirmek için resimler, diyagramlar ya da animasyonlar oluşturmak için kullanan bir tekniktir.Yukarıdaki cümlede verilen boşluğa aşağıdakilerden hangisi gelmelidir?",
     "imageUrl": null,
     "options": [
@@ -1360,7 +272,7 @@
     "explanation": "**Doğru Cevap: Büyük veri görselleştirme**"
   },
   {
-    "id": 41,
+    "id": 9,
     "questionText": "Karıştırma ve permütasyon olarak da bilinir, veri kümesi öznitelik değerlerini orijinal kayıtlara karşılık gelmeyecek şekilde yeniden düzenlemek maksadıyla kullanılan bir tekniktir.Yukarıda açıklanan veriyi anonimleştirme tekniği aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1394,7 +306,75 @@
     "explanation": "**Doğru Cevap: Veri Değiştirme**"
   },
   {
-    "id": 42,
+    "id": 10,
+    "questionText": "Aşağıdakilerden hangisi Kişisel Verileri Koruma Kurulu’nun görev ve yetkilerinden değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Veri sorumluları sicilinin tutulmasını sağlamak",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Özel nitelikli kişisel verilerin işlenmesi için aranan yeterli önlemleri belirlemek",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Veri sorumlusunun ve temsilcisinin görev, yetki ve sorumluluklarına ilişkin düzenleyici işlem yapmak",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Veri güvenliğine ilişkin yükümlülükleri belirlemek amacıyla düzenleyici işlem yapmak",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Anonimleşen verilerden kimlik bilgilerinin belirlenmesini sağlamak",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Anonimleşen verilerden kimlik bilgilerinin belirlenmesini sağlamak**"
+  },
+  {
+    "id": 11,
+    "questionText": "Aşağıdakilerden hangisi işletmelerin büyük veri kaynaklarından biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Personel",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Müşteri",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Doküman",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Web ve mobil uygulama",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Ürün",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Personel**"
+  },
+  {
+    "id": 12,
     "questionText": "“Semantik web sayesinde makinelerin etkileşiminin yanında …….. etkileşiminin de üst seviyeye ulaşması beklenmektedir.”Yukarıdaki cümlede verilen boşluğa aşağıdakilerden hangisi gelmelidir?",
     "imageUrl": null,
     "options": [
@@ -1428,7 +408,75 @@
     "explanation": "**Doğru Cevap: Makine İnsan**"
   },
   {
-    "id": 43,
+    "id": 13,
+    "questionText": "Aşağıdakilerden hangisi yapay zekânın veriden elde ettiği amaçlardan biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tahminde bulunma",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Kümeleme",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Sınıflandırma",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Bölütleme",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Yakımsama, optimizasyon",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Bölütleme**"
+  },
+  {
+    "id": 14,
+    "questionText": "Aşağıdakilerden hangisi PySpark için doğru bir tanımlamadır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Python ile Spark iş birliği sonucu ortaya çıkmış olup Python kütüphanesinin ismidir.",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Apache Spark tarafından oluşturulmuş son versiyondur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Gerçek zamanlı verileri işlemek amacıyla oluşturulmuş bir R dili kütüphanesidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Büyük verideki gizli örüntüleri analiz etmek için oluşturulmuş bir veri tabanı uygulamasıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Rastgele dağıtılmış veri kümelerini işlemek için oluşturulmuş bir teknolojidir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Python ile Spark iş birliği sonucu ortaya çıkmış olup Python kütüphanesinin ismidir.**"
+  },
+  {
+    "id": 15,
     "questionText": "Dolandırıcılıktan teröre kadar değişen güvenlik sorunlarını çözmek için büyük veri analitiği yöntemlerini kullanarak çözümler üretmektedir. Sistemlerini CIA destekleriyle geliştirmiş ve ABD hükümeti ve güvenlik kurumları tarafından yaygın bir şekilde kullanılmaktadır.Yukarıda verilen bilgiler hangi kurumun büyük veri uygulaması sayesinde gerçekleştirilmiştir?",
     "imageUrl": null,
     "options": [
@@ -1462,7 +510,143 @@
     "explanation": "**Doğru Cevap: Palantir Technologies**"
   },
   {
-    "id": 44,
+    "id": 16,
+    "questionText": "Aşağıdakilerden hangisi bulut bilişimin veri etkileşiminde olduğu bir bileşen değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Dayanıklılık",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Süreklilik",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Anlamlılık",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Erişim",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Gizlilik",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Anlamlılık**"
+  },
+  {
+    "id": 17,
+    "questionText": "Aşağıdakilerden hangisi Konvolüsyonel Sinir Ağları (CNN) için kesinlikle yanlış bir ifadedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İleri beslemeli gelişmiş bir yapay sinir ağıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Hayvan görsel korteksinden ilham almıştır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Derin sinir ağlarının başında gelmektedir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Geri beslemeli bir yapay sinir ağıdır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Girişleri iki veya üç boyutlu görüntü olarak varsaymaktadır.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Geri beslemeli bir yapay sinir ağıdır.**"
+  },
+  {
+    "id": 18,
+    "questionText": "Python ortamında kullanılan “map” komutu aşağıdaki hangi işlemi gerçekleştirmek için kullanılır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tüm harfleri sıralamak için",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Özelliklerin frekans değerlerini büyükten küçüğe sıralamak için",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kelimelerin benzerliğine göre frekanslarını bulmak için",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Tüm özellikleri haritalamak, yeni özellik ekleme, çıkarma, revize etmek için",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Modelin tüm parametrelerini görüntülemek için",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Tüm özellikleri haritalamak, yeni özellik ekleme, çıkarma, revize etmek için**"
+  },
+  {
+    "id": 19,
+    "questionText": "Aşağıdakilerden hangisi Apache Spark ile bir büyük veri analizi süreci için hatalı bir bilgi içermektedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "SparkContext komutu ile projenin içindeki değişkenlerin içeriği görüntülenir.",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Init() komutu ile yüklenen kütüphaneler çalışır hale getirilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Pip install komutu ile Python'a yeni kütüphaneler yüklenir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Import komutu ile yüklü kütüphaneler projeye dâhil edilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "SparkSession.builder komutu sayesinde yerel bilgisayarda çok çekirdekli bir uygulama başlatılabilir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: SparkContext komutu ile projenin içindeki değişkenlerin içeriği görüntülenir.**"
+  },
+  {
+    "id": 20,
     "questionText": "Herkesin özgürce ve yeniden kullanabileceği ve yeniden dağıtılabilen, yalnızca nitelik ve paylaşım gereksinimine tabi olan veridir.Tanımı verilen veri çeşidi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1496,7 +680,7 @@
     "explanation": "**Doğru Cevap: Açık veri**"
   },
   {
-    "id": 45,
+    "id": 21,
     "questionText": "I. Makine tarafından oluşturulan verilerII. İnsan tarafından üretilen verilerIII. Davranış verileriIV. Kronolojik verilerYukarıdakilerden hangilerinde sağlık hizmetlerindeki büyük veri kaynakları doğru şekilde gruplandırılmıştır?",
     "imageUrl": null,
     "options": [
@@ -1530,7 +714,41 @@
     "explanation": "**Doğru Cevap: I, II ve III**"
   },
   {
-    "id": 46,
+    "id": 22,
+    "questionText": "Büyük verinin tarihsel gelişimi hangi olaylara dayanmaktadır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Veri toplama merkezlerinin gelişimine",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "İstatistik yöntemlerle veriden anlamlı sonuçlar çıkarmaya",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Laboratuvarlarda deneysel çalışmalardan elde edilen verilerin toplanmasına",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "İşletim sistemleri ve veri tabanları yazılımlarının gelişmesine",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Bilgisayar yazılım algoritmalarının gelişimine",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: İstatistik yöntemlerle veriden anlamlı sonuçlar çıkarmaya**"
+  },
+  {
+    "id": 23,
     "questionText": "Sosyal ve ekonomik yönden toplum faydasını amaçlayan açık veriler, toplumsal ve kurumsal yapıların ihtiyaçlarına cevap veren yenilikçi çözümler sunmalıdır.Yukarıda bahsedilen özellik açık verinin hangi ilkesi ile ilgilidir?",
     "imageUrl": null,
     "options": [
@@ -1564,7 +782,7 @@
     "explanation": "**Doğru Cevap: İnovasyon odaklılık**"
   },
   {
-    "id": 47,
+    "id": 24,
     "questionText": "I. BütünlükII. PazarlanabilirlikIII. GizlilikIV. ErişilebilirlikV. SaklanabilirlikYukarıdakilerden hangileri bilgi güvenliğinin ana unsurlarındandır?",
     "imageUrl": null,
     "options": [
@@ -1598,7 +816,41 @@
     "explanation": "**Doğru Cevap: I-III-IV**"
   },
   {
-    "id": 48,
+    "id": 25,
+    "questionText": "Aşağıdakilerden hangisi büyük veri teknolojilerinin bilinirlik seviyelerini belirleyen kategorilerden biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Analitik çözümlerin bilinirliği",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Kurumsal olarak büyük verinin bilinirliği",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Yönetim stratejilerinin bilinirliği",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Verideki anlamlı örüntülerin bilinirliği",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Veri yönetimi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Verideki anlamlı örüntülerin bilinirliği**"
+  },
+  {
+    "id": 26,
     "questionText": "…… varlıkları ilişkileriyle birlikte tanımlayan felsefecilerin kullandığı bir sözcüktür ve semantik web, en temel bileşenidir.Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -1632,7 +884,245 @@
     "explanation": "**Doğru Cevap: Ontoloji**"
   },
   {
-    "id": 49,
+    "id": 27,
+    "questionText": "Aşağıdakilerden hangisi veri miktarının artmasına bağlı olarak performans değişimi ile ilgili yanlış bir bilgidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Veri miktarının azalması orta ölçekli sinir ağlarının performansını etkilememektedir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Veri miktarı artıkça derin sinir ağlarının performansı azalır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Büyük veri ile en yüksek performans derin sinir ağları ile elde edilmektedir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Veri miktarının artması sığ sinir ağlarını geleneksel öğrenme algoritmalarından daha performanslı hâle getirir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Veri miktarı azaldıkça geleneksel öğrenme algoritmalarının performansı yükselir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Veri miktarı artıkça derin sinir ağlarının performansı azalır.**"
+  },
+  {
+    "id": 28,
+    "questionText": "Anonimleştirme işleminin temel amacı aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Verileri depolamak",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Veri kayıplarını en aza indirmek",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Veriyi çeşitli katma değerler elde etmek adına paylaşılabilir kılmak",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Verileri eşleştirmek",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Mahremiyet duyarlı verilerin korunmasını sağlamak",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Veriyi çeşitli katma değerler elde etmek adına paylaşılabilir kılmak**"
+  },
+  {
+    "id": 29,
+    "questionText": "Aşağıdakilerden hangisi kapsamlı bir büyük veri analiz aşamalarından biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sınıf belirleme",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Doğru teknolojiyi entegre etme",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "İhtiyaçları belirleme",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Soruları belirleme",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Verileri temizleme",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Sınıf belirleme**"
+  },
+  {
+    "id": 30,
+    "questionText": "Aşağıdakilerden hangisi ülkemizde özel sektör tarafından gerçekleştirilen başarılı büyük veri uygulamalarından biri olan EnerjiSA ile ilgili yanlış bir bilgidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Müşteri verilerine yönelik tek bir havuz oluşturmak üzere çözüm ortağıyla birlikte kayıtları birleştirip temizlemiş ve bu şekilde çift kopyalar azaltılarak daha az kayıt elde edilmiştir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Elde edilen müşteri verileri, Milli Eğitim Bakanlığı ve Savunma Sanayii gibi dış kuruluşların verileriyle eşleştirilerek zenginleştirilmiş, müşteri bilgilerinin tamlık oranı artırılmıştır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Elektrik dağıtımı ve satışından oluşan iki ana iş kolu bulunan enerji şirketidir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "14 ilde 10.1 milyon müşteriye ulaşarak yaklaşık 21 milyonu aşkın kullanıcıya dağıtım hizmeti sağlamaktadır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Çeşitli uygulamalar ile dijital dönüşümünü gerçekleştiren EnerjiSA, sanal gerçeklik uygulamalarıyla da teknolojik etkinliğini artırmıştır.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Elde edilen müşteri verileri, Milli Eğitim Bakanlığı ve Savunma Sanayii gibi dış kuruluşların verileriyle eşleştirilerek zenginleştirilmiş, müşteri bilgilerinin tamlık oranı artırılmıştır.**"
+  },
+  {
+    "id": 31,
+    "questionText": "Aşağıdakilerden hangisi Pyspark ortamında sayfalama amacıyla kullanılır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "take() komutu",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "init() komutu",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "file() komutu",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "lambda() komutu",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "page() komutu",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: take() komutu**"
+  },
+  {
+    "id": 32,
+    "questionText": "Büyük veri analizinde kullanılan temel iki yöntem aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Çevrim İçi Veri Analizi - Çevrim Dışı Veri Analizi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Nicel Veri Analizi - Nitel Veri Analizi",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Erişilebilir Veri Analizi Erişimsiz Veri Analizi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Kapsamlı Veri Analizi - Sınırlı Veri Analizi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Sayısal Veri Analizi - Sözel Veri Analizi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Nicel Veri Analizi - Nitel Veri Analizi**"
+  },
+  {
+    "id": 33,
+    "questionText": "Aşağıdakilerden hangisi mahremiyet koruma modellerinden biri olan yukarıdan aşağıya özelleştirme döngüsü aşamalarından biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bilgi kaybının hesaplanması",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "En iyi genelleştirme yönteminin belirlenmesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "En iyi bölütleyen boyutunun bulunması",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "En iyi genelleştirmenin bulunması",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Mevcut verinin anonimlik gereksinimini karşılayıp karşılamadığının belirlenmesi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: En iyi bölütleyen boyutunun bulunması**"
+  },
+  {
+    "id": 34,
     "questionText": "&gt;&gt; reduceByKeyYukarıdaki Python komutu aşağıdaki işlemlerden hangisini gerçekleştirmek için yazılmıştır?",
     "imageUrl": null,
     "options": [
@@ -1666,7 +1156,41 @@
     "explanation": "**Doğru Cevap: Kelimelerin benzerliğine göre frekanslarını bulmak için**"
   },
   {
-    "id": 50,
+    "id": 35,
+    "questionText": "Aşağıdakilerden hangisi yapay zekâyı modellemede kullanılan yöntemlerden biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Görselleştirme",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Simülasyon",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Hipotez testi",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Veri madenciliği",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Optimizasyon",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Hipotez testi**"
+  },
+  {
+    "id": 36,
     "questionText": "Sağlık Bakanlığının büyük veriyi yönetmek için oluşturduğu altyapı çözümlerinden ……, sağlık sektöründe yer alan kurum ve kuruluşların kaynaklarını ve sağlıkla ilgili anonim verileri ortak kullanabilmeleri ve güvenli yollardan hızlı veri iletişimi yapabilmeleri amacıyla oluşturulan sağlık özel ağıdır.Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
@@ -1698,5 +1222,39 @@
     ],
     "correctAnswer": "D",
     "explanation": "**Doğru Cevap: Sağlık Bilişim Ağı (SBA)**"
+  },
+  {
+    "id": 37,
+    "questionText": "Aşağıdakilerden hangisi Kişisel Verileri Koruma Kurumunun (KVKK) büyük verideki ihlallerin azaltılmasına yönelik önerdiği teknik önlemlerden biri değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Saldırı tespit ve önleme sistemleri oluşturulmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Yetkilendirme matrisi oluşturulmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Ağ ortamının güvenliği sağlanmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Veriler üzerinde analiz işlemleri engellenmelidir.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Sızma testleri yapılarak kurum güvenliği test edilmelidir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Veriler üzerinde analiz işlemleri engellenmelidir.**"
   }
 ]

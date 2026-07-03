@@ -1,71 +1,71 @@
 [
   {
     "id": 1,
-    "questionText": "İşlenenlerin tamamının bellekte yer aldığı komut seti mimarisi aşağıdakilerden hangisidir?",
+    "questionText": "Aşağıdakilerden hangisi bellekten belleğe komut seti mimarisinin özelliklerindendir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "Yükleme",
+        "text": "İşlenen, üzerinde bir işlem gerçekleştirilmeden önce bir yazmaca yüklenmelidir.",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "Bellekten belleğe",
+        "text": "Tüm işlenenler bellektedir.",
         "isCorrect": true
       },
       {
         "letter": "C",
-        "text": "Bellekten yazmaca",
+        "text": "Yazmaçtaki sonuç, gerektiğinde bellekte saklanır.",
         "isCorrect": false
       },
       {
         "letter": "D",
-        "text": "Yazmaçtan belleğe",
+        "text": "İşlenenlerden en az biri bir yazmaçtadır.",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "Depolama",
+        "text": "Tüm işlenenler yazmaçtadır.",
         "isCorrect": false
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Bellekten belleğe**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Tüm işlenenler bellektedir.**"
   },
   {
     "id": 2,
-    "questionText": "Donanım karmaşıklığını ve maliyeti azaltmak için tasarlanan sistemlere ne ad verilmektedir?",
+    "questionText": "Aşağıdakilerden hangisi verileri kontrol eden ve ağ trafiğini yöneten güçlü bilgisayarları ifade etmektedir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "Gömülü sistem",
-        "isCorrect": true
+        "text": "Bridge",
+        "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "İşletim sistemi",
+        "text": "Host",
         "isCorrect": false
       },
       {
         "letter": "C",
-        "text": "Network",
+        "text": "İstemci",
         "isCorrect": false
       },
       {
         "letter": "D",
-        "text": "RTOS",
+        "text": "Router",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "CPU",
-        "isCorrect": false
+        "text": "Sunucu",
+        "isCorrect": true
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Gömülü sistem**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Sunucu**"
   },
   {
     "id": 3,
@@ -99,27 +99,61 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: IV-III-II-I-V**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: IV-III-II-I-V**"
   },
   {
     "id": 4,
-    "questionText": "OSI modelinin en alt katmanı aşağıdakilerden hangisidir?",
+    "questionText": "DeMorgan kuralına göre aşağıdakilerden hangisine eşittir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "Sunum",
+        "text": "????̅̅+̅????",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "????̅̅̅ ????̅̅̅",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "???? + ????",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "???? − ????",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "????????",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: ????̅̅+̅????**"
+  },
+  {
+    "id": 5,
+    "questionText": "5 katmanlı TCP/IP modelinde en alttaki katman aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ağ",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "Fiziksel",
-        "isCorrect": true
+        "text": "Sunum",
+        "isCorrect": false
       },
       {
         "letter": "C",
-        "text": "Ağ erişimi",
-        "isCorrect": false
+        "text": "Fiziksel",
+        "isCorrect": true
       },
       {
         "letter": "D",
@@ -128,15 +162,49 @@
       },
       {
         "letter": "E",
-        "text": "Ağ",
+        "text": "Ağ erişimi",
         "isCorrect": false
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Fiziksel**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Fiziksel**"
   },
   {
-    "id": 5,
+    "id": 6,
+    "questionText": "0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F rakamları hangi sayı sistemine aittir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Octal",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Ternary",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Binary",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Decimal",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Hexadecimal",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Hexadecimal**"
+  },
+  {
+    "id": 7,
     "questionText": "Yalnızca zaman geçirmeye yarayan komut seti talimatı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -167,177 +235,109 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: NOP**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: NOP**"
   },
   {
-    "id": 6,
-    "questionText": "Ön bellek için yaygın olarak hangi tip RAM kullanılır?",
+    "id": 8,
+    "questionText": "Donanım karmaşıklığını ve maliyeti azaltmak için tasarlanan sistemlere ne ad verilmektedir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "SDRAM",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "ROM",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "RAM",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "SRAM",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "DRAM",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: SRAM**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 7,
-    "questionText": "Çevre birimleri tümleşik işlemciye aşağıdakilerden hangisi aracılığıyla bağlanır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "G/Ç arayüzü",
+        "text": "Gömülü sistem",
         "isCorrect": true
       },
       {
         "letter": "B",
-        "text": "Bellek",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
         "text": "İşletim sistemi",
         "isCorrect": false
       },
       {
+        "letter": "C",
+        "text": "Network",
+        "isCorrect": false
+      },
+      {
         "letter": "D",
-        "text": "İşlemci",
+        "text": "RTOS",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "Kernel",
+        "text": "CPU",
         "isCorrect": false
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: G/Ç arayüzü**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Gömülü sistem**"
   },
   {
-    "id": 8,
-    "questionText": "Aşağıdakilerden hangisi bellekten belleğe komut seti mimarisinin özelliklerindendir?",
+    "id": 9,
+    "questionText": "OSI modelinin en alt katmanı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "İşlenen, üzerinde bir işlem gerçekleştirilmeden önce bir yazmaca yüklenmelidir.",
+        "text": "Sunum",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "Tüm işlenenler bellektedir.",
+        "text": "Fiziksel",
         "isCorrect": true
       },
       {
         "letter": "C",
-        "text": "Yazmaçtaki sonuç, gerektiğinde bellekte saklanır.",
+        "text": "Ağ erişimi",
         "isCorrect": false
       },
       {
         "letter": "D",
-        "text": "İşlenenlerden en az biri bir yazmaçtadır.",
+        "text": "Nakil",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "Tüm işlenenler yazmaçtadır.",
+        "text": "Ağ",
         "isCorrect": false
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Tüm işlenenler bellektedir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 9,
-    "questionText": "DeMorgan kuralına göre aşağıdakilerden hangisine eşittir?",
-    "imageUrl": "https://i0.wp.com/lolonolo.com/wp-content/uploads/2024/07/Bilgisayar-organizasyonu-2024-final-sorulari-soru2.png?fit=44%2C40&ssl=1",
-    "options": [
-      {
-        "letter": "A",
-        "text": "????̅̅+̅????",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "????̅̅̅ ????̅̅̅",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "???? + ????",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "???? − ????",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "????????",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: ????̅̅+̅????**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Fiziksel**"
   },
   {
     "id": 10,
-    "questionText": "Multibus II sistem veri yolu, ….. bir tahkim şeması kullanır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "questionText": "İşlenenlerin tamamının bellekte yer aldığı komut seti mimarisi aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "seri",
+        "text": "Yükleme",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "paralel",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "dağıtık",
+        "text": "Bellekten belleğe",
         "isCorrect": true
       },
       {
+        "letter": "C",
+        "text": "Bellekten yazmaca",
+        "isCorrect": false
+      },
+      {
         "letter": "D",
-        "text": "PCI-express bağlantılı",
+        "text": "Yazmaçtan belleğe",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "bellek genişletmeli",
+        "text": "Depolama",
         "isCorrect": false
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: dağıtık**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Bellekten belleğe**"
   },
   {
     "id": 11,
@@ -371,214 +371,44 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: 1**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: 1**"
   },
   {
     "id": 12,
-    "questionText": "Mevcut CPU hızına göre daha düşük bellek hızına sahip bir sistemde aşağıdakilerden hangisi görülür?",
+    "questionText": "Multibus II sistem veri yolu, ….. bir tahkim şeması kullanır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "Sistem hızlanır.",
+        "text": "seri",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "Sistem hata verir.",
+        "text": "paralel",
         "isCorrect": false
       },
       {
         "letter": "C",
-        "text": "Sistem hızı değişmez",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Sistem yavaşlar.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Sistem kendini kapatır.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Sistem yavaşlar.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 13,
-    "questionText": "Aşağıdakilerden hangisinde program dönüşümü doğru sıra ile verilmiştir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Nesne kodu – Kaynak program",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Nesne kodu - Yürüt",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Kaynak program - Yürütme",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Kaynak program - Sonuç",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Kaynak program – Nesne kodu",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Kaynak program – Nesne kodu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 14,
-    "questionText": "Aşağıdakilerden hangisi verileri kontrol eden ve ağ trafiğini yöneten güçlü bilgisayarları ifade etmektedir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Bridge",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Host",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "İstemci",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Router",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Sunucu",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Sunucu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 15,
-    "questionText": "Çoklu görev aşağıdakilerden hangisi tarafından uygulanır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Kernel",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Watchdog timer",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Firmware",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "İşletim sistemi",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Network",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: İşletim sistemi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 16,
-    "questionText": "5 katmanlı TCP/IP modelinde en alttaki katman aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Ağ",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Sunum",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Fiziksel",
+        "text": "dağıtık",
         "isCorrect": true
       },
       {
         "letter": "D",
-        "text": "Nakil",
+        "text": "PCI-express bağlantılı",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "Ağ erişimi",
+        "text": "bellek genişletmeli",
         "isCorrect": false
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Fiziksel**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: dağıtık**"
   },
   {
-    "id": 17,
-    "questionText": "CPU’nun giriş ve çıkışı gerçekleştiren özel komutlara sahip olduğu G/Ç türü aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Komut tabanlı G/Ç",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Bellek eşlemeli G/Ç",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Adresli G/Ç",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Genel G/Ç",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "İzole G/Ç",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Komut tabanlı G/Ç**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 18,
+    "id": 13,
     "questionText": "Denetleyici izin talep eden cihazlar arasındaki öncelikleri çözen ve aralarında en yüksek öncelikli cihaza yetki gönderen veri yolu tahkim tekniği aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -609,41 +439,211 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Bağımsız**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Bağımsız**"
   },
   {
-    "id": 19,
-    "questionText": "0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F rakamları hangi sayı sistemine aittir?",
+    "id": 14,
+    "questionText": "Ön bellek için yaygın olarak hangi tip RAM kullanılır?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "Octal",
+        "text": "SDRAM",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "Ternary",
+        "text": "ROM",
         "isCorrect": false
       },
       {
         "letter": "C",
-        "text": "Binary",
+        "text": "RAM",
         "isCorrect": false
       },
       {
         "letter": "D",
-        "text": "Decimal",
+        "text": "SRAM",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "DRAM",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: SRAM**"
+  },
+  {
+    "id": 15,
+    "questionText": "Mevcut CPU hızına göre daha düşük bellek hızına sahip bir sistemde aşağıdakilerden hangisi görülür?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sistem hızlanır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Sistem hata verir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Sistem hızı değişmez",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Sistem yavaşlar.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Sistem kendini kapatır.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Sistem yavaşlar.**"
+  },
+  {
+    "id": 16,
+    "questionText": "CPU’nun giriş ve çıkışı gerçekleştiren özel komutlara sahip olduğu G/Ç türü aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Komut tabanlı G/Ç",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Bellek eşlemeli G/Ç",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Adresli G/Ç",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Genel G/Ç",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "Hexadecimal",
+        "text": "İzole G/Ç",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Komut tabanlı G/Ç**"
+  },
+  {
+    "id": 17,
+    "questionText": "Çevre birimleri tümleşik işlemciye aşağıdakilerden hangisi aracılığıyla bağlanır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "G/Ç arayüzü",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Bellek",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "İşletim sistemi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "İşlemci",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kernel",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: G/Ç arayüzü**"
+  },
+  {
+    "id": 18,
+    "questionText": "Aşağıdakilerden hangisinde program dönüşümü doğru sıra ile verilmiştir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nesne kodu – Kaynak program",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Nesne kodu - Yürüt",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kaynak program - Yürütme",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Kaynak program - Sonuç",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kaynak program – Nesne kodu",
         "isCorrect": true
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Hexadecimal**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Kaynak program – Nesne kodu**"
+  },
+  {
+    "id": 19,
+    "questionText": "Çoklu görev aşağıdakilerden hangisi tarafından uygulanır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kernel",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Watchdog timer",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Firmware",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "İşletim sistemi",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Network",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: İşletim sistemi**"
   },
   {
     "id": 20,
@@ -677,384 +677,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Sistemdeki elemanların senkronizasyonunu sağlar.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Sistemdeki elemanların senkronizasyonunu sağlar.**"
   },
   {
     "id": 21,
-    "questionText": "İşaretli tam sayı gösteriminde bir sayının negatif olduğu nasıl belirtilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "En düşük değerlikli bit 1 dir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Sayının önünd bulunur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "En yüksek değerlikli bit 1 dir.",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "En yüksek değerlikli bit 0 dir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "En düşük değerlikli bit 0 dir.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: En yüksek değerlikli bit 1 dir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 22,
-    "questionText": "Bellek adres alanının bir kısmını kullanan G/Ç türü hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "İzole G/Ç",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Ortak G/Ç",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Adresli G/Ç",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Genel G/Ç",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Bellek eşlemeli G/Ç",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Bellek eşlemeli G/Ç**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 23,
-    "questionText": "Tüm gömülü sistemlerde bulunan ve sistemin başlatılmasını sağlayan öğe aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Kernel",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Watchdog timer",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "RTOS",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Frimware",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "CPU",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Frimware**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 24,
-    "questionText": "Veri yolu denetleyicisinin görevi nedir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "veri yolu meşguliyetini kaldırmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "veri yolunu açıp kapatmak",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Veri yolu yöneticisini belirlemek.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Veri yolu iletişimini sağlamak.",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Veri yoluna enerji sağlamak.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Veri yolu iletişimini sağlamak.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 25,
-    "questionText": "Aşağıdakilerden hangisi asenkron veri iletişiminde bulunmaz?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "kontrol sinyali",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Slave",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Clock",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Master",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Veri yolu",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Clock**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 26,
-    "questionText": "Aşağıdakilerden hangisi kontrol biriminin görevlerinden değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Verilerin aktarılmasını izlemek",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "ALU'ya yapacağı işlemi bildirmek.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "verileri iletmek",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Komutların yürütülmesini izlemek.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Aktif görevlere kesme uygulamak.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: verileri iletmek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 27,
-    "questionText": "LAN lar hangi teknolojiye dayanır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Ethernet",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Bluetooth",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Wireless",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Router",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "GSM",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Ethernet**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 28,
-    "questionText": "D/A Dönüştürücünün çıkışında hangisi görülür?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Yürütülecek talimat adresi",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "tek eşlik biti",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Bir sensör tarafından tespit edilen dijital sinyal",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "n-bit dijital bilgi girişlerine karşılık gelen analog voltaj",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Cihaz tarafından üretilen analog sinyalin dijital bit modeli",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: n-bit dijital bilgi girişlerine karşılık gelen analog voltaj**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 29,
-    "questionText": "Aşağıdakilerin hangisinde 16 lık sayı tabanının rakamları doğru verilmiştir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "0-1-2-3-4-5-6-7-8-9-10-A-B-C-D-E",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-G",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: 0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 30,
-    "questionText": "ALU (Arithmetik ve Mantık Birimi)’nun görevi nedir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Bellek biriminden alınan verileri işler ve işlenen verileri bellek birimine geri depolar.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Programları depolar",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Programları makine diline çevirir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Diğer birimlerin faaliyetlerini kontrol eder.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Program sayaç yazmacı ve Adres yazmacı üzerinde aritmetik ve mantık işlemleri gerçekleştirir.",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Program sayaç yazmacı ve Adres yazmacı üzerinde aritmetik ve mantık işlemleri gerçekleştirir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 31,
-    "questionText": "Verileri bölümlere ayırarak bir ağ üzerindeki trafik miktarını azaltan birim aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Host",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Network",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Brigde",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Link",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Router",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Brigde**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 32,
     "questionText": "Hangisi bir veri yolu tahkim tekniğidir?",
     "imageUrl": null,
     "options": [
@@ -1085,7 +711,381 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Daisy-chain**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Daisy-chain**"
+  },
+  {
+    "id": 22,
+    "questionText": "Aşağıdakilerin hangisinde 16 lık sayı tabanının rakamları doğru verilmiştir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "0-1-2-3-4-5-6-7-8-9-10-A-B-C-D-E",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "1-2-3-4-5-6-7-8-9-A-B-C-D-E-F-G",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: 0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F**"
+  },
+  {
+    "id": 23,
+    "questionText": "ALU (Arithmetik ve Mantık Birimi)’nun görevi nedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bellek biriminden alınan verileri işler ve işlenen verileri bellek birimine geri depolar.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Programları depolar",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Programları makine diline çevirir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Diğer birimlerin faaliyetlerini kontrol eder.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Program sayaç yazmacı ve Adres yazmacı üzerinde aritmetik ve mantık işlemleri gerçekleştirir.",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Program sayaç yazmacı ve Adres yazmacı üzerinde aritmetik ve mantık işlemleri gerçekleştirir.**"
+  },
+  {
+    "id": 24,
+    "questionText": "Gelen iletişim bağlantılarından aldığı verileri giden iletişim bağlantıları aracılığıyla ileten aygıtlara ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Host",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Network",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Brigde",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Router",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Link",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Router**"
+  },
+  {
+    "id": 25,
+    "questionText": "Verileri bölümlere ayırarak bir ağ üzerindeki trafik miktarını azaltan birim aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Host",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Network",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Brigde",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Link",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Router",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Brigde**"
+  },
+  {
+    "id": 26,
+    "questionText": "Bellek adres alanının bir kısmını kullanan G/Ç türü hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İzole G/Ç",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Ortak G/Ç",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Adresli G/Ç",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Genel G/Ç",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Bellek eşlemeli G/Ç",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Bellek eşlemeli G/Ç**"
+  },
+  {
+    "id": 27,
+    "questionText": "Bir CPU’nun iki ana bileşeni hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Register-Datapath",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Control Unit - Register",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Datpath - Control Unit",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "ALU-BUS",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "ALU - Control Unit",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: ALU - Control Unit**"
+  },
+  {
+    "id": 28,
+    "questionText": "Tüm gömülü sistemlerde bulunan ve sistemin başlatılmasını sağlayan öğe aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kernel",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Watchdog timer",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "RTOS",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Frimware",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "CPU",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Frimware**"
+  },
+  {
+    "id": 29,
+    "questionText": "İşaretli tam sayı gösteriminde bir sayının negatif olduğu nasıl belirtilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "En düşük değerlikli bit 1 dir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Sayının önünd bulunur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "En yüksek değerlikli bit 1 dir.",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "En yüksek değerlikli bit 0 dir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "En düşük değerlikli bit 0 dir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: En yüksek değerlikli bit 1 dir.**"
+  },
+  {
+    "id": 30,
+    "questionText": "Mümkün olabilecek en yüksek hızlı işlemler için operandlar nerede saklanmalıdır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "ACC",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "PC",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Bellek",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "IR",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "ALU",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Bellek**"
+  },
+  {
+    "id": 31,
+    "questionText": "Aşağıdakilerden hangisi asenkron veri iletişiminde bulunmaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "kontrol sinyali",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Slave",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Clock",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Master",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Veri yolu",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Clock**"
+  },
+  {
+    "id": 32,
+    "questionText": "Hangi RAM türünde güç mevcut olduğu sürece veri kaybı olmaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "DDRAM",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "EDORAM",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "SDROM",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "DRAM",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "SRAM",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: DRAM**"
   },
   {
     "id": 33,
@@ -1119,10 +1119,78 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Geri besleme**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Geri besleme**"
   },
   {
     "id": 34,
+    "questionText": "Veri yolu denetleyicisinin görevi nedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "veri yolu meşguliyetini kaldırmak",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "veri yolunu açıp kapatmak",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Veri yolu yöneticisini belirlemek.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Veri yolu iletişimini sağlamak.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Veri yoluna enerji sağlamak.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Veri yolu iletişimini sağlamak.**"
+  },
+  {
+    "id": 35,
+    "questionText": "LAN lar hangi teknolojiye dayanır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ethernet",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Bluetooth",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Wireless",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Router",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "GSM",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Ethernet**"
+  },
+  {
+    "id": 36,
     "questionText": "Bir taramanın başlangıcında veya belirli zaman aralıklarında belirli bir değerle başlatılan hata denetleme mekanizması aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -1153,109 +1221,41 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Watchdog Timer**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Watchdog Timer**"
   },
   {
-    "id": 35,
-    "questionText": "Mümkün olabilecek en yüksek hızlı işlemler için operandlar nerede saklanmalıdır?",
+    "id": 37,
+    "questionText": "Aşağıdakilerden hangisi kontrol biriminin görevlerinden değildir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "ACC",
+        "text": "Verilerin aktarılmasını izlemek",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "PC",
+        "text": "ALU'ya yapacağı işlemi bildirmek.",
         "isCorrect": false
       },
       {
         "letter": "C",
-        "text": "Bellek",
+        "text": "verileri iletmek",
         "isCorrect": true
       },
       {
         "letter": "D",
-        "text": "IR",
+        "text": "Komutların yürütülmesini izlemek.",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "ALU",
+        "text": "Aktif görevlere kesme uygulamak.",
         "isCorrect": false
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Bellek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 36,
-    "questionText": "Hangi RAM türünde güç mevcut olduğu sürece veri kaybı olmaz?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "DDRAM",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "EDORAM",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "SDROM",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "DRAM",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "SRAM",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: DRAM**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 37,
-    "questionText": "Bir registerin görevi nedir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Veri iletimi",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Veri işleme",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Veri kontrolü",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Veri depolama",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Veri değiştirme",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Veri depolama**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: verileri iletmek**"
   },
   {
     "id": 38,
@@ -1289,180 +1289,78 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Yavaşlar**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Yavaşlar**"
   },
   {
     "id": 39,
-    "questionText": "Bir CPU’nun iki ana bileşeni hangisidir?",
+    "questionText": "Bir registerin görevi nedir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "Register-Datapath",
+        "text": "Veri iletimi",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "Control Unit - Register",
+        "text": "Veri işleme",
         "isCorrect": false
       },
       {
         "letter": "C",
-        "text": "Datpath - Control Unit",
+        "text": "Veri kontrolü",
         "isCorrect": false
       },
       {
         "letter": "D",
-        "text": "ALU-BUS",
-        "isCorrect": false
+        "text": "Veri depolama",
+        "isCorrect": true
       },
       {
         "letter": "E",
-        "text": "ALU - Control Unit",
-        "isCorrect": true
+        "text": "Veri değiştirme",
+        "isCorrect": false
       }
     ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: ALU - Control Unit**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Veri depolama**"
   },
   {
     "id": 40,
-    "questionText": "Gelen iletişim bağlantılarından aldığı verileri giden iletişim bağlantıları aracılığıyla ileten aygıtlara ne ad verilir?",
+    "questionText": "D/A Dönüştürücünün çıkışında hangisi görülür?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "Host",
+        "text": "Yürütülecek talimat adresi",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "Network",
+        "text": "tek eşlik biti",
         "isCorrect": false
       },
       {
         "letter": "C",
-        "text": "Brigde",
+        "text": "Bir sensör tarafından tespit edilen dijital sinyal",
         "isCorrect": false
       },
       {
         "letter": "D",
-        "text": "Router",
+        "text": "n-bit dijital bilgi girişlerine karşılık gelen analog voltaj",
         "isCorrect": true
       },
       {
         "letter": "E",
-        "text": "Link",
+        "text": "Cihaz tarafından üretilen analog sinyalin dijital bit modeli",
         "isCorrect": false
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Router**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: n-bit dijital bilgi girişlerine karşılık gelen analog voltaj**"
   },
   {
     "id": 41,
-    "questionText": "İnternet hangi ag türündendir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "WLAN",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "PAN",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "LAN",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "MAN",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "WAN",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: WAN**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 42,
-    "questionText": "Hangisi bir ağ bileşeni değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Router",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Bellek",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Brigde",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Link",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Host",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Bellek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 43,
-    "questionText": "Bir BOOL cebri değişkeni kaç farklı değer alabilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "4",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "0",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "3",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "2",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "1",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: 2**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 44,
     "questionText": "ASCII vey aEBCDIC kodu kullanılan karakter dizileri karakter başına ne kadar yer kaplar?",
     "imageUrl": null,
     "options": [
@@ -1493,7 +1391,109 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: 1 bayt**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: 1 bayt**"
+  },
+  {
+    "id": 42,
+    "questionText": "Aşağıdakilerden hangisi genel amaçlı bir bilgisayarın donanım birimlerinden değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kontrol birimi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Aritmetik ve mantık birimi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Bellek birimi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Derleyici",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Giriş/ çıkış birimi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Derleyici**"
+  },
+  {
+    "id": 43,
+    "questionText": "Ana bellek için ……. ve önbellek için…….. olacak şekilde her iki teknoloji de sıklıkla birlikte kullanılır. Boşluğa gelecek kelimeler hangisinde doğru sırada verilmiştir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "ROM RAM",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "PROM-SRAM",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "DRAM-SRAM",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "DRAM-PROM",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "RAM-SRAM",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: DRAM-SRAM**"
+  },
+  {
+    "id": 44,
+    "questionText": "Ağ referans modellerinin en üst katmanı aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Fiziksel",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Nakit",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Sunum",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Ağ",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Uygulama",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Uygulama**"
   },
   {
     "id": 45,
@@ -1527,109 +1527,109 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Yerellik ilkesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Yerellik ilkesi**"
   },
   {
     "id": 46,
-    "questionText": "13DA8A2D sayısının big Endian gösteriminde 2. Baytta hangi sayı bulunur?",
+    "questionText": "İletilen bilgilerin alıcı ana bilgisayarlar ile gönderen ana bilgisayarlar arasında taşındığı yollara ne ad verilir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "1D",
-        "isCorrect": false
+        "text": "Link",
+        "isCorrect": true
       },
       {
         "letter": "B",
-        "text": "13",
+        "text": "Network",
         "isCorrect": false
       },
       {
         "letter": "C",
-        "text": "DA",
-        "isCorrect": true
+        "text": "Brigde",
+        "isCorrect": false
       },
       {
         "letter": "D",
-        "text": "A2",
+        "text": "Router",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "8A",
+        "text": "Host",
         "isCorrect": false
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: DA**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Link**"
   },
   {
     "id": 47,
-    "questionText": "Hangi bellek türünü yeniden programlamadan önce içindeki verilerin silinmesi gereklidir?",
+    "questionText": "Hangisi Multibus II alt Sistemlerinden değildir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "PROM",
+        "text": "PCI-express baglantisi",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "EEPROM",
-        "isCorrect": false
+        "text": "G/ç genişletmeleri için iSBX veri yolu",
+        "isCorrect": true
       },
       {
         "letter": "C",
-        "text": "Flash Bellek",
+        "text": "Seri ve paralel sistem veri yollanı",
         "isCorrect": false
       },
       {
         "letter": "D",
-        "text": "EPROM",
-        "isCorrect": true
+        "text": "Bellek genişletme veri yolu",
+        "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "ROM",
+        "text": "CPU veri yolu",
         "isCorrect": false
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: EPROM**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: G/ç genişletmeleri için iSBX veri yolu**"
   },
   {
     "id": 48,
-    "questionText": "Sistem veri yolu bileşenleri hangi seçenekte doğru verilmiştir?",
+    "questionText": "Hangisi Multibus II nin özelliklerinden değildir?",
     "imageUrl": null,
     "options": [
       {
         "letter": "A",
-        "text": "adres veri yolu- talimat veriyolu- data veri yolu",
+        "text": "G/ç genişletmeleri için iSBX veri yolu kullanır.",
         "isCorrect": false
       },
       {
         "letter": "B",
-        "text": "adres veri yolu- DMA veri yolu- data veri yolu",
+        "text": "CPU-bellek veri yolu ve sistem veri yolu arasındaki etkinliklerin ayrılmasıyla yüksek performansı elde edilir.",
         "isCorrect": false
       },
       {
         "letter": "C",
-        "text": "adres veri yolu- kontrol veri yolu- data veri yolu",
+        "text": "Ses ve görüntü için HDMI aktarımını destekler.",
         "isCorrect": true
       },
       {
         "letter": "D",
-        "text": "adres veri yolu-kontrol veri yolu- G/ç veri yolu",
+        "text": "Dağıtık bir tahkim şeması kullanır.",
         "isCorrect": false
       },
       {
         "letter": "E",
-        "text": "işlemci veri yolu- kontrol veri yolu- data veri yolu",
+        "text": "Ara bağlantı alanındaki durumu kendi kendine test etme ve raporlama yeteneğine sahiptir.",
         "isCorrect": false
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: adres veri yolu- kontrol veri yolu- data veri yolu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Ses ve görüntü için HDMI aktarımını destekler.**"
   },
   {
     "id": 49,
@@ -1663,418 +1663,10 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Gömülü sistem**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: Gömülü sistem**"
   },
   {
     "id": 50,
-    "questionText": "Aşağıdakilerden hangisi genel amaçlı bir bilgisayarın donanım birimlerinden değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Kontrol birimi",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Aritmetik ve mantık birimi",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Bellek birimi",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Derleyici",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "Giriş/ çıkış birimi",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: Derleyici**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 51,
-    "questionText": "İletilen bilgilerin alıcı ana bilgisayarlar ile gönderen ana bilgisayarlar arasında taşındığı yollara ne ad verilir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Link",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Network",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Brigde",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Router",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Host",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Link**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 52,
-    "questionText": "Dijital sistemlerde kullanılan en çok sayı sistemi hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Ternary",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Decimal",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Hexadecimal",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Octal",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Binary",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Binary**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 53,
-    "questionText": "Sık erişilen verileri ana bellekte depolamak yerine CPU ya daha yakın depolayarak bellek erişimini hızlandırmak için kullanılan birim aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "RAM",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Ana bellek",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "sabit disk",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "ön bellek",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "ara bellek",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: ön bellek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 54,
-    "questionText": "Hangisi Multibus II nin özelliklerinden değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "G/ç genişletmeleri için iSBX veri yolu kullanır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "CPU-bellek veri yolu ve sistem veri yolu arasındaki etkinliklerin ayrılmasıyla yüksek performansı elde edilir.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Ses ve görüntü için HDMI aktarımını destekler.",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "Dağıtık bir tahkim şeması kullanır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Ara bağlantı alanındaki durumu kendi kendine test etme ve raporlama yeteneğine sahiptir.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: Ses ve görüntü için HDMI aktarımını destekler.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 55,
-    "questionText": "Ağ referans modellerinin en üst katmanı aşağıdakilerden hangisidir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Fiziksel",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Nakit",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Sunum",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Ağ",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Uygulama",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Uygulama**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 56,
-    "questionText": "10100101² sayısının 2’ye tümleyenikaçtır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "01011010²",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "11011010²",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "10000001²",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "01011011²",
-        "isCorrect": true
-      },
-      {
-        "letter": "E",
-        "text": "11011011²",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "**Doğru Cevap: 01011011²**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 57,
-    "questionText": "Eşler arası ağ mimarisi ile ilgili hangisi yanlıştır?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Ağ üzerindeki her bilgisayarın eşit yeteneği ve sorumluluğu vardır.",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "istemciler ve sunucular arasında kesin bir ayrım yoktur.",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Ağır yükler altında istemci/sunucuya göre daha düşük performanssunarlar.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "İstemci/sunucu ağlarından daha basittirler.",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Ağdaki her bilgisayar ya bir istemci ya da sunucudur.",
-        "isCorrect": true
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "**Doğru Cevap: Ağdaki her bilgisayar ya bir istemci ya da sunucudur.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 58,
-    "questionText": "Bir problemi çözmek için gereken mantıksal adım dizisi nedir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Yazılım",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "Algoritma",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Assembly",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Assembler",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Nesne kodu",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: Algoritma**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 59,
-    "questionText": "Ana bellek için ……. ve önbellek için…….. olacak şekilde her iki teknoloji de sıklıkla birlikte kullanılır. Boşluğa gelecek kelimeler hangisinde doğru sırada verilmiştir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "ROM RAM",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "PROM-SRAM",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "DRAM-SRAM",
-        "isCorrect": true
-      },
-      {
-        "letter": "D",
-        "text": "DRAM-PROM",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "RAM-SRAM",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "**Doğru Cevap: DRAM-SRAM**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 60,
-    "questionText": "Aşağıdakilerden hangisi VMEbus görevlerindendir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "Cihazlar arasındaki etkileşimi kesin olarak tanımlayan protokolleri belirtmek",
-        "isCorrect": true
-      },
-      {
-        "letter": "B",
-        "text": "Arayüzlü cihazların dahili faaliyetlerini bozarak cihazlar arasında iletişimi engellemek",
-        "isCorrect": false
-      },
-      {
-        "letter": "C",
-        "text": "Performansın sistemin ara yüzü ile sinirh olduğu bir sistem sağlamak.",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Tasarimcinin sistem uyumluluğunu etkileyerek maliyeti ve/veyaperformansi optimize için geniş bir tasarim araligi sağlamak",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "Sistem protokolunu açıklayan terminoloji ve tanimlan gizlemek.",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: Cihazlar arasındaki etkileşimi kesin olarak tanımlayan protokolleri belirtmek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 61,
-    "questionText": "Hangisi Multibus II alt Sistemlerinden değildir?",
-    "imageUrl": null,
-    "options": [
-      {
-        "letter": "A",
-        "text": "PCI-express baglantisi",
-        "isCorrect": false
-      },
-      {
-        "letter": "B",
-        "text": "G/ç genişletmeleri için iSBX veri yolu",
-        "isCorrect": true
-      },
-      {
-        "letter": "C",
-        "text": "Seri ve paralel sistem veri yollanı",
-        "isCorrect": false
-      },
-      {
-        "letter": "D",
-        "text": "Bellek genişletme veri yolu",
-        "isCorrect": false
-      },
-      {
-        "letter": "E",
-        "text": "CPU veri yolu",
-        "isCorrect": false
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "**Doğru Cevap: G/ç genişletmeleri için iSBX veri yolu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
-  },
-  {
-    "id": 62,
     "questionText": "Çok amaçlı kullanılabilen kapı aşağıdakilerden hangisidir?",
     "imageUrl": null,
     "options": [
@@ -2105,10 +1697,282 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Doğru Cevap: NAND**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+    "explanation": "**Doğru Cevap: NAND**"
   },
   {
-    "id": 63,
+    "id": 51,
+    "questionText": "Bir BOOL cebri değişkeni kaç farklı değer alabilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: 2**"
+  },
+  {
+    "id": 52,
+    "questionText": "Sık erişilen verileri ana bellekte depolamak yerine CPU ya daha yakın depolayarak bellek erişimini hızlandırmak için kullanılan birim aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "RAM",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Ana bellek",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "sabit disk",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "ön bellek",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "ara bellek",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: ön bellek**"
+  },
+  {
+    "id": 53,
+    "questionText": "İnternet hangi ag türündendir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "WLAN",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "PAN",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "LAN",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "MAN",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "WAN",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: WAN**"
+  },
+  {
+    "id": 54,
+    "questionText": "13DA8A2D sayısının big Endian gösteriminde 2. Baytta hangi sayı bulunur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "1D",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "DA",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "A2",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "8A",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: DA**"
+  },
+  {
+    "id": 55,
+    "questionText": "Dijital sistemlerde kullanılan en çok sayı sistemi hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ternary",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Decimal",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Hexadecimal",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Octal",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Binary",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Binary**"
+  },
+  {
+    "id": 56,
+    "questionText": "Sistem veri yolu bileşenleri hangi seçenekte doğru verilmiştir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "adres veri yolu- talimat veriyolu- data veri yolu",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "adres veri yolu- DMA veri yolu- data veri yolu",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "adres veri yolu- kontrol veri yolu- data veri yolu",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "adres veri yolu-kontrol veri yolu- G/ç veri yolu",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "işlemci veri yolu- kontrol veri yolu- data veri yolu",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: adres veri yolu- kontrol veri yolu- data veri yolu**"
+  },
+  {
+    "id": 57,
+    "questionText": "10100101² sayısının 2’ye tümleyenikaçtır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "01011010²",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "11011010²",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "10000001²",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "01011011²",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "11011011²",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: 01011011²**"
+  },
+  {
+    "id": 58,
+    "questionText": "Hangi bellek türünü yeniden programlamadan önce içindeki verilerin silinmesi gereklidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "PROM",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "EEPROM",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Flash Bellek",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "EPROM",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "ROM",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: EPROM**"
+  },
+  {
+    "id": 59,
     "questionText": "13DA8A2D sayısının littleEndian gösteriminde 2. Baytta hangi sayı bulunur?",
     "imageUrl": null,
     "options": [
@@ -2142,7 +2006,7 @@
     "explanation": "**Doğru Cevap: 8A**"
   },
   {
-    "id": 64,
+    "id": 60,
     "questionText": "101001012 sayısının 1’e tümleyeni kaçtır?",
     "imageUrl": null,
     "options": [
@@ -2176,7 +2040,41 @@
     "explanation": "**Doğru Cevap: 01011010²**"
   },
   {
-    "id": 65,
+    "id": 61,
+    "questionText": "Bir problemi çözmek için gereken mantıksal adım dizisi nedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Yazılım",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Algoritma",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Assembly",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Assembler",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Nesne kodu",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Algoritma**"
+  },
+  {
+    "id": 62,
     "questionText": "8 bloklu bir ön bellekte doğrudan eşleme yöntemi ile ana belleğin 8. Bloğu ön belleğin hangi bloğuna eşlenir?",
     "imageUrl": null,
     "options": [
@@ -2208,5 +2106,107 @@
     ],
     "correctAnswer": "E",
     "explanation": "**Doğru Cevap: 8**"
+  },
+  {
+    "id": 63,
+    "questionText": "Aşağıdakilerden hangisi VMEbus görevlerindendir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cihazlar arasındaki etkileşimi kesin olarak tanımlayan protokolleri belirtmek",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Arayüzlü cihazların dahili faaliyetlerini bozarak cihazlar arasında iletişimi engellemek",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Performansın sistemin ara yüzü ile sinirh olduğu bir sistem sağlamak.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Tasarimcinin sistem uyumluluğunu etkileyerek maliyeti ve/veyaperformansi optimize için geniş bir tasarim araligi sağlamak",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Sistem protokolunu açıklayan terminoloji ve tanimlan gizlemek.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Cihazlar arasındaki etkileşimi kesin olarak tanımlayan protokolleri belirtmek**"
+  },
+  {
+    "id": 64,
+    "questionText": "Hangisi bir ağ bileşeni değildir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Router",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Bellek",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Brigde",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Link",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Host",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Bellek**"
+  },
+  {
+    "id": 65,
+    "questionText": "Eşler arası ağ mimarisi ile ilgili hangisi yanlıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ağ üzerindeki her bilgisayarın eşit yeteneği ve sorumluluğu vardır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "istemciler ve sunucular arasında kesin bir ayrım yoktur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Ağır yükler altında istemci/sunucuya göre daha düşük performanssunarlar.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "İstemci/sunucu ağlarından daha basittirler.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Ağdaki her bilgisayar ya bir istemci ya da sunucudur.",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Ağdaki her bilgisayar ya bir istemci ya da sunucudur.**"
   }
 ]
