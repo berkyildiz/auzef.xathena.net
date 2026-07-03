@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.next
+out
+*.txt
+parsed_all.json
