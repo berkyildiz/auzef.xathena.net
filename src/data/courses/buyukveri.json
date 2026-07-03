@@ -1256,5 +1256,447 @@
     ],
     "correctAnswer": "E",
     "explanation": "**Doğru Cevap: Ontoloji**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 38,
+    "questionText": "Sağlık hizmetleri verileri, kamuya açık hale getirilmemesi için yetkisiz erişime karşı güvence altına alınması gereken son derece hassas verilerdir ve ayrıca sağlık hizmeti sahtekarlığı da saldırganlardan önlenebilir. Bu nedenle, …….. sağlık alanındaki en önemli ve zorlu görevlerden biridir.Yukarıdaki cümlede verilen boşluğa aşağıdaki cümlelerden hangisi gelmelidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Verinin hacmi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Verinin toplanması",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Veri güvenliği",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Verinin hızı",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Verinin ekonomik değeri",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Veri güvenliği**"
+  },
+  {
+    "id": 39,
+    "questionText": "I. Klinik referanslarII. Genomik verilerIII. Statik verilerIV. YayınlarSağlık hizmetlerinde birçok kaynaktan çok sayıda veri üretilmektedir. Yukarıda verilenlerden hangileri sağlık hizmetlerindeki büyük veri kaynaklarındandır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "I ve III",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "I, II ve IV",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Il ve III",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "I ve IV",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "I, II ve III",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: I, II ve IV**"
+  },
+  {
+    "id": 40,
+    "questionText": "…….. büyük veri analizlerini iletmek, anlamak ve geliştirmek için resimler, diyagramlar ya da animasyonlar oluşturmak için kullanan bir tekniktir.Yukarıdaki cümlede verilen boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zaman serisi analizi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Optimizasyon",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Doğal dil işleme",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Sinyal işleme",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Büyük veri görselleştirme",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Büyük veri görselleştirme**"
+  },
+  {
+    "id": 41,
+    "questionText": "Karıştırma ve permütasyon olarak da bilinir, veri kümesi öznitelik değerlerini orijinal kayıtlara karşılık gelmeyecek şekilde yeniden düzenlemek maksadıyla kullanılan bir tekniktir.Yukarıda açıklanan veriyi anonimleştirme tekniği aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Veriyi Maskeleme",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Veri Değiştirme",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Genelleme",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Takma Adlandırma",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Veri Bozulması",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Veri Değiştirme**"
+  },
+  {
+    "id": 42,
+    "questionText": "“Semantik web sayesinde makinelerin etkileşiminin yanında …….. etkileşiminin de üst seviyeye ulaşması beklenmektedir.”Yukarıdaki cümlede verilen boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İnsan - İnsan",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Web Makine",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Makine İnsan",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Makine Makine",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Web - İnsan",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Makine İnsan**"
+  },
+  {
+    "id": 43,
+    "questionText": "Dolandırıcılıktan teröre kadar değişen güvenlik sorunlarını çözmek için büyük veri analitiği yöntemlerini kullanarak çözümler üretmektedir. Sistemlerini CIA destekleriyle geliştirmiş ve ABD hükümeti ve güvenlik kurumları tarafından yaygın bir şekilde kullanılmaktadır.Yukarıda verilen bilgiler hangi kurumun büyük veri uygulaması sayesinde gerçekleştirilmiştir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Palantir Technologies",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Amerikan Kroger Şirketi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Commonbond Platformu",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "CERN Büyük Hadron Çarpıştırıcısı",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Tennessee Valley Authority (Tennessee Vadisi Yönetimi)",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Palantir Technologies**"
+  },
+  {
+    "id": 44,
+    "questionText": "Herkesin özgürce ve yeniden kullanabileceği ve yeniden dağıtılabilen, yalnızca nitelik ve paylaşım gereksinimine tabi olan veridir.Tanımı verilen veri çeşidi aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Gri veri",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Karanlık veri",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Semantik veri",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Açık veri",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Büyük veri",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Açık veri**"
+  },
+  {
+    "id": 45,
+    "questionText": "I. Makine tarafından oluşturulan verilerII. İnsan tarafından üretilen verilerIII. Davranış verileriIV. Kronolojik verilerYukarıdakilerden hangilerinde sağlık hizmetlerindeki büyük veri kaynakları doğru şekilde gruplandırılmıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "I, II ve IV",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "I ve III",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "1 ve IV",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "I, II ve III",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "II ve II",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: I, II ve III**"
+  },
+  {
+    "id": 46,
+    "questionText": "Sosyal ve ekonomik yönden toplum faydasını amaçlayan açık veriler, toplumsal ve kurumsal yapıların ihtiyaçlarına cevap veren yenilikçi çözümler sunmalıdır.Yukarıda bahsedilen özellik açık verinin hangi ilkesi ile ilgilidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "İnovasyon odaklılık",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "İşlenebilirlik",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kapsayıcılık",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Güncellik",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Yeniden kullanılabilirlik",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: İnovasyon odaklılık**"
+  },
+  {
+    "id": 47,
+    "questionText": "I. BütünlükII. PazarlanabilirlikIII. GizlilikIV. ErişilebilirlikV. SaklanabilirlikYukarıdakilerden hangileri bilgi güvenliğinin ana unsurlarındandır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "II-V",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "I-III",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "1-II-V",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "II-IV-V",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "I-III-IV",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: I-III-IV**"
+  },
+  {
+    "id": 48,
+    "questionText": "…… varlıkları ilişkileriyle birlikte tanımlayan felsefecilerin kullandığı bir sözcüktür ve semantik web, en temel bileşenidir.Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Akıllı ajanlar",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Eliminasyon",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Arka plan çıkarma",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Modelleme",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Ontoloji",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Ontoloji**"
+  },
+  {
+    "id": 49,
+    "questionText": "&gt;&gt; reduceByKeyYukarıdaki Python komutu aşağıdaki işlemlerden hangisini gerçekleştirmek için yazılmıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kelimelerin frekans değerlerini büyükten küçüğe sıralamak için",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Kelimelerin uzunluklarına göre sıralamaları bulmak için",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Küçük harften oluşan kelimeleri büyük barfe dönüştürmek için",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Büyük harften oluşan kelimeleri küçük harfe dönüştürmek için",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Kelimelerin benzerliğine göre frekanslarını bulmak için",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Kelimelerin benzerliğine göre frekanslarını bulmak için**"
+  },
+  {
+    "id": 50,
+    "questionText": "Sağlık Bakanlığının büyük veriyi yönetmek için oluşturduğu altyapı çözümlerinden ……, sağlık sektöründe yer alan kurum ve kuruluşların kaynaklarını ve sağlıkla ilgili anonim verileri ortak kullanabilmeleri ve güvenli yollardan hızlı veri iletişimi yapabilmeleri amacıyla oluşturulan sağlık özel ağıdır.Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sağlıkta Dönüşüm Programı (SDP)",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Sağlıkta Tasarruf Programı (STP)",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Sağlıkta Büyük Veri Ağı (SBVA)",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Sağlık Bilişim Ağı (SBA)",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Sağlıkta Yapay Zekâ Programı (SYZP)",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Sağlık Bilişim Ağı (SBA)**"
   }
 ]

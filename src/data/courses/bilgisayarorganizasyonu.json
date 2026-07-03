@@ -2106,5 +2106,107 @@
     ],
     "correctAnswer": "A",
     "explanation": "**Doğru Cevap: NAND**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 63,
+    "questionText": "13DA8A2D sayısının littleEndian gösteriminde 2. Baytta hangi sayı bulunur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "2D",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "8A",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "A2",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "DA",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: 8A**"
+  },
+  {
+    "id": 64,
+    "questionText": "101001012 sayısının 1’e tümleyeni kaçtır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "10100000²",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "11100101²",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "01011010²",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "10000001²",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "01011011²",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: 01011010²**"
+  },
+  {
+    "id": 65,
+    "questionText": "8 bloklu bir ön bellekte doğrudan eşleme yöntemi ile ana belleğin 8. Bloğu ön belleğin hangi bloğuna eşlenir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "8",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: 8**"
   }
 ]
