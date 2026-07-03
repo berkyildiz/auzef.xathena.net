@@ -30,7 +30,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "8bde6add-d5c8-48e1-8507-a4ded86bc414",
+    "id": 1,
     "explanation": "**Doğru Cevap: Hata ve önyargıları en aza indirmeye çalışmak**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -64,7 +64,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "4ad8213f-f22b-4d69-8387-6cf6666b14d6",
+    "id": 2,
     "explanation": "**Doğru Cevap: Daha önce yapılmış çalışmaların sonuçlarıyla tutarlı olmalı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -98,7 +98,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "f0709639-0ab8-42fb-82d3-09bbcf8ab727",
+    "id": 3,
     "explanation": "**Doğru Cevap: Bağımlı-bağımsız değişkenler arasındaki etkiyi belirlemek**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -132,7 +132,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "3dd8947c-1ef7-44c8-be5a-f4cd0d2609bc",
+    "id": 4,
     "explanation": "**Doğru Cevap: Araştırmacının sürece katılımı yoğundur.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -166,7 +166,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "38041bea-b7b0-460b-b8f7-3d1ffd1382fb",
+    "id": 5,
     "explanation": "**Doğru Cevap: Nicel Araştırma - Nitel Araştırma**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -200,7 +200,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "20f0e41d-ccde-41a8-86dd-fa3180a14116",
+    "id": 6,
     "explanation": "**Doğru Cevap: Ders başarısı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -234,7 +234,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "f4256b6b-b32d-49c2-9386-6018a7a8c5f0",
+    "id": 7,
     "explanation": "**Doğru Cevap: Anakütle**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -268,7 +268,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "0d81a6c1-86ee-4d80-b674-7daab562dfb8",
+    "id": 8,
     "explanation": "**Doğru Cevap: Hepsi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -302,7 +302,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "edb9449d-c3d8-45b3-a35d-671629082319",
+    "id": 9,
     "explanation": "**Doğru Cevap: Sorular herhangi bir düzene göre değil tamamen rastgele yerleştirilmelidir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -336,7 +336,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "937f664a-186f-422e-9bb6-252ea34fbce3",
+    "id": 10,
     "explanation": "**Doğru Cevap: Soruyu cevaplamak çok zaman alır mı?**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -370,7 +370,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "98cf1572-c083-42aa-b2e4-7046e132280e",
+    "id": 11,
     "explanation": "**Doğru Cevap: Örneklem büyüklüğü azaldıkça güvenirlik artar.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -404,7 +404,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "a1e40a74-0c61-42ba-8c91-407c251c184b",
+    "id": 12,
     "explanation": "**Doğru Cevap: İçsel tutarlılık / Cronbach’s alpha**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -438,7 +438,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "fbd0891b-cf10-468e-8ab5-ee5ec6f1150f",
+    "id": 13,
     "explanation": "**Doğru Cevap: Kapsam geçerliği**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -472,7 +472,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "f8c9b8cc-c54f-4434-bc5c-ebb9af37e3e7",
+    "id": 14,
     "explanation": "**Doğru Cevap: Geçerlik, istatistiksel analizlerle yüzde olarak hesaplanır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -506,7 +506,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "4add3a99-98fc-44b1-b442-05c815bd9da5",
+    "id": 15,
     "explanation": "**Doğru Cevap: Değişkenler arası ilişkilere odaklanılır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -540,7 +540,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "b31360b3-e500-474d-bc28-09229ea16777",
+    "id": 16,
     "explanation": "**Doğru Cevap: Kümeleme analizi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -574,7 +574,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "46101a64-b548-4cbd-82a8-8ca9efe40a78",
+    "id": 17,
     "explanation": "**Doğru Cevap: APA**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -608,7 +608,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "9f1a6304-d57b-4e8e-86e8-d691ce096688",
+    "id": 18,
     "explanation": "**Doğru Cevap: Başlangıç sayfasında dipnot**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -642,7 +642,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "6e1db8bc-db83-4c65-adfb-0f8a11dfe833",
+    "id": 19,
     "explanation": "**Doğru Cevap: İntihal**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -676,7 +676,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "5aeb5deb-8259-4929-a22f-d4efb99ad896",
+    "id": 20,
     "explanation": "**Doğru Cevap: ULAKBİM**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -710,7 +710,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "a9d5c331-d876-4fc9-8ac5-d74777ca7494",
+    "id": 21,
     "explanation": "**Doğru Cevap: Araştırma**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -744,7 +744,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "ac8ddbfa-f24f-4532-86e0-69b79a4d56d9",
+    "id": 22,
     "explanation": "**Doğru Cevap: Varsayımsal model**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -778,7 +778,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "5f40a471-32ae-4753-b9e6-30d50a5e4e9c",
+    "id": 23,
     "explanation": "**Doğru Cevap: Araştırma probleminin tespiti ile başlar.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -812,7 +812,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "432190b8-2093-4eda-8d29-7ebb6fcca147",
+    "id": 24,
     "explanation": "**Doğru Cevap: Anketler**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -846,7 +846,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "bd2e6405-da0b-4279-9594-6d70167e9d77",
+    "id": 25,
     "explanation": "**Doğru Cevap: Standart açık-uçlu görüşme**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -880,7 +880,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "05b97af2-259a-4161-8605-eb0801f12830",
+    "id": 26,
     "explanation": "**Doğru Cevap: Küme örneklemesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -914,7 +914,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "2308c63e-7cfe-42a8-9efe-970cbf0219d3",
+    "id": 27,
     "explanation": "**Doğru Cevap: Semantik farklılıklar**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -948,7 +948,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "0d035fbe-10f6-4957-a826-2ce293254f98",
+    "id": 28,
     "explanation": "**Doğru Cevap: Olumsuz tümcelere ağırlık verilmeli**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -982,7 +982,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "2ed12309-d69f-4d54-aee2-f388c52511eb",
+    "id": 29,
     "explanation": "**Doğru Cevap: Beklenen cevaplara yönelik ipuçları verilmedir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1016,7 +1016,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "ef1e60a8-d30c-4c70-a4f8-68b25e1e8409",
+    "id": 30,
     "explanation": "**Doğru Cevap: Tesadüfi hata**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1050,7 +1050,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "777a64e2-1283-4dbf-ba14-94a261a5c756",
+    "id": 31,
     "explanation": "**Doğru Cevap: ne / nasıl**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1084,7 +1084,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "f6f21424-6f21-4118-a836-c1cb0eb3b2aa",
+    "id": 32,
     "explanation": "**Doğru Cevap: Test etkisi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1118,7 +1118,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "a7a8eba6-a197-4931-b7a5-92238afc818c",
+    "id": 33,
     "explanation": "**Doğru Cevap: nitel / nicel / sürekli / kesikli**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1152,7 +1152,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "093776b7-2a40-42b7-a6df-ee6873396a1c",
+    "id": 34,
     "explanation": "**Doğru Cevap: Öz**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1186,7 +1186,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "d35dd675-564a-4a98-b5c5-0b2295ca6b02",
+    "id": 35,
     "explanation": "**Doğru Cevap: Yazarın çalışma alanları**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1220,7 +1220,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "4bc5dd53-b998-4bf5-9180-2a1e4a9fbe72",
+    "id": 36,
     "explanation": "**Doğru Cevap: Toplumu ve doğayı ilgilendiren her türlü olgu ve değerle uğraşma**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1254,7 +1254,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "ac11cce0-5425-4eb0-925c-5fee5967e25e",
+    "id": 37,
     "explanation": "**Doğru Cevap: 3-2-1-5-4**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1288,7 +1288,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "da042cf1-fbf5-46ba-9db4-7f0e7d8143bf",
+    "id": 38,
     "explanation": "**Doğru Cevap: Hipotez doğruluğu hakkında kanıt toplanacak ifadelerdir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1322,7 +1322,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "4a52ac8f-0d4a-4d31-9211-cae46774cf3d",
+    "id": 39,
     "explanation": "**Doğru Cevap: Neden-Sonuç (nedensel) araştırmaları**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1356,7 +1356,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "bb0b5e7c-0aca-4960-961c-6074bf6e18ae",
+    "id": 40,
     "explanation": "**Doğru Cevap: Anahtar kelimelerin**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1390,7 +1390,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "85be4669-be6d-4f27-a20f-ce79788e54c4",
+    "id": 41,
     "explanation": "**Doğru Cevap: Soruları o an aklına geldiği gibi sormalı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1424,7 +1424,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "0d10779f-f470-414f-ac5c-c961a7e3c709",
+    "id": 42,
     "explanation": "**Doğru Cevap: Bağımlı değişken**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1458,7 +1458,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "615eb4fc-debf-4e12-b003-b1ec0556a389",
+    "id": 43,
     "explanation": "**Doğru Cevap: Oran**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1492,7 +1492,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "273e391c-3887-4458-b0f0-3560f0741afc",
+    "id": 44,
     "explanation": "**Doğru Cevap: Anket öntesti**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1526,7 +1526,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "3659ffb4-d3c2-4d74-8657-d9c5c00375bc",
+    "id": 45,
     "explanation": "**Doğru Cevap: I-III-II**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1560,7 +1560,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "09bbdd91-76c8-4a70-96cf-e98a4dad33de",
+    "id": 46,
     "explanation": "**Doğru Cevap: α &lt; 0 ise ölçek güvenilirdir, negatif bir ilişki vardır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1594,7 +1594,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "38a40ecd-7f5d-4861-8d7f-ee144450e6f8",
+    "id": 47,
     "explanation": "**Doğru Cevap: Ki-kare analizi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1628,7 +1628,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "5e256c11-944d-4139-837a-7fc7f71015c9",
+    "id": 48,
     "explanation": "**Doğru Cevap: Makalelerden yapılan atıflar dışında diğer alıntılar için kaynak göstermeye gerek yoktur.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1662,7 +1662,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "544d0b2e-d1d8-4d92-882e-a96a6b8c98a4",
+    "id": 49,
     "explanation": "**Doğru Cevap: Bulgu**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1696,7 +1696,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "a77725e6-9fd7-4aed-9468-c234584e7bca",
+    "id": 50,
     "explanation": "**Doğru Cevap: Muvazaa**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1730,7 +1730,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "31e426e2-a8eb-45d4-a8b3-bb0e49ed4f43",
+    "id": 51,
     "explanation": "**Doğru Cevap: Araştırmada önceki bulguları doğrulamak için nasıl bir araştırma uygulamalıyız?**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1764,7 +1764,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "4f9767ba-aaef-4476-9a37-5fb01436ce18",
+    "id": 52,
     "explanation": "**Doğru Cevap: Birden fazla ve modele göre üst sınır değişebilir**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1798,7 +1798,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "624515bc-d748-49df-9f37-a73fe78e0eed",
+    "id": 53,
     "explanation": "**Doğru Cevap: Uzman anketi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1832,7 +1832,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "d2d6304c-3140-42f3-9be3-2edec859374f",
+    "id": 54,
     "explanation": "**Doğru Cevap: Kolayda örnekleme**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1866,7 +1866,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "5194a76e-338c-4fe0-960f-ccbcb2639a28",
+    "id": 55,
     "explanation": "**Doğru Cevap: Aylık gelir**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1900,7 +1900,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "d9800348-8c4d-4605-a2f0-271cd362cbf6",
+    "id": 56,
     "explanation": "**Doğru Cevap: artar/düşer**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1934,7 +1934,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "91d634f9-665c-414b-95a9-ec249923c45d",
+    "id": 57,
     "explanation": "**Doğru Cevap: Güvenirlik**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -1968,7 +1968,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "b9398cfb-fac4-49ef-8379-1f064b39bd4f",
+    "id": 58,
     "explanation": "**Doğru Cevap: Yapı geçerliliği**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2002,7 +2002,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "147f12a0-d4b1-481c-82d9-54f74b230ced",
+    "id": 59,
     "explanation": "**Doğru Cevap: Aynı yapıyı ölçtüğü bilinen başka bir test ile elde edilen sonuçlar arasındaki korelasyon hesaplamasına gerek yoktur (korelasyonun düşük çıkması beklenir).**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2036,7 +2036,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "c5c204d8-887d-421e-a82b-a71b5371fb24",
+    "id": 60,
     "explanation": "**Doğru Cevap: Regresyon analizi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2070,7 +2070,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "541f125a-39b5-4d91-8516-ebb6ef5f34cc",
+    "id": 61,
     "explanation": "**Doğru Cevap: Üretilen bilginin, mutlak doğruyu gösterdiğinin iddia edilmesi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2104,7 +2104,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "0e41bf40-ac44-4961-bf2c-7c344bb3e9c4",
+    "id": 62,
     "explanation": "**Doğru Cevap: Bir araştırmada yalnızca bir hipotez olmalı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2138,7 +2138,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "accb98b9-127a-46d3-93c2-67789915e3f8",
+    "id": 63,
     "explanation": "**Doğru Cevap: X’deki değişme Y’deki değişmeden zaman içinde daha sonra meydana gelmeli.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2172,7 +2172,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "b75a2097-74e2-495c-92c4-91c0f107f071",
+    "id": 64,
     "explanation": "**Doğru Cevap: yüksek, uzun / düşük, kısa**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2206,7 +2206,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "b8099bb7-441c-4031-a510-b78a3a2bf6ce",
+    "id": 65,
     "explanation": "**Doğru Cevap: Katılımcı başına maliyetin çok düşük olması**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2240,7 +2240,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "8d3b149c-78ee-4ea5-b245-259ccad4e1fc",
+    "id": 66,
     "explanation": "**Doğru Cevap: Deney**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2274,7 +2274,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "f543e5ea-287a-48bc-b3e2-52b58ffb5659",
+    "id": 67,
     "explanation": "**Doğru Cevap: Örneklem büyüklüğü arttıkça örneklem hatası da azalır**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2308,7 +2308,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "6cb0368e-3db1-4b19-a3bd-97a8a2da9226",
+    "id": 68,
     "explanation": "**Doğru Cevap: Öntestteki cevaplayıcılar hedef anakütlenin temsilcileri olmamalı farklı bir anakütleden alınmalıdır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2342,7 +2342,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "7feb0531-cd0b-4c48-b85f-1d62fe60ec9b",
+    "id": 69,
     "explanation": "**Doğru Cevap: Geçerlik**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2376,7 +2376,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "84686f41-3d9b-49ba-bb24-b512e4444012",
+    "id": 70,
     "explanation": "**Doğru Cevap: Faktör analizi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2410,7 +2410,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "e6fe6e6b-dc49-41ac-8d5d-0fe71d1ac4e1",
+    "id": 71,
     "explanation": "**Doğru Cevap: Çok iyi bir zaman yönetimi yapılması,**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2444,7 +2444,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "ec9d4be9-ca37-4001-97b7-222c62140454",
+    "id": 72,
     "explanation": "**Doğru Cevap: Mevcut bulguları tekrar etme**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2478,7 +2478,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "d79f8082-1a59-42de-97bd-7d7d3ccd76f8",
+    "id": 73,
     "explanation": "**Doğru Cevap: Toplama maliyeti yüksektir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2512,7 +2512,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "b0a57001-8d5f-4c77-9538-bb7ed840393a",
+    "id": 74,
     "explanation": "**Doğru Cevap: Nicel araştırmalarda araştırmacı öznel değerlendirme yapabilirken nitel araştırmalarda araştırmacı nesnel değerlendirme yapar**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2546,7 +2546,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "9f06a617-23c4-43ae-bc73-bac08c20cfbf",
+    "id": 75,
     "explanation": "**Doğru Cevap: Kalitatif araştırma ile desteklenmiş olma**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2580,7 +2580,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "9a81d9e3-809f-4bf2-a376-c9d8a0fe76ed",
+    "id": 76,
     "explanation": "**Doğru Cevap: Önyargılı kelimeler hataya neden olur.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2614,7 +2614,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "57844532-198c-479f-90b2-8d700f481eb7",
+    "id": 77,
     "explanation": "**Doğru Cevap: Öznellik**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2648,7 +2648,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "84dc6832-a446-4606-8f68-96f2ee5cf219",
+    "id": 78,
     "explanation": "**Doğru Cevap: Çoklu regresyon analizi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2682,7 +2682,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "155747ea-adf5-467c-9691-8d711c32a580",
+    "id": 79,
     "explanation": "**Doğru Cevap: Yayımlanmasının üzerinden 20 yıl geçmiş makaleler**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2716,7 +2716,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "a55dbb3c-f829-497f-85ee-b077d9ae967c",
+    "id": 80,
     "explanation": "**Doğru Cevap: Kaynakçada her kaynak yalnız bir kez yazılmamalı, atıf yapıldığı sayı kadar tekrar etmelidir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2750,7 +2750,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "c8697860-b581-42a9-8376-760fc7123dc9",
+    "id": 81,
     "explanation": "**Doğru Cevap: Hepsi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2784,7 +2784,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "cbf9d9d7-d1d8-443a-a808-914385148fbc",
+    "id": 82,
     "explanation": "**Doğru Cevap: Alternatif hipotez**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2818,7 +2818,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "bd0073ef-1c4b-4ef2-b94f-b1d72779c6a8",
+    "id": 83,
     "explanation": "**Doğru Cevap: Araştırma amaçların tanımlanması**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2852,7 +2852,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "27aeb7b9-df20-4bc4-9013-091a957b72ed",
+    "id": 84,
     "explanation": "**Doğru Cevap: Öntest-sontest kontrol gruplu model**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2886,7 +2886,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "42eef236-6034-4abf-a824-4bb7d9ab4579",
+    "id": 85,
     "explanation": "**Doğru Cevap: Paralel formlar güvenirliği**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2920,7 +2920,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "440a6d51-897e-4344-a67d-78906ce60534",
+    "id": 86,
     "explanation": "**Doğru Cevap: Gelecek etkisi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2954,7 +2954,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "adc28de1-27a8-4839-9dfb-f16df57a3273",
+    "id": 87,
     "explanation": "**Doğru Cevap: Korelasyon**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -2988,7 +2988,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "68597112-e53e-4b71-b7e5-2492fd755e64",
+    "id": 88,
     "explanation": "**Doğru Cevap: Tek gruplu öntest-sontest model**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3022,7 +3022,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "2fd628ef-f679-4cd6-a59e-a8998b8e2da2",
+    "id": 89,
     "explanation": "**Doğru Cevap: Bilimsel yanıltma**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3056,7 +3056,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "6c0338e2-416a-4af7-9022-05e1369e40c0",
+    "id": 90,
     "explanation": "**Doğru Cevap: Uygulamalı araştırma**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3090,7 +3090,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "4ac51ddc-1238-4933-855a-0a511a54ad43",
+    "id": 91,
     "explanation": "**Doğru Cevap: Tanımlayıcı**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3124,7 +3124,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "c061bd19-aec4-463c-a0ce-de55ac62a652",
+    "id": 92,
     "explanation": "**Doğru Cevap: var / yoktur.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3158,7 +3158,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "42f8cbb5-07e7-489b-a6cc-d2a98b3cff16",
+    "id": 93,
     "explanation": "**Doğru Cevap: Uygulama hızı çok yüksektir**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3192,7 +3192,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "6a55b648-35b0-486a-90ea-5cfd48ebc11e",
+    "id": 94,
     "explanation": "**Doğru Cevap: Kategori**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3226,7 +3226,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "d6a902af-278c-4732-bd2a-72f20d0c37ad",
+    "id": 95,
     "explanation": "**Doğru Cevap: kalitatif / kantitatif**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3260,7 +3260,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "3b15a920-799d-40df-b561-b90bf13ac14b",
+    "id": 96,
     "explanation": "**Doğru Cevap: İlgili literatürdeki (ihtilaflı) üzerinde uzlaşılmayan alanları göstermemelidir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3294,7 +3294,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "b71eb822-5bfd-42ec-a8a3-fd6c5278fc5d",
+    "id": 97,
     "explanation": "**Doğru Cevap: Anket**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3328,7 +3328,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "c97a4423-4911-49f0-b6b3-dc5f966d4338",
+    "id": 98,
     "explanation": "**Doğru Cevap: Ölçme aracını denemeyi sağlar.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3362,7 +3362,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "3a0a3964-5491-40fb-b6a6-3ff901f1807d",
+    "id": 99,
     "explanation": "**Doğru Cevap: Eş değer (paralel)**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3396,7 +3396,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "67a845fc-0878-4856-8898-826d17d962f2",
+    "id": 100,
     "explanation": "**Doğru Cevap: Temel araştırma**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3430,7 +3430,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "fd48e35f-6911-4675-a3ec-0f86b4041564",
+    "id": 101,
     "explanation": "**Doğru Cevap: Bağımsız değişken**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3464,7 +3464,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "bac4cf38-fdbf-4807-a281-a2bca0e3df1a",
+    "id": 102,
     "explanation": "**Doğru Cevap: Keşfedici araştırma tasarımına uygunluk**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3498,7 +3498,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "fec1906d-c77b-4dac-b57c-5e5bd9306f55",
+    "id": 103,
     "explanation": "**Doğru Cevap: Veri Girişi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3532,7 +3532,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "84aea5ec-563f-49fb-a071-2d57249128d2",
+    "id": 104,
     "explanation": "**Doğru Cevap: Bilimsel yöntemler günlük hayatta karşılaşılan sorunların çözümünde kullanılmaz.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3566,7 +3566,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "b02d46ef-11e2-4131-8c16-be152d7a0dcd",
+    "id": 105,
     "explanation": "**Doğru Cevap: Bugüne değin araştırılmamış sorunlar nelerdir?**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3600,7 +3600,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "acbd9fc6-af27-4f3f-b38c-045e1d01dadc",
+    "id": 106,
     "explanation": "**Doğru Cevap: Tam ve kesin bilgiye ulaşmada karşılaşılan zorluklar**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3634,7 +3634,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "d913854b-3ccc-4f0d-a002-4b41066ebfdc",
+    "id": 107,
     "explanation": "**Doğru Cevap: Negatif tasarımlı sorulardan olabildiğince yararlanılmalıdır.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3668,7 +3668,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "ed46dd9d-cf27-4a82-b579-31c5cc66f273",
+    "id": 108,
     "explanation": "**Doğru Cevap: Problemler ve hipotezler, değişken ve ölçekler rastgele belirlenmelidir.**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3702,7 +3702,7 @@
     ],
     "correctAnswer": "A",
     "imageUrl": null,
-    "id": "c4463b66-59bb-4ed1-8482-49cdecd73f89",
+    "id": 109,
     "explanation": "**Doğru Cevap: Keşfedici Araştırma**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3736,7 +3736,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "d628add2-9306-4b1f-80bf-895e998c4941",
+    "id": 110,
     "explanation": "**Doğru Cevap: Anketin amacının, tüm aşamalarının ve detaylarının cevaplayıcıya aktarılması,**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3770,7 +3770,7 @@
     ],
     "correctAnswer": "C",
     "imageUrl": null,
-    "id": "83a40f6b-fa4a-4a87-9339-a306faaa5cfe",
+    "id": 111,
     "explanation": "**Doğru Cevap: Tesadüfi olmayan örnekleme / Tesadüfi örnekleme**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3804,7 +3804,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "b55f7288-f2eb-4c0e-9020-c4186f715f9c",
+    "id": 112,
     "explanation": "**Doğru Cevap: Araştırmacı bir ifade, tanım veya kavramı bir kaynaktan olduğu gibi alıp, çalışmasında kullanıyorsa**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3838,7 +3838,7 @@
     ],
     "correctAnswer": "E",
     "imageUrl": null,
-    "id": "b1c9c648-4a7e-42d2-8a03-8321b97d1ac9",
+    "id": 113,
     "explanation": "**Doğru Cevap: Psikogalvanometre**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3872,7 +3872,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "f941f69f-7e87-49fd-a212-9e87fd4c0432",
+    "id": 114,
     "explanation": "**Doğru Cevap: Medyan**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3906,7 +3906,7 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "fc04a52c-fafb-4b74-8f67-0519e4899ccb",
+    "id": 115,
     "explanation": "**Doğru Cevap: Rakipler**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3940,7 +3940,7 @@
     ],
     "correctAnswer": "B",
     "imageUrl": null,
-    "id": "7b935cd9-a4f0-4d6c-b925-9da2851d4171",
+    "id": 116,
     "explanation": "**Doğru Cevap: Görünüş geçerliliği**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
   },
   {
@@ -3974,7 +3974,687 @@
     ],
     "correctAnswer": "D",
     "imageUrl": null,
-    "id": "cc687403-c90f-49b8-9890-df5860b11f84",
+    "id": 117,
     "explanation": "**Doğru Cevap: Veri Analizi**\n\nBu problem, benzetim (simülasyon) teorisinde standart sistem yapıları veya ihtimal dağılımlarına dayanmaktadır. Simülasyon modeli kurgulanırken girdi verilerinin uygun bir istatistiksel dağılıma oturtulması veya kuyruk disiplini kurallarının doğru atanması gerekir. Çözüm, bu kurallara veya formüllere doğrudan karşılık gelmektedir."
+  },
+  {
+    "id": 118,
+    "questionText": "Varyansın karekökü olan ve gruptaki dağılımın ne kadar tutarlı olduğunu belirlemek için kullanılan tanımlayıcı istatistik aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Medyan",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Mod",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Harmonik ortalama",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Standart sapma",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Geometrik ortalama",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Standart sapma**"
+  },
+  {
+    "id": 119,
+    "questionText": "Araştırmaya katılan bireylerde araştırma süresince meydana gelen değişiklikler sonucu oluşan geçersizlik kaynağına ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Geçmişin etkisi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Araç etkisi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Test etkisi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Seçim etkisi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Olgunlaşma etkisi",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Olgunlaşma etkisi**"
+  },
+  {
+    "id": 120,
+    "questionText": "Cronbach Alpha (α) değeri araştırmalarda aşağıdakilerden hangisi için kullanılır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Geçerliliği belirlemek için",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Objektifliği sağlamak için",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Güvenirliliği belirlemek için",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Bilimsel olmak için",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Sistematikliği sağlamak için",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Güvenirliliği belirlemek için**"
+  },
+  {
+    "id": 121,
+    "questionText": "Araştırma sonuçlarının yorumlanması ile ilgili yanlış bir bilgidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nihai karar alınmasından araştırmacıya yardımcı olur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Bu bölüm araştırmanın amacının gerçekleştirildiği bölümdür.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Bu aşamadan sonra araştırmacı kolaylıkla önerilerde bulunabilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Verilerin çözümlenmesinden sonraki aşamadır ve verileri çözümleriyle bütünleştirir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Bu aşamada elde edilen bilgiler genellenebilir olmak zorunda değildir.",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Bu aşamada elde edilen bilgiler genellenebilir olmak zorunda değildir.**"
+  },
+  {
+    "id": 122,
+    "questionText": "Bir yazarın intihalden kaçınmak için gerekli becerilere sahip olmamasına veya başkasına ait olan fikirleri iyice özümseyerek kendisine aitmiş gibi zannetmesine bağlı olarak yapılmış olan intihale ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kasti aşırma",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Benzetme",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kendinden intihal",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Özümseme",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Bilinçsiz intihal",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Bilinçsiz intihal**"
+  },
+  {
+    "id": 123,
+    "questionText": "“Geçerlikte yapılan işlem amaca ne kadar uygun olursa geçerlik o kadar ….. , amaçtan ne kadar uzak olursa geçerlik o kadar ….. olur.“ Yukarıdaki boşluğa uygun olan seçenek sırasıyla aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "az / çok",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "yüksek / düşük",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "değersiz / değerli",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "kötü / iyi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "düşük / yüksek",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: yüksek / düşük**"
+  },
+  {
+    "id": 124,
+    "questionText": "&nbsp; I. Kolayda örnekleme II. Kasıtlı örnekleme III. Kota örnekleme IV. Kümelere göre örnekleme V. Sistematik örnekleme Yukarıda verilen örnekleme tekniklerinden hangileri tesadüfi olmayan örnekleme teknikleri arasında yer alır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "I, II ve III",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "IV ve V",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "II ve V",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "I ve V",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "I ve IV",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: I, II ve III**"
+  },
+  {
+    "id": 125,
+    "questionText": "Veri girişi safhasında eksik cevapların (kayıp gözlemlerin) düzeltilmesinde, cevaplayıcının diğer cevapları incelenerek, eksik cevabı için uygun bir cevabın hesaplanmasına ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Emsal cevap verme",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Çoklu silme",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Örneği silme",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Nötr değer verme",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "İkili silme",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Emsal cevap verme**"
+  },
+  {
+    "id": 126,
+    "questionText": "Aşağıdaki kalitatif (nitel) ve kantitatif (nicel) araştırma yöntemlerinin karşılaştırmasına yönelik verilen ifadelerden hangisi doğrudur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Çıktılar açısından; kalitatif araştırmalar eylemin son aşamasını öneren, kantitatif araştırmalarda ise ilk giriş anlayışını geliştiren yapıdadır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Veri toplama açısından; kalitatif araştırmalar yapılandırılmıştır, kantitatif araştırmalar ise yapılandırılmamıştır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Veri özelliği açısından; kalitatif araştırmalarda sayısal olarak ifade edilebilen yanıtlar, kantitatif araştırmalarda ise detaylı görsel ve sözel kayıtlar kullanılır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Veri analizi açısından; kalitatif araştırmalar istatistiksel değil, kantitatif araştırmalar ise istatistikseldir.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Örnek büyüklüğü açısından; kalitatif araştırmalarda çok sayıda temsil edilen vakalar, kantitatif araştırmalarda ise az sayıda temsil edilmeyen vakalar kullanılır.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Veri analizi açısından; kalitatif araştırmalar istatistiksel değil, kantitatif araştırmalar ise istatistikseldir.**"
+  },
+  {
+    "id": 127,
+    "questionText": "Sayısal hâle dönüştürülmüş değişkenlerin incelenmesine, ilişkilerin ve neden­sonuçların ortaya konmasına dayanan araştırmalara ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kuramsal araştırma",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Sözel araştırma",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kantitatif araştırma",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Kalitatif araştırma",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Nominal araştırma",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Kantitatif araştırma**"
+  },
+  {
+    "id": 128,
+    "questionText": "Nesnelerin sadece gruplandırıldığı bir ölçme seviyesidir. En kısıtlı ve en güçsüz ölçektir. Yukarıda bahsedilen ölçek türü/ölçüm seviyesi aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sıralama",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Sınıflandırma",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Oransal",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Mukayeseli",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Eşit aralıklı",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Sınıflandırma**"
+  },
+  {
+    "id": 129,
+    "questionText": "Aşağıdakilerden hangisi bir araştırma raporunun metin kısmında yer alan bölümlerden biridir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ekler",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Kaynakça",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Giriş",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Kısaltmalar",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Dizin",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Giriş**"
+  },
+  {
+    "id": 130,
+    "questionText": "Anketin konuya uygunluğu ve dili ile ilgili aşağıda verilen ifadelerden hangisi yanlıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Soruların anlatım biçimlerinde belirsizlik ve anlaşılmazlıktan uzak durulmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "``-ecek,-acak`` ve ``-e bilir, -a bilir`` gibi eklerden oluşan sorulardan kaçınılmalıdır. Çünkü bu ekler kişileri tahminde bulunmaya teşvik eder.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Tahminleme veya genelleştirme için sorulan sorular sonuca yönelik doğru tahminler elde edilmesine imkan verir.",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Cümleleri kısa tutmak her zaman için soruların daha rahat anlaşılmasını sağlar.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Deneğin katılıp katılmadığının sorulduğu negatif tasarımlı sorular şaşırtıcı olabilir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Tahminleme veya genelleştirme için sorulan sorular sonuca yönelik doğru tahminler elde edilmesine imkan verir.**"
+  },
+  {
+    "id": 131,
+    "questionText": "I. Soru gerekli mi? II. Cevaplayıcı soruyu anlıyor mu? III. Soru talep edilen bilgiyi ortaya çıkarmada yeterli olacak mı? IV. Soru ile elde edilen veri kolay biçimde analiz edilebilecek mi? Yukarıdakilerden hangileri anketteki soruların içeriğine bakarken sorulması gereken sorular arasında yer alır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "I, II ve III",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "II ve III",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "II, III ve IV",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "I, III ve IV",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "I, II ve IV",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: I, II ve III**"
+  },
+  {
+    "id": 132,
+    "questionText": "Türkiye’de yazılmış olan yüksek lisans ve doktora tezlerinin bulunduğu ve kullanıcıların erişimine açık olan Ulusal Tez Merkezi hangi kuruluş bünyesinde hizmet vermektedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "ULAKBİM",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "TÜBİTAK",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "MEB",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "YÖK",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "ÖSYM",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: YÖK**"
+  },
+  {
+    "id": 133,
+    "questionText": "Yanıtlayıcıdan, anketörden, yanıtlayıcı-anketör etkileşiminden ve anket formundan kaynaklanan hatalar nedeniyle araştırmacı gerçek değer yerine kaydedilen değeri elde edebilmektedir. Gerçek değer ile kaydedilen değer arasındaki farka verilen ad aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kapsam hatası",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Örnekleme dışı hata",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Seçim hatası",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Sistematik hata",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Sabit hata",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Örnekleme dışı hata**"
+  },
+  {
+    "id": 134,
+    "questionText": "I. X ve Y’deki değişmeler arasında bir ilgi olmalıdır. II. X’deki değişme Y’deki değişmeden zaman içinde daha önce meydana gelmelidir. III. Y’ye etki etmesi muhtemel diğer faktörlerin tümü elenmelidir. IV. X’in Y’ye etki ettiğini saptayan ilgili bir teori bulunmamalıdır. Nedensel araştırmalar için X’in Y’ye neden olduğunu söyleyebilmek gerekmektedir. Bunun için gerekli ve yeterli koşullar ile ilgili yukarıdaki ifadelerden hangileri doğrudur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "I, II ve III",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "I ve II",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "I ve III",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "II ve III",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "I, III ve IV",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: I, II ve III**"
+  },
+  {
+    "id": 135,
+    "questionText": "Temel ölçüm seviyelerinin en zayıfı aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sıralama",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Oransal",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Metrik",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Eşit aralıklı",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Sınıflandırma",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Sınıflandırma**"
+  },
+  {
+    "id": 136,
+    "questionText": "Araştırmanın planlaması aşamasında aşağıdaki başlıklardan hangisi yer almaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Araştırma hipotezlerinin belirlenmesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Araştırma raporunun yazılması",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Araştırma probleminin ve sorularının belirlenmesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Araştırmanın amacının, içeriği ve kısıtlarının belirlenmesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Araştırma konusunun belirlenmesi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Araştırma raporunun yazılması**"
+  },
+  {
+    "id": 137,
+    "questionText": "Araştırma etiği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Çoğu zaman kasıtlı veya kasıtsız olarak fırsatlardan yararlanarak etik olmayan faaliyetleri yerine getiren araştırmacılar mevcuttur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Dürüst araştırmacılar bile bazı durumlarda etik açıdan şüpheli ya da etik olmayan uygulamalarda bulunabilmektedirler.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Araştırmacılar, yanlış bir inanç oluşturmak amacıyla doğru olmayan, yanıltıcı veya tamamlanmamış bilgileri katılımcılara sundukları zaman aldatma meydana gelir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Araştırma yapılacak konunun derinlemesine cevaplayıcıya anlatılması objektif bir araştırmanın açıklık ilkesine aykırıdır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Cevaplar üzerinde oynamak ve verilen cevapları değiştirmek etik olarak yanlıştır.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Araştırma yapılacak konunun derinlemesine cevaplayıcıya anlatılması objektif bir araştırmanın açıklık ilkesine aykırıdır.**"
   }
 ]
