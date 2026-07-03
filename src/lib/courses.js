@@ -64,27 +64,27 @@ export const COURSES = [
   },
   {
     id: 'bilgisayarorganizasyonu',
-    title: 'Bilgisayar Organizasyonu ✅',
+    title: 'Bilgisayar Organizasyonu',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
     questionCount: questionCounts.bilgisayarorganizasyonu,
     color: '#ef4444', // Red color
-    category: 'tamamlandi'
+    category: 'final'
   },
   {
     id: 'bilimselarastirmateknikleri',
-    title: 'Bilimsel Araştırma Teknikleri ✅',
+    title: 'Bilimsel Araştırma Teknikleri',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
     questionCount: questionCounts.bilimselarastirmateknikleri,
     color: '#14b8a6', // Teal color
-    category: 'tamamlandi'
+    category: 'final'
   },
   {
     id: 'buyukveri',
-    title: 'Büyük Veri ✅',
+    title: 'Büyük Veri',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
     questionCount: questionCounts.buyukveri,
     color: '#06b6d4', // Cyan color
-    category: 'tamamlandi'
+    category: 'final'
   },
   {
     id: 'buyukveri2022-2023final',
@@ -96,18 +96,18 @@ export const COURSES = [
   },
   {
     id: 'bilisimhukuku',
-    title: 'Bilişim Hukuku (2024-2025 Final)',
+    title: 'Bilişim Hukuku (2024-2025 Final) ✅',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
     questionCount: questionCounts.bilisimhukuku,
     color: '#ec4899', // Pink color
-    category: 'final'
+    category: 'tamamlandi'
   },
   {
     id: 'bilisimhukukubutunleme',
-    title: 'Bilişim Hukuku (Bütünleme)',
+    title: 'Bilişim Hukuku (Bütünleme) ✅',
     description: 'Geçmiş dönem çıkmış sorular ve cevapları',
     questionCount: questionCounts.bilisimhukukubutunleme,
     color: '#a855f7', // Purple color
-    category: 'final'
+    category: 'tamamlandi'
   }
 ];
