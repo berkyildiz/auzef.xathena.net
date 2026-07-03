@@ -3,14 +3,15 @@ export const questionCounts = {
   buyukveri2022_2023final: 23,
   bilgisistemleriprojeyonetimi: 64,
   veritabaniyonetimsistemleri: 20,
-  bilgisayarorganizasyonu: 62,
+  bilgisayarorganizasyonu: 65,
   benzetim: 156,
   hukukuntemelkavramlarifinal: 73,
   hukukuntemelkavramlaributunleme: 38,
   hukukuntemelkavramlarideneme: 80,
-  bilimselarastirmateknikleri: 117,
+  bilimselarastirmateknikleri: 137,
   bilisimhukuku: 39,
-  bilisimhukukubutunleme: 20
+  bilisimhukukubutunleme: 20,
+  bilimselarastirmateknikleriyeni: 20
 };
 
 export const COURSES = [
@@ -109,5 +110,13 @@ export const COURSES = [
     questionCount: questionCounts.bilisimhukukubutunleme,
     color: '#a855f7', // Purple color
     category: 'tamamlandi'
+  },
+  {
+    id: 'bilimselarastirmateknikleriyeni',
+    title: 'Bilimsel Araştırma Teknikleri (Yeni)',
+    description: 'Yeni eklenen sınav soruları',
+    questionCount: questionCounts.bilimselarastirmateknikleriyeni,
+    color: '#14b8a6', // Teal color
+    category: 'final'
   }
 ];

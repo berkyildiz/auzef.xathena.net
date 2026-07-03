@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "questionText": "Varyansın karekökü olan ve gruptaki dağılımın ne kadar tutarlı olduğunu belirlemek için kullanılan tanımlayıcı istatistik aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Medyan",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Mod",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Harmonik ortalama",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Standart sapma",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Geometrik ortalama",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Standart sapma**"
+  },
+  {
+    "id": 2,
+    "questionText": "Araştırmaya katılan bireylerde araştırma süresince meydana gelen değişiklikler sonucu oluşan geçersizlik kaynağına ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Geçmişin etkisi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Araç etkisi",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Test etkisi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Seçim etkisi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Olgunlaşma etkisi",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Olgunlaşma etkisi**"
+  },
+  {
+    "id": 3,
+    "questionText": "Cronbach Alpha (α) değeri araştırmalarda aşağıdakilerden hangisi için kullanılır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Geçerliliği belirlemek için",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Objektifliği sağlamak için",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Güvenirliliği belirlemek için",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Bilimsel olmak için",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Sistematikliği sağlamak için",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Güvenirliliği belirlemek için**"
+  },
+  {
+    "id": 4,
+    "questionText": "Araştırma sonuçlarının yorumlanması ile ilgili yanlış bir bilgidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nihai karar alınmasından araştırmacıya yardımcı olur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Bu bölüm araştırmanın amacının gerçekleştirildiği bölümdür.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Bu aşamadan sonra araştırmacı kolaylıkla önerilerde bulunabilir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Verilerin çözümlenmesinden sonraki aşamadır ve verileri çözümleriyle bütünleştirir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Bu aşamada elde edilen bilgiler genellenebilir olmak zorunda değildir.",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Bu aşamada elde edilen bilgiler genellenebilir olmak zorunda değildir.**"
+  },
+  {
+    "id": 5,
+    "questionText": "Bir yazarın intihalden kaçınmak için gerekli becerilere sahip olmamasına veya başkasına ait olan fikirleri iyice özümseyerek kendisine aitmiş gibi zannetmesine bağlı olarak yapılmış olan intihale ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kasti aşırma",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Benzetme",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kendinden intihal",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Özümseme",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Bilinçsiz intihal",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Bilinçsiz intihal**"
+  },
+  {
+    "id": 6,
+    "questionText": "“Geçerlikte yapılan işlem amaca ne kadar uygun olursa geçerlik o kadar ….. , amaçtan ne kadar uzak olursa geçerlik o kadar ….. olur.“ Yukarıdaki boşluğa uygun olan seçenek sırasıyla aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "az / çok",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "yüksek / düşük",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "değersiz / değerli",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "kötü / iyi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "düşük / yüksek",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: yüksek / düşük**"
+  },
+  {
+    "id": 7,
+    "questionText": "&nbsp; I. Kolayda örnekleme II. Kasıtlı örnekleme III. Kota örnekleme IV. Kümelere göre örnekleme V. Sistematik örnekleme Yukarıda verilen örnekleme tekniklerinden hangileri tesadüfi olmayan örnekleme teknikleri arasında yer alır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "I, II ve III",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "IV ve V",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "II ve V",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "I ve V",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "I ve IV",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: I, II ve III**"
+  },
+  {
+    "id": 8,
+    "questionText": "Veri girişi safhasında eksik cevapların (kayıp gözlemlerin) düzeltilmesinde, cevaplayıcının diğer cevapları incelenerek, eksik cevabı için uygun bir cevabın hesaplanmasına ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Emsal cevap verme",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "Çoklu silme",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Örneği silme",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Nötr değer verme",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "İkili silme",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: Emsal cevap verme**"
+  },
+  {
+    "id": 9,
+    "questionText": "Aşağıdaki kalitatif (nitel) ve kantitatif (nicel) araştırma yöntemlerinin karşılaştırmasına yönelik verilen ifadelerden hangisi doğrudur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Çıktılar açısından; kalitatif araştırmalar eylemin son aşamasını öneren, kantitatif araştırmalarda ise ilk giriş anlayışını geliştiren yapıdadır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Veri toplama açısından; kalitatif araştırmalar yapılandırılmıştır, kantitatif araştırmalar ise yapılandırılmamıştır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Veri özelliği açısından; kalitatif araştırmalarda sayısal olarak ifade edilebilen yanıtlar, kantitatif araştırmalarda ise detaylı görsel ve sözel kayıtlar kullanılır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Veri analizi açısından; kalitatif araştırmalar istatistiksel değil, kantitatif araştırmalar ise istatistikseldir.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Örnek büyüklüğü açısından; kalitatif araştırmalarda çok sayıda temsil edilen vakalar, kantitatif araştırmalarda ise az sayıda temsil edilmeyen vakalar kullanılır.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Veri analizi açısından; kalitatif araştırmalar istatistiksel değil, kantitatif araştırmalar ise istatistikseldir.**"
+  },
+  {
+    "id": 10,
+    "questionText": "Sayısal hâle dönüştürülmüş değişkenlerin incelenmesine, ilişkilerin ve neden­sonuçların ortaya konmasına dayanan araştırmalara ne ad verilir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kuramsal araştırma",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Sözel araştırma",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Kantitatif araştırma",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Kalitatif araştırma",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Nominal araştırma",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Kantitatif araştırma**"
+  },
+  {
+    "id": 11,
+    "questionText": "Nesnelerin sadece gruplandırıldığı bir ölçme seviyesidir. En kısıtlı ve en güçsüz ölçektir. Yukarıda bahsedilen ölçek türü/ölçüm seviyesi aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sıralama",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Sınıflandırma",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Oransal",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Mukayeseli",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Eşit aralıklı",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Sınıflandırma**"
+  },
+  {
+    "id": 12,
+    "questionText": "Aşağıdakilerden hangisi bir araştırma raporunun metin kısmında yer alan bölümlerden biridir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ekler",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Kaynakça",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Giriş",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Kısaltmalar",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Dizin",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Giriş**"
+  },
+  {
+    "id": 13,
+    "questionText": "Anketin konuya uygunluğu ve dili ile ilgili aşağıda verilen ifadelerden hangisi yanlıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Soruların anlatım biçimlerinde belirsizlik ve anlaşılmazlıktan uzak durulmalıdır.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "``-ecek,-acak`` ve ``-e bilir, -a bilir`` gibi eklerden oluşan sorulardan kaçınılmalıdır. Çünkü bu ekler kişileri tahminde bulunmaya teşvik eder.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Tahminleme veya genelleştirme için sorulan sorular sonuca yönelik doğru tahminler elde edilmesine imkan verir.",
+        "isCorrect": true
+      },
+      {
+        "letter": "D",
+        "text": "Cümleleri kısa tutmak her zaman için soruların daha rahat anlaşılmasını sağlar.",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Deneğin katılıp katılmadığının sorulduğu negatif tasarımlı sorular şaşırtıcı olabilir.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Doğru Cevap: Tahminleme veya genelleştirme için sorulan sorular sonuca yönelik doğru tahminler elde edilmesine imkan verir.**"
+  },
+  {
+    "id": 14,
+    "questionText": "I. Soru gerekli mi? II. Cevaplayıcı soruyu anlıyor mu? III. Soru talep edilen bilgiyi ortaya çıkarmada yeterli olacak mı? IV. Soru ile elde edilen veri kolay biçimde analiz edilebilecek mi? Yukarıdakilerden hangileri anketteki soruların içeriğine bakarken sorulması gereken sorular arasında yer alır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "I, II ve III",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "II ve III",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "II, III ve IV",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "I, III ve IV",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "I, II ve IV",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: I, II ve III**"
+  },
+  {
+    "id": 15,
+    "questionText": "Türkiye’de yazılmış olan yüksek lisans ve doktora tezlerinin bulunduğu ve kullanıcıların erişimine açık olan Ulusal Tez Merkezi hangi kuruluş bünyesinde hizmet vermektedir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "ULAKBİM",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "TÜBİTAK",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "MEB",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "YÖK",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "ÖSYM",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: YÖK**"
+  },
+  {
+    "id": 16,
+    "questionText": "Yanıtlayıcıdan, anketörden, yanıtlayıcı-anketör etkileşiminden ve anket formundan kaynaklanan hatalar nedeniyle araştırmacı gerçek değer yerine kaydedilen değeri elde edebilmektedir. Gerçek değer ile kaydedilen değer arasındaki farka verilen ad aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kapsam hatası",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Örnekleme dışı hata",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Seçim hatası",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Sistematik hata",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Sabit hata",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Örnekleme dışı hata**"
+  },
+  {
+    "id": 17,
+    "questionText": "I. X ve Y’deki değişmeler arasında bir ilgi olmalıdır. II. X’deki değişme Y’deki değişmeden zaman içinde daha önce meydana gelmelidir. III. Y’ye etki etmesi muhtemel diğer faktörlerin tümü elenmelidir. IV. X’in Y’ye etki ettiğini saptayan ilgili bir teori bulunmamalıdır. Nedensel araştırmalar için X’in Y’ye neden olduğunu söyleyebilmek gerekmektedir. Bunun için gerekli ve yeterli koşullar ile ilgili yukarıdaki ifadelerden hangileri doğrudur?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "I, II ve III",
+        "isCorrect": true
+      },
+      {
+        "letter": "B",
+        "text": "I ve II",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "I ve III",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "II ve III",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "I, III ve IV",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Doğru Cevap: I, II ve III**"
+  },
+  {
+    "id": 18,
+    "questionText": "Temel ölçüm seviyelerinin en zayıfı aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sıralama",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Oransal",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Metrik",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Eşit aralıklı",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Sınıflandırma",
+        "isCorrect": true
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Doğru Cevap: Sınıflandırma**"
+  },
+  {
+    "id": 19,
+    "questionText": "Araştırmanın planlaması aşamasında aşağıdaki başlıklardan hangisi yer almaz?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Araştırma hipotezlerinin belirlenmesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Araştırma raporunun yazılması",
+        "isCorrect": true
+      },
+      {
+        "letter": "C",
+        "text": "Araştırma probleminin ve sorularının belirlenmesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Araştırmanın amacının, içeriği ve kısıtlarının belirlenmesi",
+        "isCorrect": false
+      },
+      {
+        "letter": "E",
+        "text": "Araştırma konusunun belirlenmesi",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Doğru Cevap: Araştırma raporunun yazılması**"
+  },
+  {
+    "id": 20,
+    "questionText": "Araştırma etiği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "imageUrl": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Çoğu zaman kasıtlı veya kasıtsız olarak fırsatlardan yararlanarak etik olmayan faaliyetleri yerine getiren araştırmacılar mevcuttur.",
+        "isCorrect": false
+      },
+      {
+        "letter": "B",
+        "text": "Dürüst araştırmacılar bile bazı durumlarda etik açıdan şüpheli ya da etik olmayan uygulamalarda bulunabilmektedirler.",
+        "isCorrect": false
+      },
+      {
+        "letter": "C",
+        "text": "Araştırmacılar, yanlış bir inanç oluşturmak amacıyla doğru olmayan, yanıltıcı veya tamamlanmamış bilgileri katılımcılara sundukları zaman aldatma meydana gelir.",
+        "isCorrect": false
+      },
+      {
+        "letter": "D",
+        "text": "Araştırma yapılacak konunun derinlemesine cevaplayıcıya anlatılması objektif bir araştırmanın açıklık ilkesine aykırıdır.",
+        "isCorrect": true
+      },
+      {
+        "letter": "E",
+        "text": "Cevaplar üzerinde oynamak ve verilen cevapları değiştirmek etik olarak yanlıştır.",
+        "isCorrect": false
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Doğru Cevap: Araştırma yapılacak konunun derinlemesine cevaplayıcıya anlatılması objektif bir araştırmanın açıklık ilkesine aykırıdır.**"
+  }
+]
