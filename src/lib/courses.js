@@ -11,7 +11,7 @@ export const questionCounts = {
   bilimselarastirmateknikleri: 137,
   bilisimhukuku: 39,
   bilisimhukukubutunleme: 20,
-  bilimselarastirmateknikleriyeni: 20,
+  bilimselarastirmateknikleriyeni: 60,
   bilimselarastirmateknikleriyeni2: 124
 };
 
