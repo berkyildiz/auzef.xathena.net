@@ -18,7 +18,7 @@ export default function CourseSelector() {
           <h2 style={{ fontSize: '1.8rem', marginBottom: '1.5rem', color: 'var(--text-primary)', borderBottom: '2px solid var(--border-color)', paddingBottom: '0.5rem' }}>Final - Bütünleme</h2>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1.5rem' }}>
             {COURSES.filter(c => c.category === 'final').map(course => (
-              <Link href={`/ders/${course.id}`} key={course.id} style={{ textDecoration: 'none', color: 'inherit' }}>
+              <Link href={`/ders/${course.id}`} key={course.id} prefetch={false} style={{ textDecoration: 'none', color: 'inherit' }}>
                 <div className="glass-panel course-card">
                   <div className="icon-container" style={{ color: course.color, background: `${course.color}20` }}>
                     <BookOpen size={24} />
@@ -40,7 +40,7 @@ export default function CourseSelector() {
           <h2 style={{ fontSize: '1.8rem', marginBottom: '1.5rem', color: 'var(--text-primary)', borderBottom: '2px solid var(--border-color)', paddingBottom: '0.5rem' }}>Deneme Sınavları</h2>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1.5rem' }}>
             {COURSES.filter(c => c.category === 'deneme').map(course => (
-              <Link href={`/ders/${course.id}`} key={course.id} style={{ textDecoration: 'none', color: 'inherit' }}>
+              <Link href={`/ders/${course.id}`} key={course.id} prefetch={false} style={{ textDecoration: 'none', color: 'inherit' }}>
                 <div className="glass-panel course-card">
                   <div className="icon-container" style={{ color: course.color, background: `${course.color}20` }}>
                     <BookOpen size={24} />
@@ -62,7 +62,7 @@ export default function CourseSelector() {
           <h2 style={{ fontSize: '1.8rem', marginBottom: '1.5rem', color: 'var(--text-primary)', borderBottom: '2px solid var(--border-color)', paddingBottom: '0.5rem' }}>Tamamlanan Sınavlar</h2>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1.5rem', opacity: 0.8 }}>
             {COURSES.filter(c => c.category === 'tamamlandi').map(course => (
-              <Link href={`/ders/${course.id}`} key={course.id} style={{ textDecoration: 'none', color: 'inherit' }}>
+              <Link href={`/ders/${course.id}`} key={course.id} prefetch={false} style={{ textDecoration: 'none', color: 'inherit' }}>
                 <div 
                   className="glass-panel course-card"
                   style={{ filter: 'grayscale(0.5)' }}

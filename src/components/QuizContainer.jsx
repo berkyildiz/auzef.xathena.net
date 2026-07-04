@@ -69,7 +69,7 @@ export default function QuizContainer({ courseId, courseTitle, testConfig, quest
     return (
       <div className="container" style={{ textAlign: 'center', marginTop: '4rem' }}>
         <h2>Henüz soru eklenmemiş.</h2>
-        <Link href={`/ders/${courseId}`}>
+        <Link href={`/ders/${courseId}`} prefetch={false}>
           <button className="btn btn-outline" style={{ marginTop: '2rem' }}>
             <ArrowLeft size={18} /> Testlere Dön
           </button>
@@ -104,7 +104,7 @@ export default function QuizContainer({ courseId, courseTitle, testConfig, quest
         <div className="container header-container">
           
           <div className="header-left">
-            <Link href={`/ders/${courseId}`}>
+            <Link href={`/ders/${courseId}`} prefetch={false}>
               <button className="btn btn-icon btn-outline" title="Testlere Dön" style={{ padding: '0.4rem' }}>
                 <ArrowLeft size={20} /> 
               </button>

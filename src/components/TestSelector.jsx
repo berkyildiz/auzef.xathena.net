@@ -37,13 +37,13 @@ export default function TestSelector({ courseId }) {
   return (
     <div className="container animate-fade-in">
       <div style={{ display: 'flex', alignItems: 'center', marginBottom: '3rem', gap: '1rem' }}>
-        <Link href="/">
+        <Link href="/" prefetch={false}>
           <button className="btn btn-outline" style={{ padding: '0.5rem 0.75rem' }}>
             <ArrowLeft size={18} /> Geri Dön
           </button>
         </Link>
         <div className="breadcrumbs" style={{ color: 'var(--text-secondary)' }}>
-          <Link href="/" style={{ color: 'inherit', textDecoration: 'none' }}>Dersler</Link> / <strong style={{ color: 'var(--text-primary)' }}>{courseTitle}</strong>
+          <Link href="/" prefetch={false} style={{ color: 'inherit', textDecoration: 'none' }}>Dersler</Link> / <strong style={{ color: 'var(--text-primary)' }}>{courseTitle}</strong>
         </div>
       </div>
 
@@ -56,7 +56,7 @@ export default function TestSelector({ courseId }) {
       
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1.5rem' }}>
         {tests.map(test => (
-          <Link href={`/ders/${courseId}/test/${test.id}`} key={test.id} style={{ textDecoration: 'none', color: 'inherit' }}>
+          <Link href={`/ders/${courseId}/test/${test.id}`} key={test.id} prefetch={false} style={{ textDecoration: 'none', color: 'inherit' }}>
             <div className="glass-panel course-card">
               <div className="icon-container" style={{ color: 'var(--primary-color)', background: 'rgba(99, 102, 241, 0.1)' }}>
                 <FileText size={24} />
