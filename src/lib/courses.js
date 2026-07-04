@@ -11,7 +11,8 @@ export const questionCounts = {
   bilimselarastirmateknikleri: 137,
   bilisimhukuku: 39,
   bilisimhukukubutunleme: 20,
-  bilimselarastirmateknikleriyeni: 20
+  bilimselarastirmateknikleriyeni: 20,
+  bilimselarastirmateknikleriyeni2: 124
 };
 
 export const COURSES = [
@@ -117,6 +118,14 @@ export const COURSES = [
     description: 'Yeni eklenen sınav soruları',
     questionCount: questionCounts.bilimselarastirmateknikleriyeni,
     color: '#14b8a6', // Teal color
+    category: 'final'
+  },
+  {
+    id: 'bilimselarastirmateknikleriyeni2',
+    title: 'Bilimsel Araştırma Teknikleri (Yeni 2)',
+    description: 'Yeni eklenen tüm karma sınav soruları',
+    questionCount: questionCounts.bilimselarastirmateknikleriyeni2,
+    color: '#0d9488', // Teal darker color
     category: 'final'
   }
 ];
